@@ -31,9 +31,16 @@ Tags:
 For tags, please make something along the lines of the following formatting:
 #### SOURCE::IDENTIFIERS
 * For example: 
-`KhanAcademy::Biomolecules::Carbohydrates`
-`EK::BIO1::Lecture2`
+```
+KhanAcademy::Biomolecules::Carbohydrate
+```
+```EK::BIO1::Lecture2
+```
 #### SUBJECTAREA::TOPIC::SUBTOPIC
 * For example:
-`BC::DNA`
-`BIO::CirculatorySystem::Heart`
+```
+BC::DNA
+```
+```
+BIO::CirculatorySystem::Heart
+```
