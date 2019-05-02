@@ -8,6 +8,7 @@ The idea is to use Github and the [CrowdAnki](https://github.com/Stvad/CrowdAnki
 To add cards AND contribute to the repository, there's two ways to go about it. Both require you to sign up for a Github account.
 
 # Making Changes
+This is a bit convoluted but I'm working on an easier way to accomplish this. If this does happen to work and people start to chip in, I'll go ahead and add them as collaborators to make this process faster.
 
 ## Option 1 – Create an Issue
 Create an [issue](https://github.com/capaldo/MCUltra/issues/new) with one of the following templates:
