@@ -2,7 +2,7 @@
 A collaborative MCAT deck containing premed95's (reformatted), Ortho528 (reformatted), and my own cards. My cards stem from EK and KhanAcademy.
 
 ## Why?
-The idea is to use Github and the [CrowdAnki](https://github.com/Stvad/CrowdAnki) plugin to facilitate collaboration among premeds with the hopes of producing a repository of cards. 
+The idea is to use Github and the [CrowdAnki](https://github.com/Stvad/CrowdAnki) plugin to facilitate collaboration among premeds with the hopes of producing a repository of high-quality cards covering all the content.
 
 ## How?
 To add cards AND contribute to the repository, there's two ways to go about it. Both require you to sign up for a Github account.
@@ -24,6 +24,7 @@ Correction:
 ### Addition
 If a piece of important information is not on a card, include it using this template:
 ```markdown
+Reason: Addition
 Front:
 Back:
 Images (Optional):
