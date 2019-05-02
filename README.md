@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/card%20count-5500%2B-red.svg"></img>
+
 # Introduction
 A collaborative MCAT deck containing premed95's (reformatted), Ortho528 (reformatted), and my own cards. My cards stem from EK and KhanAcademy.
 
