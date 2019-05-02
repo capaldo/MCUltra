@@ -3480,6 +3480,58 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "4690075c-6c96-11e9-9463-bc6a2f5667ec",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-46da3",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "77ef6e08-6c93-11e9-a428-bc6a2f5667ec",
             "css": "",
             "flds": [
@@ -75215,6 +75267,18 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "what is unchanged in uncompetitive inhibition?",
+                "Km/Vmax"
+            ],
+            "flags": 0,
+            "guid": "p;5$`t./^n",
+            "note_model_uuid": "4690075c-6c96-11e9-9463-bc6a2f5667ec",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "-14707001010",
                 "{{c1::Circularly polarized}} light consists of {{c2::electric fields}} of {{c2::constant magnitude}} that {{c2::change direction in a rotary manner}}.",
                 "",
@@ -94940,6 +95004,66 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "31707615450",
+                "The {{c1::cerebellum}} is thought to play a primary role in the encoding of {{c2::procedural}} memories",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "piW[JTjai=",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "PSY::Memory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "31708199725",
+                "{{c2::Implicit memory}} is also known as {{c1::nondeclarative memory}}",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n%{?b}vhMl",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "PSY::Memory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32994156044",
+                "A p value that is smaller than {{c1::0.05}} generally denotes a {{c2::statistically significant relationship}}",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Fjgo2M!O;Z",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "PSY::Research"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "",
                 "{{c1::Ganglia}} are {{c2::groups of nerve cells found outside of the central nervous system}}",
                 "",
@@ -95874,6 +95998,26 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "GC::PeriodicTable"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "51564070468",
+                "{{c2::Aerobic respiration}} is an oxygen-requiring series of reactions, and is necessary in all {{c1::vertebrates}}",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n?SD;DZd;,",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "BC::CellularMetabolism"
             ]
         },
         {
@@ -112828,6 +112972,26 @@
             "tags": [
                 "EK::GC/OC::Lecture4",
                 "GC::Thermodynamics"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56183566986",
+                "torque (\\(﻿\\tau\\))",
+                "\\(﻿\\tau = Frsin \\theta\\)<div>\\(﻿F=\\text{force vector}\\)<br></div><div>\\(﻿r=\\text{position vector}\\)<br></div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PmmEG--`<_",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "EK::PHY::Lecture2",
+                "PHY::Torque"
             ]
         },
         {
