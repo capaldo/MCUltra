@@ -34,7 +34,8 @@ For tags, please make something along the lines of the following formatting:
 ```
 KhanAcademy::Biomolecules::Carbohydrate
 ```
-```EK::BIO1::Lecture2
+```
+EK::BIO1::Lecture2
 ```
 #### SUBJECTAREA::TOPIC::SUBTOPIC
 * For example:
