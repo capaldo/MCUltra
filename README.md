@@ -1,4 +1,4 @@
-# MCUltra
+# Introduction
 A collaborative MCAT deck containing premed95's (reformatted), Ortho528 (reformatted), and my own cards. My cards stem from EK and KhanAcademy.
 
 ## Why?
@@ -7,7 +7,9 @@ The idea is to use Github and the [CrowdAnki](https://github.com/Stvad/CrowdAnki
 ## How?
 To add cards AND contribute to the repository, there's two ways to go about it. Both require you to sign up for a Github account.
 
-## Making Changes
+# Making Changes
+
+## Option 1 – Create an Issue
 Create an [issue](https://github.com/capaldo/MCUltra/issues/new) with one of the following templates:
 
 ### Revision
@@ -45,3 +47,6 @@ BC::DNA
 ```
 BIO::CirculatorySystem::Heart
 ```
+
+## Option 2 – Make a Pull Request
+For an in-depth explanation on how to do this, please refer to [this section](https://github.com/Stvad/CrowdAnki#how-to-collaborate-via-github) on the CrowdAnki page.
