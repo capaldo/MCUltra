@@ -29,11 +29,11 @@ Tags:
 ```
 
 For tags, please make something along the lines of the following formatting:
-#### SOURCE::Identifiers
+#### SOURCE::IDENTIFIERS
 * For example: 
-    * KhanAcademy::Biomolecules::Carbohydrates
-    * EK::BIO1::Lecture2
-#### SUBJECTAREA::Topic::Sub-Topic
+`KhanAcademy::Biomolecules::Carbohydrates`
+`EK::BIO1::Lecture2`
+#### SUBJECTAREA::TOPIC::SUBTOPIC
 * For example:
-    * BC::DNA
-    * BIO::CirculatorySystem::Heart
+`BC::DNA`
+`BIO::CirculatorySystem::Heart`
