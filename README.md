@@ -30,10 +30,10 @@ Tags:
 
 For tags, please make something along the lines of the following formatting:
 #### SOURCE::Identifiers
-    - For example: 
-	* KhanAcademy::Biomolecules::Carbohydrates
-	* EK::BIO1::Lecture2
+* For example: 
+    * KhanAcademy::Biomolecules::Carbohydrates
+    * EK::BIO1::Lecture2
 #### SUBJECTAREA::Topic::Sub-Topic
-    - For example:
-	* BC::DNA
-	* BIO::CirculatorySystem::Heart
+* For example:
+    * BC::DNA
+    * BIO::CirculatorySystem::Heart
