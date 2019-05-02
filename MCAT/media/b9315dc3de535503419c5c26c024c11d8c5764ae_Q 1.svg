@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="1050" width="800">
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Shapes</title>
+  <rect fill="#00AA7F" height="41.34615" id="svg_2" stroke-width="0" width="206.73077" x="289.42308" y="129.80769" />
+  <rect fill="#FF0000" height="25.96154" id="question-element" stroke-width="0" width="161.53846" x="136.53846" y="491.34615" />
+  <rect fill="#00AA7F" height="27.88462" id="svg_4" stroke-width="0" width="190.38462" x="437.5" y="494.23077" />
+  <rect fill="#00AA7F" height="34.61538" id="svg_5" stroke-width="0" width="148.07692" x="617.30769" y="537.5" />
+  <rect fill="#00AA7F" height="22.11538" id="svg_6" stroke-width="0" width="121.15385" x="151.92308" y="548.07692" />
+  <rect fill="#00AA7F" height="20.19231" id="svg_7" stroke-width="0" width="84.61538" x="86.53846" y="582.69231" />
+  <rect fill="#00AA7F" height="22.11538" id="svg_8" stroke-width="0" width="96.15385" x="327.88462" y="581.73077">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#00AA7F" height="17.30769" id="svg_9" stroke-width="0" width="89.42308" x="525" y="584.61538">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#00AA7F" height="29.80769" id="svg_10" stroke-width="0" width="106.73077" x="73.07692" y="725.96154">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#00AA7F" height="29.80769" id="svg_11" stroke-width="0" width="175" x="274.03846" y="723.07692">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#00AA7F" height="32.69231" id="svg_12" stroke-width="0" width="102.88462" x="550.96154" y="722.11538">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+ </g>
+</svg>

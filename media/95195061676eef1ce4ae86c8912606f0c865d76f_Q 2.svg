@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="340" width="720">
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Shapes</title>
+  <rect fill="#00AA7F" height="106.42857" id="svg_2" stroke-width="0" width="202.14286" x="7.14286" y="29.28571" />
+  <rect fill="#00AA7F" height="105.71429" id="svg_3" stroke-width="0" width="186.42857" x="230" y="29.28571" />
+  <rect fill="#FF0000" fill-opacity="1" height="105.71429" id="question-element" opacity="1" stroke-width="0" width="207.14286" x="440.71429" y="24.28571" />
+  <rect fill="#00AA7F" height="35" id="svg_5" stroke-width="0" width="136.42857" x="266.42857" y="290.71429" />
+ </g>
+</svg>
