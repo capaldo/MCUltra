@@ -41,6 +41,7 @@ if ($.trim($(".back").html()).length==0)
   $(".back").remove();
 });
 
+
 var config = {
     startOnLoad:true,
     theme: 'dark',

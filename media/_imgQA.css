@@ -1,0 +1,91 @@
+@font-face {
+    font-family: literation; 
+    src: url('_literationmono.ttf');
+}
+@font-face {
+    font-family: "Avenir Next"; 
+    src: url('_avenirnext.ttc');
+    font-family: Regular;
+}
+
+@font-face {
+    font-family: "PragmataPro Nerd Font"; 
+    src: url('_pragmatapro.ttf');
+}
+
+hr.dark {
+    border: 2.5px solid #000;
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+
+.tags {
+    font-family: "PragmataPro Nerd Font";
+    font-size: 12px;
+    color: #000; 
+    text-align: right;
+    margin-bottom: 2%;
+    user-select: none;
+}
+
+.tags:hover {
+    color: #DEDEDE;
+    transition: all .2s ease-in-out;
+}
+
+.card {
+    font-family: "Avenir Next";
+    text-align: center;
+    font-color: #DEDEDE;
+    background-color: #191919;
+}
+
+.io-field-descr {
+    font-weight: bold;
+}
+
+#io-title {
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+#io-wrapper {
+  position: relative;
+  height: 70vh;
+  width: 70vw;
+  margin-left: 25%;
+}
+
+#io-overlay {
+  position: absolute;
+  top: 0;
+  width: 70%;
+  z-index: 3;
+}
+
+#io-original {
+  position: relative;
+  top: 0;
+  width: 70%;
+  z-index: 2;
+}
+
+#io-question {
+  margin-top: 0.8em;
+font-color: #DEDEDE;
+}
+
+#io-footer {
+  margin-top: 0.8em;
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.symbols {
+    font-size: 18px;
+    align-text: left; 
+    display: inline-block;
+}

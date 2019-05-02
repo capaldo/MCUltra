@@ -1581,8 +1581,6 @@
         "Screen Shot 2017-01-02 at 11.25.40 AM.png",
         "Screen Shot 2017-01-02 at 11.25.44 AM.png",
         "Screen Shot 2017-01-02 at 11.25.55 AM.png",
-        "Screen Shot 2017-01-02 at 11.26.01 AM.png",
-        "Screen Shot 2017-01-02 at 11.26.07 AM.png",
         "Screen Shot 2017-01-02 at 11.29.39 AM.png",
         "Screen Shot 2017-01-02 at 11.29.46 AM.png",
         "Screen Shot 2017-01-02 at 11.34.41 AM.png",
@@ -1604,6 +1602,8 @@
         "_basic.js",
         "_cloze.css",
         "_cloze.js",
+        "_imgQA.css",
+        "_imgQA.js",
         "_imgQAE.css",
         "_imgQAE.js",
         "_literationmono.ttf",
@@ -2690,6 +2690,7 @@
         "nri1089-f2.jpg",
         "paste-01d1b42e3271f07ffe5f62a1bb577fec945010d9.png",
         "paste-0424cf93d259628066384117227a77f3c8a9f190.png",
+        "paste-06d603144734ccdfd421560253f179a544e17d73.png",
         "paste-074fc7659e313ef379f13b61c9be2eb8abdf4ab0.png",
         "paste-0e422967e464ef5804c84ac60b4c905233549866.png",
         "paste-10028748636161.jpg",
@@ -2767,6 +2768,7 @@
         "paste-24008867184641.jpg",
         "paste-24116241367041.jpg",
         "paste-24129126268929.jpg",
+        "paste-250b36bfb3b515bd3d65138dfdd6b46aaad0be66.png",
         "paste-25198573125634.jpg",
         "paste-25443386261505.jpg",
         "paste-25507810770945.jpg",
@@ -2775,7 +2777,6 @@
         "paste-26495653249025.jpg",
         "paste-27350351740929.jpg",
         "paste-27565100105729.jpg",
-        "paste-2765958938625.jpg",
         "paste-2830383448066.jpg",
         "paste-29021094019073.jpg",
         "paste-2933462663169.jpg",
@@ -2831,6 +2832,7 @@
         "paste-4419521347585.jpg",
         "paste-4466765987841.jpg",
         "paste-4488240824321.jpg",
+        "paste-44e9bea1addc31b6f8ad246b00aa4a7682f085de.png",
         "paste-45354854645761.jpg",
         "paste-45359149613057.jpg",
         "paste-4565550235650.jpg",
@@ -2871,6 +2873,7 @@
         "paste-5d7631f1aff3e38abc460628bead6ffa211eb9bf.png",
         "paste-5f3bfa2bbc54eeede4c49cdcf4645470fb53b3c3.png",
         "paste-60675002990593.jpg",
+        "paste-60e63bcc82c6dcaf0caf58f7adf442f485206eac.png",
         "paste-6171868004354.jpg",
         "paste-6201d5dfc8784f7eefb09873b1ad2d8868070d2b.png",
         "paste-62354335203329.jpg",
@@ -2910,7 +2913,6 @@
         "paste-7541962571777.jpg",
         "paste-75d56be0b54a030e83df7bf13c4b7b766da73477.png",
         "paste-76794015252481.jpg",
-        "paste-77f65f4fb11d9246c76dfff0a8c61c235e34b25f.png",
         "paste-7846905249793.jpg",
         "paste-78941498900481.jpg",
         "paste-79814a33695000920d4a57532c914ef90c56f751.png",
@@ -3102,13 +3104,13 @@
             ],
             "tmpls": [
                 {
-                    "afmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n<div class=\"front\">\n{{FrontSide}}\n</div>\n\n{{#Back}}\n<hr class=\"dark\">\n<div class=\"tooltip\">\n<span class=\"tooltiptext\">{{simple-popup}}</span>\n<div class=\"back\">\n    {{Back}}\n</div>\n</div>\n{{/Back}}\n\n<!--- image --->\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">\n    {{image}}\n</div>\n{{/image}}\n\n<!--- mermaid graphs --->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"mermaid\" id=\"01\">\n   {{text:mermaid}}\n</div>\n{{/mermaid}}\n\n{{#webpage}}\n<div class=\"footer\">\n    <a href=\"{{text:webpage}}\"><button class=\"btn default\">webpage</button></a>\n</div>\n{{/webpage}}\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script type=\"text/javascript\">\n$(document).ready(function() {\n    $(\".back\").html(function(index, currentHtml) {\n   return currentHtml.replace(/\\* /gi, \"‣ \");\n    });\n});\n</script>\n",
+                    "afmt": "<body class=\"preload\">\n\n<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n\n<div class=\"front\">\n{{FrontSide}}\n</div>\n\n{{#Back}}\n<hr class=\"dark\">\n<div class=\"tooltip\">\n<span class=\"tooltiptext\">{{simple-popup}}</span>\n<div class=\"back\">\n    {{Back}}\n</div>\n</div>\n{{/Back}}\n\n<!--- image --->\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">\n    {{image}}\n</div>\n{{/image}}\n\n<!--- mermaid graphs --->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"mermaid\"> \n   {{text:mermaid}}\n</div>\n{{/mermaid}}\n\n{{#webpage}}\n<div class=\"footer\">\n    <a href=\"{{text:webpage}}\"><button class=\"btn default\">webpage</button></a>\n</div>\n{{/webpage}}\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script type=\"text/javascript\">\n$(document).ready(function() {\n    $(\".back\").html(function(index, currentHtml) {\n   return currentHtml.replace(/\\* /gi, \"‣ \");\n    });\n});\n</script>\n",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script type=\"text/javascript\" src=\"_basic.js\"></script>\n\n\n<!--HTML-->\n\n<!--tags-->\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}\n{{Deck}} \n{{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}\n{{Tags}} \n{{^Type}}<font color=\"red\">MISSING</font>{{/Type}}\n{{Type}}\n</div>\n\n<!--front of the card-->\n<div class=\"front\">\n{{Front}}\n</div>\n",
+                    "qfmt": "\n<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n\n<!--tags-->\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}\n{{Deck}} \n{{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}\n{{Tags}} \n{{^Type}}<font color=\"red\">MISSING</font>{{/Type}}\n{{Type}}\n</div>\n\n<!--front of the card-->\n<div class=\"front\">\n{{Front}}\n</div>\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script type=\"text/javascript\" src=\"_basic.js\"></script>\n",
                     "scratchPad": false
                 }
             ],
@@ -3220,7 +3222,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "77d07a8c-6c93-11e9-bc1d-bc6a2f5667ec",
-            "css": "@font-face {\nfont-family: myfont;\nsrc: url('_literationmono.ttf');\n}\n\n.header {\n font-family: PragmataPro Nerd Font;\n font-size: 12px;\n color: #000;\ntext-align: right;\nmargin-bottom: 5%;\nwhitespace: nowrap;\n}\n\n\n.card {\n  font-family: \"Avenir Next\";\n  font-size: 100%;\n  text-align: center;\nfont-color: #fff;\n  background-color: #191919;\n}\n\n.io-field-descr {\n  font-weight: bold;\n}\n\n#io-title {\n  font-size: 30px;\ncolor: white;\nfont-weight: bold;\npadding-bottom: 10px;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index: 3;\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index: 2;\n}\n\n#io-question {\n  margin-top: 0.8em;\nfont-color: #fff;\n}\n\n#io-footer {\n  margin-top: 0.8em;\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.symbols {\nfont-size: 20px;\nalign-text: left; \ndisplay: inline-block;\n}",
+            "css": "",
             "flds": [
                 {
                     "font": "Arial",
@@ -3348,13 +3350,13 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "<script>\nchangeText = function(text, newText){\n  var currentText = $('.header').html();\n\n    $('.header').html(currentText.replace(text,newText));\n};\n\nwindow.setTimeout(function(){changeText('::', ' ‣ ')}, 0)\n\nchangeText = function(text, newText){\n  var currentText = $('.header').html();\n\n    $('.header').html(currentText.replace(text,newText));\n};\n\nwindow.setTimeout(function(){changeText('::', ' ‣ ')}, 0)\n\nchangeText = function(text, newText){\n  var currentText = $('.header').html();\n\n    $('.header').html(currentText.replace(text,newText));\n};\n\nwindow.setTimeout(function(){changeText('::', ' ‣ ')}, 0)\n\nwindow.setTimeout(function(){changeText('ImageQA','<div class=\"symbols\">&#xf7ec;</div>')}, 0)\n</script>\n\n\n<script>\n$(document).ready(function() {\n    $(\".header\").html(function(index, currentHtml) {\n        return currentHtml.replace(/ /gi, \" | \");\n    });\n});\n</script>\n\n\n<div class=\"header\">\n{{Deck}} {{Tags}} {{Type}}\n</div>\n\n\n{{#Original Image}}\n<div id=\"io-title\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer}}</div>\n  <div id=\"io-original\">{{Original Image}}</div>\n</div>\n<div id=\"io-footer\">\n  {{#Footer}}\n    <div>{{Footer}}</div>\n    <hr>\n  {{/Footer}}\n  {{#Remarks}}\n    <div>\n      <span class=\"io-field-descr\">Remarks: </span>{{Remarks}}\n    </div>\n  {{/Remarks}}\n    </br>\n  {{#Sources}}\n    <div>\n      <span class=\"io-field-descr\">Sources: </span>{{Sources}}\n    </div>\n  {{/Sources}}\n</div>\n{{/Original Image}}\n\n",
+                    "afmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_imgQA.css\">\n\n\n<div class=\"tags\">\n{{Deck}} {{Tags}} {{Type}}\n</div>\n\n\n{{#Original Image}}\n<div id=\"io-title\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer}}</div>\n  <div id=\"io-original\">{{Original Image}}</div>\n</div>\n<div id=\"io-footer\">\n  {{#Footer}}\n    <div>{{Footer}}</div>\n    <hr>\n  {{/Footer}}\n  {{#Remarks}}\n    <div>\n      <span class=\"io-field-descr\">Remarks: </span>{{Remarks}}\n    </div>\n  {{/Remarks}}\n    </br>\n  {{#Sources}}\n    <div>\n      <span class=\"io-field-descr\">Sources: </span>{{Sources}}\n    </div>\n  {{/Sources}}\n</div>\n{{/Original Image}}\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"_imgQA.js\"></script>\n",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Image Q/A",
                     "ord": 0,
-                    "qfmt": "<script>\nchangeText = function(text, newText){\n  var currentText = $('.header').html();\n\n    $('.header').html(currentText.replace(text,newText));\n};\n\nwindow.setTimeout(function(){changeText('::', ' ‣ ')}, 0)\n\nchangeText = function(text, newText){\n  var currentText = $('.header').html();\n\n    $('.header').html(currentText.replace(text,newText));\n};\n\nwindow.setTimeout(function(){changeText('::', ' ‣ ')}, 0)\n\nchangeText = function(text, newText){\n  var currentText = $('.header').html();\n\n    $('.header').html(currentText.replace(text,newText));\n};\n\nwindow.setTimeout(function(){changeText('::', ' ‣ ')}, 0)\n\nchangeText = function(text, newText){\n  var currentText = $('.header').html();\n\n    $('.header').html(currentText.replace(text,newText));\n};\n\nwindow.setTimeout(function(){changeText('::', ' ‣ ')}, 0)\n\nwindow.setTimeout(function(){changeText('MCAT::HighYield', '<div class=\"symbols\">&#xf005;</div>')}, 0)\n\n\nwindow.setTimeout(function(){changeText('ImageQA', '<div class=\"symbols\">&#xf7ec;</div>')}, 0)\n</script>\n\n\n<script>\n$(document).ready(function() {\n    $(\".header\").html(function(index, currentHtml) {\n        return currentHtml.replace(/ /gi, \" | \");\n    });\n});\n</script>\n\n\n<div class=\"header\">\n{{Deck}} {{Tags}} {{Type}}\n</div>\n\n\n{{#Original Image}}\n<div id=\"io-title\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question}}</div>\n  <div id=\"io-original\">{{Original Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Original Image}}\n\n"
+                    "qfmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_imgQA.css\">\n\n<div class=\"tags\">\n{{Deck}} {{Tags}} {{Type}}\n</div>\n\n\n{{#Original Image}}\n<div id=\"io-title\">{{Header}}</div>\n\n<div id=\"io-wrapper\">\n\n  <div id=\"io-overlay\">{{Question}}</div>\n  <div id=\"io-original\">{{Original Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Original Image}}\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"_imgQA.js\"></script>\n"
                 }
             ],
             "type": 0,
@@ -4816,9 +4818,8 @@
             "guid": "y]RJ9T_KCE",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -6875,11 +6876,8 @@
             "guid": "D4UzHH)TDL",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "biochem",
-                "cp",
-                "molecules"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -10823,11 +10821,8 @@
             "guid": "hF=L6{fIEi",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cells",
-                "organelles"
+                "BIO::Cell",
+                "Ortho528"
             ]
         },
         {
@@ -12030,7 +12025,8 @@
             "guid": "F)!]Pzox!>",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Society"
             ]
         },
         {
@@ -37856,11 +37852,8 @@
             "guid": "rph;M5<9w/",
             "note_model_uuid": "77d07a8c-6c93-11e9-bc1d-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "Ortho528"
             ]
         },
         {
@@ -45899,7 +45892,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"paste-2765958938625.jpg\">",
+                "<img src=\"paste-44e9bea1addc31b6f8ad246b00aa4a7682f085de.png\">",
                 ""
             ],
             "flags": 0,
@@ -54651,9 +54644,9 @@
             "guid": "L~ulpx`.=I",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "phases"
+                "GC::Phases",
+                "GC::Thermodynamics",
+                "Ortho528"
             ]
         },
         {
@@ -63035,8 +63028,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "",
-                "<img src=\"Screen Shot 2017-01-02 at 11.26.01 AM.png\" />",
+                "-16625465643",
+                "<img src=\"paste-06d603144734ccdfd421560253f179a544e17d73.png\">",
                 "Isoleucine",
                 "",
                 "",
@@ -63054,8 +63047,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "",
-                "<img src=\"Screen Shot 2017-01-02 at 11.26.07 AM.png\" />",
+                "-16625454118",
+                "<img src=\"paste-60e63bcc82c6dcaf0caf58f7adf442f485206eac.png\">",
                 "Proline",
                 "",
                 "",
@@ -75215,6 +75208,25 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "-14707005041",
+                "what is unchanged in uncompetitive inhibition?",
+                "\\(﻿\\frac{K_{m}}{v_{max}}\\)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p;5$`t./^n",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Enzymes::Inhibitors"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "-14707001010",
                 "{{c1::Circularly polarized}} light consists of {{c2::electric fields}} of {{c2::constant magnitude}} that {{c2::change direction in a rotary manner}}.",
                 "",
@@ -84477,8 +84489,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "conditioning",
-                "ps"
+                "PSY::Behavior",
+                "PSY::Theories"
             ]
         },
         {
@@ -85587,7 +85599,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "",
+                "-12897482375",
                 "An {{c1::epitope}} is a specific site recognized by the antibody",
                 "",
                 "<img src=\"paste-86483461472257.jpg\" />",
@@ -85906,8 +85918,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "electricity"
+                "PHY::Circuits"
             ]
         },
         {
@@ -88023,10 +88034,8 @@
             "guid": "d!w;ID}L(<",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "genetics"
+                "BIO::Cell",
+                "Ortho528"
             ]
         },
         {
@@ -93302,7 +93311,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps"
+                "PSY::Behavior"
             ]
         },
         {
@@ -94940,6 +94949,66 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "31707615450",
+                "The {{c1::cerebellum}} is thought to play a primary role in the encoding of {{c2::procedural}} memories",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "piW[JTjai=",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "PSY::Memory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "31708199725",
+                "{{c2::Implicit memory}} is also known as {{c1::nondeclarative memory}}",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n%{?b}vhMl",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "PSY::Memory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32994156044",
+                "A p value that is smaller than {{c1::0.05}} generally denotes a {{c2::statistically significant relationship}}",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Fjgo2M!O;Z",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "PSY::Research"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "",
                 "{{c1::Ganglia}} are {{c2::groups of nerve cells found outside of the central nervous system}}",
                 "",
@@ -95700,7 +95769,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "",
+                "50954585788",
                 "mineralocorticoids are {{c1::steroid}} hormones",
                 "",
                 "",
@@ -95740,7 +95809,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "",
+                "50954802254",
                 "{{c1::mortality}} refers to {{c2::the deaths caused by a given illness}}",
                 "",
                 "",
@@ -95874,6 +95943,26 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "GC::PeriodicTable"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "51564070468",
+                "{{c2::Aerobic respiration}} is an oxygen-requiring series of reactions, and is necessary in all {{c1::vertebrates}}",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n?SD;DZd;,",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "BC::CellularMetabolism"
             ]
         },
         {
@@ -99669,7 +99758,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"paste-77f65f4fb11d9246c76dfff0a8c61c235e34b25f.png\">",
+                "<img src=\"paste-250b36bfb3b515bd3d65138dfdd6b46aaad0be66.png\">",
                 ""
             ],
             "flags": 0,
@@ -103403,7 +103492,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "",
+                "54168988066",
                 "temporal isolation",
                 "mating in different seasons",
                 "",
@@ -103415,7 +103504,7 @@
             "guid": "f;Oa;|k<[T",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO::OrganismClassification",
+                "BIO::General",
                 "EK::BIO/BC2::Lecture1"
             ]
         },
@@ -108834,7 +108923,7 @@
             "fields": [
                 "54859980816",
                 "common oxidizing reagents",
-                "permanganate (\\(MnO_{4}^{2-}\\)), chromate (\\(CrO_{4}^{2-}\\)), dichromate (\\(Cr_{2}O_{7}^{2-}\\))&nbsp;→ oxidize down to carboxylic acid<div>PCC&nbsp;→ weakest oxidizing agent&nbsp;→ oxidize down to alcohols only</div>",
+                "permanganate (\\(MnO_{4}^{2-}\\)), chromate (\\(CrO_{4}^{2-}\\)), dichromate (\\(Cr_{2}O_{7}^{2-}\\))&nbsp;→ oxidize down to carboxylic acid<div><br><div>PCC&nbsp;→ weakest oxidizing agent&nbsp;→ oxidize down to alcohols only</div></div>",
                 "",
                 "",
                 "",
@@ -112834,6 +112923,26 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "56183566986",
+                "torque (\\(﻿\\tau\\))",
+                "\\(﻿\\tau = Frsin \\theta\\)<div>\\(﻿F=\\text{force vector}\\)<br></div><div>\\(﻿r=\\text{position vector}\\)<br></div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PmmEG--`<_",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "EK::PHY::Lecture2",
+                "PHY::Torque"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "56314970743",
                 "when {{c2::all velocities are zero and there's no change in accelaration}}, the system is in&nbsp;{{c1::static equilibrium}}",
                 "",
@@ -115354,7 +115463,8 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "BC::Metabolism",
-                "EK::BIO/BC1::Lecture3"
+                "EK::BIO/BC1::Lecture3",
+                "KhanAcademy::Biomolecules::Carbohydrates"
             ]
         },
         {
@@ -115374,6 +115484,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "BC::Carbohydrates",
+                "KhanAcademy::Biomolecules::Carbohydrates",
                 "OC::MolecularStructure"
             ]
         },
@@ -115394,6 +115505,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "BC::Carbohydrates",
+                "KhanAcademy::Biomolecules::Carbohydrates",
                 "OC::MolecularStructure"
             ]
         },
@@ -115414,6 +115526,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "BC::Carbohydrates",
+                "KhanAcademy::Biomolecules::Carbohydrates",
                 "OC::MolecularStructure"
             ]
         },
@@ -115434,6 +115547,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "BC::Carbohydrates",
+                "KhanAcademy::Biomolecules::Carbohydrates",
                 "OC::MolecularStructure"
             ]
         },
@@ -115454,6 +115568,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "BC::Carbohydrates",
+                "KhanAcademy::Biomolecules::Carbohydrates",
                 "OC::MolecularStructure"
             ]
         },
@@ -115474,6 +115589,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "BC::Carbohydrates",
+                "KhanAcademy::Biomolecules::Carbohydrates",
                 "OC::MolecularStructure"
             ]
         }

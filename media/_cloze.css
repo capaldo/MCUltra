@@ -16,7 +16,7 @@
 }
 
 .symbols {
-    font-size: 20px;
+    font-size: 18px;
     font-family: "Pragmata Pro Nerd Font";
     align-text: left;
     display: inline-block;
@@ -41,7 +41,7 @@ hr.dark {
 
 
 .mac {
-    zoom: 120%;
+    zoom: 100%;
 }
 
 body::-webkit-scrollbar-thumb {
@@ -55,7 +55,7 @@ body::-webkit-scrollbar-thumb {
 
 .card {
     font-family: "Avenir Next";
-    font-size: 40px;
+    font-size: 30px;
     font-weight: normal;
     text-align: center;
     color:#DEDEDE;

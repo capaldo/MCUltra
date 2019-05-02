@@ -19,9 +19,16 @@ hr.dark {
     margin-top: 4%;
 }
 
+img {
+    text-align: center;
+    max-height: 8em;
+    max-width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .card.nightMode { 
     background-color: #131313;
-    color: #DEDEDE;
 }
 
 .invert-img { 
@@ -35,16 +42,11 @@ hr.dark {
 }
 
 .mac {
-    zoom: 120%;
+    zoom: 100%;
 }
 
 ::-webkit-scrollbar {
-    width: 0.02em;
-}
-
-::-webkit-scrollbar-thumb {
-    background-color: #DEDEDE;
-    outline: 0.1px solid #DEDEDE;
+    width: 0em;
 }
 
 .tags {
@@ -52,21 +54,20 @@ hr.dark {
     font-style: normal;
     font-size: 12px;
     text-align: right;
-    color: #000;
     margin-bottom: 4%;
     user-select: none;
+    color: #000;
 }
 
 .tags:hover {
-    color: #DEDEDE;
-    transition: color 0.5s ease-in;
+   color: #DEDEDE;
+    transition: color 0.5s ease-in-out;
 }
 
 .card {
     font-family: "Avenir Next";
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
-    color: #DEDEDE;
     background-color: #131313;
 }
 
@@ -175,21 +176,23 @@ mark {
 }
 
 .tooltip:hover .tooltiptext {
-  visibility: visible;
-  opacity: 1;
+    visibility: visible;
+    opacity: 1;
 }
 
 .zoom { 
-  background-color: rgba(22, 24, 25, 0.75);
-  max-width: 15%;
-  border: 1px solid #DEDEDE;
-  margin: 0 auto;
- border-radius: 3px;
- transition: all .2s ease-in-out;
-padding-top: 12px;
+    background-color: rgba(22, 24, 25, 0.75);
+    border: 1px solid #DEDEDE;
+    margin: 0 auto;
+    border-radius: 3px;
+    padding-top: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    max-width: 3em;
+    display: block;
+    transition: transform 0.2s ease-in-out;
  }
 
 .zoom:hover {
- transform: scale(4);
+    transform: scale(3);
 }
-
