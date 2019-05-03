@@ -19,6 +19,14 @@ hr.dark {
     margin-top: 4%;
 }
 
+b, strong {
+    color: #56C13F;
+ }
+
+ p.em {
+     color: #FBDB42;
+}
+
 img {
     text-align: center;
     max-height: 8em;
@@ -60,7 +68,7 @@ img {
 }
 
 .tags:hover {
-   color: #DEDEDE;
+   color: #F0F0F0;
     transition: color 0.5s ease-in-out;
 }
 
@@ -73,32 +81,32 @@ img {
 
 
 h1  {
-    color: #DEDEDE;
+    color: #F0F0F0;
 }
 
 h2 {
-    color: #DEDEDE;
+    color: #F0F0F0;
 }
 
 h3 {
-    color: #DEDEDE;
+    color: #F0F0F0;
 }
 
 h4 {
-    color: #DEDEDE;
+    color: #F0F0F0;
 }
 
 h5 {
-    color: #DEDEDE;
+    color: #F0F0F0;
 }
 
 
 h6  {
-    color: #DEDEDE;
+    color: #F0F0F0;
 }
 
 mark {
-    background-color: #f0cc04;
+    background-color: #FBDB42;
     color: black;
 }
 
@@ -124,7 +132,7 @@ mark {
 }
 
 .btn {
-    background-color: #DEDEDE;
+    background-color: #F0F0F0;
     border: none;
     color: black;
     text-align: center;
@@ -143,14 +151,14 @@ mark {
     display: inline-block;
     text-decoration: underline;
     text-decoration-style: dashed;
-    text-decoration-color: #232323;
+    text-decoration-color: #292929;
 }
 
 .tooltip .tooltiptext {
     visibility: hidden;
     width: 120px;
-    background-color: #DEDEDE;
-    color: #232323;
+    background-color: #F0F0F0;
+    color: #292929;
     text-align: center;
     border-radius: 6px;
     padding: 5px 0;
@@ -172,7 +180,7 @@ mark {
     margin-left: -5px;
     border-width: 5px;
     border-style: solid;
-    border-color: #DEDEDE transparent transparent transparent;
+    border-color: #F0F0F0 transparent transparent transparent;
 }
 
 .tooltip:hover .tooltiptext {
@@ -182,7 +190,7 @@ mark {
 
 .zoom { 
     background-color: rgba(22, 24, 25, 0.75);
-    border: 1px solid #DEDEDE;
+    border: 1px solid #F0F0F0;
     margin: 0 auto;
     border-radius: 3px;
     padding-top: 12px;
@@ -194,5 +202,5 @@ mark {
  }
 
 .zoom:hover {
-    transform: scale(3);
+    transform: scale(7);
 }

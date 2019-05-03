@@ -29,15 +29,15 @@ hr.dark {
 }
 
 .tags:hover {
-    color: #DEDEDE;
+    color: #F0F0F0;
     transition: all .2s ease-in-out;
 }
 
 .card {
     font-family: "Avenir Next";
     text-align: center;
-    font-color: #DEDEDE;
-    background-color: #191919;
+    font-color: #F0F0F0;
+    background-color: #131313;
 }
 
 .io-field-descr {
@@ -46,7 +46,7 @@ hr.dark {
 
 #io-title {
     font-size: 30px;
-    color: white;
+    color: #F0F0F0;
     font-weight: bold;
     padding-bottom: 10px;
 }
@@ -74,7 +74,7 @@ hr.dark {
 
 #io-question {
   margin-top: 0.8em;
-font-color: #DEDEDE;
+font-color: #F0F0F0;
 }
 
 #io-footer {

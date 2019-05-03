@@ -16,3 +16,14 @@ changeText = function(text, newText){
     $('.tags').html(currentText.replace(text,newText));
 };
 window.setTimeout(function(){changeText('Clozine', '<div class="symbols">&#xf576;</div>')}, 0)
+
+var config = {
+    startOnLoad:true,
+    theme: 'dark',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:false
+        }
+};
+mermaid.initialize(config);
+window.mermaid.init(undefined, document.querySelectorAll('.mermaid'));

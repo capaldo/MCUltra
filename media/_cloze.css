@@ -35,7 +35,7 @@ hr.dark {
 
 .card.nightMode { 
     background-color: #131313;
-    color: #DEDEDE;
+    color: #F0F0F0;
 }
 
 
@@ -58,7 +58,7 @@ body::-webkit-scrollbar-thumb {
     font-size: 30px;
     font-weight: normal;
     text-align: center;
-    color:#DEDEDE;
+    color:#F0F0F0;
 }
 
 .extra {
@@ -80,36 +80,36 @@ body::-webkit-scrollbar-thumb {
 }
 
 .tags:hover {
-    color: #DEDEDE;
+    color: #F0F0F0;
     transition: color 0.5s ease-in;
 }
 h1 {
-    color: #DEDEDE;
+    color: #F0F0F0;
     text-align: center;
 }
 
 h2 {
-    color: #DEDEDE;
+    color: #F0F0F0;
     text-align: center;
 }
 
   h3 {
-      color: #DEDEDE;
+      color: #F0F0F0;
       text-align: center;
   }
 
 h4 {
-    color: #DEDEDE;
+    color: #F0F0F0;
     text-align: center;
 }
 
 h5 {
-    color: #DEDEDE;
+    color: #F0F0F0;
     text-align: center;
 }
 
 h6  {
-    color: #DEDEDE;
+    color: #F0F0F0;
     text-align: center;
 }
 
@@ -130,7 +130,7 @@ mark {
     text-transform: uppercase;
     text-align: center;
     padding: 0.2rem;
-    color: #DEDEDE;
+    color: #F0F0F0;
     background: rgba(6, 123, 195, 1.000);
     cursor: pointer;
     border-radius: 7px;
@@ -185,7 +185,7 @@ input[type='checkbox']{
 }
 
 .btn {
-    background-color: #DEDEDE;
+    background-color: #F0F0F0;
     border: none;
     color: black;
     padding: 5px 10px;
@@ -210,7 +210,7 @@ input[type='checkbox']{
 .zoom {
     background-color: rgba(22, 24, 25, 0.75);
     max-width: 15%;
-    border: 1px solid #DEDEDE;
+    border: 1px solid #F0F0F0;
     margin: 0 auto;
     border-radius: 3px;
     transition: all .2s ease-in-out;

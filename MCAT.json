@@ -644,6 +644,7 @@
         "3b109e818ee09c2b52dcf6983d5eedd39839c9b2_Q 0.svg",
         "3b109e818ee09c2b52dcf6983d5eedd39839c9b2_source_svg.svg",
         "3b109e818ee09c2b52dcf6983d5eedd39839c9b2_tmpsLsuBp.png",
+        "3b5f83e908f3506145d4c0e1641ebe840db3d731.svg",
         "3bb01d080c08fca6c5eebbb83543f107299c6b22_A 0.svg",
         "3bb01d080c08fca6c5eebbb83543f107299c6b22_A 1.svg",
         "3bb01d080c08fca6c5eebbb83543f107299c6b22_Q 0.svg",
@@ -1606,8 +1607,8 @@
         "_imgQA.js",
         "_imgQAE.css",
         "_imgQAE.js",
-        "_literationmono.ttf",
-        "_pragmatapro.ttf",
+        "_reverse.css",
+        "_reverse.js",
         "a004eeff27132c0cb20103e976713c83fb80183e_A 0.svg",
         "a004eeff27132c0cb20103e976713c83fb80183e_Q 0.svg",
         "a004eeff27132c0cb20103e976713c83fb80183e_source_svg.svg",
@@ -1902,6 +1903,7 @@
         "ab00a9b34a51a0ca7dfab36c5c58580f969cfe9d_Q 3.svg",
         "ab00a9b34a51a0ca7dfab36c5c58580f969cfe9d_source_svg.svg",
         "ab00a9b34a51a0ca7dfab36c5c58580f969cfe9d_tmpymWVmi.png",
+        "ab538a2130fcb0d7232666b3842584be62a12520.svg",
         "abbabc4913d97c0c61b6857e4f7e082b0cec3906_A 0.svg",
         "abbabc4913d97c0c61b6857e4f7e082b0cec3906_Q 0.svg",
         "abbabc4913d97c0c61b6857e4f7e082b0cec3906_source_svg.svg",
@@ -2445,6 +2447,7 @@
         "e73a3b15efde2472674b03331f04bd08df639d47_Q 9.svg",
         "e73a3b15efde2472674b03331f04bd08df639d47_source_svg.svg",
         "e73a3b15efde2472674b03331f04bd08df639d47_tmpu6btdu.png",
+        "e8cf56d34a4f5884b540e372ca493ad948866af8.svg",
         "e9b9f903ac2c2fcfe37285b2d0fe2ba9fc415ed1_A 0.svg",
         "e9b9f903ac2c2fcfe37285b2d0fe2ba9fc415ed1_A 1.svg",
         "e9b9f903ac2c2fcfe37285b2d0fe2ba9fc415ed1_A 2.svg",
@@ -2910,6 +2913,7 @@
         "paste-7364a7b67c5dad52e1e939e41de1b1d504ac1a66.png",
         "paste-7370163879937.jpg",
         "paste-7460358193153.jpg",
+        "paste-74eb2b18a30e0f426c2c807c80b0f297bbb5d1b7.png",
         "paste-7541962571777.jpg",
         "paste-75d56be0b54a030e83df7bf13c4b7b766da73477.png",
         "paste-76794015252481.jpg",
@@ -2947,6 +2951,7 @@
         "paste-91752018f05a78a3c993f28363c01a48d785995d.png",
         "paste-9272834392065.jpg",
         "paste-9277129359361.jpg",
+        "paste-92e885308b181001888db442fd1ab4e7ac8a7412.png",
         "paste-9375913607169.jpg",
         "paste-9384503541761.jpg",
         "paste-938a799394da062d214f9b15cbf495794f7329d3.png",
@@ -2984,6 +2989,7 @@
         "paste-f2fec7d61182286d19e353a236e8a9433b0e4443.png",
         "paste-f35b13f01fe90aa3f2db12165ad34df60d20e7c2.png",
         "paste-f51551823ba8c7b33b3b47b0ad295fc8f121403e.png",
+        "paste-f82adad9a8d0b2f1b208a82c7d363fa3c24700b8.png",
         "paste-f840c5bc2dad9800b3044bb9fd4bd50455e526e9 (1).png",
         "pdh-tca-pic-1d5d1.png",
         "periodic-table-elements.png",
@@ -3099,18 +3105,18 @@
             ],
             "sortf": 1,
             "tags": [
-                "BC::Carbohydrates",
-                "OC::MolecularStructure"
+                "BC::Metabolism",
+                "EK::BIO/BC1::Lecture3"
             ],
             "tmpls": [
                 {
-                    "afmt": "<body class=\"preload\">\n\n<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n\n<div class=\"front\">\n{{FrontSide}}\n</div>\n\n{{#Back}}\n<hr class=\"dark\">\n<div class=\"tooltip\">\n<span class=\"tooltiptext\">{{simple-popup}}</span>\n<div class=\"back\">\n    {{Back}}\n</div>\n</div>\n{{/Back}}\n\n<!--- image --->\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">\n    {{image}}\n</div>\n{{/image}}\n\n<!--- mermaid graphs --->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"mermaid\"> \n   {{text:mermaid}}\n</div>\n{{/mermaid}}\n\n{{#webpage}}\n<div class=\"footer\">\n    <a href=\"{{text:webpage}}\"><button class=\"btn default\">webpage</button></a>\n</div>\n{{/webpage}}\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script type=\"text/javascript\">\n$(document).ready(function() {\n    $(\".back\").html(function(index, currentHtml) {\n   return currentHtml.replace(/\\* /gi, \"‣ \");\n    });\n});\n</script>\n",
+                    "afmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n\n<div class=\"front\">\n{{FrontSide}}\n</div>\n\n{{#Back}}\n<hr class=\"dark\">\n<div class=\"tooltip\">\n<span class=\"tooltiptext\">{{simple-popup}}</span>\n<div class=\"back\">\n    {{Back}}\n</div>\n</div>\n{{/Back}}\n\n<!--- image --->\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">\n    {{image}}\n</div>\n{{/image}}\n\n<!--- mermaid graphs --->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"mermaid\"> \n   {{text:mermaid}}\n</div>\n{{/mermaid}}\n\n{{#webpage}}\n<div class=\"footer\">\n    <a href=\"{{text:webpage}}\"><button class=\"btn default\">webpage</button></a>\n</div>\n{{/webpage}}\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script type=\"text/javascript\">\n$(document).ready(function() {\n    $(\".back\").html(function(index, currentHtml) {\n   return currentHtml.replace(/\\* /gi, \"‣ \");\n    });\n});\n</script>",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "\n<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n\n<!--tags-->\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}\n{{Deck}} \n{{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}\n{{Tags}} \n{{^Type}}<font color=\"red\">MISSING</font>{{/Type}}\n{{Type}}\n</div>\n\n<!--front of the card-->\n<div class=\"front\">\n{{Front}}\n</div>\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script type=\"text/javascript\" src=\"_basic.js\"></script>\n",
+                    "qfmt": "\n<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n\n<!--tags-->\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}\n{{Deck}} \n{{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}\n{{Tags}} \n{{^Type}}<font color=\"red\">MISSING</font>{{/Type}}\n{{Type}}\n</div>\n\n<!--front of the card-->\n<div class=\"front\">\n{{Front}}\n</div>\n\n<!--JS-->\n\n<script type=\"text/javascript\" src=\"_basic.js\"></script>\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>",
                     "scratchPad": false
                 }
             ],
@@ -3201,8 +3207,8 @@
             "name": "Clozine",
             "sortf": 1,
             "tags": [
-                "BC::Genetics",
-                "EK::BIO/BC1::Lecture2"
+                "BC::Metabolism",
+                "KhanAcademy::Biomolecules::CarbohydrateMetabolism"
             ],
             "tmpls": [
                 {
@@ -3365,7 +3371,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
-            "css": "@font-face {\nfont-family: myfont; \nsrc: url('_literationmono.ttf');\n}\n\n@font-face {\nfont-family: \"Pragmata Pro\"; \nsrc: url('_pragmatapro.ttf');\n}\n\n\n.latex {\nfilter: invert(100%);\nzoom: 100%;\n}\n\nhr.dark {\nborder: 2.5px solid #000;\nmargin-bottom: 4%;\nmargin-top: 4%;\n}\n\n.invert-img { \n    filter: invert(100%);\n}\n\n.card.nightMode { \nbackground-color: #131313;\ncolor: #DEDEDE;\n}\n\n.symbols {\nfont-size: 18px;\nalign-text: left;\ndisplay: inline-block;\n}\n\n.mac {\n  zoom: 120%;\n}\n\n::-webkit-scrollbar {\n    width: 0.02em;\n}\n\n::-webkit-scrollbar-thumb {\n  background-color: #f8f8f2;\n  outline: 0.1px solid #f8f8f2;\n}\n\n.tags {\n    font-family: \"Pragmata Pro\";\n    font-style: normal;\n    font-size: 12px;\n    text-align: right;\n    color: #000;\n    margin-bottom: 4%;\n    user-select: none;\n}\n\n.tags:hover {\ncolor: #dedede;\ntransition: color 0.5s ease-in;\n}\n\n.card {\n font-family: \"Avenir Next\";\n font-style: normal;\n font-size: 40px;\n text-align: center;\n color: #f8f8f2;\n background-color: #161819;\n}\n\n\nh1  {\n       color: #f8f8f2;\n }\n\nh2 {\n       color: #f8f8f2;\n }\n\nh3 {\n     color: #f8f8f2;\n  }\n\nh4 {\n   color: #f8f8f2;\n}\n\nh5 {\n   color: #f8f8f2;\n}\n\n\nh6  {\n   color: #f8f8f2;\n}\n\nmark {\n    background-color: #f0cc04;\n    color: black;\n}\n\n.mermaid {\nfont-size: 14px;\n}\n\n/* mermaid expansion */\n\n.lbl-toggle {\n  display: block;\n  font-weight: bold;\n  font-size: 0.7rem;\n  text-transform: uppercase;\n  text-align: center;\n  padding: 0.2rem;\n  color: #4f4f4f;\n  background: rgba(201, 187, 236, 1.000);\n  cursor: pointer;\n  border-radius: 7px;\n  transition: all 0.25s ease-out;\n}\n\n.lbl-toggle:hover {\n  color: rgba(156, 147, 177, 1.000);\n}\n\n.lbl-toggle::before {\n  content: ' ';\n  display: inline-block;\n  border-top: 5px solid transparent;\n  border-bottom: 5px solid transparent;\n  border-left: 5px solid currentColor;\n  vertical-align: middle;\n  margin-right: .7rem;\n  transform: translateY(-2px);\n  transition: transform .2s ease-out;\n}\n\n.toggle:checked + .lbl-toggle::before {\n  transform: rotate(90deg) translateX(-3px);\n}\n\n.collapsible-content {\n  max-height: 0px;\n  transition: max-height .25s ease-in-out;\n  overflow: hidden;\n}\n\n.toggle:checked + .lbl-toggle + .collapsible-content {\nmax-height: 50%;\n}\n\n.toggle:checked + .lbl-toggle {\n  border-bottom-right-radius: 0;\n  border-bottom-left-radius: 0;\n}\n\n.collapsible-content .content-inner {\n  background: rgba(201, 187, 236, 0.100);\n  border-bottom: 1px solid rgba(201, 187, 236, 0.100);\n  border-bottom-left-radius: 7px;\n  border-bottom-right-radius: 7px;\n  padding: .1rem 0.5rem;\n}\n\ninput[type='checkbox'] {\n  display: none;\n}\n\n.footer {\nposition: absolute;\nbottom: 0px;\nright: 50%;\nleft: 48%;\n}\n\n.footer2 {\nposition: absolute;\nbottom: 20px;\nright: 50%;\nleft: 48%;\n}\n\n.front {\n}\n\n.back {\n}\n\n.btn {\n  background-color: #f2f2f2;\n  border: none;\n  color: black;\n  text-align: center;\n  font-size: 10px;\n  opacity: 0.2;\n  transition: 0.5s;\n}\n\n.btn:hover {\nopacity: 1;\n}\n\n\n.zoom { \n  background-color: rgba(22, 24, 25, 0.75);\n  max-width: 15%;\n  border: 1px solid #f8f8f2;\n  margin: 0 auto;\n border-radius: 3px;\n transition: all .2s ease-in-out;\npadding-top: 15px;\n }\n\n.zoom:hover {\n transform: scale(4);\n}\n\n.tooltip {\n  position: relative;\n  display: inline-block;\ntext-decoration: underline;\ntext-decoration-style: dashed;\ntext-decoration-color: #404040;\n}\n\n\n.tooltip:empty {\n}\n\n.tooltip .tooltiptext {\n  visibility: hidden;\n  width: 120px;\n  background-color: white;\n  color: #404040;\n  text-align: center;\n  border-radius: 6px;\n  padding: 5px 0;\n  position: absolute;\n  z-index: 1;\n  bottom: 100%;\n  left: 50%;\n  margin-left: -60px;\n  font-size: 15px;\n  opacity: 0;\n  transition: opacity 1s;\n\n}\n\n.tooltip .tooltiptext::after {\n  content: \"\";\n  position: absolute;\n  top: 100%;\n  left: 50%;\n  margin-left: -5px;\n  border-width: 5px;\n  border-style: solid;\n  border-color: white transparent transparent transparent;\n\n\n}\n\n.tooltip:hover .tooltiptext {\n  visibility: visible;\n  opacity: 1;\n}\n",
+            "css": "",
             "flds": [
                 {
                     "font": "Avenir Next",
@@ -3415,17 +3421,8 @@
                 {
                     "font": "Avenir Next",
                     "media": [],
-                    "name": "pdf",
-                    "ord": 5,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Avenir Next",
-                    "media": [],
                     "name": "mermaid",
-                    "ord": 6,
+                    "ord": 5,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
@@ -3458,22 +3455,22 @@
             ],
             "tmpls": [
                 {
-                    "afmt": "<script>\nif($.trim($(\".content-inner\").html()).length==0)\n  $(\".lbl-toggle\").remove();\n</script>\n\n<script>\n$('.tooltip:empty').remove();\n$('.tooltiptext:empty').hide();\n</script>\n\n<script>\nif ( $.trim( $('.tooltiptext').text() ) == \"\")\n    $('.tooltip').css({\"text-decoration\": \"none\"});\n</script>\n\n<!-- HTML STARTS HERE -->\n\n<div class=\"front\">\n{{FrontSide}}\n</div>\n\n{{#Back}}\n<div class=\"back\">\n<hr class=\"dark\">\n<div class=\"tooltip\">{{Back}}<span class=\"tooltiptext\">{{simple-popup}}</span>\n</div>\n</div>\n{{/Back}}\n\n<!--- mermaid graphs --->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"wrap-collapsible\">\n  <input id=\"collapsible\" class=\"toggle\" type=\"checkbox\">\n  <label for=\"collapsible\" class=\"lbl-toggle\">mermaid graph</label>\n  <div class=\"collapsible-content\">\n    <div class=\"content-inner\">\n{{mermaid}}\n    </div>\n  </div>\n</div>\n{{/mermaid}}\n\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">{{image}}</div>\n{{/image}}\n\n{{#webpage}}\n<div class=\"footer\">\n<a href=\"{{webpage}}\"><button class=\"btn default\">webpage</button></a></div>\n{{/webpage}}\n\n{{#pdf}}\n<div class=\"footer2\">\n<a href=\"https://trigger.keyboardmaestro.com/t/A644E331-CCDC-4D92-8A3C-CD84164D0B4B/6AB0FED6-308E-4C89-B6C4-F023E54976EE?{{pdf}}\"><button class=\"btn default\">pdf</button></a></div>\n{{/pdf}}\n",
+                    "afmt": "\n<!-- HTML STARTS HERE -->\n\n<div class=\"front\">\n{{FrontSide}}\n</div>\n\n{{#Back}}\n<div class=\"back\">\n<hr class=\"dark\">\n<div class=\"tooltip\">{{Back}}<span class=\"tooltiptext\">{{simple-popup}}</span>\n</div>\n</div>\n{{/Back}}\n\n<!--- mermaid graphs --->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"wrap-collapsible\">\n  <input id=\"collapsible\" class=\"toggle\" type=\"checkbox\">\n  <label for=\"collapsible\" class=\"lbl-toggle\">mermaid graph</label>\n  <div class=\"collapsible-content\">\n    <div class=\"content-inner\">\n{{mermaid}}\n    </div>\n  </div>\n</div>\n{{/mermaid}}\n\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">{{image}}</div>\n{{/image}}\n\n{{#webpage}}\n<div class=\"footer\">\n<a href=\"{{webpage}}\"><button class=\"btn default\">webpage</button></a></div>\n{{/webpage}}\n\n",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "<!--JS-->\n<script>\n$(document).ready(function() {\n    $(\".tags\").html(function(index, currentHtml) {\n        return currentHtml.replace(/ /gi, \" | \");\n    });\n});\n</script>\n\n<script>\nchangeText = function(text, newText){\n  var currentText = $('.tags').html();\n    $('.tags').html(currentText.replace(text,newText));\n};\n\nchangeText = function(text, newText){\n  var currentText = $('.tags').html();\n    $('.tags').html(currentText.replace(text,newText));\n};\n\nwindow.setTimeout(function(){changeText('Reversicine', '<div class=\"symbols\">&#xf0ec;</div>')}, 0)\n\nchangeText = function(text, newText){\n  var currentText = $('.tags').html();\n    $('.tags').html(currentText.replace(text,newText));\n};\n\nwindow.setTimeout(function(){changeText('::', ' ‣ ')}, 0)\n\nchangeText = function(text, newText){\n  var currentText = $('.tags').html();\n    $('.tags').html(currentText.replace(text,newText));\n};\nwindow.setTimeout(function(){changeText('::', ' ‣ ')}, 0)\n\nchangeText = function(text, newText){\n  var currentText = $('.tags').html();\n    $('.tags').html(currentText.replace(text,newText));\n};\nwindow.setTimeout(function(){changeText('::', ' ‣ ')}, 0)\n</script>\n\n<!--HTML-->\n\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}{{Deck}} {{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}{{Tags}} {{^Type}}<font color=\"red\">MISSING</font>{{/Type}}{{Type}}\n</div>\n\n\n<div class=\"front\">\n{{Front}}\n</div>\n"
+                    "qfmt": "<script type=\"text/javascript\" src=\"_reverse.js\"></script>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_reverse.css\">\n\n<!--HTML-->\n\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}{{Deck}} {{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}{{Tags}} {{^Type}}<font color=\"red\">MISSING</font>{{/Type}}{{Type}}\n</div>\n\n\n<div class=\"front\">\n{{Front}}\n</div>\n"
                 },
                 {
-                    "afmt": "<script>\nif($.trim($(\".content-inner\").html()).length==0)\n  $(\".lbl-toggle\").remove();\n</script>\n\n<script>\n$('.tooltip:empty').remove();\n$('.tooltiptext:empty').hide();\n</script>\n\n<script>\nif ( $.trim( $('.tooltiptext').text() ) == \"\")\n    $('.tooltip').css({\"text-decoration\": \"none\"});\n</script>\n\n<!-- HTML STARTS HERE -->\n\n<div class=\"front\">\n{{FrontSide}}\n</div>\n\n{{#Back}}\n<div class=\"back\">\n<hr class=\"dark\">\n<div class=\"tooltip\">{{Back}}<span class=\"tooltiptext\">{{simple-popup}}</span>\n</div>\n</div>\n{{/Back}}\n\n<!--- mermaid graphs --->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"wrap-collapsible\">\n  <input id=\"collapsible\" class=\"toggle\" type=\"checkbox\">\n  <label for=\"collapsible\" class=\"lbl-toggle\">mermaid graph</label>\n  <div class=\"collapsible-content\">\n    <div class=\"content-inner\">\n{{mermaid}}\n    </div>\n  </div>\n</div>\n{{/mermaid}}\n\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">{{image}}</div>\n{{/image}}\n\n{{#webpage}}\n<div class=\"footer\">\n<a href=\"{{webpage}}\"><button class=\"btn default\">webpage</button></a></div>\n{{/webpage}}\n\n{{#pdf}}\n<div class=\"footer2\">\n<a href=\"https://trigger.keyboardmaestro.com/t/A644E331-CCDC-4D92-8A3C-CD84164D0B4B/6AB0FED6-308E-4C89-B6C4-F023E54976EE?{{pdf}}\"><button class=\"btn default\">pdf</button></a></div>\n{{/pdf}}\n",
+                    "afmt": "\n<!-- HTML STARTS HERE -->\n\n<div class=\"front\">\n{{FrontSide}}\n</div>\n\n{{#Back}}\n<div class=\"back\">\n<hr class=\"dark\">\n<div class=\"tooltip\">{{Back}}<span class=\"tooltiptext\">{{simple-popup}}</span>\n</div>\n</div>\n{{/Back}}\n\n<!--- mermaid graphs --->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"wrap-collapsible\">\n  <input id=\"collapsible\" class=\"toggle\" type=\"checkbox\">\n  <label for=\"collapsible\" class=\"lbl-toggle\">mermaid graph</label>\n  <div class=\"collapsible-content\">\n    <div class=\"content-inner\">\n{{mermaid}}\n    </div>\n  </div>\n</div>\n{{/mermaid}}\n\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">{{image}}</div>\n{{/image}}\n\n{{#webpage}}\n<div class=\"footer\">\n<a href=\"{{webpage}}\"><button class=\"btn default\">webpage</button></a></div>\n{{/webpage}}\n",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Card 2",
                     "ord": 1,
-                    "qfmt": "<!--JS-->\n<script>\n$(document).ready(function() {\n    $(\".tags\").html(function(index, currentHtml) {\n        return currentHtml.replace(/ /gi, \" | \");\n    });\n});\n</script>\n\n<script>\nchangeText = function(text, newText){\n  var currentText = $('.tags').html();\n    $('.tags').html(currentText.replace(text,newText));\n};\n\nchangeText = function(text, newText){\n  var currentText = $('.tags').html();\n    $('.tags').html(currentText.replace(text,newText));\n};\n\nwindow.setTimeout(function(){changeText('Reversicine', '<div class=\"symbols\">&#xf0ec;</div>')}, 0)\n\nchangeText = function(text, newText){\n  var currentText = $('.tags').html();\n    $('.tags').html(currentText.replace(text,newText));\n};\n\nwindow.setTimeout(function(){changeText('::', ' ‣ ')}, 0)\n\nchangeText = function(text, newText){\n  var currentText = $('.tags').html();\n    $('.tags').html(currentText.replace(text,newText));\n};\nwindow.setTimeout(function(){changeText('::', ' ‣ ')}, 0)\n\nchangeText = function(text, newText){\n  var currentText = $('.tags').html();\n    $('.tags').html(currentText.replace(text,newText));\n};\nwindow.setTimeout(function(){changeText('::', ' ‣ ')}, 0)\n</script>\n\n<!--HTML-->\n\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}{{Deck}} {{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}{{Tags}} {{^Type}}<font color=\"red\">MISSING</font>{{/Type}}{{Type}}\n</div>\n\n\n<div class=\"front\">\n{{Front}}\n</div>\n",
+                    "qfmt": "<script type=\"text/javascript\" src=\"_reverse.js\"></script>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_reverse.css\">\n\n<!--HTML-->\n\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}{{Deck}} {{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}{{Tags}} {{^Type}}<font color=\"red\">MISSING</font>{{/Type}}{{Type}}\n</div>\n\n\n<div class=\"front\">\n{{Front}}\n</div>\n",
                     "scratchPad": false
                 }
             ],
@@ -4897,7 +4894,6 @@
                 "ΔE = hf",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -4960,7 +4956,6 @@
                 "-40354498675",
                 "ClO-, CLO2-, ClO3-, ClO4-",
                 "hypochlorite, chlorite, chlorate, perchlorate",
-                "",
                 "",
                 "",
                 ""
@@ -5049,7 +5044,6 @@
                 "Sodium Hydride",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -5092,7 +5086,6 @@
                 "Kilogram",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -5111,7 +5104,6 @@
                 "-40354124108",
                 "SI Base unit for current",
                 "Ampere, A",
-                "",
                 "",
                 "",
                 ""
@@ -5134,7 +5126,6 @@
                 "10<sup>-1</sup>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -5153,7 +5144,6 @@
                 "-40354080834",
                 "SI prefix femto",
                 "10<sup>-15</sup>",
-                "",
                 "",
                 "",
                 ""
@@ -5176,7 +5166,6 @@
                 "10<sup>-12</sup>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -5195,7 +5184,6 @@
                 "-40354047484",
                 "SI Unit for force",
                 "Newton, kg m s<sup>-2</sup>, = mass * accel.",
-                "",
                 "",
                 "",
                 ""
@@ -5218,7 +5206,6 @@
                 "10<sup>-9</sup>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -5237,7 +5224,6 @@
                 "-40353970735",
                 "SI prefix centi",
                 "10<sup>-2</sup>",
-                "",
                 "",
                 "",
                 ""
@@ -5260,7 +5246,6 @@
                 "10<sup>-3</sup>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -5279,7 +5264,6 @@
                 "-40279211581",
                 "Combination reaction",
                 "A + B -> C reaction type",
-                "",
                 "",
                 "",
                 ""
@@ -5302,7 +5286,6 @@
                 "Decomposition",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -5323,7 +5306,6 @@
                 "Single Displacement",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -5342,7 +5324,6 @@
                 "-40279122254",
                 "AB + CD -> AD + BC reaction type",
                 "Double Displacement",
-                "",
                 "",
                 "",
                 ""
@@ -13691,7 +13672,6 @@
                 "AUG",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -13708,7 +13688,6 @@
                 "-31049240311",
                 "Stop codons",
                 "UAA, UAG, UGA",
-                "",
                 "",
                 "",
                 ""
@@ -18712,7 +18691,6 @@
                 "T = F*r*sin(theta)",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -18791,7 +18769,6 @@
                 "K = 1/2 mv<sup>2</sup>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -18808,7 +18785,6 @@
                 "-28704617729",
                 "Equation for gravitational potential energy near earth's surface",
                 "U<sub>g&nbsp;</sub>= mgh",
-                "",
                 "",
                 "",
                 ""
@@ -18829,7 +18805,6 @@
                 "-28704564280",
                 "Equation for elastic potential energy",
                 "U<sub>e&nbsp;</sub>= 1/2 kΔx^2",
-                "",
                 "",
                 "",
                 ""
@@ -18872,7 +18847,6 @@
                 "-28704281124",
                 "Equation for total change in energy",
                 "W + q =&nbsp;ΔE<sub>total</sub>",
-                "",
                 "",
                 "",
                 ""
@@ -22587,7 +22561,6 @@
                 "Ala, A",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -22606,7 +22579,6 @@
                 "",
                 "One letter for Alanine",
                 "A",
-                "",
                 "",
                 "",
                 ""
@@ -22629,7 +22601,6 @@
                 "R",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -22648,7 +22619,6 @@
                 "",
                 "One letter for Asparagine",
                 "N",
-                "",
                 "",
                 "",
                 ""
@@ -22671,7 +22641,6 @@
                 "D",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -22690,7 +22659,6 @@
                 "",
                 "One letter for Cysteine",
                 "C",
-                "",
                 "",
                 "",
                 ""
@@ -22713,7 +22681,6 @@
                 "E",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -22734,7 +22701,6 @@
                 "Q",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -22753,7 +22719,6 @@
                 "",
                 "One letter for Glycine",
                 "G",
-                "",
                 "",
                 "",
                 ""
@@ -22796,7 +22761,6 @@
                 "I",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -22815,7 +22779,6 @@
                 "",
                 "One letter for Leucine",
                 "L",
-                "",
                 "",
                 "",
                 ""
@@ -22838,7 +22801,6 @@
                 "K",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -22857,7 +22819,6 @@
                 "",
                 "One letter for Methionine",
                 "M",
-                "",
                 "",
                 "",
                 ""
@@ -22880,7 +22841,6 @@
                 "F",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -22899,7 +22859,6 @@
                 "",
                 "One letter for Proline",
                 "P",
-                "",
                 "",
                 "",
                 ""
@@ -22922,7 +22881,6 @@
                 "S",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -22941,7 +22899,6 @@
                 "",
                 "One letter for Threonine",
                 "T",
-                "",
                 "",
                 "",
                 ""
@@ -22964,7 +22921,6 @@
                 "W",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -22983,7 +22939,6 @@
                 "",
                 "One letter for Tyrosine",
                 "Y",
-                "",
                 "",
                 "",
                 ""
@@ -23006,7 +22961,6 @@
                 "V",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -23025,7 +22979,6 @@
                 "-26739151369",
                 "Glycine structure",
                 "<div><img src=\"paste-4973572128770.jpg\"><br></div><div>&nbsp; ‍&nbsp;&nbsp;<br></div>",
-                "",
                 "",
                 "",
                 ""
@@ -23048,7 +23001,6 @@
                 "<img src=\"paste-6923487281154.jpg\"><div>&nbsp; ‍&nbsp;&nbsp;<br></div>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -23067,7 +23019,6 @@
                 "-26739054023",
                 "serine structure",
                 "<img src=\"paste-2830383448066.jpg\"><div>&nbsp; ‍&nbsp;&nbsp;<br></div>",
-                "",
                 "",
                 "",
                 ""
@@ -23090,7 +23041,6 @@
                 "",
                 "",
                 "<img src=\"paste-3354369458178.jpg\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -23109,7 +23059,6 @@
                 "-26739007720",
                 "Cysteine structure",
                 "<img src=\"paste-3886945402882.jpg\"><div>&nbsp; ‍&nbsp;&nbsp;<br></div>",
-                "",
                 "",
                 "",
                 ""
@@ -23132,7 +23081,6 @@
                 "",
                 "",
                 "<img src=\"paste-4647154614274.jpg\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -23151,7 +23099,6 @@
                 "-26738973512",
                 "Leucine structure",
                 "<img src=\"paste-4337916968962.jpg\"><div>&nbsp; ‍&nbsp;&nbsp;<br></div>",
-                "",
                 "",
                 "",
                 ""
@@ -23174,7 +23121,6 @@
                 "",
                 "",
                 "<img src=\"paste-4565550235650.jpg\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -23193,7 +23139,6 @@
                 "-26738935695",
                 "Methionine structure",
                 "<img src=\"paste-5308579577858.jpg\"><div>&nbsp; ‍&nbsp;&nbsp;</div>",
-                "",
                 "",
                 "",
                 ""
@@ -23216,7 +23161,6 @@
                 "",
                 "",
                 "<img src=\"paste-f1560d95bf78540805b2d5dbc9a033c0fa10bbbd.png\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -23235,7 +23179,6 @@
                 "-26738902248",
                 "phenylalanine structure",
                 "<img src=\"paste-5463198400514.jpg\"><div>&nbsp; ‍&nbsp;&nbsp;<br></div>",
-                "",
                 "",
                 "",
                 ""
@@ -23258,7 +23201,6 @@
                 "<img src=\"paste-49881750175745.jpg\"><div>&nbsp;‍&nbsp; &nbsp;<br></div>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -23277,7 +23219,6 @@
                 "-26738823654",
                 "Tryptophan structure",
                 "<img src=\"paste-5892695130114.jpg\"><div>&nbsp; ‍&nbsp;&nbsp;<br></div>",
-                "",
                 "",
                 "",
                 ""
@@ -23300,7 +23241,6 @@
                 "<img src=\"paste-6171868004354.jpg\"><div>&nbsp;‍&nbsp; &nbsp;<br></div>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -23321,7 +23261,6 @@
                 "",
                 "",
                 "<img src=\"paste-6382321401858.jpg\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -23340,7 +23279,6 @@
                 "-26738757585",
                 "asparagine structure",
                 "<div><img src=\"paste-5566277615617.jpg\"><br></div><div>&nbsp; ‍&nbsp;&nbsp;<br></div>",
-                "",
                 "",
                 "",
                 ""
@@ -23363,7 +23301,6 @@
                 "<img src=\"paste-5626407157761.jpg\"><div>&nbsp; ‍&nbsp;&nbsp;<br></div>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -23382,7 +23319,6 @@
                 "-26738721838",
                 "Histidine structure",
                 "<div><img src=\"paste-5690831667201.jpg\"><br></div><div>&nbsp; ‍&nbsp;&nbsp;<br></div>",
-                "",
                 "",
                 "",
                 ""
@@ -23405,7 +23341,6 @@
                 "<img src=\"paste-5776731013121.jpg\"><div>&nbsp; ‍&nbsp;&nbsp;</div>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -23426,7 +23361,6 @@
                 "",
                 "",
                 "<img src=\"paste-7164005449729.jpg\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -26540,8 +26474,8 @@
             "data": "",
             "fields": [
                 "-25258707351",
-                "Movement of which ion causes depolarization?",
-                "Na+",
+                "movement of which ion causes depolarization?",
+                "\\(﻿Na^{+}\\)",
                 "",
                 "",
                 "",
@@ -26551,11 +26485,8 @@
             "guid": "mh&[*)5`Dz",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "NS",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -38854,7 +38785,6 @@
                 "What is this?<div><img src=\"paste-11712375816193.jpg\" /></div>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -39168,7 +39098,6 @@
                 "<img src=\"paste-22136261443585.jpg\" />",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -39187,7 +39116,6 @@
                 "-23620382188",
                 "Ketal structure",
                 "<img src=\"paste-22230750724097.jpg\" />",
-                "",
                 "",
                 "",
                 ""
@@ -39394,7 +39322,6 @@
                 "-23617473846",
                 "Enolate anion structure&nbsp;",
                 "What is this?<div><img src=\"paste-33079838113793.jpg\" /></div>",
-                "",
                 "",
                 "",
                 ""
@@ -66380,7 +66307,7 @@
             "fields": [
                 "-16018640516",
                 "Equation for wavelength:",
-                "Velocity (m/s) = Wavelength (m) * Frequency (1/s)<div>V =&nbsp;λf</div>",
+                "<div>\\(﻿v = \\lambda*f\\)<br></div>",
                 "",
                 "",
                 "",
@@ -66391,8 +66318,8 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "waves"
+                "PHY::Equations",
+                "PHY::Waves"
             ]
         },
         {
@@ -66952,7 +66879,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps"
+                "PSY::Cognition::Sight"
             ]
         },
         {
@@ -71300,8 +71227,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cognition",
-                "ps"
+                "PSY::Cognition"
             ]
         },
         {
@@ -78412,11 +78338,11 @@
             "data": "",
             "fields": [
                 "-14107242860",
-                "<img src=\"a73e5b8a6fe288c26d608bf537bd1bca1ad98dad_Q 0 (9).svg\" />",
-                "<img src=\"a73e5b8a6fe288c26d608bf537bd1bca1ad98dad_A 0 (9).svg\" />",
+                "<img src=\"a73e5b8a6fe288c26d608bf537bd1bca1ad98dad_Q 0 (9).svg\">",
+                "<img src=\"a73e5b8a6fe288c26d608bf537bd1bca1ad98dad_A 0 (9).svg\">",
                 "<img src=\"a73e5b8a6fe288c26d608bf537bd1bca1ad98dad_source_svg (9).svg\" />",
                 "<img src=\"a73e5b8a6fe288c26d608bf537bd1bca1ad98dad_tmpwjk0w4.png\" />",
-                "Tyeps of skew",
+                "Types of Skew",
                 "",
                 "",
                 "",
@@ -94886,10 +94812,10 @@
             "fields": [
                 "-9182052807",
                 "Galactose structure",
-                "<img src=\"2000px-DL-Galactose.svg.png\" />",
                 "",
                 "",
                 "",
+                "<img src=\"2000px-DL-Galactose.svg.png\">",
                 ""
             ],
             "flags": 0,
@@ -97382,7 +97308,7 @@
                 "How is melatonin modulated?",
                 "external light decreases, melatonin increases",
                 "",
-                "<svg id=\"mermaid-1555781043998\" style=\"max-width: 335.421875px;\" viewBox=\"0 0 335.421875 233\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><style>#mermaid-1555781043998 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1555781043998 .node circle,#mermaid-1555781043998 .node ellipse,#mermaid-1555781043998 .node polygon,#mermaid-1555781043998 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1555781043998 .node.clickable{cursor:pointer}#mermaid-1555781043998 .arrowheadPath{fill:#333}#mermaid-1555781043998 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1555781043998 .edgeLabel{background-color:#e8e8e8}#mermaid-1555781043998 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1555781043998 .cluster text{fill:#333}#mermaid-1555781043998 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1555781043998 .actor{stroke:#ccf;fill:#ececff}#mermaid-1555781043998 text.actor{fill:#000;stroke:none}#mermaid-1555781043998 .actor-line{stroke:grey}#mermaid-1555781043998 .messageLine0{marker-end:\"url(#arrowhead)\"}#mermaid-1555781043998 .messageLine0,#mermaid-1555781043998 .messageLine1{stroke-width:1.5;stroke-dasharray:\"2 2\";stroke:#333}#mermaid-1555781043998 #arrowhead{fill:#333}#mermaid-1555781043998 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1555781043998 .messageText{fill:#333;stroke:none}#mermaid-1555781043998 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1555781043998 .labelText,#mermaid-1555781043998 .loopText{fill:#000;stroke:none}#mermaid-1555781043998 .loopLine{stroke-width:2;stroke-dasharray:\"2 2\";marker-end:\"url(#arrowhead)\";stroke:#ccf}#mermaid-1555781043998 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1555781043998 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1555781043998 .section{stroke:none;opacity:.2}#mermaid-1555781043998 .section0{fill:rgba(102,102,255,.49)}#mermaid-1555781043998 .section2{fill:#fff400}#mermaid-1555781043998 .section1,#mermaid-1555781043998 .section3{fill:#fff;opacity:.2}#mermaid-1555781043998 .sectionTitle0,#mermaid-1555781043998 .sectionTitle1,#mermaid-1555781043998 .sectionTitle2,#mermaid-1555781043998 .sectionTitle3{fill:#333}#mermaid-1555781043998 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1555781043998 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1555781043998 .grid path{stroke-width:0}#mermaid-1555781043998 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1555781043998 .task{stroke-width:2}#mermaid-1555781043998 .taskText{text-anchor:middle;font-size:11px}#mermaid-1555781043998 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1555781043998 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1555781043998 .taskText0,#mermaid-1555781043998 .taskText1,#mermaid-1555781043998 .taskText2,#mermaid-1555781043998 .taskText3{fill:#fff}#mermaid-1555781043998 .task0,#mermaid-1555781043998 .task1,#mermaid-1555781043998 .task2,#mermaid-1555781043998 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1555781043998 .taskTextOutside0,#mermaid-1555781043998 .taskTextOutside1,#mermaid-1555781043998 .taskTextOutside2,#mermaid-1555781043998 .taskTextOutside3{fill:#000}#mermaid-1555781043998 .active0,#mermaid-1555781043998 .active1,#mermaid-1555781043998 .active2,#mermaid-1555781043998 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1555781043998 .activeText0,#mermaid-1555781043998 .activeText1,#mermaid-1555781043998 .activeText2,#mermaid-1555781043998 .activeText3{fill:#000!important}#mermaid-1555781043998 .done0,#mermaid-1555781043998 .done1,#mermaid-1555781043998 .done2,#mermaid-1555781043998 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1555781043998 .doneText0,#mermaid-1555781043998 .doneText1,#mermaid-1555781043998 .doneText2,#mermaid-1555781043998 .doneText3{fill:#000!important}#mermaid-1555781043998 .crit0,#mermaid-1555781043998 .crit1,#mermaid-1555781043998 .crit2,#mermaid-1555781043998 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1555781043998 .activeCrit0,#mermaid-1555781043998 .activeCrit1,#mermaid-1555781043998 .activeCrit2,#mermaid-1555781043998 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1555781043998 .doneCrit0,#mermaid-1555781043998 .doneCrit1,#mermaid-1555781043998 .doneCrit2,#mermaid-1555781043998 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1555781043998 .activeCritText0,#mermaid-1555781043998 .activeCritText1,#mermaid-1555781043998 .activeCritText2,#mermaid-1555781043998 .activeCritText3,#mermaid-1555781043998 .doneCritText0,#mermaid-1555781043998 .doneCritText1,#mermaid-1555781043998 .doneCritText2,#mermaid-1555781043998 .doneCritText3{fill:#000!important}#mermaid-1555781043998 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1555781043998 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1555781043998 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1555781043998 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1555781043998 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1555781043998 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1555781043998 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1555781043998 #compositionEnd,#mermaid-1555781043998 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1555781043998 #aggregationEnd,#mermaid-1555781043998 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1555781043998 #dependencyEnd,#mermaid-1555781043998 #dependencyStart,#mermaid-1555781043998 #extensionEnd,#mermaid-1555781043998 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1555781043998 .branch-label,#mermaid-1555781043998 .commit-id,#mermaid-1555781043998 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1555781043998 {\n    color: rgb(0, 0, 0);\n    font: normal normal 400 normal 16px / normal \"Times New Roman\";\n  }</style><g transform=\"translate(-12, -12)\"><g class=\"output\"><g class=\"clusters\"></g><g class=\"edgePaths\"><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M179.7109375,59L179.7109375,84L179.7109375,109\" marker-end=\"url(#arrowhead12)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead12\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M179.7109375,148L179.7109375,173L179.7109375,198\" marker-end=\"url(#arrowhead13)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead13\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g></g><g class=\"edgeLabels\"><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g></g><g class=\"nodes\"><g class=\"node\" id=\"A\" style=\"opacity: 1;\" transform=\"translate(179.7109375,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"239.125\" x=\"-119.5625\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-109.5625,-9.5)\"><foreignObject height=\"19\" width=\"219.125\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">neural connections in the eyes</div></foreignObject></g></g></g><g class=\"node\" id=\"B\" style=\"opacity: 1;\" transform=\"translate(179.7109375,128.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"219.875\" x=\"-109.9375\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-99.9375,-9.5)\"><foreignObject height=\"19\" width=\"199.875\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">signals to the hypothalamus</div></foreignObject></g></g></g><g class=\"node\" id=\"C\" style=\"opacity: 1;\" transform=\"translate(179.7109375,217.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"319.421875\" x=\"-159.7109375\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-149.7109375,-9.5)\"><foreignObject height=\"19\" width=\"299.421875\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">hypothalamus modulates the pineal gland</div></foreignObject></g></g></g></g></g></g></svg>",
+                "graph TD; A[neural connections in the eyes]--&gt;B[signals to the hypothalamus]; B--&gt;C[hypothalamus modulates the pineal gland]; C--&gt;D[pineal gland releases/does not release melatonin];",
                 "",
                 ""
             ],
@@ -102126,7 +102052,6 @@
                 "period",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -102144,7 +102069,6 @@
                 "",
                 "vertical columns in a period table",
                 "groups/families",
-                "",
                 "",
                 "",
                 ""
@@ -103757,7 +103681,6 @@
                 "rate of forward and backward equilibrium are equal",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -103815,7 +103738,6 @@
                 "",
                 "random mating",
                 "organisms are equally likely to mate regardless of phenotype",
-                "",
                 "",
                 "",
                 ""
@@ -103917,7 +103839,6 @@
                 "viral particle / virion",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -104017,7 +103938,6 @@
                 "latent period",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -104035,7 +103955,6 @@
                 "",
                 "a virus following the lytic cycle",
                 "virulent virus",
-                "",
                 "",
                 "",
                 ""
@@ -104097,7 +104016,6 @@
                 "temperate virus",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -104136,7 +104054,6 @@
                 "provirus / prophage",
                 "temperate virus (in lysogenic infection cycle)",
                 "prophage is just the term used if the host cell infected is a bacterial cell",
-                "",
                 "",
                 ""
             ],
@@ -104457,7 +104374,6 @@
                 "rod-shaped bacteria",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -104634,7 +104550,7 @@
             "fields": [
                 "54274353257",
                 "gram-negative bacteria",
-                "‣ thin peptidoglycan cell wall with attached lipopolysaccharides&nbsp;<div>‣ appear pink</div>",
+                "* thin peptidoglycan cell wall with attached lipopolysaccharides&nbsp;<div>* appear pink</div>",
                 "",
                 "",
                 "",
@@ -104794,7 +104710,7 @@
             "fields": [
                 "54274797304",
                 "conjugation",
-                "‣ method of genetic recombination performed by bacteria<div>‣ plasmid is transferred via sex pilus</div>",
+                "* method of genetic recombination performed by bacteria<div>* plasmid is transferred via sex pilus</div>",
                 "",
                 "",
                 "",
@@ -107171,7 +107087,6 @@
                 "<img src=\"paste-6d48bfa3f4aee288fbb27e380ec1a0dc1d7d7b57.png\"><div>&nbsp; ‍&nbsp; &nbsp;<br></div>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107189,7 +107104,6 @@
                 "54545497117",
                 "vicinal dihalide",
                 "<img src=\"paste-12d8689f301c5c07968ecef584b12c3fde704a81.png\"><div>&nbsp; &nbsp;‍&nbsp; &nbsp;<br></div>",
-                "",
                 "",
                 "",
                 ""
@@ -107211,7 +107125,6 @@
                 "<img src=\"paste-f06937db64f0e6ac18010e3e8397706ee3565b6c.png\"><div>&nbsp;‍&nbsp; &nbsp;<br></div>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107229,7 +107142,6 @@
                 "54545600777",
                 "tosyl group",
                 "<img src=\"paste-37a5d5c1069d451eefd15380322099d85384c9e1.png\">",
-                "",
                 "",
                 "",
                 ""
@@ -107251,7 +107163,6 @@
                 "RCOCH<sub>3</sub>",
                 "",
                 "<img src=\"paste-48b3468c6f7c2443c74209180a32301448722c39.png\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107271,7 +107182,6 @@
                 "(RCO)<sub>2</sub>O",
                 "",
                 "<img src=\"paste-01d1b42e3271f07ffe5f62a1bb577fec945010d9.png\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107291,7 +107201,6 @@
                 "R<sub>2</sub>-NN-R<sub>2</sub>",
                 "",
                 "<img src=\"paste-e3a505c089a4fb9176c823e85fffbfc8508fd095.png\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107311,7 +107220,6 @@
                 "R<sub>2</sub>=NN-R<sub>2</sub>",
                 "",
                 "<img src=\"paste-c5004906ea0f8446e547ec33e70591b639d66748.png\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107331,7 +107239,6 @@
                 "H<sub>2</sub>C=CH-R",
                 "",
                 "<img src=\"paste-b20bc8b4728df0776606e81d2fef70c47ab3acbe.png\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107351,7 +107258,6 @@
                 "R<sub>2</sub>C=CRX",
                 "",
                 "<img src=\"paste-aa3b194115d01cc8ce59761f467995aacb5ea8a4.png\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107371,7 +107277,6 @@
                 "-C(triplebond)N",
                 "",
                 "<img src=\"paste-de7587011adb34dead4bb0dadd735d01d3c2458c.png\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107391,7 +107296,6 @@
                 "R<sub>2</sub>COCR<sub>2</sub>",
                 "",
                 "<img src=\"paste-328d274aa2d5d0e29daa4bebb72836cefabbfa2d.png\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107411,7 +107315,6 @@
                 "R<sub>2</sub>CN-OH",
                 "",
                 "<img src=\"paste-e38b61ad5b5eee9f3f8e46ec46368c7567957d96.png\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107431,7 +107334,6 @@
                 "\\(NO_{2}\\)",
                 "",
                 "<img src=\"paste-8bc75ff5b13354f18ff56632865f8b01ed699d2f.png\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107451,7 +107353,6 @@
                 "-N=O",
                 "",
                 "<img src=\"paste-d774b1793dc2a8f9559c3f932da182c54163aa3b.png\">",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107469,7 +107370,6 @@
                 "54546001263",
                 "isomers",
                 "unique molecules with the same chemical formula",
-                "",
                 "",
                 "",
                 ""
@@ -107491,7 +107391,6 @@
                 "same molecular formular, different binding",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107509,7 +107408,6 @@
                 "54546070656",
                 "conformational isormers",
                 "different spatial orientation, same molecule",
-                "",
                 "",
                 "",
                 ""
@@ -107531,7 +107429,6 @@
                 "two unique molecules with the same binding<div>‣ <i>ie: enantiomers, diastereomers</i></div>",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107549,7 +107446,6 @@
                 "54546135618",
                 "enantiomers",
                 "‣ type of stereoisomer<div>‣ non-superimposable mirror images</div><div>‣ DIFFER AT ALL STEREOCENTERS</div>",
-                "",
                 "",
                 "",
                 ""
@@ -107571,7 +107467,6 @@
                 "‣ R&nbsp;→ clockwise<div>‣ S&nbsp;→ counter-clockwise</div>",
                 "only around chiral carbons",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -107589,7 +107484,6 @@
                 "54600649317",
                 "any carbon is chiral when",
                 "it has four different substituents",
-                "",
                 "",
                 "",
                 ""
@@ -109742,7 +109636,7 @@
             "fields": [
                 "55214840482",
                 "linear motion equation if you are CANT use&nbsp;\\(﻿\\Delta t\\)",
-                "\\(﻿v^{2}=v_{o}^{2}+2a\\Delta x\\)",
+                "\\(﻿v^{2}_{f}=v_{o}^{2}+2a\\Delta x\\)",
                 "",
                 "",
                 "",
@@ -111367,7 +111261,7 @@
                 "elongation during translation",
                 "",
                 "",
-                "<svg id=\"mermaid-1555703530798\" style=\"max-width: 268.453125px;\" viewBox=\"0 0 268.453125 377\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><style>#mermaid-1555703530798 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1555703530798 .node circle,#mermaid-1555703530798 .node ellipse,#mermaid-1555703530798 .node polygon,#mermaid-1555703530798 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1555703530798 .node.clickable{cursor:pointer}#mermaid-1555703530798 .arrowheadPath{fill:#333}#mermaid-1555703530798 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1555703530798 .edgeLabel{background-color:#e8e8e8}#mermaid-1555703530798 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1555703530798 .cluster text{fill:#333}#mermaid-1555703530798 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1555703530798 .actor{stroke:#ccf;fill:#ececff}#mermaid-1555703530798 text.actor{fill:#000;stroke:none}#mermaid-1555703530798 .actor-line{stroke:grey}#mermaid-1555703530798 .messageLine0{marker-end:\"url(#arrowhead)\"}#mermaid-1555703530798 .messageLine0,#mermaid-1555703530798 .messageLine1{stroke-width:1.5;stroke-dasharray:\"2 2\";stroke:#333}#mermaid-1555703530798 #arrowhead{fill:#333}#mermaid-1555703530798 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1555703530798 .messageText{fill:#333;stroke:none}#mermaid-1555703530798 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1555703530798 .labelText,#mermaid-1555703530798 .loopText{fill:#000;stroke:none}#mermaid-1555703530798 .loopLine{stroke-width:2;stroke-dasharray:\"2 2\";marker-end:\"url(#arrowhead)\";stroke:#ccf}#mermaid-1555703530798 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1555703530798 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1555703530798 .section{stroke:none;opacity:.2}#mermaid-1555703530798 .section0{fill:rgba(102,102,255,.49)}#mermaid-1555703530798 .section2{fill:#fff400}#mermaid-1555703530798 .section1,#mermaid-1555703530798 .section3{fill:#fff;opacity:.2}#mermaid-1555703530798 .sectionTitle0,#mermaid-1555703530798 .sectionTitle1,#mermaid-1555703530798 .sectionTitle2,#mermaid-1555703530798 .sectionTitle3{fill:#333}#mermaid-1555703530798 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1555703530798 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1555703530798 .grid path{stroke-width:0}#mermaid-1555703530798 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1555703530798 .task{stroke-width:2}#mermaid-1555703530798 .taskText{text-anchor:middle;font-size:11px}#mermaid-1555703530798 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1555703530798 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1555703530798 .taskText0,#mermaid-1555703530798 .taskText1,#mermaid-1555703530798 .taskText2,#mermaid-1555703530798 .taskText3{fill:#fff}#mermaid-1555703530798 .task0,#mermaid-1555703530798 .task1,#mermaid-1555703530798 .task2,#mermaid-1555703530798 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1555703530798 .taskTextOutside0,#mermaid-1555703530798 .taskTextOutside1,#mermaid-1555703530798 .taskTextOutside2,#mermaid-1555703530798 .taskTextOutside3{fill:#000}#mermaid-1555703530798 .active0,#mermaid-1555703530798 .active1,#mermaid-1555703530798 .active2,#mermaid-1555703530798 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1555703530798 .activeText0,#mermaid-1555703530798 .activeText1,#mermaid-1555703530798 .activeText2,#mermaid-1555703530798 .activeText3{fill:#000!important}#mermaid-1555703530798 .done0,#mermaid-1555703530798 .done1,#mermaid-1555703530798 .done2,#mermaid-1555703530798 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1555703530798 .doneText0,#mermaid-1555703530798 .doneText1,#mermaid-1555703530798 .doneText2,#mermaid-1555703530798 .doneText3{fill:#000!important}#mermaid-1555703530798 .crit0,#mermaid-1555703530798 .crit1,#mermaid-1555703530798 .crit2,#mermaid-1555703530798 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1555703530798 .activeCrit0,#mermaid-1555703530798 .activeCrit1,#mermaid-1555703530798 .activeCrit2,#mermaid-1555703530798 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1555703530798 .doneCrit0,#mermaid-1555703530798 .doneCrit1,#mermaid-1555703530798 .doneCrit2,#mermaid-1555703530798 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1555703530798 .activeCritText0,#mermaid-1555703530798 .activeCritText1,#mermaid-1555703530798 .activeCritText2,#mermaid-1555703530798 .activeCritText3,#mermaid-1555703530798 .doneCritText0,#mermaid-1555703530798 .doneCritText1,#mermaid-1555703530798 .doneCritText2,#mermaid-1555703530798 .doneCritText3{fill:#000!important}#mermaid-1555703530798 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1555703530798 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1555703530798 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1555703530798 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1555703530798 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1555703530798 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1555703530798 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1555703530798 #compositionEnd,#mermaid-1555703530798 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1555703530798 #aggregationEnd,#mermaid-1555703530798 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1555703530798 #dependencyEnd,#mermaid-1555703530798 #dependencyStart,#mermaid-1555703530798 #extensionEnd,#mermaid-1555703530798 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1555703530798 .branch-label,#mermaid-1555703530798 .commit-id,#mermaid-1555703530798 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1555703530798 {\n    color: rgb(0, 0, 0);\n    font: normal normal 400 normal 16px / normal \"Times New Roman\";\n  }</style><g transform=\"translate(-12, -12)\"><g class=\"output\"><g class=\"clusters\"></g><g class=\"edgePaths\"><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M146.2265625,59L146.2265625,84L146.2265625,109\" marker-end=\"url(#arrowhead19)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead19\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M146.2265625,148L146.2265625,182L146.2265625,216\" marker-end=\"url(#arrowhead20)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead20\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M146.2265625,274L146.2265625,308L146.2265625,342\" marker-end=\"url(#arrowhead21)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead21\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g></g><g class=\"edgeLabels\"><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"translate(146.2265625,182)\"><g class=\"label\" transform=\"translate(-119.96875,-9)\"><foreignObject height=\"18\" width=\"239.9375\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\">using peptidyl transferarse and rRNA</span></div></foreignObject></g></g><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"translate(146.2265625,308)\"><g class=\"label\" transform=\"translate(-70.21875,-9)\"><foreignObject height=\"18\" width=\"140.4375\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\">tRNA moves to E site</span></div></foreignObject></g></g></g><g class=\"nodes\"><g class=\"node\" id=\"A\" style=\"opacity: 1;\" transform=\"translate(146.2265625,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"59.859375\" x=\"-29.9296875\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-19.9296875,-9.5)\"><foreignObject height=\"19\" width=\"39.859375\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">P site</div></foreignObject></g></g></g><g class=\"node\" id=\"B\" style=\"opacity: 1;\" transform=\"translate(146.2265625,128.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"216.859375\" x=\"-108.4296875\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-98.4296875,-9.5)\"><foreignObject height=\"19\" width=\"196.859375\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">second tRNA binds to A site</div></foreignObject></g></g></g><g class=\"node\" id=\"C\" style=\"opacity: 1;\" transform=\"translate(146.2265625,245)\"><rect height=\"58\" rx=\"0\" ry=\"0\" width=\"252.453125\" x=\"-126.2265625\" y=\"-29\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-116.2265625,-19)\"><foreignObject height=\"38\" width=\"232.453125\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">C-terminus of P site amino acid  <br> attaches to N-terminus on A site</div></foreignObject></g></g></g><g class=\"node\" id=\"D\" style=\"opacity: 1;\" transform=\"translate(146.2265625,361.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"208.984375\" x=\"-104.4921875\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-94.4921875,-9.5)\"><foreignObject height=\"19\" width=\"188.984375\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">the the tRNA can now exit</div></foreignObject></g></g></g></g></g></g></svg>",
+                "graph TD; A[P site]--&gt;B[second tRNA binds to A site]; B--using peptidyl transferase and rRNA---C[C-terminus of P site AA attaches to N-terminus of AA on A site]; C--tRNA moves from P to E---D[tRNA can now exit];",
                 "",
                 ""
             ],
@@ -112333,7 +112227,6 @@
                 "reaction with a positive enthalpy change (\\(﻿+\\Delta H\\))",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -112351,7 +112244,6 @@
                 "56064356828",
                 "exothermic reaction",
                 "reaction with a negative enthalpy change (\\(﻿- \\Delta H\\))",
-                "",
                 "",
                 "",
                 ""
@@ -113767,7 +113659,7 @@
             "fields": [
                 "56398875701",
                 "what happens if nondisjunction occurs during anaphase I?",
-                "‣ one of the cells will have two extra chromatids (one whole chromosome); the other will be missing one<div>‣ typixally behaves normally after lining up during meiosis II</div>",
+                "* one of the cells will have two extra chromatids (one whole chromosome); the other will be missing one<div>* typically behaves normally after lining up during meiosis II</div>",
                 "",
                 "",
                 "",
@@ -115291,7 +115183,6 @@
                 "ganglion",
                 "",
                 "",
-                "",
                 ""
             ],
             "flags": 0,
@@ -115591,6 +115482,384 @@
                 "BC::Carbohydrates",
                 "KhanAcademy::Biomolecules::Carbohydrates",
                 "OC::MolecularStructure"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56826941993",
+                "<img src=\"paste-74eb2b18a30e0f426c2c807c80b0f297bbb5d1b7.png\">",
+                "* Lactose<div>* 1,4 galactose + glucose</div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Lp^@PMjfnQ",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56827020093",
+                "<img src=\"paste-f82adad9a8d0b2f1b208a82c7d363fa3c24700b8.png\">",
+                "* Maltose<div>* 1,4 glucose glucose bond</div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bhuW*84K*f",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56827730083",
+                "<img src=\"paste-92e885308b181001888db442fd1ab4e7ac8a7412.png\">",
+                "* Sucrose<div>* 1,4 glucose fructose</div><div>* reducing sugar&nbsp;</div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OihdLzGfaU",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Carbohydrates",
+                "KhanAcademy::Biomolecules::Carbohydrates"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56828257493",
+                "<div><div>How many total molecules of ATP are synthesized from ADP via glycolysis of a single molecule of glucose?</div></div>",
+                "2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K3c7lh=htv",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Carbohydrates",
+                "KhanAcademy::Biomolecules::CarbohydrateMetabolism"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56830410531",
+                "ATP and the pentose phosphate pathway",
+                "no molecules of ATP are used or produced",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x;%TW_pUJY",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Carbohydrates",
+                "BC::Metabolism",
+                "KhanAcademy::Biomolecules::CarbohydrateMetabolism"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56833484611",
+                "cellular respiration process",
+                "",
+                "",
+                "graph TD; A[glycolysis]--glucose---B(glucose-6-phosphate); B--&gt;C[citric acid cycle]; C--&gt;D[electron transport chain]; B--&gt;E[pentose phosphate pathway]",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Bdb5Gpt173",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Metabolism",
+                "KhanAcademy::Biomolecules::CarbohydrateMetabolism"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56835251170",
+                "oxidative phase of pentose phosphate pathway",
+                "<div>* these steps are irreversible</div><div>Step 1:</div><img src=\"3b5f83e908f3506145d4c0e1641ebe840db3d731.svg\"><div>* \\(﻿G6P\\) is converted to lactone</div><div>* produces&nbsp;\\(﻿NAPH\\)</div><div>* considered a hydrolysis reaction</div><div><br></div><div>Step 2:</div><div><img src=\"e8cf56d34a4f5884b540e372ca493ad948866af8.svg\"><br></div><div>* lactone is converted to&nbsp;\\(﻿ribulose-5-phosphate\\)</div><div>*&nbsp;\\(﻿NAPH\\) is produced and the cleavage of carbon produces&nbsp;\\(﻿CO_{2}\\)</div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KzfeI`ir^",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Metabolism",
+                "KhanAcademy::Biomolecules::CarbohydrateMetabolism"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56835457389",
+                "non-oxidative phase of the pentose phosphate pathway",
+                "* these steps are reversible<div>Step 3:&nbsp;</div><div><img src=\"ab538a2130fcb0d7232666b3842584be62a12520.svg\"><br></div><div>* no change in carbon count</div><div>Step 4:</div><div>* can take different paths debending on the cells needs include making:&nbsp;precursor for amino acids, <b>ribose-5-phosphate </b>(precursor for DNA, RNA)</div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zH_r21Edka",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Metabolism",
+                "KhanAcademy::Biomolecules::CarbohydrateMetabolism"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56835673673",
+                "summary of whats used/produced in the pentose phosphate pathway",
+                "<div>oxidative phase:</div>* -1&nbsp;\\(﻿H_{2}O\\)<div>* +2&nbsp;\\(﻿NAPH\\)</div><div>* +1&nbsp;\\(﻿CO_{2}\\)</div><div>non-oxidative phase:</div><div>* ribose-5-phosphate is formed for RNA/DNA building</div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O0iDF#Atq+",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Metabolism",
+                "KhanAcademy::Biomolecules::CarbohydrateMetabolism"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56835767269",
+                "cellular respiration produces {{c1::38}} ATP",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A%$9JUVG`H",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "BC::Metabolism",
+                "KhanAcademy::Biomolecules::CarbohydrateMetabolism"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56835995496",
+                "glycolysis energy needs and production",
+                "+4 ATP<div>-2 ATP</div><div><br></div><div>Net: +2 ATP</div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HRlPb:3ne~",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Metabolism",
+                "KhanAcademy::Biomolecules::CarbohydrateMetabolism"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56852545534",
+                "\\(﻿NADH\\) produces {{c1::3}} ATPs in the ETC",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d<-#4e9zU9",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "BC::Metabolism",
+                "KhanAcademy::Biomolecules::CarbohydrateMetabolism"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56852602659",
+                "\\(﻿FADH_{2}\\) produces {{c1::2}} ATPs in the ETC",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NAs#$WjHf{",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "BC::Metabolism",
+                "KhanAcademy::Biomolecules::CarbohydrateMetabolism"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56856245518",
+                "autosome",
+                "any chromosome&nbsp;that is&nbsp;not&nbsp;a&nbsp;sex chromosome",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fpw(/qUx&6",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Genetics",
+                "EK::BIO/BC1::Lecture2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56856278394",
+                "does mature RNA have introns?",
+                "no",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qjq/>}_qF4",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Genetics",
+                "EK::BIO/BC1::Lecture2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56857675907",
+                "spliceosome mechanism",
+                "(takes place in the nucleus)",
+                "",
+                "graph LR; A[brings ends of introns together forming a loop aka lariat]--&gt;B[introns are excised]; B--&gt;C[exon ends are joined together];",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OJ6tu6&V6^",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Genetics",
+                "EK::BIO/BC1::Lecture2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56916433294",
+                "organ that produces VLDL",
+                "the liver",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sL<Y;L(cf(",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Metabolism",
+                "EK::BIO/BC1::Lecture3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56916491769",
+                "net ATP production from fermentation",
+                "+2 ATP",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q^4std0|pG",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Metabolism",
+                "EK::BIO/BC1::Lecture3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56916551784",
+                "substrate-level phosphorylation",
+                "phosphorous from an intermediate is transferred to either a GDP or ADP",
+                "if its another molecule being phosphorylated IT IS NOT CONSIDERED TO BE SUBSTRATE-LEVEL PHOSPHORYLATION",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q4u@@jLJB2",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Metabolism",
+                "EK::BIO/BC1::Lecture3"
             ]
         }
     ]
