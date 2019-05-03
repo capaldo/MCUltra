@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/card%20count-5500%2B-red.svg"></img>
 
 # Introduction
-A collaborative MCAT deck containing premed95's (reformatted), Ortho528 (reformatted), and my own cards. My cards stem from EK and KhanAcademy.
+A collaborative MCAT deck containing premed95's (reformatted), Ortho528 (reformatted), and my own cards. My cards stem from EK and KhanAcademy. Some cards may not display properly due to the theme I currently am using. Currently working on a stripped down, text/image only solution but for the time being this is what I'll be able to put up. If you're interested in installing the theme, take a look over at my other repo: [ankibw](https://github.com/capaldo/ankiBW).
 
 ## Why?
 The idea is to use Github and the [CrowdAnki](https://github.com/Stvad/CrowdAnki) plugin to facilitate collaboration among premeds with the hopes of producing a repository of high-quality cards covering all the content.
