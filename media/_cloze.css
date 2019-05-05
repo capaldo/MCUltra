@@ -22,14 +22,21 @@
     display: inline-block;
 }
 
+b {
+    color: #FBDB42;
+ }
+
+i {
+     color: #FBDB42;
+}
 
 hr.dark {
     margin-bottom: 4%;
-    border: 2.5px solid #000;
+    border: 2.5px solid #000000;
     margin-top: 4%;
 }
 
-::-webkit-scrollbar {
+::scrollbar {
     width: 0.1em;
 }
 
@@ -44,7 +51,7 @@ hr.dark {
     zoom: 100%;
 }
 
-body::-webkit-scrollbar-thumb {
+body::scrollbar-thumb {
     background-color: #131313;
 }
 
@@ -83,6 +90,7 @@ body::-webkit-scrollbar-thumb {
     color: #F0F0F0;
     transition: color 0.5s ease-in;
 }
+
 h1 {
     color: #F0F0F0;
     text-align: center;
@@ -93,10 +101,10 @@ h2 {
     text-align: center;
 }
 
-  h3 {
-      color: #F0F0F0;
-      text-align: center;
-  }
+h3 {
+    color: #F0F0F0;
+    text-align: center;
+}
 
 h4 {
     color: #F0F0F0;
@@ -115,73 +123,12 @@ h6  {
 
 mark {
     background-color: #FBDB42;
-    color: black;
+    color: #000000;
 }
 
 
 .mermaid {
     font-size: 14px;
-}
-
-.lbl-toggle {
-    display: block;
-    font-weight: bold;
-    font-size: 0.7rem;
-    text-transform: uppercase;
-    text-align: center;
-    padding: 0.2rem;
-    color: #F0F0F0;
-    background: rgba(6, 123, 195, 1.000);
-    cursor: pointer;
-    border-radius: 7px;
-    transition: all 0.25s ease-out;
-}
-
-.lbl-toggle:hover {
-    color: rgba(6, 123, 195, 1.000);
-}
-
-.lbl-toggle::before {
-    content: ' ';
-    display: inline-block;
-    border-top: 5px solid transparent;
-    border-bottom: 5px solid transparent;
-    border-left: 5px solid currentColor;
-    vertical-align: middle;
-    margin-right: .7rem;
-    transform: translateY(-2px);
-    transition: transform .2s ease-out;
-}
-
-.toggle:checked + .lbl-toggle::before {
-    transform: rotate(90deg) translateX(-3px);
-}
-
-.collapsible-content {
-    max-height: 0px;
-    transition: max-height .25s ease-in-out;
-    overflow: hidden;
-}
-
-.toggle:checked + .lbl-toggle + .collapsible-content {
-    max-height: 50%;
-}
-
-.toggle:checked + .lbl-toggle {
-    border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0;
-}
-
-.collapsible-content .content-inner {
-    background: rgba(6, 123, 195, 0.100);
-    border-bottom: 1px solid rgba(6, 123, 195, 0.100);
-    border-bottom-left-radius: 7px;
-    border-bottom-right-radius: 7px;
-    padding: .1rem 0.5rem;
-}
-
-input[type='checkbox']{
-    display:none;
 }
 
 .btn {
@@ -202,7 +149,6 @@ input[type='checkbox']{
 
 .footer2 {
     position: absolute;
-    bottom: 10px;
     right: 50%;
     left: 52%;
 }
@@ -218,5 +164,5 @@ input[type='checkbox']{
  }
 
 .zoom:hover {
-    transform: scale(4);
+    transform: scale(7);
 }

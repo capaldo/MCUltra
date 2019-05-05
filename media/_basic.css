@@ -1,5 +1,5 @@
 @font-face {
-    font-family: literation; 
+    font-family: "Literation"; 
     src: url('_literationmono.ttf');
 }
 @font-face {
@@ -14,13 +14,13 @@
 }
 
 hr.dark {
-    border: 2.5px solid #000;
+    border: 2.5px solid #000000;
     margin-bottom: 4%;
     margin-top: 4%;
 }
 
 b {
-    color: #56C13F;
+    color: #FBDB42;
  }
 
 i {
@@ -58,13 +58,13 @@ img {
 }
 
 .tags {
-    font-family: "PragmataPro Nerd Font";
+    font-family: "PragmataPro Nerd Font", "Literation";
     font-style: normal;
     font-size: 12px;
     text-align: right;
     margin-bottom: 4%;
     user-select: none;
-    color: #000;
+    color: #000000;
 }
 
 .tags:hover {
@@ -151,14 +151,14 @@ mark {
     display: inline-block;
     text-decoration: underline;
     text-decoration-style: dashed;
-    text-decoration-color: #292929;
+    text-decoration-color: #383838;
 }
 
 .tooltip .tooltiptext {
     visibility: hidden;
     width: 120px;
     background-color: #F0F0F0;
-    color: #292929;
+    color: #383838;
     text-align: center;
     border-radius: 6px;
     padding: 5px 0;
