@@ -3105,8 +3105,8 @@
             ],
             "sortf": 1,
             "tags": [
-                "BC::Metabolism",
-                "EK::BIO/BC1::Lecture3"
+                "PHY::Equations::Motion",
+                "PHY::Motion&Force"
             ],
             "tmpls": [
                 {
@@ -3615,139 +3615,6 @@
                     "name": "IO Card",
                     "ord": 0,
                     "qfmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_imgQAE.css\">\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"_imgQAE.js\"></script>\n\n<!--HTML-->\n<div class=\"header\">\n{{Deck}} {{Tags}} {{Type}}\n</div>\n\n{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "77f5eb86-6c93-11e9-9709-bc6a2f5667ec",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Avenir Next\";\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: #DEDEDE;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "ID (hidden)",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Header",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Image",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Question Mask",
-                    "ord": 3,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Footer",
-                    "ord": 4,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Remarks",
-                    "ord": 5,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Sources",
-                    "ord": 6,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 1",
-                    "ord": 7,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 2",
-                    "ord": 8,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Answer Mask",
-                    "ord": 9,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Original Mask",
-                    "ord": 10,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
-            "req": [
-                [
-                    0,
-                    "all",
-                    [
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 1,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "IO Card",
-                    "ord": 0,
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
                 }
             ],
             "type": 0,
@@ -18688,7 +18555,7 @@
             "fields": [
                 "-28704854780",
                 "Equation for torque&nbsp;",
-                "T = F*r*sin(theta)",
+                "\\(﻿\\tau = F*r*sin(\\theta)\\)<div>\\(﻿r =\\) moment arm</div><div>\\(﻿F =\\) force<br></div><div>\\(﻿sin \\theta =\\) angle the force is applied at<br></div>",
                 "",
                 "",
                 ""
@@ -18697,7 +18564,9 @@
             "guid": "KJPbq&YT6K",
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "EK::PHY::Lecture1",
+                "Ortho528",
+                "PHY::Torque"
             ]
         },
         {
@@ -57558,6 +57427,7 @@
             "note_model_uuid": "77d07a8c-6c93-11e9-bc1d-bc6a2f5667ec",
             "tags": [
                 "BIO",
+                "BIO::GISystem",
                 "Ortho528",
                 "bb",
                 "digestion",
@@ -57585,11 +57455,8 @@
             "guid": "d?3R)U3Xww",
             "note_model_uuid": "77d07a8c-6c93-11e9-bc1d-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::GISystem",
+                "Ortho528"
             ]
         },
         {
@@ -57613,11 +57480,8 @@
             "guid": "QOi!ZqGVOW",
             "note_model_uuid": "77d07a8c-6c93-11e9-bc1d-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::GISystem",
+                "Ortho528"
             ]
         },
         {
@@ -57641,11 +57505,8 @@
             "guid": "L%Qq>E_FZ!",
             "note_model_uuid": "77d07a8c-6c93-11e9-bc1d-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::GISystem",
+                "Ortho528"
             ]
         },
         {
@@ -57669,11 +57530,8 @@
             "guid": "qTo,SjF`j+",
             "note_model_uuid": "77d07a8c-6c93-11e9-bc1d-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::GISystem",
+                "Ortho528"
             ]
         },
         {
@@ -57697,11 +57555,8 @@
             "guid": "x=$NqO+rR~",
             "note_model_uuid": "77d07a8c-6c93-11e9-bc1d-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::GISystem",
+                "Ortho528"
             ]
         },
         {
@@ -66306,7 +66161,7 @@
             "data": "",
             "fields": [
                 "-16018640516",
-                "Equation for wavelength:",
+                "Equation for wavelength speed:",
                 "<div>\\(﻿v = \\lambda*f\\)<br></div>",
                 "",
                 "",
@@ -85896,7 +85751,7 @@
             "data": "",
             "fields": [
                 "-12891418337",
-                "The potential energy of an oscillatory motion is {{c1::1/2kx^2}}",
+                "The potential energy of an oscillatory motion is {{c1::\\(﻿\\frac{1}{2}kx^2\\)}}",
                 "",
                 "",
                 "",
@@ -85909,9 +85764,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "energy",
-                "waves"
+                "PHY::Equations",
+                "PHY::Waves"
             ]
         },
         {
@@ -97727,7 +97581,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "",
+                "52368027105",
                 "The Krebs Cycle and Electron Transport Chain occur in the",
                 "mitochondria",
                 "",
@@ -97739,7 +97593,7 @@
             "guid": "D`D0)cH=d;",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO::Cell"
+                "BC::Metabolism"
             ]
         },
         {
@@ -103368,7 +103222,7 @@
             "guid": "g@~(z=AR={",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO::OrganismClassification",
+                "BIO::Taxonomy",
                 "EK::BIO/BC2::Lecture1"
             ]
         },
@@ -103388,7 +103242,7 @@
             "guid": "AoMB!R`Nry",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO::OrganismClassification",
+                "BIO::Taxonomy",
                 "EK::BIO/BC2::Lecture1"
             ]
         },
@@ -103396,7 +103250,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "",
+                "54168964428",
                 "species",
                 "organisms that can reproduce fertile offspring with eachother",
                 "",
@@ -103408,7 +103262,7 @@
             "guid": "f){unhmA|0",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO::OrganismClassification",
+                "BIO::Taxonomy",
                 "EK::BIO/BC2::Lecture1"
             ]
         },
@@ -109594,46 +109448,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "55214451674",
-                "linear motion equation if you ARE NOT given&nbsp;\\(﻿{a}_{avg}\\)?",
-                "\\(﻿\\Delta x = (\\frac{v_{f}+v_{i}}{2})*\\Delta t\\)",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "LDaqf-br!.",
-            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
-            "tags": [
-                "EK::PHY::Lecture1",
-                "PHY::Vectors&Scalars"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "55214746359",
-                "linear motion equation for \\(v_{avg}\\) when you are not given \\(﻿\\Delta x\\)",
-                "\\(﻿v_{avg}=a*\\Delta{t}\\)<br>",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "F9gg;uU5/T",
-            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
-            "tags": [
-                "EK::PHY::Lecture1",
-                "PHY::Vectors&Scalars"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "55214840482",
                 "linear motion equation if you are CANT use&nbsp;\\(﻿\\Delta t\\)",
                 "\\(﻿v^{2}_{f}=v_{o}^{2}+2a\\Delta x\\)",
@@ -110094,26 +109908,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "55368513948",
-                "mass in relation to air resistance and projectile motion",
-                "‣ mass of an object<b> does not</b> affect the <u>force</u> of air resistance experienced by an object<div>‣‣ it <b>does </b>affect the <u>acceleration</u> that results from air resistance</div>",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "tj`s&S/He<",
-            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
-            "tags": [
-                "EK::PHY::Lecture1",
-                "PHY::Motion&Force"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "55368573493",
                 "When a golfball and a ping pong ball are thrown from the same height the {{c1::golf ball}} will be {{c2::slowed down less}}",
                 "",
@@ -110148,7 +109942,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "EK::PHY::Lecture1",
-                "PHY::Equations::Motion",
+                "PHY::Equations",
                 "PHY::Motion&Force"
             ]
         },
@@ -111390,7 +111184,7 @@
             "guid": "JKY[pQwi^q",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO::Cell::Mitosis",
+                "BIO::Cell",
                 "EK::BIO/BC1::Lecture2"
             ]
         },
@@ -111410,7 +111204,7 @@
             "guid": "yBtc3D00IT",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO::Cell::Mitosis",
+                "BIO::Cell",
                 "EK::BIO/BC1::Lecture2"
             ]
         },
@@ -111430,7 +111224,7 @@
             "guid": "x(L*Zhm`ZM",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO::Cell::Mitosis",
+                "BIO::Cell",
                 "EK::BIO/BC1::Lecture2"
             ]
         },
@@ -111450,7 +111244,7 @@
             "guid": "n(BE}:G<*X",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO::Cell::Mitosis",
+                "BIO::Cell",
                 "EK::BIO/BC1::Lecture2"
             ]
         },
@@ -111470,7 +111264,7 @@
             "guid": "kv3sW`O)o+",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO::Cell::Mitosis",
+                "BIO::Cell",
                 "EK::BIO/BC1::Lecture2"
             ]
         },
@@ -111490,7 +111284,7 @@
             "guid": "F}lR89y>]K",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO::Cell::Mitosis",
+                "BIO::Cell",
                 "EK::BIO/BC1::Lecture2"
             ]
         },
@@ -111510,7 +111304,7 @@
             "guid": "L_jKRvXrt)",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO::Cell::Mitosis",
+                "BIO::Cell",
                 "EK::BIO/BC1::Lecture2"
             ]
         },
@@ -111530,28 +111324,8 @@
             "guid": "e3B@!z**q@",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO::Cell::Mitosis",
+                "BIO::Cell",
                 "EK::BIO/BC1::Lecture2"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "55787450777",
-                "\\(﻿\\Delta x =\\)&nbsp;→ using a, t only (no v)",
-                "\\(﻿\\Delta x = \\frac{1}{2} at^{2}\\)",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "p~cppZ6z9x",
-            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
-            "tags": [
-                "PHY::Equations::Motion",
-                "PHY::Motion&Force"
             ]
         },
         {
@@ -112361,9 +112135,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "3e7a27779d4840f38070feba73fc56ef-ao-1",
                 "",
                 "<img src=\"tmpimost1bg.png\" />",
+                "3e7a27779d4840f38070feba73fc56ef-ao-1",
+                "",
                 "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-1-Q.svg\" />",
                 "",
                 "",
@@ -112375,7 +112150,7 @@
             ],
             "flags": 0,
             "guid": "F;QTfcd@mI",
-            "note_model_uuid": "77f5eb86-6c93-11e9-9709-bc6a2f5667ec",
+            "note_model_uuid": "77ef6e08-6c93-11e9-a428-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
                 "GC::Thermodynamics"
@@ -112385,9 +112160,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "3e7a27779d4840f38070feba73fc56ef-ao-2",
                 "",
                 "<img src=\"tmpimost1bg.png\" />",
+                "3e7a27779d4840f38070feba73fc56ef-ao-2",
+                "",
                 "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-2-Q.svg\" />",
                 "",
                 "",
@@ -112399,7 +112175,7 @@
             ],
             "flags": 0,
             "guid": "dXJ$aNT3(9",
-            "note_model_uuid": "77f5eb86-6c93-11e9-9709-bc6a2f5667ec",
+            "note_model_uuid": "77ef6e08-6c93-11e9-a428-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
                 "GC::Thermodynamics"
@@ -112409,9 +112185,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "56065864397",
+                "<img src=\"tmpimost1bg.png\" />",
                 "3e7a27779d4840f38070feba73fc56ef-ao-3",
                 "",
-                "<img src=\"tmpimost1bg.png\" />",
                 "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-3-Q.svg\" />",
                 "",
                 "",
@@ -112423,7 +112200,7 @@
             ],
             "flags": 0,
             "guid": "f{(aoqbDlt",
-            "note_model_uuid": "77f5eb86-6c93-11e9-9709-bc6a2f5667ec",
+            "note_model_uuid": "77ef6e08-6c93-11e9-a428-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
                 "GC::Thermodynamics"
@@ -112433,9 +112210,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "3e7a27779d4840f38070feba73fc56ef-ao-4",
                 "",
                 "<img src=\"tmpimost1bg.png\" />",
+                "3e7a27779d4840f38070feba73fc56ef-ao-4",
+                "",
                 "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-4-Q.svg\" />",
                 "",
                 "",
@@ -112447,7 +112225,7 @@
             ],
             "flags": 0,
             "guid": "QK{Wc#9R8i",
-            "note_model_uuid": "77f5eb86-6c93-11e9-9709-bc6a2f5667ec",
+            "note_model_uuid": "77ef6e08-6c93-11e9-a428-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
                 "GC::Thermodynamics"
@@ -112457,9 +112235,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "24cba3b29b8348328753a6a9971be918-ao-1",
                 "",
                 "<img src=\"tmpr5l8ssum.png\" />",
+                "24cba3b29b8348328753a6a9971be918-ao-1",
+                "",
                 "<img src=\"24cba3b29b8348328753a6a9971be918-ao-1-Q.svg\" />",
                 "",
                 "",
@@ -112471,7 +112250,7 @@
             ],
             "flags": 0,
             "guid": "sTd|l/G8Cs",
-            "note_model_uuid": "77f5eb86-6c93-11e9-9709-bc6a2f5667ec",
+            "note_model_uuid": "77ef6e08-6c93-11e9-a428-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
                 "GC::Thermodynamics"
@@ -112481,9 +112260,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "24cba3b29b8348328753a6a9971be918-ao-2",
                 "",
                 "<img src=\"tmpr5l8ssum.png\" />",
+                "24cba3b29b8348328753a6a9971be918-ao-2",
+                "",
                 "<img src=\"24cba3b29b8348328753a6a9971be918-ao-2-Q.svg\" />",
                 "",
                 "",
@@ -112495,7 +112275,7 @@
             ],
             "flags": 0,
             "guid": "c&*6%fRFZI",
-            "note_model_uuid": "77f5eb86-6c93-11e9-9709-bc6a2f5667ec",
+            "note_model_uuid": "77ef6e08-6c93-11e9-a428-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
                 "GC::Thermodynamics"
@@ -112505,9 +112285,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "24cba3b29b8348328753a6a9971be918-ao-3",
                 "",
                 "<img src=\"tmpr5l8ssum.png\" />",
+                "24cba3b29b8348328753a6a9971be918-ao-3",
+                "",
                 "<img src=\"24cba3b29b8348328753a6a9971be918-ao-3-Q.svg\" />",
                 "",
                 "",
@@ -112519,7 +112300,7 @@
             ],
             "flags": 0,
             "guid": "HF=@Af=G3Q",
-            "note_model_uuid": "77f5eb86-6c93-11e9-9709-bc6a2f5667ec",
+            "note_model_uuid": "77ef6e08-6c93-11e9-a428-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
                 "GC::Thermodynamics"
@@ -112529,9 +112310,10 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "56065916360",
+                "<img src=\"tmpr5l8ssum.png\" />",
                 "24cba3b29b8348328753a6a9971be918-ao-4",
                 "",
-                "<img src=\"tmpr5l8ssum.png\" />",
                 "<img src=\"24cba3b29b8348328753a6a9971be918-ao-4-Q.svg\" />",
                 "",
                 "",
@@ -112543,7 +112325,7 @@
             ],
             "flags": 0,
             "guid": "y;<?6/Z&&*",
-            "note_model_uuid": "77f5eb86-6c93-11e9-9709-bc6a2f5667ec",
+            "note_model_uuid": "77ef6e08-6c93-11e9-a428-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
                 "GC::Thermodynamics"
@@ -112809,26 +112591,6 @@
             "tags": [
                 "EK::GC/OC::Lecture4",
                 "GC::Thermodynamics"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "56183566986",
-                "torque (\\(﻿\\tau\\))",
-                "\\(﻿\\tau = Frsin \\theta\\)<div>\\(﻿F=\\text{force vector}\\)<br></div><div>\\(﻿r=\\text{position vector}\\)<br></div>",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "PmmEG--`<_",
-            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
-            "tags": [
-                "EK::PHY::Lecture2",
-                "PHY::Torque"
             ]
         },
         {
@@ -115860,6 +115622,47 @@
             "tags": [
                 "BC::Metabolism",
                 "EK::BIO/BC1::Lecture3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56923961449",
+                "what does it mean to call a reaction spontaneous?",
+                "products of the reaction have lower free energy than the reactants",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KJ@S/kZ!$~",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Metabolism",
+                "GC::Thermodynamics",
+                "KhanAcademy::Biomolecules::Metabolism"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57017984300",
+                "linear motion equations",
+                "\\(﻿v_{f}=v_{i}+at\\)<div>\\(﻿\\Delta x=v_{i}t+\\frac{1}{2}at^{2}\\)<br></div><div>\\(﻿\\Delta x=v_{avg}t\\)<br></div><div>\\(﻿v_{f}^{2}=v_{i}^{2}+2a\\Delta x\\)</div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G6+@s&ljr",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PHY::Equations",
+                "PHY::Motion&Force"
             ]
         }
     ]
