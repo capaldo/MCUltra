@@ -24,8 +24,16 @@ hr.dark {
     display: inline-block;
 }
 
+b {
+    color: #56C13F;
+ }
+
+i {
+     color: #FBDB42;
+}
+
 .mac {
-  zoom: 100%;
+  zoom: 120%;
 }
 
 ::-webkit-scrollbar {
@@ -206,6 +214,8 @@ padding-top: 15px;
 
 .zoom:hover {
  transform: scale(7);
+ max-width: 2.5em;
+ max-height: 2.5em;
 }
 
 .tooltip {
