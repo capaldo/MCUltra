@@ -23,7 +23,7 @@
 }
 
 b {
-    color: #FBDB42;
+    color: #56C13F;
  }
 
 i {
@@ -48,7 +48,7 @@ hr.dark {
 
 
 .mac {
-    zoom: 100%;
+    zoom: 110%;
 }
 
 body::scrollbar-thumb {
@@ -165,4 +165,5 @@ mark {
 
 .zoom:hover {
     transform: scale(7);
+    max-width: 2.5em;
 }
