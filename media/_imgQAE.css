@@ -13,6 +13,14 @@
     src: url('_pragmatapro.ttf');
 }
 
+.mac .img {
+    zoom: 80%;
+}
+
+.mac {
+    zoom: 100%;
+}
+
 hr.dark {
     border: 2.5px solid #000000;
     margin-bottom: 4%;
@@ -23,6 +31,14 @@ hr.dark {
     font-size: 15px;
     align-text: left;
     display: inline-block;
+}
+
+b {
+    color: #56C13F;
+ }
+
+i {
+     color: #FBDB42;
 }
 
 .tags {
