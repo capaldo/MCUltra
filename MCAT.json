@@ -2514,7 +2514,6 @@
         "ef32f60ab607f67252e14062aff3b95c468d7126_tmp1mv9jx.png",
         "elcmx.gif",
         "epimers.png",
-        "ethnographyhouse.jpg",
         "ewor4.gif",
         "eye-anatomy-2012_650.gif",
         "eyedist2.jpg",
@@ -2689,6 +2688,7 @@
         "mcatperiodic.png",
         "nh4cldiag.GIF",
         "nri1089-f2.jpg",
+        "paste-005462c56bf3a7eb63cee6c0992b7a95068322d8.png",
         "paste-01d1b42e3271f07ffe5f62a1bb577fec945010d9.png",
         "paste-0424cf93d259628066384117227a77f3c8a9f190.png",
         "paste-06d603144734ccdfd421560253f179a544e17d73.png",
@@ -2875,7 +2875,6 @@
         "paste-5f3bfa2bbc54eeede4c49cdcf4645470fb53b3c3.png",
         "paste-60675002990593.jpg",
         "paste-60e63bcc82c6dcaf0caf58f7adf442f485206eac.png",
-        "paste-6171868004354.jpg",
         "paste-6201d5dfc8784f7eefb09873b1ad2d8868070d2b.png",
         "paste-62354335203329.jpg",
         "paste-62397284876289.jpg",
@@ -2959,6 +2958,7 @@
         "paste-9779e36f906dbabe5b1269814b30685dcc7ea943.png",
         "paste-9955734192129.jpg",
         "paste-a0700661d1545b11ea1742a4d9e00e197b879a6d.png",
+        "paste-a50c08371e0e567e5009da4810c3832cb0c6b885.png",
         "paste-a5411acd49ba4016067d6f1417a3f1c2b9b17e4a.png",
         "paste-a79716da9745cee90be9c96bb963f50971aa42fc copy.png",
         "paste-aa3b194115d01cc8ce59761f467995aacb5ea8a4.png",
@@ -2969,6 +2969,7 @@
         "paste-b20bc8b4728df0776606e81d2fef70c47ab3acbe.png",
         "paste-b356d9b910684827f5faa7cca662e45d6dfafe01.png",
         "paste-b92ccf8c43c189e7728f0bdba563a1e12039685b.png",
+        "paste-c19e514d97a7555447aa367916a0ee20a503b784.png",
         "paste-c5004906ea0f8446e547ec33e70591b639d66748.png",
         "paste-c840e1f269542c0a27c11963725efa1f1a6e404b.png",
         "paste-cb61ad2f0821dc985e35ab5d1496b91200948fed.png",
@@ -3016,7 +3017,7 @@
         "wpsi7igk.gif",
         "xawake-vs-rem-sleep-brain-activity.jpg.pagespeed.ic.edNjGZ8Jgb.jpg"
     ],
-    "mid": "1557086564191",
+    "mid": 1428963858757,
     "name": "MCAT",
     "note_models": [
         {
@@ -3103,17 +3104,19 @@
             ],
             "sortf": 1,
             "tags": [
-                "Sample::Basic"
+                "BIO::NervousSystem",
+                "EK::BIO/BC2::Lecture2",
+                "PSY::Cognition"
             ],
             "tmpls": [
                 {
-                    "afmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n\n<div class=\"front\">\n{{FrontSide}}\n</div>\n\n{{#Back}}\n<hr class=\"dark\">\n<div class=\"tooltip\">\n<span class=\"tooltiptext\">{{simple-popup}}</span>\n<div class=\"back\">\n    {{Back}}\n</div>\n</div>\n{{/Back}}\n\n<!--- image --->\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">\n    {{image}}\n</div>\n{{/image}}\n\n<!--- mermaid graphs --->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"mermaid\"> \n   {{text:mermaid}}\n</div>\n{{/mermaid}}\n\n{{#webpage}}\n<div class=\"footer\">\n    <a href=\"{{text:webpage}}\"><button class=\"btn default\">webpage</button></a>\n</div>\n{{/webpage}}\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script type=\"text/javascript\">\n$(document).ready(function() {\n    $(\".back\").html(function(index, currentHtml) {\n   return currentHtml.replace(/\\* /gi, \"‣ \");\n    });\n});\n</script>",
+                    "afmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n<div class=\"front\">\n{{FrontSide}}\n</div>\n\n{{#Back}}\n<hr class=\"dark\">\n<div class=\"tooltip\">\n<span class=\"tooltiptext\">{{simple-popup}}</span>\n<div class=\"back\" id=\"back\">\n    {{Back}}\n</div>\n</div>\n{{/Back}}\n\n<!--- image --->\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">\n    {{image}}\n</div>\n{{/image}}\n\n<!--- mermaid graphs --->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"mermaid\"> \n   {{text:mermaid}}\n</div>\n{{/mermaid}}\n\n{{#webpage}}\n<div class=\"footer\">\n    <a href=\"{{text:webpage}}\"><button class=\"btn default\">webpage</button></a>\n</div>\n{{/webpage}}\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script>\n$(document).ready(function() {\n    $(\".back\").html(function(index, currentHtml) {\n   return currentHtml.replace(/\\* /gi, \"‣ \");\n    });\n});\n</script>",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "\n<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n\n<!--tags-->\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}\n{{Deck}} \n{{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}\n{{Tags}} \n{{^Type}}<font color=\"red\">MISSING</font>{{/Type}}\n{{Type}}\n</div>\n\n<!--front of the card-->\n<div class=\"front\">\n{{Front}}\n</div>\n\n<!--JS-->\n\n<script type=\"text/javascript\" src=\"_basic.js\"></script>\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>",
+                    "qfmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n\n<!--tags-->\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}\n{{Deck}} \n{{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}\n{{Tags}} \n{{^Type}}<font color=\"red\">MISSING</font>{{/Type}}\n{{Type}}\n</div>\n\n<!--front of the card-->\n<div class=\"front\">\n{{Front}}\n</div>\n\n<!--JS-->\n \n<script type=\"text/javascript\" src=\"_basic.js\"></script>\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>",
                     "scratchPad": false
                 }
             ],
@@ -3195,17 +3198,18 @@
             "name": "Clozine",
             "sortf": 1,
             "tags": [
-                "Sample::Cloze"
+                "BIO::NervousSystem",
+                "EK::BIO/BC2::Lecture2"
             ],
             "tmpls": [
                 {
-                    "afmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_cloze.css\">\n\n\n<!--HTML-->\n\n<!--tags-->\n<div class=\"tags\">{{Deck}} {{Tags}} {{Type}}</div> \n\n<!--- body --->\n<div class=\"card\">\n{{cloze:Text}} \n</div>\n\n<!--extra-->\n{{#Extra}}\n<div class=\"extra\"> \n<hr class=\"dark\">\n{{Extra}}\n</div>\n{{/Extra}}\n\n<!--mermaid graphs-->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"mermaid\"> \n   {{text:mermaid}}\n</div>\n{{/mermaid}}\n\n<!--image-->\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">\n{{image}}\n</div>\n{{/image}}\n\n{{#webpage}}\n<div class=\"footer\">\n    <a href=\"{{text:webpage}}\"><button class=\"btn default\">webpage</button></a>\n</div>\n{{/webpage}}\n\n<script>\n    $(document).ready(function() {\n    $(\".back\").html(function(index, currentHtml) {\n\treturn currentHtml.replace(/\\* /g, \"‣ \");\n    });\n});\n$(document).ready(function() {\n    $(\".tags\").html(function(index, currentHtml) {\n   return currentHtml.replace(/ /gi, \" | \");\n    });\n});\n</script>\n\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"_cloze.js\"></script>\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>",
+                    "afmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_cloze.css\">\n\n\n<!--HTML-->\n\n<!--tags-->\n<div class=\"tags\">{{Deck}} {{Tags}} {{Type}}</div> \n\n<!--- body --->\n<div class=\"text\">\n{{cloze:Text}} \n</div>\n\n<!--extra-->\n{{#Extra}}\n<div class=\"extra\"> \n<hr class=\"dark\">\n{{Extra}}\n</div>\n{{/Extra}}\n\n<!--mermaid graphs-->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"mermaid\"> \n   {{text:mermaid}}\n</div>\n{{/mermaid}}\n\n<!--image-->\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">\n{{image}}\n</div>\n{{/image}}\n\n{{#webpage}}\n<div class=\"footer\">\n    <a href=\"{{text:webpage}}\"><button class=\"btn default\">webpage</button></a>\n</div>\n{{/webpage}}\n\n<!--JS-->\n\n<script type=\"text/javascript\" src=\"_cloze.js\"></script>\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script>\n$(document).ready(function() {\n    $(\".tags\").html(function(index, currentHtml) {\n   return currentHtml.replace(/ /gi, \" | \");\n    });\n});\n</script>",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_cloze.css\">\n<script>\n$(document).ready(function() {\n    $(\".tags\").html(function(index, currentHtml) {\n   return currentHtml.replace(/ /gi, \" | \");\n    });\n});\n</script>\n<!--HTML-->\n<div class=\"tags\">{{Deck}} {{Tags}} {{Type}}</div>\n\n<div class=\"card\">\n    {{cloze:Text}}\n</div>\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"_cloze.js\"></script>\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>",
+                    "qfmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_cloze.css\">\n\n<!--HTML-->\n<div class=\"tags\">{{Deck}} {{Tags}} {{Type}}</div>\n\n<div class=\"text\">\n    {{cloze:Text}}\n</div>\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"_cloze.js\"></script>\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script>\n$(document).ready(function() {\n    $(\".tags\").html(function(index, currentHtml) {\n   return currentHtml.replace(/ /gi, \" | \");\n    });\n});\n</script>\n<script>\n    $(document).ready(function() {\n    $(\".text\").html(function(index, currentHtml) {\n\treturn currentHtml.replace(/\\* /g, \"‣ \");\n    });\n});\n</script>",
                     "scratchPad": false
                 }
             ],
@@ -3342,7 +3346,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_imgQAE.css\">\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}\n{{Deck}} \n{{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}\n{{Tags}} \n{{^Type}}<font color=\"red\">MISSING</font>{{/Type}}\n{{Type}}\n</div>\n\n{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"_imgQAE.js\"></script>\n",
+                    "afmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_imgQAE.css\">\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}\n{{Deck}} \n{{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}\n{{Tags}} \n{{^Type}}<font color=\"red\">MISSING</font>{{/Type}}\n{{Type}}\n</div>\n\n{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n\n",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
@@ -4905,8 +4909,8 @@
             "data": "",
             "fields": [
                 "-40353970735",
-                "SI prefix centi",
-                "10<sup>-2</sup>",
+                "SI prefix <i>centi-</i>",
+                "\\(﻿10^{-2}\\)",
                 "",
                 "",
                 ""
@@ -4915,9 +4919,8 @@
             "guid": "zp;S]`(4}q",
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "units"
+                "GC::General",
+                "Ortho528"
             ]
         },
         {
@@ -9225,9 +9228,8 @@
             "guid": "f=*3GYy>[8",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "enzymes"
+                "BC::Enzymes::Inhibitors",
+                "Ortho528"
             ]
         },
         {
@@ -9676,7 +9678,7 @@
             "data": "",
             "fields": [
                 "-37265399010",
-                "{{c1::Uncompetitive}} inhibitors decrease Km and decrease Vmax",
+                "{{c1::uncompetitive}} inhibitors decrease&nbsp;\\(﻿K_{m}\\) and decrease&nbsp;\\(﻿V_{max}\\)",
                 "",
                 "",
                 "",
@@ -9687,10 +9689,8 @@
             "guid": "K:|Yg7N]No",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "enzymes",
-                "kinetics"
+                "BC::Enzymes::Kinetics",
+                "Ortho528"
             ]
         },
         {
@@ -11540,7 +11540,8 @@
             "guid": "g443dS[AAH",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Society"
             ]
         },
         {
@@ -15301,11 +15302,9 @@
             "guid": "w}:r8[Rp.",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "neuron",
-                "physiology"
+                "BIO::Cell",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -20076,10 +20075,8 @@
             "guid": "nt14rRSQ0&",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -22276,9 +22273,9 @@
             "fields": [
                 "-26738800839",
                 "Aspartic acid structure",
-                "<img src=\"paste-6171868004354.jpg\"><div>&nbsp;‍&nbsp; &nbsp;<br></div>",
                 "",
                 "",
+                "<img src=\"paste-c19e514d97a7555447aa367916a0ee20a503b784.png\">",
                 ""
             ],
             "flags": 0,
@@ -37728,8 +37725,8 @@
             "fields": [
                 "-23622163217",
                 "pK<sub>a</sub> of Cysteine's side chain",
-                "8.00 (protenated at physiological pH)",
-                "",
+                "8.00",
+                "protenated at physiological pH",
                 "",
                 "",
                 ""
@@ -38997,13 +38994,9 @@
             "guid": "be?g2mlyj?",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "heart",
-                "muscles",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -40824,7 +40817,7 @@
                 "",
                 "",
                 "",
-                ""
+                "<img src=\"paste-005462c56bf3a7eb63cee6c0992b7a95068322d8.png\">"
             ],
             "flags": 0,
             "guid": "jV<`$`vM?Q",
@@ -44501,7 +44494,7 @@
             "guid": "iR:}iG;!W;",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "OC::Ketones&Aldehydes",
+                "OC::MolecularStructure",
                 "Ortho528"
             ]
         },
@@ -44543,10 +44536,8 @@
             "guid": "iy^h,b<E}G",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "carboxylic_acids",
-                "cp",
-                "ochem"
+                "OC::Reactions",
+                "Ortho528"
             ]
         },
         {
@@ -45847,8 +45838,8 @@
             "data": "",
             "fields": [
                 "-20583472983",
-                "Is this sugar alpha or beta?<div><img src=\"paste-4780298600449.jpg\" /></div>",
-                "Beta",
+                "Is this sugar&nbsp;\\(﻿\\alpha\\) or \\(﻿\\beta\\)?<div><br><div><img src=\"paste-4780298600449.jpg\"></div></div>",
+                "\\(﻿\\beta\\)",
                 "",
                 "",
                 "",
@@ -46828,11 +46819,9 @@
             "guid": "LD-VX6wK(;",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "respiratory"
+                "BIO::Physiology",
+                "BIO::RespiratorySystem",
+                "Ortho528"
             ]
         },
         {
@@ -49999,7 +49988,7 @@
             "fields": [
                 "-20303641549",
                 "",
-                "Bowman's capsule up close",
+                "<b>Bowman's Capsule</b>",
                 "<img src=\"23e8faf0aa50f4f8a59884f8123da20bf357f0b0_tmpgt3r3e.png\" />",
                 "<img src=\"23e8faf0aa50f4f8a59884f8123da20bf357f0b0_Q 8.svg\" />",
                 "",
@@ -50014,11 +50003,9 @@
             "guid": "k4~y6<o_GC",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -50539,11 +50526,9 @@
             "guid": "Jd5#r-3SPC",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -52211,7 +52196,7 @@
             "data": "",
             "fields": [
                 "-20234235664",
-                "In alkalosis, type {{c1::B}} intercalated cells in the {{c1::collecting duct}} excrete {{c1::HCO3- and K+}} while reabsorbing {{c1::H+}}",
+                "In alkalosis, type {{c1::B}} intercalated cells in the {{c1::collecting duct}} excrete {{c1:: \\(﻿HCO_{3}^{-}\\) and \\(﻿K^{+}\\) }} while reabsorbing {{c1:: \\(﻿H^{+}\\) }}",
                 "",
                 "",
                 "",
@@ -52222,11 +52207,8 @@
             "guid": "OPX;&JBgQy",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -53840,9 +53822,8 @@
             "guid": "w@94S-iP$:",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -53885,9 +53866,8 @@
             "guid": "v3?7.O0-sD",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -53906,9 +53886,8 @@
             "guid": "bP.$X$>q)>",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -53932,9 +53911,8 @@
             "guid": "rt`9Hu-[f",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -53958,9 +53936,8 @@
             "guid": "zpD5b-BOL5",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -53979,9 +53956,8 @@
             "guid": "AO?e^OWueL",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -54000,9 +53976,8 @@
             "guid": "wdy;V`MzD;",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -54021,9 +53996,8 @@
             "guid": "QEIghq{/<$",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -54061,9 +54035,8 @@
             "guid": "tzVTIhMxig",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -54082,9 +54055,8 @@
             "guid": "n4Aw>&x-@_",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -54103,9 +54075,8 @@
             "guid": "Lic|}6ybfl",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -54143,9 +54114,8 @@
             "guid": "AJ=E]F7.KP",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -54164,9 +54134,8 @@
             "guid": "c2=5_#6^0J",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -54185,9 +54154,8 @@
             "guid": "peyrWdGQ^a",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -54206,10 +54174,9 @@
             "guid": "Cv[:f3.8L5",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54228,10 +54195,9 @@
             "guid": "U4Z(1ZaCt",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54250,10 +54216,9 @@
             "guid": "L~<Gioi}*R",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54277,10 +54242,9 @@
             "guid": "Ri4sl0)9f!",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54304,10 +54268,9 @@
             "guid": "M5N$SdND%b",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54331,10 +54294,9 @@
             "guid": "CA1rD`qr[h",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54358,10 +54320,9 @@
             "guid": "A?L.n4/&ap",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54380,10 +54341,9 @@
             "guid": "O0OYy}_iDg",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54402,10 +54362,9 @@
             "guid": "cf+fu`Ngf!",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54424,10 +54383,9 @@
             "guid": "n4I(xhXuWy",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54446,10 +54404,9 @@
             "guid": "HJ7K*@3rKq",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54473,10 +54430,9 @@
             "guid": "jRo7b~_iut",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54500,10 +54456,9 @@
             "guid": "ji<{6:=N&-",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54527,10 +54482,9 @@
             "guid": "rAkBS>g_7P",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54554,10 +54508,9 @@
             "guid": "gK:g`[r2BT",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54581,10 +54534,9 @@
             "guid": "fRW]Sayjb}",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54608,10 +54560,9 @@
             "guid": "D@2AI{!h:P",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54635,10 +54586,9 @@
             "guid": "q}B3#{Fqe{",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54662,10 +54612,9 @@
             "guid": "w+etyd%Xj^",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54684,10 +54633,9 @@
             "guid": "PylJrvW0O~",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54706,10 +54654,9 @@
             "guid": "b3fO9c.9I8",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54728,10 +54675,9 @@
             "guid": "c?q^7/4k/L",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54750,10 +54696,9 @@
             "guid": "Na9+kc9Crg",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -54772,10 +54717,9 @@
             "guid": "q{Do`w?f6g",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp",
-                "titrations"
+                "GC::AcidsBases",
+                "GC::Titrations",
+                "Ortho528"
             ]
         },
         {
@@ -55305,11 +55249,9 @@
             "guid": "D[Hmf-loHl",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::GISystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -57857,7 +57799,7 @@
             "data": "",
             "fields": [
                 "-18504369633",
-                "Glucose is stored as:<div>{{c1::glycogen}} in muscle and liver</div><div>{{c1::triglycerides}}, created in the {{c1::liver}}, in adipose tissue</div><div>{{c1::triglycerides}} created in adipose tissue</div>",
+                "<b>Glucose is stored as:</b><div><br></div><div>* {{c1::glycogen}} in muscle and liver</div><div>* {{c1::triglycerides}}, created in the {{c1::liver}}, in adipose tissue</div><div>* {{c1::triglycerides}} created in adipose tissue</div>",
                 "",
                 "",
                 "",
@@ -57868,11 +57810,9 @@
             "guid": "oTps&!7Cz@",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::GISystem",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -59447,11 +59387,10 @@
             "guid": "EWr|3Y7!_M",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "hormones",
-                "physiology"
+                "BIO::EndocrineSystem",
+                "BIO::NervousSystem",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -59887,9 +59826,8 @@
             "guid": "irRkb+#f&c",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -59908,9 +59846,8 @@
             "guid": "O/v}?;cvY7",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -66325,10 +66262,8 @@
             "guid": "pbY=e4kfd}",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "lab_methods"
+                "GC::LabTechniques",
+                "Ortho528"
             ]
         },
         {
@@ -81664,7 +81599,7 @@
                 "-13399369145",
                 "{{c1::Ethnographic research}} is a research method that involves observing {{c2::social interactions}} in real social settings",
                 "",
-                "<img src=\"ethnographyhouse.jpg\" />",
+                "",
                 "",
                 "",
                 ""
@@ -81674,9 +81609,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "research",
-                "sociology"
+                "PSY::Research"
             ]
         },
         {
@@ -87904,9 +87837,8 @@
             "guid": "C]0CM>9q.i",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -88489,7 +88421,7 @@
             "data": "",
             "fields": [
                 "-11170064833",
-                "{{c1::Identity vs role confusion}} occurs during adolescence (12-18) when teens are trying to develop social relationships with others and find a sense of self or pesonal identity",
+                "{{c1::Identity vs role confusion}} occurs during adolescence (12-18) when teens are trying to develop social relationships with others and find a sense of self or personal identity",
                 "",
                 "",
                 "",
@@ -88501,8 +88433,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "psychology"
+                "PSY::Theories"
             ]
         },
         {
@@ -88801,9 +88732,8 @@
             "guid": "Jpa/oC&nYB",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -90357,9 +90287,8 @@
             "guid": "OjjaQ}rG;3",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "GC::AcidsBases",
                 "Ortho528",
-                "acids_and_bases",
-                "cp",
                 "molecules"
             ]
         },
@@ -90400,9 +90329,8 @@
             "guid": "fEfgiNx%8#",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "acids_and_bases",
-                "cp"
+                "GC::AcidsBases",
+                "Ortho528"
             ]
         },
         {
@@ -92943,7 +92871,8 @@
             "guid": "hj:H[2.F!*",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "GC::Electrochemistry"
+                "Ortho528",
+                "PHY::Circuits"
             ]
         },
         {
@@ -93403,7 +93332,9 @@
             "flags": 0,
             "guid": "MRX#35XKy5",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": []
+            "tags": [
+                "PSY::Attention"
+            ]
         },
         {
             "__type__": "Note",
@@ -97586,8 +97517,8 @@
             "data": "",
             "fields": [
                 "53055265085",
-                "structural proteins are made from&nbsp;",
-                "long polymers",
+                "structural proteins are made from",
+                "<div><span>long polymers</span></div>",
                 "",
                 "",
                 "",
@@ -97626,7 +97557,7 @@
             "fields": [
                 "53055683260",
                 "cilia&nbsp;are made up of",
-                "tubulin",
+                "<i>tubulin</i>",
                 "",
                 "",
                 "",
@@ -99585,7 +99516,7 @@
             "fields": [
                 "53760329171",
                 "electronegativity predicts...",
-                "what kind of bond will form between atoms<div>‣ large difference in electronegativity&nbsp;→&nbsp; ionic bond</div><div>‣ small difference in electronegativity&nbsp;→&nbsp; polar covalent bond<br></div>",
+                "what kind of bond will form between atoms<div>* large difference in electronegativity&nbsp;→&nbsp; ionic bond</div><div>* small difference in electronegativity&nbsp;→&nbsp; polar covalent bond<br></div>",
                 "",
                 "",
                 "",
@@ -99704,8 +99635,8 @@
             "data": "",
             "fields": [
                 "53820018063",
-                "azimuthal quantum number (<i>l</i>)",
-                "indicates the electrons subshell (shape)<div><br></div><div>‣ s&nbsp;→ l = 0</div><div>‣ p&nbsp;→ l = 1</div><div>‣ d&nbsp;→ l = 2</div><div>‣ f&nbsp;→ l = 3</div>",
+                "azimuthal quantum number (\\(﻿l\\))",
+                "indicates the electrons subshell (shape)<div>* s&nbsp;→ l = 0&nbsp;</div><div>* p&nbsp;→ l = 1</div><div><span>* d&nbsp;→ l = 2&nbsp;</span></div><div>* f&nbsp;→ l = 3</div>",
                 "",
                 "",
                 "",
@@ -99865,7 +99796,7 @@
             "fields": [
                 "53822536712",
                 "paramagnetic elements",
-                "‣ elements with unpaired electrons<div>‣ have attractive magnetic forces</div>",
+                "<div><span>* elements with unpaired electrons</span><br></div><div>* have attractive magnetic forces</div>",
                 "",
                 "",
                 "",
@@ -100209,7 +100140,7 @@
             "fields": [
                 "53833810395",
                 "kinetic versus thermodynamic control",
-                "‣ kinetic&nbsp;→ less stable, formed more rapidly, less energy input<div>‣ thermodynamicc&nbsp;→ more stable, formed slower, more energy input</div>",
+                "* kinetic&nbsp;→ less stable, formed more rapidly, less energy input<div>* thermodynamicc&nbsp;→ more stable, formed slower, more energy input</div>",
                 "",
                 "",
                 "",
@@ -105601,7 +105532,7 @@
             "fields": [
                 "54772013466",
                 "carboxylic acids and their derivatives typically undergo",
-                "* acyl substitution",
+                "acyl substitution",
                 "",
                 "",
                 "",
@@ -106246,6 +106177,7 @@
             "guid": "iam[=[(k1t",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
+                "BIO::GISystem",
                 "BIO::Pancreas",
                 "EK::BIO/BC2::Lecture1"
             ]
@@ -106535,7 +106467,7 @@
             "data": "",
             "fields": [
                 "55209234143",
-                "\\(H_{2} + \\text{pressure}\\) as a reagent results in",
+                "\\(H_{2} \\text{ and pressure as a reagent results in}\\)&nbsp;",
                 "reduction",
                 "",
                 "",
@@ -107259,9 +107191,9 @@
             "fields": [
                 "55462850061",
                 "DNA methylation",
-                "addition of methyl group to cytosine nucleotides&nbsp;→ winds DNA more titely&nbsp;→ makes it inacessible for transcription",
                 "",
                 "",
+                "graph LR; A[addition of methyl group to cytosine nucleotides]--&gt;B[winds DNA more tightly]; B--&gt;C[makes it inacessible for transcription];",
                 "",
                 ""
             ],
@@ -107776,7 +107708,7 @@
             "fields": [
                 "55599298672",
                 "5' cap",
-                "‣ in eukaryotes<div>‣ serves as an attachment site during translation</div><div>‣ protects from exonucleases</div>",
+                "* in eukaryotes<div>* serves as an attachment site during translation</div><div>* protects from exonucleases</div>",
                 "",
                 "",
                 "",
@@ -108016,7 +107948,7 @@
             "fields": [
                 "55656034915",
                 "start codon",
-                "‣ marks where translation will begin<div>‣ AUG</div>",
+                "‣ marks where translation will begin<div><b>AUG</b></div>",
                 "",
                 "",
                 "",
@@ -108258,7 +108190,7 @@
                 "A site",
                 "",
                 "",
-                "<svg id=\"mermaid-1555708258311\" style=\"max-width: 654.765625px;\" viewBox=\"0 0 654.765625 55\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><style>#mermaid-1555708258311 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1555708258311 .node circle,#mermaid-1555708258311 .node ellipse,#mermaid-1555708258311 .node polygon,#mermaid-1555708258311 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1555708258311 .node.clickable{cursor:pointer}#mermaid-1555708258311 .arrowheadPath{fill:#333}#mermaid-1555708258311 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1555708258311 .edgeLabel{background-color:#e8e8e8}#mermaid-1555708258311 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1555708258311 .cluster text{fill:#333}#mermaid-1555708258311 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1555708258311 .actor{stroke:#ccf;fill:#ececff}#mermaid-1555708258311 text.actor{fill:#000;stroke:none}#mermaid-1555708258311 .actor-line{stroke:grey}#mermaid-1555708258311 .messageLine0{marker-end:\"url(#arrowhead)\"}#mermaid-1555708258311 .messageLine0,#mermaid-1555708258311 .messageLine1{stroke-width:1.5;stroke-dasharray:\"2 2\";stroke:#333}#mermaid-1555708258311 #arrowhead{fill:#333}#mermaid-1555708258311 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1555708258311 .messageText{fill:#333;stroke:none}#mermaid-1555708258311 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1555708258311 .labelText,#mermaid-1555708258311 .loopText{fill:#000;stroke:none}#mermaid-1555708258311 .loopLine{stroke-width:2;stroke-dasharray:\"2 2\";marker-end:\"url(#arrowhead)\";stroke:#ccf}#mermaid-1555708258311 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1555708258311 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1555708258311 .section{stroke:none;opacity:.2}#mermaid-1555708258311 .section0{fill:rgba(102,102,255,.49)}#mermaid-1555708258311 .section2{fill:#fff400}#mermaid-1555708258311 .section1,#mermaid-1555708258311 .section3{fill:#fff;opacity:.2}#mermaid-1555708258311 .sectionTitle0,#mermaid-1555708258311 .sectionTitle1,#mermaid-1555708258311 .sectionTitle2,#mermaid-1555708258311 .sectionTitle3{fill:#333}#mermaid-1555708258311 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1555708258311 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1555708258311 .grid path{stroke-width:0}#mermaid-1555708258311 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1555708258311 .task{stroke-width:2}#mermaid-1555708258311 .taskText{text-anchor:middle;font-size:11px}#mermaid-1555708258311 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1555708258311 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1555708258311 .taskText0,#mermaid-1555708258311 .taskText1,#mermaid-1555708258311 .taskText2,#mermaid-1555708258311 .taskText3{fill:#fff}#mermaid-1555708258311 .task0,#mermaid-1555708258311 .task1,#mermaid-1555708258311 .task2,#mermaid-1555708258311 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1555708258311 .taskTextOutside0,#mermaid-1555708258311 .taskTextOutside1,#mermaid-1555708258311 .taskTextOutside2,#mermaid-1555708258311 .taskTextOutside3{fill:#000}#mermaid-1555708258311 .active0,#mermaid-1555708258311 .active1,#mermaid-1555708258311 .active2,#mermaid-1555708258311 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1555708258311 .activeText0,#mermaid-1555708258311 .activeText1,#mermaid-1555708258311 .activeText2,#mermaid-1555708258311 .activeText3{fill:#000!important}#mermaid-1555708258311 .done0,#mermaid-1555708258311 .done1,#mermaid-1555708258311 .done2,#mermaid-1555708258311 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1555708258311 .doneText0,#mermaid-1555708258311 .doneText1,#mermaid-1555708258311 .doneText2,#mermaid-1555708258311 .doneText3{fill:#000!important}#mermaid-1555708258311 .crit0,#mermaid-1555708258311 .crit1,#mermaid-1555708258311 .crit2,#mermaid-1555708258311 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1555708258311 .activeCrit0,#mermaid-1555708258311 .activeCrit1,#mermaid-1555708258311 .activeCrit2,#mermaid-1555708258311 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1555708258311 .doneCrit0,#mermaid-1555708258311 .doneCrit1,#mermaid-1555708258311 .doneCrit2,#mermaid-1555708258311 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1555708258311 .activeCritText0,#mermaid-1555708258311 .activeCritText1,#mermaid-1555708258311 .activeCritText2,#mermaid-1555708258311 .activeCritText3,#mermaid-1555708258311 .doneCritText0,#mermaid-1555708258311 .doneCritText1,#mermaid-1555708258311 .doneCritText2,#mermaid-1555708258311 .doneCritText3{fill:#000!important}#mermaid-1555708258311 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1555708258311 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1555708258311 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1555708258311 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1555708258311 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1555708258311 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1555708258311 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1555708258311 #compositionEnd,#mermaid-1555708258311 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1555708258311 #aggregationEnd,#mermaid-1555708258311 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1555708258311 #dependencyEnd,#mermaid-1555708258311 #dependencyStart,#mermaid-1555708258311 #extensionEnd,#mermaid-1555708258311 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1555708258311 .branch-label,#mermaid-1555708258311 .commit-id,#mermaid-1555708258311 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1555708258311 {\n    color: rgb(0, 0, 0);\n    font: normal normal 400 normal 16px / normal \"Times New Roman\";\n  }</style><g transform=\"translate(-12, -12)\"><g class=\"output\"><g class=\"clusters\"></g><g class=\"edgePaths\"><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M194.71875,39.5L219.71875,39.5L244.71875,39.5\" marker-end=\"url(#arrowhead7)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead7\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g></g><g class=\"edgeLabels\"><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g></g><g class=\"nodes\"><g class=\"node\" id=\"A\" style=\"opacity: 1;\" transform=\"translate(107.359375,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"174.71875\" x=\"-87.359375\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-77.359375,-9.5)\"><foreignObject height=\"19\" width=\"154.71875\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">additional tRNA binds</div></foreignObject></g></g></g><g class=\"node\" id=\"B\" style=\"opacity: 1;\" transform=\"translate(451.7421875,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"414.046875\" x=\"-207.0234375\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-197.0234375,-9.5)\"><foreignObject height=\"19\" width=\"394.046875\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">peptide bonds between the attached amino acids forms</div></foreignObject></g></g></g></g></g></g></svg>",
+                "graph LR; A[additional tRNA binds]--&gt;B[peptide bonds between the attached amino acids forms];",
                 "",
                 ""
             ],
@@ -108771,7 +108703,7 @@
             "fields": [
                 "55916021827",
                 "Relationship between Boltzmann (\\(﻿k\\)) constant and the ideal gas constant (\\(﻿R\\))",
-                "\\(﻿R=N_{A}k\\)<div><br></div><div>‣&nbsp; \\(﻿N_{A} = \\text{Avogadro's Number}\\)<br></div>",
+                "\\(﻿R=N_{A}k\\)<div><br></div><div>* \\(﻿N_{A} = \\text{Avogadro's Number} = 6.022*10^{23}\\)<br></div>",
                 "",
                 "",
                 "",
@@ -109998,7 +109930,7 @@
             "data": "",
             "fields": [
                 "56383350612",
-                "1 kW =",
+                "\\(﻿1 kW =\\)",
                 "\\(﻿1000 \\frac{J}{s}\\)",
                 "",
                 "",
@@ -110199,7 +110131,7 @@
             "fields": [
                 "56386910938",
                 "gene duplication/amplification",
-                "increases the amount of genetic product<div>‣ can occur with the whole chromosome (aneuploidy) or can occur with entire sets of chromosomes (polyploidy)</div>",
+                "* increases the amount of genetic product<div>* can occur with the whole chromosome (<i>aneuploidy</i>) or can occur with entire sets of chromosomes (<i>polyploidy</i>)</div>",
                 "",
                 "",
                 "",
@@ -110919,7 +110851,7 @@
             "fields": [
                 "56403013312",
                 "Y chromosome vs X chromosome",
-                "Y chromosome does is greatly abbreviated, containing only a few genes",
+                "* Y chromosome is greatly abbreviated, containing only a few genes<div>* XX female, XY male</div>",
                 "",
                 "",
                 "",
@@ -110958,8 +110890,8 @@
             "data": "",
             "fields": [
                 "56403191346",
-                "if a female carries a recessive trait",
-                "said to be a carrier of the trait<div>‣ strong chance of being expressed in male offspring regardless of genotype</div>",
+                "if a female genome has a recessive trait",
+                "* said to be a <i>carrier</i> of the trait<div>* strong chance of being expressed in male offspring regardless of genotype</div>",
                 "",
                 "",
                 "",
@@ -111039,7 +110971,7 @@
             "fields": [
                 "56403388144",
                 "\\(q^{2}\\) in the Hardy-Weinberg equation represents",
-                "homozygous recessing in the population",
+                "homozygous recessive in the population",
                 "",
                 "",
                 "",
@@ -111159,7 +111091,7 @@
             "fields": [
                 "56466176542",
                 "Nernst equation",
-                "\\(﻿E=E^{\\circ} - \\frac{RT}{nF} ln(Q)\\)",
+                "\\(﻿E=E^{\\circ} - \\frac{RT}{nF} ln(Q)\\)<div><br></div><div>*&nbsp;relates the&nbsp;reduction potential&nbsp;of an electrochemical reaction</div>",
                 "",
                 "",
                 "",
@@ -111399,7 +111331,7 @@
             "fields": [
                 "56507954267",
                 "inhibitory effect on a neuron means...",
-                "it has a hyperpolarizing effect (makes it more negative)",
+                "it has a <b>hyperpolarizing</b> effect (<i>makes it more negative</i>)",
                 "",
                 "",
                 "",
@@ -111499,7 +111431,7 @@
             "fields": [
                 "56514353570",
                 "membrane of the presynaptic neuron",
-                "contains large amount of&nbsp;\\(﻿Ca^{2+}\\) receptors<div>‣ influx of calcium allows for neurotransmitter vesicles to be released</div>",
+                "* contains large amount of&nbsp;\\(﻿Ca^{2+}\\) receptors<div><span>* influx of calcium allows for neurotransmitter vesicles to be released</span></div>",
                 "",
                 "",
                 "",
@@ -111719,7 +111651,7 @@
             "fields": [
                 "56523979105",
                 "astrocytes",
-                "microglia that give physical support/nutrient support to the interstitial space",
+                "microglia that provide physical support/nutrient support to the interstitial space",
                 "",
                 "",
                 "",
@@ -111739,8 +111671,8 @@
             "fields": [
                 "56524011556",
                 "Schwann Cells",
-                "‣ located in the PNS<br>‣ can direct axonal regeneration (explains why humans can recover from PNS nerve damage but CNS nerve damage typically results in paralysis)<br>‣ provides myelin to only one axon segment of a single neuron<br>",
-                "",
+                "* located in the PNS<br>* can direct axonal regeneration&nbsp;<br>* provides myelin to only one axon segment of a single neuron<br><div><br></div><div><b>COPS</b></div>",
+                "explains why humans can recover from PNS nerve damage but CNS nerve damage typically results in paralysis",
                 "",
                 "",
                 ""
@@ -111779,7 +111711,7 @@
             "fields": [
                 "56524098018",
                 "glutamate as a neurotransmitter",
-                "‣ acts as an excitatory neurotransmitter<div>‣ linked to learning and memory</div>",
+                "* acts as an excitatory neurotransmitter<div>* linked to learning and memory</div>",
                 "",
                 "",
                 "",
@@ -112893,6 +112825,180 @@
             "tags": [
                 "PHY::Equations",
                 "PHY::Motion&Force"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57091050753",
+                "aneuploidy",
+                "whole chromosome duplication/amplification",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J]y`f+@)g.",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Genetics"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57091092576",
+                "polyploidy",
+                "multiple chromosome duplication/amplification",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t8Sz@<|w~(",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Genetics"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57256044210",
+                "\\(﻿sin30^{\\circ}=\\)",
+                "\\(﻿\\frac{1}{2}\\)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KzyQaIA=~g",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "Math"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57256090341",
+                "\\(﻿cos30^{\\circ} =\\)",
+                "\\(﻿\\frac{\\sqrt3}{2}\\)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s<bx^}RrRA",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "Math"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57256675248",
+                "\\(﻿cos60^{\\circ} =\\)",
+                "\\(﻿\\frac{1}{2}\\)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "knx8`a2tQ_",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "Math"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57256712562",
+                "force of friction =",
+                "\\(﻿F_{f}=\\mu*F_{n}\\)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pBDU<h{2pd",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "Math"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57262281074",
+                "normal direction of signal transmission in a neuron",
+                "",
+                "",
+                "graph LR; A[dendrites]--&gt;B[cell body]; B--&gt;C[axon];",
+                "<img src=\"paste-a50c08371e0e567e5009da4810c3832cb0c6b885.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H4:lRIDvnS",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::NervousSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57268005310",
+                "invertebrates {{c1::do not}} have {{c2::myelinated}} axons",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G3e)YOX&>=",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "BIO::NervousSystem",
+                "EK::BIO/BC2::Lecture2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57268129358",
+                "olfactory information is unique in that during transmission...",
+                "* it can directly transmit to the amygdala, hippocampus<div>* <b>skips the thalamus, cortex</b></div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i3+.h%*^x-",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::NervousSystem",
+                "EK::BIO/BC2::Lecture2",
+                "PSY::Cognition"
             ]
         }
     ]
