@@ -20,7 +20,7 @@ hr.dark {
 }
 
 b {
-    color: #FBDB42;
+    color: #56C13F;
  }
 
 i {
@@ -50,10 +50,10 @@ img {
 }
 
 .mac {
-    zoom: 100%;
+    zoom: 120%;
 }
 
-::-webkit-scrollbar {
+::scrollbar {
     width: 0em;
 }
 
@@ -202,5 +202,5 @@ mark {
  }
 
 .zoom:hover {
-    transform: scale(7);
+    transform: scale(3);
 }
