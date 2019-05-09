@@ -3084,9 +3084,7 @@
             ],
             "sortf": 1,
             "tags": [
-                "BIO::NervousSystem",
-                "EK::BIO/BC2::Lecture2",
-                "PSY::Cognition"
+                "GC::Phases"
             ],
             "tmpls": [
                 {
@@ -3178,8 +3176,7 @@
             "name": "Clozine",
             "sortf": 1,
             "tags": [
-                "BIO::NervousSystem",
-                "EK::BIO/BC2::Lecture2"
+                "GC::Phases"
             ],
             "tmpls": [
                 {
@@ -4928,8 +4925,8 @@
             "data": "",
             "fields": [
                 "-40279211581",
-                "Combination reaction",
-                "A + B -> C reaction type",
+                "combination reaction",
+                "A + B&nbsp;→ C reaction type",
                 "",
                 "",
                 ""
@@ -4938,9 +4935,8 @@
             "guid": "YC#ZH",
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "reactions"
+                "GC::Reactions",
+                "Ortho528"
             ]
         },
         {
@@ -10283,7 +10279,7 @@
             "data": "",
             "fields": [
                 "-37160222191",
-                "The lumen is the internal space of the {{c1::Endoplasmic reticulum}}",
+                "The lumen is the internal space of the {{c1::endoplasmic reticulum}}",
                 "",
                 "",
                 "",
@@ -22073,9 +22069,9 @@
             "fields": [
                 "-26739007720",
                 "Cysteine structure",
-                "<img src=\"paste-3886945402882.jpg\"><div>&nbsp; ‍&nbsp;&nbsp;<br></div>",
                 "",
                 "",
+                "<img src=\"paste-d2ab4ba96b6624f0cf33df3a959d494b82341762.png\">",
                 ""
             ],
             "flags": 0,
@@ -34588,11 +34584,9 @@
             "guid": "n!DQ0Y9?aS",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "blood",
-                "physiology"
+                "BIO::Blood",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -45224,10 +45218,8 @@
             "guid": "iY(q5=Nm{c",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "blood"
+                "BIO::ImmuneSystem",
+                "Ortho528"
             ]
         },
         {
@@ -48601,11 +48593,9 @@
             "guid": "o}gmg~/tT|",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "respiratory"
+                "BIO::Physiology",
+                "BIO::RespiratorySystem",
+                "Ortho528"
             ]
         },
         {
@@ -70860,8 +70850,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -70881,8 +70870,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -70902,8 +70890,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -70923,8 +70910,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -70944,8 +70930,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -70965,8 +70950,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -70986,8 +70970,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71007,8 +70990,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71028,8 +71010,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71049,8 +71030,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71070,8 +71050,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71091,8 +71070,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71112,8 +71090,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71133,8 +71110,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71154,8 +71130,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71175,8 +71150,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71196,8 +71170,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71217,8 +71190,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71238,8 +71210,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71259,8 +71230,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71280,8 +71250,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -71448,8 +71417,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps"
+                "PSY::Attitude"
             ]
         },
         {
@@ -72956,7 +72924,7 @@
             "data": "",
             "fields": [
                 "-14707023618",
-                "The polarization of light is in reference to its {{c1::Electric}} field",
+                "The polarization of light is in reference to its {{c1::electric}} field",
                 "",
                 "",
                 "",
@@ -77508,8 +77476,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "memory",
-                "ps"
+                "PSY::Memory"
             ]
         },
         {
@@ -80730,8 +80697,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attention",
-                "ps"
+                "PSY::Attention"
             ]
         },
         {
@@ -80751,8 +80717,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attention",
-                "ps"
+                "PSY::Attention"
             ]
         },
         {
@@ -80772,8 +80737,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attention",
-                "ps"
+                "PSY::Attention"
             ]
         },
         {
@@ -80987,9 +80951,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps",
-                "psychology"
+                "PSY::Attitude"
             ]
         },
         {
@@ -81009,9 +80971,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps",
-                "psychology"
+                "PSY::Attitude"
             ]
         },
         {
@@ -81031,9 +80991,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps",
-                "psychology"
+                "PSY::Attitude"
             ]
         },
         {
@@ -81053,9 +81011,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps",
-                "psychology"
+                "PSY::Attitude"
             ]
         },
         {
@@ -81075,9 +81031,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attitude",
-                "ps",
-                "psychology"
+                "PSY::Attitude"
             ]
         },
         {
@@ -82174,9 +82128,9 @@
             "guid": "g1Lw0~J4zn",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528",
-                "disorders",
-                "ps"
+                "PSY::Disorders"
             ]
         },
         {
@@ -85611,9 +85565,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attention",
-                "ps",
-                "sensation"
+                "PSY::Attention",
+                "PSY::Sensation"
             ]
         },
         {
@@ -85633,9 +85586,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attention",
-                "ps",
-                "sensation"
+                "PSY::Attention",
+                "PSY::Sensation"
             ]
         },
         {
