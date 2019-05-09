@@ -52,4 +52,3 @@ var config = {
 };
 mermaid.initialize(config);
 window.mermaid.init(undefined, document.querySelectorAll('.mermaid'));
-
