@@ -38488,7 +38488,7 @@
             "data": "",
             "fields": [
                 "-23445057651",
-                "LiAlH4 and NaBH4 are common {{c1::reducing agents}}",
+                "\\(﻿LiAlH_{4}\\) and&nbsp;\\(﻿NaBH_{4}\\) are common {{c1::reducing agents}}",
                 "",
                 "",
                 "",
@@ -45207,7 +45207,7 @@
             "data": "",
             "fields": [
                 "-20771468466",
-                "Antibodes can be produced by {{c1::plasma cells}} in the blood",
+                "antibodies can be produced by {{c1::plasma cells}} in the blood",
                 "",
                 "",
                 "",
@@ -45583,7 +45583,7 @@
             "data": "",
             "fields": [
                 "-20667283339",
-                "The standard state of a molecule is its reference form at {{c1::1 atm and 25 degrees C}}",
+                "The standard state of a molecule is its reference form at {{c1::\\(﻿1 \\text{ atm}\\) and \\(﻿25^{\\circ}C\\)}}",
                 "",
                 "",
                 "",
@@ -45769,7 +45769,7 @@
             "fields": [
                 "-20590477155",
                 "what is beta decay?",
-                "Beta minus: atomic # increases<div>ejects electron<div><br></div><div>Beta plus:&nbsp;atomic # decrease</div><div>emits positron (positron emission)</div><div><br></div><div>‣ mass # remains same for both</div><!--anki--></div>",
+                "Beta minus: atomic # increases<div>ejects electron<div><br></div><div>Beta plus:&nbsp;atomic # decrease</div><div>emits positron (positron emission)</div><div><br></div><div>* mass # remains same for both</div><!--anki--></div>",
                 "",
                 "",
                 "",
@@ -52451,7 +52451,7 @@
             "fields": [
                 "-20232093424",
                 "what is basilar tuning?",
-                "‣ how brain differentiates between different frequencies<div>‣ hair cells at base of cochlea activated by high frequency</div><div>&nbsp;‣ apex of chochlea are activated by low frequency</div><div>&nbsp;</div><div>‣‣ <i>think, low frequency means high wavelength so it travels faster</i></div>",
+                "* how brain differentiates between different frequencies<div>* hair cells at base of cochlea activated by high frequency</div><div>&nbsp;* apex of chochlea are activated by low frequency</div><div>&nbsp;</div><div>** <i>think, low frequency means high wavelength so it travels faster</i></div>",
                 "",
                 "",
                 "",
@@ -52857,7 +52857,7 @@
             "fields": [
                 "-19545416019",
                 "N2 stage of sleep",
-                "‣ deeper than N1, precedes N3<div>‣ see lots of theta waves, sleep spindles, and K complexes</div>",
+                "* deeper than N1, precedes N3<div>* see lots of theta waves, sleep spindles, and K complexes</div>",
                 "",
                 "",
                 "",
@@ -52895,7 +52895,7 @@
             "fields": [
                 "-19374177580",
                 "what is the visuo-spatial sketchpad?",
-                "‣ part of working memory involving visual memories<div>‣ works with the <b>phonological loop</b>&nbsp;to deal with spoken/written material</div>",
+                "* part of working memory involving visual memories<div>* works with the <b>phonological loop</b>&nbsp;to deal with spoken/written material</div>",
                 "",
                 "",
                 "",
@@ -52952,7 +52952,7 @@
             "fields": [
                 "-19371890672",
                 "what is a semantic model?",
-                "‣ theoretical model of memory encoding in brain<div>‣ consists of related \"nodes\"</div>",
+                "* theoretical model of memory encoding in brain<div>* consists of related \"nodes\"</div>",
                 "",
                 "",
                 "",
@@ -54055,7 +54055,7 @@
             "fields": [
                 "-18677027319",
                 "Spearman's general intelligence theory postulates",
-                "‣ there is one underlying \"g factor\" that determines how intelligent people are at all tasks<div>‣ person who scores high in one area will score high in another</div>",
+                "* there is one underlying \"g factor\" that determines how intelligent people are at all tasks<div>* person who scores high in one area will score high in another</div>",
                 "",
                 "",
                 "",
@@ -61046,7 +61046,7 @@
             "fields": [
                 "-17210215784",
                 "what is the worlds systems theory?",
-                "divides the worlds into 3 types of countries<div>‣ core (US)&nbsp;</div><div>‣ periphery (uganda)&nbsp;</div><div>‣ semi periphery (india/china)</div>",
+                "divides the worlds into 3 types of countries<div>* core (US)&nbsp;</div><div>* periphery (uganda)&nbsp;</div><div>* semi periphery (india/china)</div>",
                 "",
                 "",
                 "",
@@ -61065,7 +61065,7 @@
             "fields": [
                 "-17041466264",
                 "what is spatial mismatch?",
-                "‣ opportunities for low income people are farther away and harder to access<div>‣ literally, the jobs are far away</div>",
+                "* opportunities for low income people are farther away and harder to access<div>* literally, the jobs are far away</div>",
                 "",
                 "",
                 "",
@@ -61878,7 +61878,7 @@
             "fields": [
                 "-16624569354",
                 "What are the sulfur-containing amino acids?",
-                "‣ Methionine<div>‣ Cysteine</div>",
+                "* Methionine<div>* Cysteine</div>",
                 "",
                 "",
                 "",
@@ -61937,7 +61937,7 @@
             "fields": [
                 "-16624518994",
                 "What are the acidic amino acids (at neutral pH)?",
-                "‣ aspartate<div>‣ glutamate</div>",
+                "* aspartate<div>* glutamate</div>",
                 "",
                 "",
                 "",
@@ -71740,7 +71740,7 @@
             "fields": [
                 "-14882995326",
                 "Equation for period:",
-                "<img src=\"paste-6244882448385.jpg\" />",
+                "<div><span>\\(﻿T=\\frac{1}{f}\\)</span><br></div><div><span><br></span></div><div>\\(﻿f=\\frac{\\lambda}{s}\\)<br></div><div><br></div><div>\\(﻿period = \\frac{s}{\\lambda}\\)</div>",
                 "",
                 "",
                 "",
@@ -83226,7 +83226,7 @@
             "data": "",
             "fields": [
                 "-12892528270",
-                "The voltage drop due to a resistor is {{c1::V = IR}}",
+                "The voltage drop due to a resistor is {{c1::\\(﻿V = IR\\)}}",
                 "",
                 "",
                 "",
@@ -86914,10 +86914,10 @@
             "fields": [
                 "-11686389955",
                 "Adenine structure",
-                "<img src=\"paste-7301444403201.jpg\" />",
                 "",
                 "",
                 "",
+                "<img src=\"paste-7301444403201.jpg\">",
                 ""
             ],
             "flags": 0,
@@ -91936,7 +91936,7 @@
             "fields": [
                 "27152775663",
                 "which amino acid is the precursor to GABA?",
-                "Glutamate",
+                "glutamate",
                 "",
                 "",
                 "",
@@ -92106,7 +92106,7 @@
             "data": "",
             "fields": [
                 "48117247143",
-                "{{c1::Signal Detection Theory}}<div>‣ States that {{c2::stimuli can be affected by nonsensory factors such as expectations, experiences, and motives}}</div>",
+                "{{c1::Signal Detection Theory}}<div>* States that {{c2::stimuli can be affected by nonsensory factors such as expectations, experiences, and motives}}</div>",
                 "",
                 "",
                 "",
@@ -92621,7 +92621,7 @@
             "fields": [
                 "50891429609",
                 "cocktail party phenomenon",
-                "hearing your name at a part from across the room<div>‣ example of using selective attention</div>",
+                "hearing your name at a part from across the room<div>* example of using selective attention</div>",
                 "",
                 "",
                 "",
@@ -92986,7 +92986,7 @@
             "fields": [
                 "51663065176",
                 "Symptoms of narcolepsy",
-                "‣ cataplexy<div>‣ sleep paralysis</div><div>‣ hypnagogic hallucinations</div><div>‣ hypnogognic hallucination</div>",
+                "* cataplexy<div>* sleep paralysis</div><div>* hypnagogic hallucinations</div><div>* hypnogognic hallucination</div>",
                 "",
                 "",
                 "",
@@ -93006,7 +93006,7 @@
             "fields": [
                 "51663184204",
                 "Types of sleep apnea",
-                "‣ obstructive (physical blockage of pharynx/trachea)<div>‣ central (brain does not send proper signals to make people breathe)</div>",
+                "* obstructive (physical blockage of pharynx/trachea)<div>* central (brain does not send proper signals to make people breathe)</div>",
                 "",
                 "",
                 "",
@@ -93384,7 +93384,7 @@
             "fields": [
                 "52183451289",
                 "According to Piaget, when we encounter new experiences...",
-                "‣ we either <b>assimilate</b> them into existing schemas or <b>accomadate</b> them (by adjusting them to the existing schemas)",
+                "* we either <b>assimilate</b> them into existing schemas or <b>accomadate</b> them (by adjusting them to the existing schemas)",
                 "",
                 "",
                 "",
@@ -93404,7 +93404,7 @@
             "fields": [
                 "52183520571",
                 "Sensorimotor Stage<div>• age range</div><div>• what is it</div><div>• whats developed</div>",
-                "‣ birth to 2 years old<div>‣ experience the world through senses moving through it</div><div>‣ object permanence</div>",
+                "* birth to 2 years old<div>* experience the world through senses moving through it</div><div>* object permanence</div>",
                 "",
                 "",
                 "",
@@ -93424,7 +93424,7 @@
             "fields": [
                 "52183719315",
                 "Preoperational Stage<div>• age range</div><div>• what happens</div>",
-                "‣ 2 to 7 years old<div>‣ centration, symbolic thinking, conservation</div><div>‣ children are egocentric</div>",
+                "* 2 to 7 years old<div>* centration, symbolic thinking, conservation</div><div>* children are egocentric</div>",
                 "",
                 "",
                 "",
@@ -93444,7 +93444,7 @@
             "fields": [
                 "52185024587",
                 "Preoperational Stage<div>• age range</div><div>• what happens</div>",
-                "‣ 2 to 6 yrs old<div>* learn symbolism</div>",
+                "* 2 to 6 yrs old<div>* learn symbolism</div>",
                 "",
                 "",
                 "",
@@ -93464,7 +93464,7 @@
             "fields": [
                 "52188559868",
                 "Concrete Operational Stage<div>• age range</div><div>• what happens</div>",
-                "‣ 7 to 11<div>‣ develop an understanding of conservation, less egocentric</div><div>‣ still DO NOT have full capacity for abstract thought&nbsp;</div>",
+                "* 7 to 11<div>* develop an understanding of conservation, less egocentric</div><div>* still DO NOT have full capacity for abstract thought&nbsp;</div>",
                 "",
                 "",
                 "",
@@ -93484,7 +93484,7 @@
             "fields": [
                 "52188677914",
                 "Formal Operational Stage<div>•&nbsp; age range</div><div>• what happens</div>",
-                "‣ 12 to adulthood<div>‣ develop ability for abstract and moral reasoning</div>",
+                "* 12 to adulthood<div>* develop ability for abstract and moral reasoning</div>",
                 "",
                 "",
                 "",
@@ -93504,7 +93504,7 @@
             "fields": [
                 "52188854086",
                 "recall",
-                "‣ retrieve memories without any clues",
+                "* retrieve memories without any clues",
                 "",
                 "",
                 "",
@@ -93523,7 +93523,7 @@
             "fields": [
                 "52188958062",
                 "recognition",
-                "‣ retrieval of memories with clues",
+                "* retrieval of memories with clues",
                 "",
                 "",
                 "",
@@ -93599,7 +93599,7 @@
             "fields": [
                 "52190216811",
                 "Trial&nbsp;<span>and error</span>",
-                "‣ various solutions are tried until one works<div>‣ effective only when theres few solutions to a problem</div>",
+                "* various solutions are tried until one works<div>* effective only when theres few solutions to a problem</div>",
                 "",
                 "",
                 "",
@@ -93637,7 +93637,7 @@
             "fields": [
                 "52190345820",
                 "Deductive reasoning",
-                "solving a problem by beginning with a set of rules → drawing conclusions and solutions from those rules<div><br></div><div>‣&nbsp;also known as <i>top-down reasoning</i></div>",
+                "solving a problem by beginning with a set of rules → drawing conclusions and solutions from those rules<div><br></div><div>*&nbsp;also known as <i>top-down reasoning</i></div>",
                 "",
                 "",
                 "",
@@ -93656,7 +93656,7 @@
             "fields": [
                 "52190418043",
                 "inductive reasoning",
-                "begins with instances or pieces of information and draws conclusions/solutions from them<div><br></div><div>‣ also known as <i>bottom-up reasoning</i></div>",
+                "begins with instances or pieces of information and draws conclusions/solutions from them<div><br></div><div>* also known as <i>bottom-up reasoning</i></div>",
                 "",
                 "",
                 "",
@@ -93675,7 +93675,7 @@
             "fields": [
                 "52190496474",
                 "heuristics",
-                "‣ mental shortcuts<div>‣ helps make decisions BUT can lead to poor judgement</div><div><br></div><div>‣ <i>ie: rule of thumb</i></div>",
+                "* mental shortcuts<div>* helps make decisions BUT can lead to poor judgement</div><div><br></div><div>* <i>ie: rule of thumb</i></div>",
                 "",
                 "",
                 "",
@@ -93694,7 +93694,7 @@
             "fields": [
                 "52190564271",
                 "availability heuristic",
-                "‣ making decisions about how likely an action/event is based on readily available information (thats similar) in our memories",
+                "* making decisions about how likely an action/event is based on readily available information (thats similar) in our memories",
                 "",
                 "",
                 "",
@@ -93808,7 +93808,7 @@
             "fields": [
                 "52192848334",
                 "recognition-primed decision model",
-                "model for people to make quick and effective decisions when facing a problem<div>‣ requires people to be experienced in the problem they are facing</div>",
+                "model for people to make quick and effective decisions when facing a problem<div>* requires people to be experienced in the problem they are facing</div>",
                 "",
                 "",
                 "",
@@ -93865,7 +93865,7 @@
             "fields": [
                 "52193048797",
                 "theory of multiple intelligences",
-                "‣ seven types of intelligence<div>‣&nbsp;bodily-kinesthetic, interpersonal, intrapersonal, linguistic, logical-mathematical, musical, and visual-spatial</div><div>‣ value of each intelligence varies by culture</div>",
+                "* seven types of intelligence<div>*&nbsp;bodily-kinesthetic, interpersonal, intrapersonal, linguistic, logical-mathematical, musical, and visual-spatial</div><div>* value of each intelligence varies by culture</div>",
                 "",
                 "",
                 "",
@@ -93982,7 +93982,7 @@
             "fields": [
                 "52194367967",
                 "nativist theory (or biological theory)",
-                "<div>people have a development period in which we easily learn languages</div><div>‣ from 2 years old to puberty</div>",
+                "<div>people have a development period in which we easily learn languages</div><div>* from 2 years old to puberty</div>",
                 "",
                 "",
                 "",
@@ -94161,7 +94161,7 @@
             "fields": [
                 "52277639269",
                 "theta wave characteristics",
-                "‣ low amplitude<div>‣ irregular frequency</div>",
+                "* low amplitude<div>* irregular frequency</div>",
                 "",
                 "",
                 "",
@@ -94181,7 +94181,7 @@
             "fields": [
                 "52277714919",
                 "K-complexes wave characteristics",
-                "‣ single high amplitude<div>‣ low frequency</div>",
+                "* single high amplitude<div>* low frequency</div>",
                 "",
                 "",
                 "<img src=\"paste-8fd9b6528b20f3ade78e2d38bdcca1ca410653ce.png\">",
@@ -94201,7 +94201,7 @@
             "fields": [
                 "52277759177",
                 "Sleep spindle wave characteristics",
-                "‣ bursts of multiple high-frequency, moderate amplitude waves",
+                "* bursts of multiple high-frequency, moderate amplitude waves",
                 "",
                 "",
                 "",
@@ -94461,7 +94461,7 @@
             "fields": [
                 "52281748099",
                 "dyssomnias",
-                "<div>‣ make it more difficult to fall asleep/stay asleep&nbsp;</div>",
+                "<div>* make it more difficult to fall asleep/stay asleep&nbsp;</div>",
                 "insomnia, narcolepsy, sleep apnea",
                 "",
                 "",
@@ -94501,7 +94501,7 @@
             "fields": [
                 "52282243254",
                 "symptoms of narcolepsy",
-                "‣ cataplexy (emotional triggers causing transition from awake to REM sleep &amp; total loss of muscle control)<div>‣ sleep paralysis (inability to move when waking or falling asleep)</div><div>‣ hypnagogic and hypnopompic hallucinations (during sleep and upon waking, respectively)</div>",
+                "* <i>cataplexy</i><div>* sleep paralysis</div><div>* <i> hypnagogic</i> and <i>hypnopompic</i> hallucinations&nbsp;</div>",
                 "",
                 "",
                 "",
@@ -94522,7 +94522,7 @@
             "fields": [
                 "52282354904",
                 "sleep apnea",
-                "‣ unable to breath during sleep<div><br></div><div><div>Sub-Types:</div><div>‣ obstructive → blockage prevents breathing</div><div>‣ central → signal to breathe is not sent by the brain</div></div>",
+                "* unable to breath during sleep<div><br></div><div><div>Sub-Types:</div><div>* obstructive → blockage prevents breathing</div><div>* central → signal to breathe is not sent by the brain</div></div>",
                 "",
                 "",
                 "",
@@ -94584,8 +94584,8 @@
             "data": "",
             "fields": [
                 "52282684274",
-                "Dysfunction of what allows night terrors to be acted out",
-                "‣ pons (part of the brainstem)<div><div>‣‣ when functioning normally, it prevents the body from acting out dreams&nbsp;</div></div>",
+                "dysfunction of what allows night terrors to be acted out",
+                "* pons (part of the brainstem)<div><div>* when functioning normally, it prevents the body from acting out dreams&nbsp;</div></div>",
                 "",
                 "",
                 "",
@@ -94606,7 +94606,7 @@
             "fields": [
                 "52282748831",
                 "Broadbent Mode of Selective Attention",
-                "‣ sensory input is filtered completely from higher-order processing&nbsp;<div>‣ processed sensory information is stored in short-term memory to make sense of them</div>",
+                "* sensory input is filtered completely from higher-order processing&nbsp;<div>* processed sensory information is stored in short-term memory to make sense of them</div>",
                 "",
                 "<svg id=\"mermaid-1552282892222\" style=\"max-width: 728.609375px;\" viewBox=\"0 0 728.609375 55\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><style>#mermaid-1552282892222 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1552282892222 .node circle,#mermaid-1552282892222 .node ellipse,#mermaid-1552282892222 .node polygon,#mermaid-1552282892222 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1552282892222 .node.clickable{cursor:pointer}#mermaid-1552282892222 .arrowheadPath{fill:#333}#mermaid-1552282892222 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1552282892222 .edgeLabel{background-color:#e8e8e8}#mermaid-1552282892222 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1552282892222 .cluster text{fill:#333}#mermaid-1552282892222 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1552282892222 .actor{stroke:#ccf;fill:#ececff}#mermaid-1552282892222 text.actor{fill:#000;stroke:none}#mermaid-1552282892222 .actor-line{stroke:grey}#mermaid-1552282892222 .messageLine0{marker-end:\"url(#arrowhead)\"}#mermaid-1552282892222 .messageLine0,#mermaid-1552282892222 .messageLine1{stroke-width:1.5;stroke-dasharray:\"2 2\";stroke:#333}#mermaid-1552282892222 #arrowhead{fill:#333}#mermaid-1552282892222 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1552282892222 .messageText{fill:#333;stroke:none}#mermaid-1552282892222 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1552282892222 .labelText,#mermaid-1552282892222 .loopText{fill:#000;stroke:none}#mermaid-1552282892222 .loopLine{stroke-width:2;stroke-dasharray:\"2 2\";marker-end:\"url(#arrowhead)\";stroke:#ccf}#mermaid-1552282892222 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1552282892222 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1552282892222 .section{stroke:none;opacity:.2}#mermaid-1552282892222 .section0{fill:rgba(102,102,255,.49)}#mermaid-1552282892222 .section2{fill:#fff400}#mermaid-1552282892222 .section1,#mermaid-1552282892222 .section3{fill:#fff;opacity:.2}#mermaid-1552282892222 .sectionTitle0,#mermaid-1552282892222 .sectionTitle1,#mermaid-1552282892222 .sectionTitle2,#mermaid-1552282892222 .sectionTitle3{fill:#333}#mermaid-1552282892222 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1552282892222 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1552282892222 .grid path{stroke-width:0}#mermaid-1552282892222 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1552282892222 .task{stroke-width:2}#mermaid-1552282892222 .taskText{text-anchor:middle;font-size:11px}#mermaid-1552282892222 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1552282892222 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1552282892222 .taskText0,#mermaid-1552282892222 .taskText1,#mermaid-1552282892222 .taskText2,#mermaid-1552282892222 .taskText3{fill:#fff}#mermaid-1552282892222 .task0,#mermaid-1552282892222 .task1,#mermaid-1552282892222 .task2,#mermaid-1552282892222 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1552282892222 .taskTextOutside0,#mermaid-1552282892222 .taskTextOutside1,#mermaid-1552282892222 .taskTextOutside2,#mermaid-1552282892222 .taskTextOutside3{fill:#000}#mermaid-1552282892222 .active0,#mermaid-1552282892222 .active1,#mermaid-1552282892222 .active2,#mermaid-1552282892222 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1552282892222 .activeText0,#mermaid-1552282892222 .activeText1,#mermaid-1552282892222 .activeText2,#mermaid-1552282892222 .activeText3{fill:#000!important}#mermaid-1552282892222 .done0,#mermaid-1552282892222 .done1,#mermaid-1552282892222 .done2,#mermaid-1552282892222 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1552282892222 .doneText0,#mermaid-1552282892222 .doneText1,#mermaid-1552282892222 .doneText2,#mermaid-1552282892222 .doneText3{fill:#000!important}#mermaid-1552282892222 .crit0,#mermaid-1552282892222 .crit1,#mermaid-1552282892222 .crit2,#mermaid-1552282892222 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1552282892222 .activeCrit0,#mermaid-1552282892222 .activeCrit1,#mermaid-1552282892222 .activeCrit2,#mermaid-1552282892222 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1552282892222 .doneCrit0,#mermaid-1552282892222 .doneCrit1,#mermaid-1552282892222 .doneCrit2,#mermaid-1552282892222 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1552282892222 .activeCritText0,#mermaid-1552282892222 .activeCritText1,#mermaid-1552282892222 .activeCritText2,#mermaid-1552282892222 .activeCritText3,#mermaid-1552282892222 .doneCritText0,#mermaid-1552282892222 .doneCritText1,#mermaid-1552282892222 .doneCritText2,#mermaid-1552282892222 .doneCritText3{fill:#000!important}#mermaid-1552282892222 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1552282892222 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1552282892222 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1552282892222 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1552282892222 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1552282892222 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1552282892222 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1552282892222 #compositionEnd,#mermaid-1552282892222 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1552282892222 #aggregationEnd,#mermaid-1552282892222 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1552282892222 #dependencyEnd,#mermaid-1552282892222 #dependencyStart,#mermaid-1552282892222 #extensionEnd,#mermaid-1552282892222 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1552282892222 .branch-label,#mermaid-1552282892222 .commit-id,#mermaid-1552282892222 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1552282892222 {\n    color: rgb(0, 0, 0);\n    font: normal normal 400 normal 16px / normal \"Times New Roman\";\n  }</style><g transform=\"translate(-12, -12)\"><g class=\"output\"><g class=\"clusters\"></g><g class=\"edgePaths\"><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M134.296875,39.5L159.296875,39.5L184.296875,39.5\" marker-end=\"url(#arrowhead17)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead17\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M309.640625,39.5L334.640625,39.5L359.640625,39.5\" marker-end=\"url(#arrowhead18)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead18\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M543.6875,39.5L568.6875,39.5L593.6875,39.5\" marker-end=\"url(#arrowhead19)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead19\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g></g><g class=\"edgeLabels\"><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g></g><g class=\"nodes\"><g class=\"node\" id=\"A\" style=\"opacity: 1;\" transform=\"translate(77.1484375,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"114.296875\" x=\"-57.1484375\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-47.1484375,-9.5)\"><foreignObject height=\"19\" width=\"94.296875\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">sensory store</div></foreignObject></g></g></g><g class=\"node\" id=\"B\" style=\"opacity: 1;\" transform=\"translate(246.96875,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"125.34375\" x=\"-62.671875\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-52.671875,-9.5)\"><foreignObject height=\"19\" width=\"105.34375\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">selective filter</div></foreignObject></g></g></g><g class=\"node\" id=\"C\" style=\"opacity: 1;\" transform=\"translate(451.6640625,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"184.046875\" x=\"-92.0234375\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-82.0234375,-9.5)\"><foreignObject height=\"19\" width=\"164.046875\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">higher level processing</div></foreignObject></g></g></g><g class=\"node\" id=\"D\" style=\"opacity: 1;\" transform=\"translate(663.1484375,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"138.921875\" x=\"-69.4609375\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-59.4609375,-9.5)\"><foreignObject height=\"19\" width=\"118.921875\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">working memory</div></foreignObject></g></g></g></g></g></g></svg>",
                 "",
@@ -94856,7 +94856,7 @@
             "fields": [
                 "52528049952",
                 "types of stress",
-                "‣ distress (unpleasant stressor)<div>‣ eustress (more positive stressor)</div>",
+                "* distress (unpleasant stressor)<div>* eustress (more positive stressor)</div>",
                 "",
                 "",
                 "",
@@ -94876,7 +94876,7 @@
             "fields": [
                 "52528158414",
                 "types of stressors",
-                "‣ daily hassles<div>‣ catastrophes</div><div>‣&nbsp; significant life changes</div>",
+                "* daily hassles<div>* catastrophes</div><div>*&nbsp; significant life changes</div>",
                 "",
                 "",
                 "",
@@ -95013,7 +95013,7 @@
             "fields": [
                 "52956469499",
                 "What cells can absorb glucose against a concentration gradient? Mechanism?",
-                "‣ some epithelial cells in the GI tract<div>‣ proximal tubule of the kidney&nbsp;</div><div><br></div><div>‣ Secondary active transport</div>",
+                "* some epithelial cells in the GI tract<div>* proximal tubule of the kidney&nbsp;</div><div><br></div><div>* Secondary active transport</div>",
                 "",
                 "",
                 "",
@@ -95073,7 +95073,7 @@
             "fields": [
                 "52956637282",
                 "In the absence of insulin, what cells are capable of absorbing glucose? How?",
-                "‣&nbsp; hepatic + neural cells<div>‣ via facilitated transport system</div>",
+                "*&nbsp; hepatic + neural cells<div>* via facilitated transport system</div>",
                 "",
                 "",
                 "",
@@ -95114,7 +95114,7 @@
                 "52956716039",
                 "{{c2::Starch}} comes in two forms: {{c1::amylose}} and {{c1::amylopectin}}",
                 "",
-                "* amylose can be brached or unbranched + has alpha linkages (like glucose)",
+                "amylose can be brached or unbranched + has alpha linkages (like glucose)",
                 "",
                 "",
                 ""
@@ -95153,7 +95153,7 @@
             "fields": [
                 "52956864740",
                 "Starch comes in two forms:",
-                "‣ amylose<div>‣ amylopectin</div>",
+                "* amylose<div>* amylopectin</div>",
                 "",
                 "",
                 "",
@@ -95233,7 +95233,7 @@
             "fields": [
                 "52957012156",
                 "characteristics of water",
-                "‣ H-bonding (increasing boiling point)<div>‣ causes hydrophobic compounds to aggregate</div>",
+                "* H-bonding (increasing boiling point)<div>* causes hydrophobic compounds to aggregate</div>",
                 "",
                 "",
                 "",
@@ -95273,7 +95273,7 @@
             "fields": [
                 "52957123795",
                 "dehydration",
-                "‣ opposite of hydrolysis<div>‣ two molecules combine, water is a by-product</div>",
+                "* opposite of hydrolysis<div>* two molecules combine, water is a by-product</div>",
                 "",
                 "",
                 "",
@@ -95333,7 +95333,7 @@
             "fields": [
                 "52957260579",
                 "function of fatty acids",
-                "‣ fuel for the body<div>‣ building blocks for a ton of macromolecules (phospholipids, glycollipids, sphingolipids)</div>",
+                "* fuel for the body<div>* building blocks for a ton of macromolecules (phospholipids, glycollipids, sphingolipids)</div>",
                 "",
                 "",
                 "",
@@ -95353,7 +95353,7 @@
             "fields": [
                 "52957300430",
                 "saturated and unsaturated fatty acids",
-                "‣ saturated → single C-C bonds, max amount of H's<div>‣ unsaturated → double C-C bonds, missing some H's</div>",
+                "* saturated → single C-C bonds, max amount of H's<div>* unsaturated → double C-C bonds, missing some H's</div>",
                 "",
                 "",
                 "",
@@ -95476,7 +95476,7 @@
             "fields": [
                 "52959367440",
                 "adipocytes",
-                "fat cells<div>‣ specialized with high triglyceride concentration in the cytoplasm</div>",
+                "fat cells<div>* specialized with high triglyceride concentration in the cytoplasm</div>",
                 "",
                 "",
                 "",
@@ -95497,7 +95497,7 @@
             "fields": [
                 "52959494422",
                 "phospholipids",
-                "lipids with phosphate replacing a fatty acid chain<div>‣ 2 fatty acid tails, 1 phosphate group, glycerol backbone</div>",
+                "lipids with phosphate replacing a fatty acid chain<div>* 2 fatty acid tails, 1 phosphate group, glycerol backbone</div>",
                 "",
                 "",
                 "",
@@ -95518,7 +95518,7 @@
             "fields": [
                 "52959692572",
                 "phospholipid function",
-                "‣ major component of cell membranes",
+                "* major component of cell membranes",
                 "",
                 "",
                 "",
@@ -95539,7 +95539,7 @@
             "fields": [
                 "52959741708",
                 "phospholipid characteristics",
-                "‣ amphipathic (hydrophillic&nbsp; &amp; hydrophobic ends)<div>‣ phosphate attached to glycerol with 2 fatty acid chains</div>",
+                "* amphipathic (hydrophillic&nbsp; &amp; hydrophobic ends)<div>* phosphate attached to glycerol with 2 fatty acid chains</div>",
                 "",
                 "",
                 "",
@@ -95559,7 +95559,7 @@
             "fields": [
                 "52959809260",
                 "what makes phospholipids a good cell membrane component?",
-                "amphipathic<div>‣ polar heads are facing the outside and inside (cytoplasm)</div><div>‣ internal portion consists of the tails <i>aka </i>the hydrophopic portions</div>",
+                "amphipathic<div>* polar heads are facing the outside and inside (cytoplasm)</div><div>* internal portion consists of the tails <i>aka </i>the hydrophopic portions</div>",
                 "",
                 "",
                 "<img src=\"serveimage.jpg\">",
@@ -95579,7 +95579,7 @@
             "fields": [
                 "52959936202",
                 "glycolypid structure",
-                "‣ carbohydrate attached to the backbone, 2 fatty acids, glycerol backbone",
+                "* carbohydrate attached to the backbone, 2 fatty acids, glycerol backbone",
                 "",
                 "",
                 "",
@@ -95640,7 +95640,7 @@
             "fields": [
                 "52960020484",
                 "sphingolipid structure",
-                "‣ sphingosine backbone (an amino alcohol)&nbsp;&nbsp;<div>‣ fatty acid chain, polar head group</div>",
+                "* sphingosine backbone (an amino alcohol)&nbsp;&nbsp;<div>* fatty acid chain, polar head group</div>",
                 "",
                 "",
                 "",
@@ -95661,7 +95661,7 @@
             "fields": [
                 "52960085243",
                 "what is a sphingomyelin",
-                "‣ type of sphingolipid<div>‣ phosphate group attached to the sphingosine backbone (considered phospholipid <font color=\"#cd0004\">NOT</font> phosphoglyceride)</div>",
+                "* type of sphingolipid<div>* phosphate group attached to the sphingosine backbone (considered phospholipid <font color=\"#cd0004\">NOT</font> phosphoglyceride)</div>",
                 "",
                 "",
                 "",
@@ -95724,7 +95724,7 @@
             "fields": [
                 "52960320496",
                 "structure of steroids",
-                "‣ 4 ring structure",
+                "* 4 ring structure",
                 "",
                 "",
                 "<img src=\"serveimage (1).jpg\">",
@@ -95766,7 +95766,7 @@
             "fields": [
                 "52960411246",
                 "terpenes are classified as",
-                "‣ lipids",
+                "* lipids",
                 "",
                 "",
                 "",
@@ -95787,7 +95787,7 @@
             "fields": [
                 "52960450795",
                 "function of terpenes",
-                "usually are:<div>‣ part of pigments in the body</div><div>‣ vitamin A (important for vision)</div>",
+                "usually are:<div>* part of pigments in the body</div><div>* vitamin A (important for vision)</div>",
                 "",
                 "",
                 "",
@@ -95849,7 +95849,7 @@
             "fields": [
                 "52960527777",
                 "characteristic of waxes",
-                "repel water<div><br></div><div>‣ found in the body as ear wax</div>",
+                "repel water<div><br></div><div>* found in the body as ear wax</div>",
                 "",
                 "",
                 "",
@@ -95870,7 +95870,7 @@
             "fields": [
                 "52960566199",
                 "eicosanoids (function, classification, structure, examples)",
-                "‣&nbsp; type of lipid<div>‣ released from cell membranes</div><div>‣ as local hormones</div><div><span>‣ can regulate things like blood pressure, body temperature, smooth muscle contraction</span></div><div><br></div>",
+                "* type of <b>lipid</b><div>* released from <b>cell membranes&nbsp;</b>as <i>local hormones</i></div><div>* can <i>regulate</i> things like blood pressure, body temperature, smooth muscle contraction</div><div><br></div>",
                 "includes&nbsp;<b>prostaglandins</b>, thromboxanes, leukotrienes",
                 "",
                 "",
@@ -95912,7 +95912,7 @@
             "fields": [
                 "52960799008",
                 "how are lipids transported in blood?",
-                "‣ as lipoproteins",
+                "* as lipoproteins",
                 "",
                 "",
                 "",
@@ -95933,7 +95933,7 @@
             "fields": [
                 "52960808950",
                 "lipoprotein structure",
-                "‣ lipid core surrounded by phospholipids and apoproteins",
+                "* lipid core surrounded by phospholipids and apoproteins",
                 "",
                 "",
                 "",
@@ -95954,7 +95954,7 @@
             "fields": [
                 "52960928364",
                 "lipoprotein structual functions",
-                "‣ able to dissolve lipids in its hydrophobic core<div>‣ can move freely through aqueous solutions due to hydrophillic shell</div>",
+                "* able to dissolve lipids in its hydrophobic core<div>* can move freely through aqueous solutions due to hydrophillic shell</div>",
                 "",
                 "",
                 "",
@@ -95975,7 +95975,7 @@
             "fields": [
                 "52960998502",
                 "classification of lipoproteins",
-                "‣ by density (greater lipid to protein ratio → the lower the density)<div>major classes include:</div><div>1. chylomicrons</div><div>2. VLDL (very low density lipoproteins)</div><div>3. LDL (low density lipoproteins)</div><div>4. HDL (high density lipoprotein)&nbsp;</div>",
+                "* by density (greater lipid to protein ratio → the lower the density)<div>major classes include:</div><div>1. chylomicrons</div><div>2. VLDL (very low density lipoproteins)</div><div>3. LDL (low density lipoproteins)</div><div>4. HDL (high density lipoprotein)&nbsp;</div>",
                 "",
                 "",
                 "",
@@ -96017,7 +96017,7 @@
             "fields": [
                 "52961162950",
                 "how are carbohydrates formed? separated?",
-                "‣ formed →dehydration<div>‣ separated&nbsp;→ hydrolysis</div>",
+                "* formed →dehydration<div>* separated&nbsp;→ hydrolysis</div>",
                 "",
                 "",
                 "",
@@ -96060,7 +96060,7 @@
             "fields": [
                 "52961316589",
                 "carbohydrate structure&nbsp;",
-                "<div><div>﻿‣ one carbon per to one water</div> <div><br></div> <div>\\(C_{n}(H_{2}O)_{n}\\)</div></div>",
+                "<div><div>﻿* one carbon per to one water</div> <div><br></div> <div>\\(C_{n}(H_{2}O)_{n}\\)</div></div>",
                 "",
                 "",
                 "",
@@ -96081,7 +96081,7 @@
             "fields": [
                 "52961411288",
                 "hexoses",
-                "6 carbon carbohydrates<div>‣ ie: <i>fructose, glucose</i></div>",
+                "6 carbon carbohydrates<div>* ie: <i>fructose, glucose</i></div>",
                 "",
                 "",
                 "<img src=\"paste-0e422967e464ef5804c84ac60b4c905233549866.png\">",
@@ -96123,7 +96123,7 @@
             "fields": [
                 "52961474050",
                 "the liver regulates",
-                "blood glucose<div>‣ liver cells are able to reform glucose from glycogen and releasing it into the bloodstream as needed (most cells cant)</div>",
+                "blood glucose<div>* liver cells are able to reform glucose from glycogen and releasing it into the bloodstream as needed (most cells cant)</div>",
                 "",
                 "",
                 "",
@@ -96145,7 +96145,7 @@
             "fields": [
                 "52961540239",
                 "what kinds of cells can absorb glucose against the concentration gradient?",
-                "‣ epithelial cells in the GI tract<div>‣ proximal tubule of the kidney</div>",
+                "* epithelial cells in the GI tract<div>* proximal tubule of the kidney</div>",
                 "",
                 "",
                 "",
@@ -96265,7 +96265,7 @@
             "fields": [
                 "52961824288",
                 "forms of starch",
-                "‣ amylose<div>‣ amylopectin</div>",
+                "* amylose<div>* amylopectin</div>",
                 "",
                 "",
                 "",
@@ -96305,7 +96305,7 @@
             "fields": [
                 "52961925590",
                 "cellulose structure + function",
-                "‣ made up of glucose<div>‣ structural material for plants</div><div>‣ beta linkages of glucose</div>",
+                "* made up of glucose<div>* structural material for plants</div><div>* beta linkages of glucose</div>",
                 "",
                 "",
                 "",
@@ -96365,7 +96365,7 @@
             "fields": [
                 "52962282575",
                 "nucleotide structure",
-                "‣ 5-carbon sugar (pentose)<div>‣ nitrogenous base</div><div>‣ phosphate group</div>",
+                "* 5-carbon sugar (pentose)<div>* nitrogenous base</div><div>* phosphate group</div>",
                 "",
                 "",
                 "<img src=\"paste-f51551823ba8c7b33b3b47b0ad295fc8f121403e.png\">",
@@ -96385,7 +96385,7 @@
             "fields": [
                 "52962306067",
                 "DNA structure forms due to",
-                "‣ pentose + phosphate groups linked togethor<div><div>‣‣ both are polar; face outward&nbsp;</div></div><div><br></div><div>‣ nitrogenous bases form H-bonds with eachother to stabilize the souble-stranded structure</div>",
+                "* pentose + phosphate groups linked togethor<div><div>** both are polar; face outward&nbsp;</div></div><div><br></div><div>* nitrogenous bases form H-bonds with eachother to stabilize the souble-stranded structure</div>",
                 "",
                 "",
                 "",
@@ -96405,7 +96405,7 @@
             "fields": [
                 "52962461051",
                 "nucleoside structure",
-                "pentose + nitrogenouse base<div><br></div><div>‣ adding a phosphate then forms <b>nucleotide</b></div>",
+                "pentose + nitrogenouse base<div><br></div><div>* adding a phosphate then forms <b>nucleotide</b></div>",
                 "",
                 "",
                 "",
@@ -96585,7 +96585,7 @@
             "fields": [
                 "52963108078",
                 "double helix structural features",
-                "major groove, minor groove<div>‣ each groove spirals once every 10 base pairs</div>",
+                "major groove, minor groove<div>* each groove spirals once every 10 base pairs</div>",
                 "",
                 "",
                 "",
@@ -96705,7 +96705,7 @@
             "fields": [
                 "52963256939",
                 "RNA structure",
-                "‣ single stranded (almost always)<div>‣ carbon 2 on the pentose has a hydroxyl attached</div>",
+                "* single stranded (almost always)<div>* carbon 2 on the pentose has a hydroxyl attached</div>",
                 "",
                 "",
                 "<img src=\"RNA_chemical_structure.GIF\">",
@@ -96725,7 +96725,7 @@
             "fields": [
                 "52963396760",
                 "ATP, cyclic AMP (cAMP) are classified as?",
-                "‣ nucleotides (<b>aden</b>osine triphosphate, cyclic <b>aden</b>osine monophosphate)",
+                "* nucleotides (<b>aden</b>osine triphosphate, cyclic <b>aden</b>osine monophosphate)",
                 "",
                 "",
                 "",
@@ -96765,7 +96765,7 @@
             "fields": [
                 "52963593073",
                 "ATP structure",
-                "‣ 3 phosphate groups<div>‣ pentose</div><div>‣ nitrogenous base</div>",
+                "* 3 phosphate groups<div>* pentose</div><div>* nitrogenous base</div>",
                 "",
                 "",
                 "<img src=\"paste-3d829b3c5a67cfee4fa15a889bd7cf619b7b251b.png\">",
@@ -96785,7 +96785,7 @@
             "fields": [
                 "52965223044",
                 "protein are made of/also referred to as",
-                "‣ amino acids<div>‣ polypeptides</div>",
+                "* amino acids<div>* polypeptides</div>",
                 "",
                 "",
                 "",
@@ -96886,7 +96886,7 @@
             "fields": [
                 "52965975895",
                 "which are the essential amino acids?",
-                "9 total:<div>‣ phenylalanine, valine, threonine, tryptophan, methionine, leucine, isoleucine, lysine, histidine</div><div><br></div><div>H MILF KVTT</div><div>\"horny milf cut\"</div>",
+                "9 total:<div>* phenylalanine, valine, threonine, tryptophan, methionine, leucine, isoleucine, lysine, histidine</div><div><br></div><div>H MILF KVTT</div><div>\"horny milf cut\"</div>",
                 "those that cannot be made by the body",
                 "",
                 "",
@@ -97033,7 +97033,7 @@
             "fields": [
                 "52967725812",
                 "secondary structure&nbsp;of polypeptides",
-                "α-helix, β-pleated sheet<div>‣ H-bonding of carbonyl oxygen + amino hydrogen between amino acids</div>",
+                "α-helix, β-pleated sheet<div>* H-bonding of carbonyl oxygen + amino hydrogen between amino acids</div>",
                 "",
                 "",
                 "",
@@ -97160,7 +97160,7 @@
             "fields": [
                 "53055081467",
                 "denatured proteins",
-                "when the protein conformation is disrupted<div><br></div><div>‣ protein usually folds back</div>",
+                "when the protein conformation is disrupted<div><br></div><div>* protein usually folds back</div>",
                 "",
                 "",
                 "",
@@ -97509,7 +97509,7 @@
             "fields": [
                 "53055707257",
                 "glycoproteins and proteoglycans",
-                "‣ glycoproteins → proteins with carbohydrate groups attached<div>‣ proteoglycans&nbsp;→ proteins where 50%+ composition is carbohydrates</div>",
+                "* glycoproteins → proteins with carbohydrate groups attached<div>* proteoglycans&nbsp;→ proteins where 50%+ composition is carbohydrates</div>",
                 "",
                 "",
                 "",
@@ -97529,7 +97529,7 @@
             "fields": [
                 "53055857861",
                 "cytochromes",
-                "proteins which require heme groups to functions<div>‣ <i>ie: hemoglobin</i></div>",
+                "proteins which require heme groups to functions<div>* <i>ie: hemoglobin</i></div>",
                 "",
                 "",
                 "",
@@ -97569,7 +97569,7 @@
             "fields": [
                 "53055943527",
                 "minerals in the body act as",
-                "‣ creators of electrochemical gradients across the gradient<div>‣ strengthen the cellular matrix</div><div>‣&nbsp; act as cofactors</div>",
+                "* creators of electrochemical gradients across the gradient<div>* strengthen the cellular matrix</div><div>*&nbsp; act as cofactors</div>",
                 "",
                 "",
                 "",
@@ -97769,7 +97769,7 @@
             "fields": [
                 "53132310362",
                 "what are cofactors? their \"subtypes\"?",
-                "‣ non-protein components which allow the enzyme to reach optimal activity<div>‣‣ coenzymes, metal ions</div>",
+                "* non-protein components which allow the enzyme to reach optimal activity<div>** coenzymes, metal ions</div>",
                 "",
                 "",
                 "",
@@ -97789,7 +97789,7 @@
             "fields": [
                 "53132528487",
                 "coenzymes",
-                "‣ kind of cofactor<div>‣ are organic molecules</div>",
+                "* kind of cofactor<div>* are organic molecules</div>",
                 "",
                 "",
                 "",
@@ -97809,7 +97809,7 @@
             "fields": [
                 "53132561709",
                 "types of coenzymes",
-                "‣ cosubstrates&nbsp;→ bind to a specific enzymes<div>‣ prosthetic groups&nbsp;→ covalently bound to enzyme throughout the reaction</div><div><br></div><div>both are not altered by the reaction</div>",
+                "* cosubstrates&nbsp;→ bind to a specific enzymes<div>* prosthetic groups&nbsp;→ covalently bound to enzyme throughout the reaction</div><div><br></div><div>both are not altered by the reaction</div>",
                 "",
                 "",
                 "",
@@ -97849,7 +97849,7 @@
             "fields": [
                 "53132670321",
                 "prosthetic groups&nbsp;",
-                "<div>‣&nbsp; type of coenzyme</div>remain covalently bound to enzyme throughout the reaction, able to revert back after the reaction",
+                "<div>*&nbsp; type of coenzyme</div>remain covalently bound to enzyme throughout the reaction, able to revert back after the reaction",
                 "",
                 "",
                 "",
@@ -97929,7 +97929,7 @@
             "fields": [
                 "53134626818",
                 "zymogen",
-                "inactive form of an enzyme<div>‣ aka proenzyme</div>",
+                "inactive form of an enzyme<div>* aka proenzyme</div>",
                 "",
                 "",
                 "",
@@ -97949,7 +97949,7 @@
             "fields": [
                 "53134632664",
                 "how are zymogens activated?",
-                "‣ other enzymes or environmental changes (pH, temperature)",
+                "* other enzymes or environmental changes (pH, temperature)",
                 "",
                 "",
                 "",
@@ -97989,7 +97989,7 @@
             "fields": [
                 "53134749387",
                 "regulation of enzymes",
-                "‣ proteolytic cleavage (irreversible covalent activation)<div>‣ reversible covalent modification (phosphorylation, addition of molecule → to deactivate or activate)</div><div>‣ control proteins (associate with enzymes to activate or inhibit activity)</div><div>‣ allosteric interactions</div>",
+                "* proteolytic cleavage (irreversible covalent activation)<div>* reversible covalent modification (phosphorylation, addition of molecule → to deactivate or activate)</div><div>* control proteins (associate with enzymes to activate or inhibit activity)</div><div>* allosteric interactions</div>",
                 "",
                 "",
                 "",
@@ -98049,9 +98049,9 @@
             "fields": [
                 "53135218123",
                 "allosteric inhibitors / allosteric activators",
-                "‣ DO NOT bind to active site&nbsp;<div>‣ bind to other site on enzyme → cause a conformational change&nbsp;→ an increase or decrease in enzyme activity</div>",
                 "",
                 "",
+                "graph TD; A[bind to non-active site]--&gt;B[cause conformational change]; B--&gt;C[results in an increase or decrease of enzyme activity];",
                 "",
                 ""
             ],
@@ -98128,7 +98128,7 @@
             "fields": [
                 "53395770958",
                 "competitive inhibitors",
-                "compete with the substrate by binding (reversibly) to the active site (via noncovalent bonds)<div>‣ can be overcome with increase in substrate concentration</div>",
+                "compete with the substrate by binding (reversibly) to the active site (via noncovalent bonds)<div>* can be overcome with increase in substrate concentration</div>",
                 "",
                 "",
                 "",
@@ -98228,7 +98228,7 @@
             "fields": [
                 "53396310348",
                 "mixed inhibitors",
-                "bind to either the ES complex or enzyme&nbsp;→ which dictates the effects on \\(﻿K_{m}\\)<div><br></div><div>‣&nbsp;\\(﻿v_{max}\\) is always decreased</div>",
+                "bind to either the ES complex or enzyme&nbsp;→ which dictates the effects on \\(﻿K_{m}\\)<div><br></div><div>*&nbsp;\\(﻿v_{max}\\) is always decreased</div>",
                 "",
                 "",
                 "",
@@ -98748,7 +98748,7 @@
             "fields": [
                 "53578610510",
                 "protons",
-                "‣ positively charged<div>‣ have mass</div>",
+                "* positively charged<div>* have mass</div>",
                 "",
                 "",
                 "",
@@ -98768,7 +98768,7 @@
             "fields": [
                 "53578670976",
                 "neutrons",
-                "‣ neutral<div>‣ have mass</div>",
+                "* neutral<div>* have mass</div>",
                 "",
                 "",
                 "",
@@ -98788,7 +98788,7 @@
             "fields": [
                 "53578682735",
                 "electrons",
-                "‣ negatively charged<div>‣ negligible mass</div>",
+                "* negatively charged<div>* negligible mass</div>",
                 "",
                 "",
                 "",
@@ -98888,7 +98888,7 @@
             "fields": [
                 "53578876342",
                 "mass number of an element =",
-                "‣ atomic weight",
+                "* atomic weight",
                 "also called the molar mass",
                 "",
                 "",
@@ -98968,7 +98968,7 @@
             "fields": [
                 "53579362270",
                 "anions",
-                "‣ negative<div>‣ have more electrons than protons</div>",
+                "* negative<div>* have more electrons than protons</div>",
                 "",
                 "",
                 "",
@@ -98988,7 +98988,7 @@
             "fields": [
                 "53579399914",
                 "cations",
-                "‣ positive<div>‣ more protons than electrons</div>",
+                "* positive<div>* more protons than electrons</div>",
                 "",
                 "",
                 "",
@@ -99126,7 +99126,7 @@
             "fields": [
                 "53747329148",
                 "properties of alkali metals",
-                "‣ soft<div>‣ low densities, low melting points</div><div>‣ form +1 cations</div>",
+                "* soft<div>* low densities, low melting points</div><div>* form +1 cations</div>",
                 "",
                 "",
                 "<img src=\"mcatperiodic.png\">",
@@ -99146,7 +99146,7 @@
             "fields": [
                 "53747671901",
                 "properties of&nbsp;alkaline earth metals",
-                "‣ harder, more dense<div>‣ have higher melting points than alkali earth metals<br><div>‣ form 2+ cations</div></div>",
+                "* harder, more dense<div>* have higher melting points than alkali earth metals<br><div>* form 2+ cations</div></div>",
                 "",
                 "",
                 "",
@@ -99206,7 +99206,7 @@
             "fields": [
                 "53748619428",
                 "atomic radius trend",
-                "‣ increases downard and to the left<div>‣ decreases to the right and up</div>",
+                "* increases downard and to the left<div>* decreases to the right and up</div>",
                 "",
                 "",
                 "<img src=\"mcatperiodic.png\">",
@@ -99267,7 +99267,7 @@
             "fields": [
                 "53748841687",
                 "electrostatic force",
-                "‣ force between charged objects<div>‣ attractive between opposite charge, repulsive between like charges</div>",
+                "* force between charged objects<div>* attractive between opposite charge, repulsive between like charges</div>",
                 "",
                 "",
                 "",
@@ -99288,7 +99288,7 @@
             "fields": [
                 "53749021592",
                 "effective nuclear charge (Z<sub>eff</sub>)",
-                "‣ amount of charge felt by valence electrons",
+                "* amount of charge felt by valence electrons",
                 "",
                 "",
                 "",
@@ -99308,7 +99308,7 @@
             "fields": [
                 "53757699472",
                 "Relationship between Z<sub>eff</sub>,&nbsp;ion size, and electrons",
-                "‣ Z<sub>eff </sub>increases&nbsp;→ electron lost → electrons pulled closer to the nucleus (smaller)<div>‣ Z<sub>eff </sub>decreases&nbsp;→ gained electron → more electrons relative to protons (larger)</div>",
+                "* Z<sub>eff </sub>increases&nbsp;→ electron lost → electrons pulled closer to the nucleus (smaller)<div>* Z<sub>eff </sub>decreases&nbsp;→ gained electron → more electrons relative to protons (larger)</div>",
                 "",
                 "",
                 "",
@@ -99588,7 +99588,7 @@
             "fields": [
                 "53820110120",
                 "magnetic quantum number (\\(﻿m_{l}\\))",
-                "designates a precise orbital within a subshell<div>‣ values range from - <i>l </i>to + <i>l&nbsp;</i></div>",
+                "designates a precise orbital within a subshell<div>* values range from \\(﻿- l\\)&nbsp;to \\(﻿+l\\)<i>&nbsp;</i></div>",
                 "",
                 "",
                 "",
@@ -99608,7 +99608,7 @@
             "fields": [
                 "53820433281",
                 "electron spin quantum number (m<sub>s</sub>)",
-                "<div>﻿‣ indicates the electron spin</div> <div>‣ \\(-\\frac{1}{2}\\) or \\(+\\frac{1}{2}\\)</div><div></div>",
+                "<div>﻿* indicates the electron spin</div> <div>* \\(-\\frac{1}{2}\\) or \\(+\\frac{1}{2}\\)</div><div></div>",
                 "",
                 "",
                 "",
@@ -99931,7 +99931,7 @@
             "fields": [
                 "53832328194",
                 "nonpolar &amp; polar covalent bond",
-                "‣ nonpolar&nbsp;→ electrons are shared equally<div>‣ polar&nbsp;→ electrons are not shared equally</div>",
+                "* nonpolar&nbsp;→ electrons are shared equally<div>* polar&nbsp;→ electrons are not shared equally</div>",
                 "",
                 "",
                 "",
@@ -100153,7 +100153,7 @@
             "fields": [
                 "53997190560",
                 "catalyst",
-                "substance that increases reaction rate <b>without being permanently altered or consumed</b><div>‣ can lower activation energy (\\(E_{a}\\)) or increase the steric factor (<i>p </i>from the Arrhenius equation) or both</div>",
+                "substance that increases reaction rate <b>without being permanently altered or consumed</b><div>* can lower activation energy (\\(E_{a}\\)) or increase the steric factor (<i>p </i>from the Arrhenius equation) or both</div>",
                 "",
                 "",
                 "",
@@ -100253,7 +100253,7 @@
             "fields": [
                 "54000334567",
                 "alpha decay",
-                "‣ loss of an alpha particle (helium)<div>‣ 2 protons, 2 neutrons</div><div>‣ mass number reduces by 4, atomic number reduces by 2</div>",
+                "* loss of an alpha particle (helium)<div>* 2 protons, 2 neutrons</div><div>* mass number reduces by 4, atomic number reduces by 2</div>",
                 "",
                 "",
                 "",
@@ -100273,7 +100273,7 @@
             "fields": [
                 "54000459740",
                 "beta decay",
-                "‣ breakdown of a neutron into a proton and an electron<div>‣ mass number is the same, atomic number increases by one</div>",
+                "* breakdown of a neutron into a proton and an electron<div>* mass number is the same, atomic number increases by one</div>",
                 "",
                 "",
                 "",
@@ -100554,7 +100554,7 @@
             "fields": [
                 "54174564990",
                 "inbreeding",
-                "the mating of relatives<div><br><div>‣&nbsp; increases the number of homozygous individuals in a population without changing the allele frequency</div></div>",
+                "the mating of relatives<div><br><div>*&nbsp; increases the number of homozygous individuals in a population without changing the allele frequency</div></div>",
                 "",
                 "",
                 "",
@@ -100911,7 +100911,7 @@
             "fields": [
                 "54268355151",
                 "lytic path",
-                "one of two paths a virus takes after infecting a cell:<div>‣ virus uses the cells machinery to replicate viral components (RNA from viral DNA → viral proteins → self-assemble to form new virus)</div><div>‣ may fill cell with new viruses until it bursts or releases new viruses via reverse endocytosis</div>",
+                "one of two paths a virus takes after infecting a cell:<div>* virus uses the cells machinery to replicate viral components (RNA from viral DNA → viral proteins → self-assemble to form new virus)</div><div>* may fill cell with new viruses until it bursts or releases new viruses via reverse endocytosis</div>",
                 "",
                 "",
                 "",
@@ -100931,7 +100931,7 @@
             "fields": [
                 "54268536554",
                 "period from infection to lysis (viral lifecycle)",
-                "latent period",
+                "<i>latent</i> period",
                 "",
                 "",
                 ""
@@ -101067,7 +101067,7 @@
             "fields": [
                 "54268924043",
                 "viral envelopes",
-                "‣ protects the viruses from immune system detection<div>‣ allows the virus to bind to a new host cell</div>",
+                "* protects the viruses from immune system detection<div>* allows the virus to bind to a new host cell</div>",
                 "typically are pieces of the host cells membbrane pinched off during exocytosis",
                 "",
                 "",
@@ -101087,7 +101087,7 @@
             "fields": [
                 "54269024304",
                 "eneveloped viruses",
-                "<div>‣ serves to mask it from the hosts immune system and attach to a new host cell</div>",
+                "<div>* serves to mask it from the hosts immune system and attach to a new host cell</div>",
                 "typically it is pinched off of the host cells membrane",
                 "",
                 "",
@@ -101147,7 +101147,7 @@
             "fields": [
                 "54269530147",
                 "RNA-dependent RNA polymerase viruses",
-                "RNA polymerase is used to synthesis a new strand of RNA from existing strand<div><br></div><div>‣ +RNA strand → codes for proteins</div><div>‣ -RNA&nbsp;→ cannot code for proteins; complement strand to +RNA; must undergo a replication bby RNA-dependent RNA polymerase to form +RNA that can code for proteins</div>",
+                "RNA polymerase is used to synthesis a new strand of RNA from existing strand<div><br></div><div>* +RNA strand → codes for proteins</div><div>* -RNA&nbsp;→ cannot code for proteins; complement strand to +RNA; must undergo a replication bby RNA-dependent RNA polymerase to form +RNA that can code for proteins</div>",
                 "",
                 "",
                 "",
@@ -101169,7 +101169,7 @@
                 "ssDNA viruses",
                 "",
                 "",
-                "<svg id=\"mermaid-1556038687300\" style=\"max-width: 402.5625px;\" viewBox=\"0 0 402.5625 322\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><style>#mermaid-1556038687300 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1556038687300 .node circle,#mermaid-1556038687300 .node ellipse,#mermaid-1556038687300 .node polygon,#mermaid-1556038687300 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1556038687300 .node.clickable{cursor:pointer}#mermaid-1556038687300 .arrowheadPath{fill:#333}#mermaid-1556038687300 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1556038687300 .edgeLabel{background-color:#e8e8e8}#mermaid-1556038687300 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1556038687300 .cluster text{fill:#333}#mermaid-1556038687300 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1556038687300 .actor{stroke:#ccf;fill:#ececff}#mermaid-1556038687300 text.actor{fill:#000;stroke:none}#mermaid-1556038687300 .actor-line{stroke:grey}#mermaid-1556038687300 .messageLine0{marker-end:\"url(#arrowhead)\"}#mermaid-1556038687300 .messageLine0,#mermaid-1556038687300 .messageLine1{stroke-width:1.5;stroke-dasharray:\"2 2\";stroke:#333}#mermaid-1556038687300 #arrowhead{fill:#333}#mermaid-1556038687300 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1556038687300 .messageText{fill:#333;stroke:none}#mermaid-1556038687300 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1556038687300 .labelText,#mermaid-1556038687300 .loopText{fill:#000;stroke:none}#mermaid-1556038687300 .loopLine{stroke-width:2;stroke-dasharray:\"2 2\";marker-end:\"url(#arrowhead)\";stroke:#ccf}#mermaid-1556038687300 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1556038687300 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1556038687300 .section{stroke:none;opacity:.2}#mermaid-1556038687300 .section0{fill:rgba(102,102,255,.49)}#mermaid-1556038687300 .section2{fill:#fff400}#mermaid-1556038687300 .section1,#mermaid-1556038687300 .section3{fill:#fff;opacity:.2}#mermaid-1556038687300 .sectionTitle0,#mermaid-1556038687300 .sectionTitle1,#mermaid-1556038687300 .sectionTitle2,#mermaid-1556038687300 .sectionTitle3{fill:#333}#mermaid-1556038687300 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1556038687300 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1556038687300 .grid path{stroke-width:0}#mermaid-1556038687300 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1556038687300 .task{stroke-width:2}#mermaid-1556038687300 .taskText{text-anchor:middle;font-size:11px}#mermaid-1556038687300 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1556038687300 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1556038687300 .taskText0,#mermaid-1556038687300 .taskText1,#mermaid-1556038687300 .taskText2,#mermaid-1556038687300 .taskText3{fill:#fff}#mermaid-1556038687300 .task0,#mermaid-1556038687300 .task1,#mermaid-1556038687300 .task2,#mermaid-1556038687300 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1556038687300 .taskTextOutside0,#mermaid-1556038687300 .taskTextOutside1,#mermaid-1556038687300 .taskTextOutside2,#mermaid-1556038687300 .taskTextOutside3{fill:#000}#mermaid-1556038687300 .active0,#mermaid-1556038687300 .active1,#mermaid-1556038687300 .active2,#mermaid-1556038687300 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1556038687300 .activeText0,#mermaid-1556038687300 .activeText1,#mermaid-1556038687300 .activeText2,#mermaid-1556038687300 .activeText3{fill:#000!important}#mermaid-1556038687300 .done0,#mermaid-1556038687300 .done1,#mermaid-1556038687300 .done2,#mermaid-1556038687300 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1556038687300 .doneText0,#mermaid-1556038687300 .doneText1,#mermaid-1556038687300 .doneText2,#mermaid-1556038687300 .doneText3{fill:#000!important}#mermaid-1556038687300 .crit0,#mermaid-1556038687300 .crit1,#mermaid-1556038687300 .crit2,#mermaid-1556038687300 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1556038687300 .activeCrit0,#mermaid-1556038687300 .activeCrit1,#mermaid-1556038687300 .activeCrit2,#mermaid-1556038687300 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1556038687300 .doneCrit0,#mermaid-1556038687300 .doneCrit1,#mermaid-1556038687300 .doneCrit2,#mermaid-1556038687300 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1556038687300 .activeCritText0,#mermaid-1556038687300 .activeCritText1,#mermaid-1556038687300 .activeCritText2,#mermaid-1556038687300 .activeCritText3,#mermaid-1556038687300 .doneCritText0,#mermaid-1556038687300 .doneCritText1,#mermaid-1556038687300 .doneCritText2,#mermaid-1556038687300 .doneCritText3{fill:#000!important}#mermaid-1556038687300 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1556038687300 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1556038687300 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1556038687300 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1556038687300 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1556038687300 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1556038687300 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1556038687300 #compositionEnd,#mermaid-1556038687300 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1556038687300 #aggregationEnd,#mermaid-1556038687300 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1556038687300 #dependencyEnd,#mermaid-1556038687300 #dependencyStart,#mermaid-1556038687300 #extensionEnd,#mermaid-1556038687300 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1556038687300 .branch-label,#mermaid-1556038687300 .commit-id,#mermaid-1556038687300 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1556038687300 {\n    color: rgb(0, 0, 0);\n    font: normal normal 400 normal 16px / normal \"Times New Roman\";\n  }</style><g transform=\"translate(-12, -12)\"><g class=\"output\"><g class=\"clusters\"></g><g class=\"edgePaths\"><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M213.28125,59L213.28125,84L213.28125,109\" marker-end=\"url(#arrowhead17)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead17\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M213.28125,148L213.28125,173L213.28125,198\" marker-end=\"url(#arrowhead18)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead18\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M213.28125,237L213.28125,262L213.28125,287\" marker-end=\"url(#arrowhead19)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead19\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g></g><g class=\"edgeLabels\"><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g></g><g class=\"nodes\"><g class=\"node\" id=\"A\" style=\"opacity: 1;\" transform=\"translate(213.28125,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"365\" x=\"-182.5\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-172.5,-9.5)\"><foreignObject height=\"19\" width=\"345\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">single stranded DNA translocated to the nucleus</div></foreignObject></g></g></g><g class=\"node\" id=\"B\" style=\"opacity: 1;\" transform=\"translate(213.28125,128.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"386.5625\" x=\"-193.28125\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-183.28125,-9.5)\"><foreignObject height=\"19\" width=\"366.5625\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">DNA polymerase transcribes complementary strand</div></foreignObject></g></g></g><g class=\"node\" id=\"C\" style=\"opacity: 1;\" transform=\"translate(213.28125,217.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"110.15625\" x=\"-55.078125\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-45.078125,-9.5)\"><foreignObject height=\"19\" width=\"90.15625\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">dsDNA forms</div></foreignObject></g></g></g><g class=\"node\" id=\"D\" style=\"opacity: 1;\" transform=\"translate(213.28125,306.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"255.140625\" x=\"-127.5703125\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-117.5703125,-9.5)\"><foreignObject height=\"19\" width=\"235.140625\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">separates to give +RNA and -RNA</div></foreignObject></g></g></g></g></g></g></svg>",
+                "graph LR; A[ssDNA translocated to the nuclease]--&gt;B[DNA polymerase transcribes the complementary strand]; B--&gt;C[dsDNA forms]; C--&gt;D[separate to give +RNA and -RNA];",
                 "",
                 ""
             ],
@@ -101187,7 +101187,7 @@
             "fields": [
                 "54269860925",
                 "retroviruses",
-                "<div>‣&nbsp; ssRNA virus<br></div><div>‣ can transcribe the RNA to form DNA (via <i>reverse transcriptase</i>)</div><div>‣ integrates into the host DNA</div>",
+                "<div>*&nbsp; ssRNA virus<br></div><div>* can transcribe the RNA to form DNA (via <i>reverse transcriptase</i>)</div><div>* integrates into the host DNA</div>",
                 "",
                 "",
                 "",
@@ -101207,7 +101207,7 @@
             "fields": [
                 "54269936707",
                 "HIV",
-                "‣ retrovirus<div>‣ attacks cells involved in the immune response</div>",
+                "* retrovirus<div>* attacks cells involved in the immune response</div>",
                 "",
                 "",
                 "",
@@ -101247,7 +101247,7 @@
             "fields": [
                 "54273596314",
                 "viroids",
-                "‣ naked RNA without capsids<div>‣‣ only infect plants</div>",
+                "* naked RNA without capsids<div>* only infect plants</div>",
                 "",
                 "",
                 "",
@@ -101267,7 +101267,7 @@
             "fields": [
                 "54273629844",
                 "prions",
-                "‣ cause infections<div>‣ able to reproduce without DNA/RNA</div>",
+                "* cause infections<div>* able to reproduce without DNA/RNA</div>",
                 "",
                 "",
                 "",
@@ -101287,7 +101287,7 @@
             "fields": [
                 "54273658114",
                 "prokaryotes",
-                "‣ no membrane bound nuclei<div>‣ part of two domains: Archaea, Bacteria</div>",
+                "* no membrane bound nuclei<div>* part of two domains: Archaea, Bacteria</div>",
                 "",
                 "",
                 "",
@@ -101307,7 +101307,7 @@
             "fields": [
                 "54273732392",
                 "Archaea",
-                "‣ found in extreme environmental conditions (salty lakes, boiling hot springs)<div>‣ cell walls NOT made of peptidoglycan</div>",
+                "* found in extreme environmental conditions (salty lakes, boiling hot springs)<div>* cell walls NOT made of peptidoglycan</div>",
                 "",
                 "",
                 "",
@@ -101327,7 +101327,7 @@
             "fields": [
                 "54273803758",
                 "bacteria",
-                "‣ no membrane bound organelles<div>‣ singular circular double stranded DNA molecule (associated with histones)&nbsp;→ <b>nucleoid</b></div>",
+                "* no membrane bound organelles<div>* singular circular double stranded DNA molecule (associated with histones)&nbsp;→ <b>nucleoid</b></div>",
                 "",
                 "",
                 "",
@@ -101526,7 +101526,7 @@
             "fields": [
                 "54274313491",
                 "gram-positive bacteria",
-                "‣ thick peptidoglycan wall<div>‣ appear purple</div>",
+                "* thick peptidoglycan wall<div>* appear purple</div>",
                 "",
                 "",
                 "",
@@ -101646,7 +101646,7 @@
             "fields": [
                 "54274639280",
                 "bacterial cells reproduce via",
-                "‣ binary fission&nbsp;<div>‣‣ a type of asexual reproduction&nbsp;</div>",
+                "* binary fission&nbsp;<div>** a type of asexual reproduction&nbsp;</div>",
                 "",
                 "",
                 "",
@@ -101686,7 +101686,7 @@
             "fields": [
                 "54274727209",
                 "binary fission",
-                "‣ bacterial cells undergo this form of asexual reproduction<div>‣ circular DNA is replicated</div>",
+                "* bacterial cells undergo this form of asexual reproduction<div>* circular DNA is replicated</div>",
                 "bacterial cells continue to reproduce until the environments essential nutrients run out",
                 "",
                 "",
@@ -101786,7 +101786,7 @@
             "fields": [
                 "54275010200",
                 "F plasmid",
-                "bacterial plasmid called the fertility factor<div>‣ codes for the sex pilus</div>",
+                "bacterial plasmid called the fertility factor<div>* codes for the sex pilus</div>",
                 "",
                 "",
                 "",
@@ -101846,7 +101846,7 @@
             "fields": [
                 "54275086290",
                 "transformation",
-                "‣ method of bacterial genetic recombination<div>‣ bacteria incorporate DNA from external environment</div>",
+                "* method of bacterial genetic recombination<div>* bacteria incorporate DNA from external environment</div>",
                 "frequently from heat-killed bacteria in the vicinity",
                 "",
                 "",
@@ -101866,7 +101866,7 @@
             "fields": [
                 "54275178745",
                 "transduction",
-                "‣ method of bacterial genetic recombination<div>‣ transfer of genetic material via a virus</div><div>‣‣ occurs when the bacteriophage incorporated a host DNA fragment</div>",
+                "* method of bacterial genetic recombination<div>* transfer of genetic material via a virus</div><div>** occurs when the bacteriophage incorporated a host DNA fragment</div>",
                 "the virus that mediates the transduction is referred to as the vector",
                 "",
                 "",
@@ -101946,7 +101946,7 @@
             "fields": [
                 "54275596404",
                 "nucleus",
-                "contains all DNA (except some from the mitochondria)<div>‣ DNA is transcribed to carry out functions of the cell</div>",
+                "contains all DNA (except some from the mitochondria)<div>* DNA is transcribed to carry out functions of the cell</div>",
                 "its like the \"brain\" of the cell",
                 "",
                 "",
@@ -102006,7 +102006,7 @@
             "fields": [
                 "54275905308",
                 "nuclear pores",
-                "large holes in the nuclear envelope<div>‣ allows for passage of RNA; DOES NOT ALLOW DNA TO PASS THROUGH</div>",
+                "large holes in the nuclear envelope<div>* allows for passage of RNA; DOES NOT ALLOW DNA TO PASS THROUGH</div>",
                 "",
                 "",
                 "",
@@ -102226,7 +102226,7 @@
             "fields": [
                 "54276675238",
                 "Golgi can transport proteins via",
-                "‣ secretory vesicles (for secretion)<div>‣ transport vesicles (for movement WITHIN the cell; ie: mitochondria)</div>",
+                "* secretory vesicles (for secretion)<div>* transport vesicles (for movement WITHIN the cell; ie: mitochondria)</div>",
                 "",
                 "",
                 "",
@@ -102348,7 +102348,7 @@
             "fields": [
                 "54361396065",
                 "smooth ER",
-                "‣ lacks ribosomes<div>‣ function varies depending on the type of cell but typically for lipid metabolism, storage, detoxification</div>",
+                "* lacks ribosomes<div>* function varies depending on the type of cell but typically for lipid metabolism, storage, detoxification</div>",
                 "",
                 "",
                 "",
@@ -102368,7 +102368,7 @@
             "fields": [
                 "54361530230",
                 "peroxisomes",
-                "vesicles in the cytosol involved in lipid + protein storage, breakdown&nbsp; + production of hydrogen peroxide<div>‣ self replicate</div>",
+                "vesicles in the cytosol involved in lipid + protein storage, breakdown&nbsp; + production of hydrogen peroxide<div>* self replicate</div>",
                 "",
                 "",
                 "",
@@ -102428,7 +102428,7 @@
             "fields": [
                 "54362091841",
                 "mitochondrial DNA",
-                "‣ circular (similar to prokaryotes)<div>‣ replicated independently of nuclear DNA</div>",
+                "* circular (similar to prokaryotes)<div>* replicated independently of nuclear DNA</div>",
                 "",
                 "",
                 "",
@@ -102488,7 +102488,7 @@
             "fields": [
                 "54362318707u",
                 "inner mitochondrial membrane (function, structure)",
-                "‣ folds called <i>cristae</i><div>‣ where the electron transport chain is housed</div>",
+                "* folds called <i>cristae</i><div>* where the electron transport chain is housed</div>",
                 "",
                 "",
                 "",
@@ -102508,7 +102508,7 @@
             "fields": [
                 "54362404389",
                 "mitochondrial structure",
-                "‣ inner membrane<div>‣ outer membrane<br><div>‣ intermembrane space (area between the inner and outer membrane)</div></div>",
+                "* inner membrane<div>* outer membrane<br><div>* intermembrane space (area between the inner and outer membrane)</div></div>",
                 "",
                 "",
                 "",
@@ -102548,7 +102548,7 @@
             "fields": [
                 "54362535041",
                 "parts of the cytoskeleton",
-                "‣ microtubules (platform for transport)<div>‣ microfilaments (interact with myosin)</div><div>‣ intermediate filaments (maintain the cells shape)</div>",
+                "* microtubules (platform for transport)<div>* microfilaments (interact with myosin)</div><div>* intermediate filaments (maintain the cells shape)</div>",
                 "",
                 "",
                 "",
@@ -102568,7 +102568,7 @@
             "fields": [
                 "54362876779",
                 "microtubules",
-                "‣ part of the cytoskeleton<div>‣ provide a platform for transport &amp; support the shape of the cell</div>",
+                "* part of the cytoskeleton<div>* provide a platform for transport &amp; support the shape of the cell</div>",
                 "",
                 "",
                 "",
@@ -102588,8 +102588,8 @@
             "fields": [
                 "54362899471",
                 "microtubule structure",
-                "‣ hollow tubes made from tubulin<div>‣ have a + and - end</div>",
-                "‣ tubulin is a globular protein<div>‣ extends from the + end and is anchored from the negative end</div>",
+                "* hollow tubes made from tubulin<div>* have a + and - end</div>",
+                "* tubulin is a globular protein<div>* extends from the + end and is anchored from the negative end</div>",
                 "",
                 "",
                 ""
@@ -102648,7 +102648,7 @@
             "fields": [
                 "54374332615",
                 "centrosome",
-                "‣ function in the production of flagella and cilia<div>‣ organizing center for microtubules</div>",
+                "* function in the production of flagella and cilia<div>* organizing center for microtubules</div>",
                 "are not necessary for microtubule production",
                 "",
                 "",
@@ -102668,7 +102668,7 @@
             "fields": [
                 "54374432046",
                 "structure flagella and cilia&nbsp;",
-                "‣ made of microtubules<div>‣ 9+2 arrangement (circle with two lone microtubules in the center)</div>",
+                "* made of microtubules<div>* 9+2 arrangement (circle with two lone microtubules in the center)</div>",
                 "",
                 "",
                 "",
@@ -102688,7 +102688,7 @@
             "fields": [
                 "54374447248",
                 "microfilament functions",
-                "‣ interact with myosin to cause muscle contraction<div>‣ pinch the cytoplasm during cytokinesis</div>",
+                "* interact with myosin to cause muscle contraction<div>* pinch the cytoplasm during cytokinesis</div>",
                 "they are also called actin filaments",
                 "",
                 "",
@@ -102708,7 +102708,7 @@
             "fields": [
                 "54374648805",
                 "intermediate filaments",
-                "‣ give the cell additional rigidity",
+                "* give the cell additional rigidity",
                 "",
                 "",
                 "",
@@ -102768,7 +102768,7 @@
             "fields": [
                 "54374831017",
                 "peripheral / extrinsic proteins",
-                "‣ located on the surfaces of the membrane<div>‣ typically hydrophilic</div>",
+                "* located on the surfaces of the membrane<div>* typically hydrophilic</div>",
                 "",
                 "",
                 "",
@@ -103068,7 +103068,7 @@
             "fields": [
                 "54420062718",
                 "colligative property",
-                "property based on the number of particles<div>‣ <i>ie: osmotic pressure</i></div>",
+                "property based on the number of particles<div>* <i>ie: osmotic pressure</i></div>",
                 "",
                 "",
                 "",
@@ -103108,7 +103108,7 @@
             "fields": [
                 "54420324222",
                 "types of endocytosis",
-                "‣ pinocytosis (liquid)<div>‣ phagocytosis (particules)</div><div>‣ receptor mediated endocytosis</div>",
+                "* pinocytosis (liquid)<div>* phagocytosis (particules)</div><div>* receptor mediated endocytosis</div>",
                 "",
                 "",
                 "",
@@ -103249,7 +103249,7 @@
             "fields": [
                 "54516557296",
                 "cilia",
-                "9+2 arrangement where the outer ring of microtubules are connected via dynein",
+                "9+2 arrangement where the outer ring of <b>microtubules</b> are connected via <i>dynein</i>",
                 "",
                 "",
                 "",
@@ -103270,7 +103270,7 @@
             "fields": [
                 "54517400676",
                 "<div>﻿what does the \\(G_{2}\\) checkpoint check for? what happens after?</div>",
-                "‣ mitosis promoting factor (MPF)<div>‣ mitosis begins afterward</div>",
+                "* mitosis promoting factor (MPF)<div>* mitosis begins afterward</div>",
                 "",
                 "",
                 "",
@@ -103370,7 +103370,7 @@
             "fields": [
                 "54540638960",
                 "tight junctions",
-                "‣ act as barrier to extracelluler fluids<div>‣ connect adjacent cells</div>",
+                "* act as barrier to extracelluler fluids<div>* connect adjacent cells</div>",
                 "prevent molecules from moving around &amp; past cells<div>dont let shit seep into the lumen</div>",
                 "",
                 "",
@@ -103390,7 +103390,7 @@
             "fields": [
                 "54541211014",
                 "desmomes",
-                "<div>cell adhesion between cells' cytoskeletons</div><div>‣ STRONGEST FORM OF INTRACELLULAR CONNECTION</div>",
+                "<div>cell adhesion between cells' cytoskeletons</div><div>* STRONGEST FORM OF INTRACELLULAR CONNECTION</div>",
                 "from their cytoskeletons",
                 "",
                 "",
@@ -103936,7 +103936,7 @@
             "fields": [
                 "54544985485",
                 "Huckel's rule",
-                "\\(4n+2\\) \\(\\pi\\)&nbsp;electrons<div>‣ used to determine aromaticity</div>",
+                "\\(4n+2\\) \\(\\pi\\)&nbsp;electrons<div>* used to determine aromaticity</div>",
                 "",
                 "",
                 "",
@@ -103956,7 +103956,7 @@
             "fields": [
                 "54545100082",
                 "nucleophilic functional groups",
-                "‣ partial negative charge<div>‣ seek positively charged species</div><div>‣ donate electrons/\"attack\"</div>",
+                "* partial negative charge<div>* seek positively charged species</div><div>* donate electrons/\"attack\"</div>",
                 "also considered Lewis bases",
                 "",
                 "",
@@ -103976,7 +103976,7 @@
             "fields": [
                 "54545298763",
                 "electrophilic functional groups",
-                "‣ partial positive charge<div>‣ seek negatively charged groups</div><div>‣ get&nbsp;\"attacked\"</div>",
+                "* partial positive charge<div>* seek negatively charged groups</div><div>* get&nbsp;\"attacked\"</div>",
                 "considered Lewis acids",
                 "",
                 "",
@@ -104192,7 +104192,7 @@
                 "hydrazine",
                 "R<sub>2</sub>-NN-R<sub>2</sub>",
                 "",
-                "<img src=\"paste-e3a505c089a4fb9176c823e85fffbfc8508fd095.png\">",
+                "<img src=\"paste-e4f49c2e1cb7750c912a0247e1bf7901cb53c18b.png\">",
                 ""
             ],
             "flags": 0,
@@ -104418,7 +104418,7 @@
             "fields": [
                 "54546093391",
                 "stereoisomers",
-                "two unique molecules with the same binding<div>‣ <i>ie: enantiomers, diastereomers</i></div>",
+                "two unique molecules with the same binding<div> <i>ie: enantiomers, diastereomers</i></div>",
                 "",
                 "",
                 ""
@@ -104437,7 +104437,7 @@
             "fields": [
                 "54546135618",
                 "enantiomers",
-                "‣ type of stereoisomer<div>‣ non-superimposable mirror images</div><div>‣ DIFFER AT ALL STEREOCENTERS</div>",
+                "* type of stereoisomer<div>* non-superimposable mirror images</div><div>* DIFFER AT ALL STEREOCENTERS</div>",
                 "",
                 "",
                 ""
@@ -104456,7 +104456,7 @@
             "fields": [
                 "54546165979",
                 "absolute configuration",
-                "‣ R&nbsp;→ clockwise<div>‣ S&nbsp;→ counter-clockwise</div>",
+                "* R&nbsp;→ clockwise<div>* S&nbsp;→ counter-clockwise</div>",
                 "only around chiral carbons",
                 "",
                 ""
@@ -105104,7 +105104,7 @@
             "fields": [
                 "54628252750",
                 "how to predict if an alcohol acts as a nucleophile or acid",
-                "the other functional groups in the molecule<div>‣ electron withdrawing groups&nbsp;→ make alcohols more acidic</div><div>‣ electron donating groups&nbsp;→ make alcohols less acidic</div>",
+                "the other functional groups in the molecule<div>* electron withdrawing groups&nbsp;→ make alcohols more acidic</div><div>* electron donating groups&nbsp;→ make alcohols less acidic</div>",
                 "the less acidic, the more likely it'll act as a nucleophile",
                 "",
                 "",
@@ -105404,7 +105404,7 @@
             "fields": [
                 "54771599566",
                 "lactone",
-                "‣ intramolecular ester",
+                "* intramolecular ester",
                 "",
                 "",
                 "<img src=\"paste-9779e36f906dbabe5b1269814b30685dcc7ea943.png\">",
@@ -105444,7 +105444,7 @@
             "fields": [
                 "54771724127",
                 "lactams",
-                "‣ cyclic amide<div>‣‣ can be formed via intramolecular reaction&nbsp;</div>",
+                "* cyclic amide<div>** can be formed via intramolecular reaction&nbsp;</div>",
                 "",
                 "",
                 "",
@@ -105504,7 +105504,7 @@
             "fields": [
                 "54772344452",
                 "name endings for ketones &amp; aldehydes",
-                "‣ -one for ketones<div>‣ -al for aldehydes</div>",
+                "* -one for ketones<div>* -al for aldehydes</div>",
                 "",
                 "",
                 "",
@@ -105544,7 +105544,7 @@
             "fields": [
                 "54852089099",
                 "kinetic enolate",
-                "‣ less substituted, easier to form<div>‣ kinetically favored</div>",
+                "* less substituted, easier to form<div>* kinetically favored</div>",
                 "",
                 "",
                 "",
@@ -105564,7 +105564,7 @@
             "fields": [
                 "54852137428",
                 "thermodynamic enolate",
-                "‣ more substituted, harder to form<div>‣ more thermodynamically stable</div>",
+                "* more substituted, harder to form<div>* more thermodynamically stable</div>",
                 "",
                 "",
                 "",
@@ -105604,7 +105604,7 @@
             "fields": [
                 "54852214677",
                 "alcohols + aldehydes/ketones",
-                "hemiacetals/hemiketals<div>‣ alcohol is the nucleophile</div>",
+                "hemiacetals/hemiketals<div>* alcohol is the nucleophile</div>",
                 "",
                 "",
                 "<img src=\"paste-75d56be0b54a030e83df7bf13c4b7b766da73477.png\">",
@@ -105664,7 +105664,7 @@
             "fields": [
                 "54853911942",
                 "imine structure",
-                "‣ R-N=CCH<sub>2</sub>",
+                "* R-N=CCH<sub>2</sub>",
                 "",
                 "",
                 "<img src=\"paste-d950000454c681bde72969e92bf9c7d994935a88.png\">",
@@ -105684,7 +105684,7 @@
             "fields": [
                 "54855154708",
                 "enamine structure",
-                "‣ R<sub>2</sub>N-C=CH",
+                "* R<sub>2</sub>N-C=CH",
                 "",
                 "",
                 "<img src=\"paste-15c0ea9802f6f83a7d3c2bdd8180007469d7c073.png\">",
@@ -105704,7 +105704,7 @@
             "fields": [
                 "54858442118",
                 "organometallics/hydride ions + aldehydes or ketones =",
-                "‣ nucleophilic addition resulting in alcohol formation",
+                "* nucleophilic addition resulting in alcohol formation",
                 "",
                 "",
                 "",
@@ -105824,7 +105824,7 @@
             "fields": [
                 "54860487764",
                 "aldol condensation",
-                "‣ carbonyl attacks another carbonyl (usually with another adjacent carbonyl)&nbsp;<div>‣ typically catilyzed by an acid or base</div>",
+                "* carbonyl attacks another carbonyl (usually with another adjacent carbonyl)&nbsp;<div>* typically catilyzed by an acid or base</div>",
                 "",
                 "",
                 "<img src=\"paste-7d72f3a63e3466488b9d9187bc95a173f013ec07.png\">",
@@ -105924,7 +105924,7 @@
             "fields": [
                 "54889131600",
                 "NADPH has three primary functions:&nbsp;",
-                "‣&nbsp; biosynthesis of lipids and cholesterol (precursor)<div>‣ production of bactericidal bleach in the lysosomes of some WBC's</div><div>‣ maintain the supply of reduced glutathione&nbsp;</div>",
+                "*&nbsp; biosynthesis of lipids and cholesterol (precursor)<div>* production of bactericidal bleach in the lysosomes of some WBC's</div><div>* maintain the supply of reduced glutathione&nbsp;</div>",
                 "",
                 "",
                 "",
@@ -106720,7 +106720,7 @@
             "fields": [
                 "55217524602",
                 "peak height of a projectile in projectile motion =",
-                "\\(﻿v = \\sqrt{2gh}\\)<div>‣ then solve for&nbsp;\\(﻿h\\)</div>",
+                "\\(﻿v = \\sqrt{2gh}\\)<div>* then solve for&nbsp;\\(﻿h\\)</div>",
                 "",
                 "",
                 "",
@@ -107040,7 +107040,7 @@
             "fields": [
                 "55370027318",
                 "Hooke's Law",
-                "‣ describes stretching/compressing force in springs<div>\\(﻿F = -k \\Delta x\\)</div><div>\\(﻿k\\) = constant unique to each object</div>",
+                "* describes stretching/compressing force in springs<div>\\(﻿F = -k \\Delta x\\)</div><div>\\(﻿k\\) = constant unique to each object</div>",
                 "",
                 "",
                 "",
@@ -107144,7 +107144,7 @@
             "fields": [
                 "55462924071",
                 "non-coding RNA (ncRNA)",
-                "section of RNA that DOESNT code for proteins<div>‣ regulate the chemical changes that affect chromatin structure</div>",
+                "section of RNA that DOESNT code for proteins<div>* regulate the chemical changes that affect chromatin structure</div>",
                 "",
                 "",
                 "",
@@ -107311,7 +107311,7 @@
             "fields": [
                 "55463698899",
                 "termination",
-                "‣ third/last step of transcription<div>‣‣ termination sequence (of nucleotides) is reached; stopping transcription</div>",
+                "* third/last step of transcription<div>** termination sequence (of nucleotides) is reached; stopping transcription</div>",
                 "",
                 "",
                 "",
@@ -107374,7 +107374,7 @@
             "fields": [
                 "55463868812",
                 "(T/F) proofreading during transcription",
-                "FALSE<div>‣ RNA errrors are NOT passed on and are NOT mutations</div>",
+                "FALSE<div>* RNA errrors are NOT passed on and are NOT mutations</div>",
                 "",
                 "",
                 "",
@@ -107540,7 +107540,7 @@
             "fields": [
                 "55597668117",
                 "operon",
-                "cluster of genes containing:<div>‣ operator, promoter, and genes contributing to one mRNA</div>",
+                "cluster of genes containing:<div>* operator, promoter, and genes contributing to one mRNA</div>",
                 "seen in prokaryotes &amp; is from the Jacob-Monod model",
                 "",
                 "",
@@ -107560,7 +107560,7 @@
             "fields": [
                 "55597882363",
                 "lac operon",
-                "‣ example of an operon<div>‣ allows <i>E. coli </i>to metabolize lactose when not enough glucose is available</div>",
+                "* example of an operon<div>* allows <i>E. coli </i>to metabolize lactose when not enough glucose is available</div>",
                 "",
                 "",
                 "",
@@ -107580,7 +107580,7 @@
             "fields": [
                 "55597981846",
                 "RNA modification in prokaryotes differs from eukaryotes in that...",
-                "‣ rRNA, tRNA go through post-transcriptional modification; most mRNA is translated directly to proteins<div>‣ in eukaryotes, each RNA undergoes processing/modification</div>",
+                "* rRNA, tRNA go through post-transcriptional modification; most mRNA is translated directly to proteins<div>* in eukaryotes, each RNA undergoes processing/modification</div>",
                 "",
                 "",
                 "",
@@ -107760,7 +107760,7 @@
             "fields": [
                 "55600748551",
                 "snRNPs",
-                "<div>‣ contains proteins and snRNA</div><div>‣ involved in splicing of introns from mRNA</div>",
+                "<div>* contains proteins and snRNA</div><div>* involved in splicing of introns from mRNA</div>",
                 "",
                 "",
                 "",
@@ -107780,7 +107780,7 @@
             "fields": [
                 "55600869559",
                 "ribozyme",
-                "‣ RNA molecule capable of catalyzing a reaction<div><i>ie: snRNA</i></div>",
+                "* RNA molecule capable of catalyzing a reaction<div><i>ie: snRNA</i></div>",
                 "",
                 "",
                 "",
@@ -107860,7 +107860,7 @@
             "fields": [
                 "55655906631",
                 "stop codons",
-                "‣ signal the end of protein synthesis<div>‣ UAA, UGA, UAG</div>",
+                "* signal the end of protein synthesis<div>* UAA, UGA, UAG</div>",
                 "<div>U Are Annoying</div><div>U Go Away</div><div>U Are Gone</div>",
                 "",
                 "",
@@ -107880,7 +107880,7 @@
             "fields": [
                 "55656034915",
                 "start codon",
-                "‣ marks where translation will begin<div><b>AUG</b></div>",
+                "* marks where translation will begin<div><b>AUG</b></div>",
                 "",
                 "",
                 "",
@@ -108020,7 +108020,7 @@
             "fields": [
                 "55695800067",
                 "first site of attachment during translation",
-                "‣ P site<div>‣ the 5'-CAU-3' anticodon on the tRNA grabs methionine before settling into the P site</div>",
+                "* P site<div>* the 5'-CAU-3' anticodon on the tRNA grabs methionine before settling into the P site</div>",
                 "",
                 "",
                 "",
@@ -108082,7 +108082,7 @@
                 "anticodon",
                 "",
                 "",
-                "<svg id=\"mermaid-1555713951793\" style=\"max-width: 446.90625px;\" viewBox=\"0 0 446.90625 55\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><style>#mermaid-1555713951793 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1555713951793 .node circle,#mermaid-1555713951793 .node ellipse,#mermaid-1555713951793 .node polygon,#mermaid-1555713951793 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1555713951793 .node.clickable{cursor:pointer}#mermaid-1555713951793 .arrowheadPath{fill:#333}#mermaid-1555713951793 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1555713951793 .edgeLabel{background-color:#e8e8e8}#mermaid-1555713951793 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1555713951793 .cluster text{fill:#333}#mermaid-1555713951793 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1555713951793 .actor{stroke:#ccf;fill:#ececff}#mermaid-1555713951793 text.actor{fill:#000;stroke:none}#mermaid-1555713951793 .actor-line{stroke:grey}#mermaid-1555713951793 .messageLine0{marker-end:\"url(#arrowhead)\"}#mermaid-1555713951793 .messageLine0,#mermaid-1555713951793 .messageLine1{stroke-width:1.5;stroke-dasharray:\"2 2\";stroke:#333}#mermaid-1555713951793 #arrowhead{fill:#333}#mermaid-1555713951793 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1555713951793 .messageText{fill:#333;stroke:none}#mermaid-1555713951793 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1555713951793 .labelText,#mermaid-1555713951793 .loopText{fill:#000;stroke:none}#mermaid-1555713951793 .loopLine{stroke-width:2;stroke-dasharray:\"2 2\";marker-end:\"url(#arrowhead)\";stroke:#ccf}#mermaid-1555713951793 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1555713951793 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1555713951793 .section{stroke:none;opacity:.2}#mermaid-1555713951793 .section0{fill:rgba(102,102,255,.49)}#mermaid-1555713951793 .section2{fill:#fff400}#mermaid-1555713951793 .section1,#mermaid-1555713951793 .section3{fill:#fff;opacity:.2}#mermaid-1555713951793 .sectionTitle0,#mermaid-1555713951793 .sectionTitle1,#mermaid-1555713951793 .sectionTitle2,#mermaid-1555713951793 .sectionTitle3{fill:#333}#mermaid-1555713951793 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1555713951793 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1555713951793 .grid path{stroke-width:0}#mermaid-1555713951793 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1555713951793 .task{stroke-width:2}#mermaid-1555713951793 .taskText{text-anchor:middle;font-size:11px}#mermaid-1555713951793 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1555713951793 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1555713951793 .taskText0,#mermaid-1555713951793 .taskText1,#mermaid-1555713951793 .taskText2,#mermaid-1555713951793 .taskText3{fill:#fff}#mermaid-1555713951793 .task0,#mermaid-1555713951793 .task1,#mermaid-1555713951793 .task2,#mermaid-1555713951793 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1555713951793 .taskTextOutside0,#mermaid-1555713951793 .taskTextOutside1,#mermaid-1555713951793 .taskTextOutside2,#mermaid-1555713951793 .taskTextOutside3{fill:#000}#mermaid-1555713951793 .active0,#mermaid-1555713951793 .active1,#mermaid-1555713951793 .active2,#mermaid-1555713951793 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1555713951793 .activeText0,#mermaid-1555713951793 .activeText1,#mermaid-1555713951793 .activeText2,#mermaid-1555713951793 .activeText3{fill:#000!important}#mermaid-1555713951793 .done0,#mermaid-1555713951793 .done1,#mermaid-1555713951793 .done2,#mermaid-1555713951793 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1555713951793 .doneText0,#mermaid-1555713951793 .doneText1,#mermaid-1555713951793 .doneText2,#mermaid-1555713951793 .doneText3{fill:#000!important}#mermaid-1555713951793 .crit0,#mermaid-1555713951793 .crit1,#mermaid-1555713951793 .crit2,#mermaid-1555713951793 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1555713951793 .activeCrit0,#mermaid-1555713951793 .activeCrit1,#mermaid-1555713951793 .activeCrit2,#mermaid-1555713951793 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1555713951793 .doneCrit0,#mermaid-1555713951793 .doneCrit1,#mermaid-1555713951793 .doneCrit2,#mermaid-1555713951793 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1555713951793 .activeCritText0,#mermaid-1555713951793 .activeCritText1,#mermaid-1555713951793 .activeCritText2,#mermaid-1555713951793 .activeCritText3,#mermaid-1555713951793 .doneCritText0,#mermaid-1555713951793 .doneCritText1,#mermaid-1555713951793 .doneCritText2,#mermaid-1555713951793 .doneCritText3{fill:#000!important}#mermaid-1555713951793 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1555713951793 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1555713951793 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1555713951793 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1555713951793 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1555713951793 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1555713951793 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1555713951793 #compositionEnd,#mermaid-1555713951793 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1555713951793 #aggregationEnd,#mermaid-1555713951793 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1555713951793 #dependencyEnd,#mermaid-1555713951793 #dependencyStart,#mermaid-1555713951793 #extensionEnd,#mermaid-1555713951793 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1555713951793 .branch-label,#mermaid-1555713951793 .commit-id,#mermaid-1555713951793 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1555713951793 {\n    color: rgb(0, 0, 0);\n    font: normal normal 400 normal 16px / normal \"Times New Roman\";\n  }</style><g transform=\"translate(-12, -12)\"><g class=\"output\"><g class=\"clusters\"></g><g class=\"edgePaths\"><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M228.90625,39.5L253.90625,39.5L278.90625,39.5\" marker-end=\"url(#arrowhead7)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead7\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g></g><g class=\"edgeLabels\"><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g></g><g class=\"nodes\"><g class=\"node\" id=\"A\" style=\"opacity: 1;\" transform=\"translate(124.453125,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"208.90625\" x=\"-104.453125\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-94.453125,-9.5)\"><foreignObject height=\"19\" width=\"188.90625\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">nucleotide triplet on tRNA</div></foreignObject></g></g></g><g class=\"node\" id=\"B\" style=\"opacity: 1;\" transform=\"translate(364.90625,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"172\" x=\"-86\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-76,-9.5)\"><foreignObject height=\"19\" width=\"152\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">binds to mRNA codon</div></foreignObject></g></g></g></g></g></g></svg>",
+                "graph LR; A[nucleotide triplet on tRNA]--&gt;B[binds to mRNA codon];",
                 "",
                 ""
             ],
@@ -108340,7 +108340,7 @@
             "fields": [
                 "55776660740",
                 "centrioles&nbsp;<div>(what are they/when are they&nbsp; used/how are they used)</div>",
-                "‣ located in the centrosome<div>‣ form the spindle that'll eventually pull the genetic material to opposite poles of the cell</div>",
+                "* located in the centrosome<div>* form the spindle that'll eventually pull the genetic material to opposite poles of the cell</div>",
                 "",
                 "",
                 "<img src=\"paste-da5e5620273f53fbec865ea987c17dbaa2d844ed.png\">",
@@ -108575,7 +108575,7 @@
             "fields": [
                 "55803292118",
                 "compare properties between enantiomers",
-                "‣ have the same physical, chemical properties and have the same reactivity",
+                "* have the same physical, chemical properties and have the same reactivity",
                 "",
                 "",
                 "",
@@ -108921,7 +108921,7 @@
             "fields": [
                 "56002135227",
                 "Stephan-Boltzman law",
-                "‣&nbsp; gives the power of the EM waves being radiated by a heated object<div><br></div><div>\\(﻿P = \\sigma \\epsilon A T^{4}\\)<br></div><div><br></div><div>\\(﻿T = \\text{temperature in Kelvins}\\)<br></div><div>\\(﻿A = \\text{surface area}\\)<br></div><div>\\(﻿\\sigma = \\text{Stephan-Boltzman constant} = 5.67*10^{-8} m^{-2} K^{-4}\\)<br></div><div>\\(﻿\\epsilon = \\text{emisivity of the objects surface}\\)<br></div>",
+                "*&nbsp; gives the power of the EM waves being radiated by a heated object<div><br></div><div>\\(﻿P = \\sigma \\epsilon A T^{4}\\)<br></div><div><br></div><div>\\(﻿T = \\text{temperature in Kelvins}\\)<br></div><div>\\(﻿A = \\text{surface area}\\)<br></div><div>\\(﻿\\sigma = \\text{Stephan-Boltzman constant} = 5.67*10^{-8} m^{-2} K^{-4}\\)<br></div><div>\\(﻿\\epsilon = \\text{emisivity of the objects surface}\\)<br></div>",
                 "",
                 "",
                 "",
@@ -109022,7 +109022,7 @@
             "fields": [
                 "56009729029",
                 "First Law of Thermodynamics",
-                "\\(﻿\\Delta E = q + w\\)<div><br></div><div>* states that the total energy between a system and its environment are constant</div>",
+                "\\(﻿\\Delta E = q + w\\)<div><br></div><div>* change in internal energy is equal to the transfer of heat plus the work</div>",
                 "",
                 "",
                 "",
@@ -109231,206 +109231,6 @@
             "flags": 0,
             "guid": "GyFX6j()R1",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
-            "tags": [
-                "EK::GC/OC::Lecture4",
-                "GC::Thermodynamics"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "56065864393",
-                "<img src=\"tmpimost1bg.png\" />",
-                "3e7a27779d4840f38070feba73fc56ef-ao-1",
-                "",
-                "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-1-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-1-A.svg\" />",
-                "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-O.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "F;QTfcd@mI",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "EK::GC/OC::Lecture4",
-                "GC::Thermodynamics"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "56065864396",
-                "<img src=\"tmpimost1bg.png\" />",
-                "3e7a27779d4840f38070feba73fc56ef-ao-2",
-                "",
-                "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-2-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-2-A.svg\" />",
-                "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-O.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "dXJ$aNT3(9",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "EK::GC/OC::Lecture4",
-                "GC::Thermodynamics"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "56065864397",
-                "<img src=\"tmpimost1bg.png\" />",
-                "3e7a27779d4840f38070feba73fc56ef-ao-3",
-                "",
-                "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-3-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-3-A.svg\" />",
-                "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-O.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "f{(aoqbDlt",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "EK::GC/OC::Lecture4",
-                "GC::Thermodynamics"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "56065864398",
-                "<img src=\"tmpimost1bg.png\" />",
-                "3e7a27779d4840f38070feba73fc56ef-ao-4",
-                "",
-                "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-4-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-4-A.svg\" />",
-                "<img src=\"3e7a27779d4840f38070feba73fc56ef-ao-O.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "QK{Wc#9R8i",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "EK::GC/OC::Lecture4",
-                "GC::Thermodynamics"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "56065916355",
-                "<img src=\"tmpr5l8ssum.png\" />",
-                "24cba3b29b8348328753a6a9971be918-ao-1",
-                "",
-                "<img src=\"24cba3b29b8348328753a6a9971be918-ao-1-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"24cba3b29b8348328753a6a9971be918-ao-1-A.svg\" />",
-                "<img src=\"24cba3b29b8348328753a6a9971be918-ao-O.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "sTd|l/G8Cs",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "EK::GC/OC::Lecture4",
-                "GC::Thermodynamics"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "56065916357",
-                "<img src=\"tmpr5l8ssum.png\" />",
-                "24cba3b29b8348328753a6a9971be918-ao-2",
-                "",
-                "<img src=\"24cba3b29b8348328753a6a9971be918-ao-2-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"24cba3b29b8348328753a6a9971be918-ao-2-A.svg\" />",
-                "<img src=\"24cba3b29b8348328753a6a9971be918-ao-O.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "c&*6%fRFZI",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "EK::GC/OC::Lecture4",
-                "GC::Thermodynamics"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "56065916359",
-                "<img src=\"tmpr5l8ssum.png\" />",
-                "24cba3b29b8348328753a6a9971be918-ao-3",
-                "",
-                "<img src=\"24cba3b29b8348328753a6a9971be918-ao-3-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"24cba3b29b8348328753a6a9971be918-ao-3-A.svg\" />",
-                "<img src=\"24cba3b29b8348328753a6a9971be918-ao-O.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "HF=@Af=G3Q",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "EK::GC/OC::Lecture4",
-                "GC::Thermodynamics"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "56065916360",
-                "<img src=\"tmpr5l8ssum.png\" />",
-                "24cba3b29b8348328753a6a9971be918-ao-4",
-                "",
-                "<img src=\"24cba3b29b8348328753a6a9971be918-ao-4-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"24cba3b29b8348328753a6a9971be918-ao-4-A.svg\" />",
-                "<img src=\"24cba3b29b8348328753a6a9971be918-ao-O.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "y;<?6/Z&&*",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "EK::GC/OC::Lecture4",
                 "GC::Thermodynamics"
@@ -109983,7 +109783,7 @@
             "fields": [
                 "56386453904",
                 "missense mutation",
-                "‣ base substitution results in the change of the amino acid transcribed<div>‣ can be harmless or result in significant functional changes</div>",
+                "* base substitution results in the change of the amino acid transcribed<div>* can be harmless or result in significant functional changes</div>",
                 "",
                 "",
                 "",
@@ -110143,7 +109943,7 @@
             "fields": [
                 "56387565366",
                 "proto-oncogenes",
-                "genes that stimulate normal growth in human cells<div>‣ can be converted into oncogenes</div>",
+                "genes that stimulate normal growth in human cells<div>* can be converted into oncogenes</div>",
                 "",
                 "",
                 "",
@@ -110443,7 +110243,7 @@
             "fields": [
                 "56398289110",
                 "telophase I",
-                "cytokinesis occurs<div>‣ after this occurs in germ cells, they are referred to as <i>secondary spermatocyte </i>and <i>secondary oocyte </i>respectively</div>",
+                "cytokinesis occurs<div>* after this occurs in germ cells, they are referred to as <i>secondary spermatocyte </i>and <i>secondary oocyte </i>respectively</div>",
                 "",
                 "",
                 "",
@@ -110563,7 +110363,7 @@
             "fields": [
                 "56399250800",
                 "nondisjunction can result in which clinical conditions...",
-                "‣ trisomy (having three copies of a single chromosome)<div>‣ Down's syndrome (nondisjunction of chromosome 21)</div>",
+                "* trisomy (having three copies of a single chromosome)<div>* Down's syndrome (nondisjunction of chromosome 21)</div>",
                 "",
                 "",
                 "",
@@ -110603,7 +110403,7 @@
             "fields": [
                 "56401574856",
                 "heterozygous or homozygous for a trait",
-                "heterozygous&nbsp;→ 1 dominant + 1 recessive allele<div>homozygous 2 dominant or 2 recessive alleles</div>",
+                "<i>heterozygous</i>&nbsp;→ 1 dominant + 1 recessive alleles<div><i>homozygous</i> → 2 dominant or 2 recessive alleles</div>",
                 "",
                 "",
                 "",
@@ -111103,7 +110903,7 @@
             "fields": [
                 "56506825405",
                 "depolarization",
-                "process of neuron becoming (+) inside the cell; sodium is flowing into the cell",
+                "* process of neuron becoming (+) inside the cell<div>* sodium is flowing into the cell</div>",
                 "",
                 "",
                 "",
@@ -111623,7 +111423,7 @@
             "fields": [
                 "56524085077",
                 "Oligodendrocytes<br>",
-                "‣ located in the CNS<br>‣ provides myelin to multiple segments of a neuron",
+                "* located in the CNS<br>* provides myelin to multiple segments of a neuron",
                 "",
                 "",
                 "",
@@ -112931,6 +112731,485 @@
                 "BIO::NervousSystem",
                 "EK::BIO/BC2::Lecture2",
                 "PSY::Cognition"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57293366143",
+                "standard temperature and pressure (STP)",
+                "\\(﻿0^{\\circ}C\\)<div>\\(﻿1 \\text{ atm}\\)<br></div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ccAtJW)C4n",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "EK::GC/OC::Lecture5",
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57293412308",
+                "ideal gas characteristics",
+                "1. no size, volume<div>2. do not exert forces on eachother</div><div>3. elastic collisions</div><div>4. KE is directly proportional to the temperature</div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F.~F}!:2Hc",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "EK::GC/OC::Lecture5",
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57293562732",
+                "ideal gas law equation",
+                "\\(﻿PV=nRT\\)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vW1dd|tf~x",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "EK::GC/OC::Lecture5",
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57293574752",
+                "universal gas constant =",
+                "<div>\\(﻿0.082 L atm K^{-1}\\)</div><div>\\(﻿8.3 J K^{-1} mol^{-1}\\)<br></div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nq7q0(Sx&g",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "EK::GC/OC::Lecture5",
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57363856373",
+                "\\(﻿P_{atm} =\\)",
+                "\\(﻿P_{atm} = \\rho g h\\)<div>* P = atmospheric pressure in Pascal's</div><div>*&nbsp;\\(﻿\\rho =\\) density of mercury</div><div>* h = height in meters of mercury</div>",
+                "",
+                "",
+                "<img src=\"6rKkHzA3VfCfwCaV2R3THs2a.jpeg\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KbVq5Ql~{P",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57363954189",
+                "\\(﻿{{c1::760 torr}} = {{c2::1 atm}}\\)",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f>&#iJXn6*",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57364121452",
+                "Boyle's Law",
+                "\\(﻿PV =\\text{constant}\\)<div><i>or</i></div><div>pressure is inversely proportional to volume</div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EZgkB#4=2k",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57364395748",
+                "Charle's law",
+                "volume is directly proportional to temperature<div><i>or&nbsp;</i></div><div>\\(﻿\\frac{V}{T}=\\text{constant}\\)<br></div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xGsxX}<om!",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57364451403",
+                "Avogadro's law",
+                "\\(﻿\\frac{V}{n}=\\text{constant}\\)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MEoX[CUVZ|",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57364651250",
+                "isovolumetric",
+                "a reaction in which no change in volume and subsequently no work<div>\\(﻿w=-P\\DeltaV\\)<br></div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Dzj!J>wcV>",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57364757156",
+                "adiabatic",
+                "process that occurs without any transfer in heat",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p/C9xfAd]%",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57364780455",
+                "isothermal",
+                "process that occurs without any change in internal energy",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x0<r=+Q)$H",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57364812874",
+                "At STP, one mole of any ideal gas will occupy the standard molar volume of {{c1::22.4 liters}}",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Im1d6p,MYi",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57364978695",
+                "finding the partial pressure of a gas",
+                "\\(﻿P_{a}=X_{a}P_{\\text{total}}\\)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BZy!S`SYma",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57365278008",
+                "Dalton's law",
+                "total pressure of a gaseous mixture is the sum of its partial pressures",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B6#v3BmE-N",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57365319605",
+                "partial pressure equilibrium (\\(﻿K_{p}\\)) =",
+                "\\(﻿K_{p}=\\frac{[C]^{c} [D]^{d}}{[A]^{a} [B]^{b}}=\\frac{products^{\\text{coefficients}}}{reactants^{\\text{coefficients}}}\\)<div><br></div><div><i>where all the products and reactants are in the gaseous state</i></div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G3[!k.q2fj",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57365641175",
+                "relationship of partial pressure equilibrium (\\(﻿K_{p}\\)) and the equilibrium constant (\\(﻿K_{c}\\))",
+                "\\(﻿K_{p}=K_{c}(RT)^{\\Delta n}\\)<div>\\(﻿\\Delta n\\) = sum of the coefficients of the products - the sum of the coefficients of the reactants<br></div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gM40spdPa0",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57365709601",
+                "real gases deviate from ideal gas behavior when...",
+                "under high pressures or low temperatures",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g,&6!yb,y-",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57365834265",
+                "volume and pressure in ideal vs real gases",
+                "<div>\\(﻿V_{real} &gt; V_{ideal}\\)<br></div>\\(﻿P_{real} &lt; P_{ideal}\\)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jLWUmb3;<6",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57367094284",
+                "heat capacity equation =",
+                "\\(﻿C = \\frac{q}{\\Delta T}\\)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oN#uS:Re(K",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57367462151",
+                "constant volume heat capacity (\\(﻿C_{v}\\))",
+                "if the volume of a system is constant, all energy change is in the form of heat",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J[xl*Dcm^f",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57367828608",
+                "constant pressure heat capacity&nbsp;\\(﻿C_{p}\\)",
+                "some of the energy can leave the system as&nbsp;\\(﻿PV\\) work if allowed to expand (change in \\(﻿V\\))",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ydi@)0S?Z,",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57367915155",
+                "\\(﻿C_{p}\\)&nbsp;{{c1::&gt;}}&nbsp;\\(﻿C_{v}\\)",
+                "",
+                "\\(﻿C_{p}\\)&nbsp;→ constant pressure heat capacity<div>\\(﻿C_{v}\\)&nbsp;→ constant volume heat capacity<br></div>",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hW[E[g<Zss",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57367982978",
+                "\\(﻿C_{v} =\\)",
+                "\\(﻿C_{v} = \\frac{q}{\\Delta T_{\\text{constant volume}}}\\)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l(3-3PnQe^",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57368019414",
+                "\\(﻿C_{p} =\\)",
+                "\\(﻿C_{p} = \\frac{q}{\\Delta T_{\\text{constant pressure}}}\\)",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v^p3TU1>,@",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Phases"
             ]
         }
     ]
