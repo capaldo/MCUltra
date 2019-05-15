@@ -1,15 +1,15 @@
 @font-face {
-    font-family: "Literation"; 
+    font-family: "Literation";
     src: url('_literationmono.ttf');
 }
 @font-face {
-    font-family: "Avenir Next"; 
+    font-family: "Avenir Next";
     src: url('_avenirnext.ttc');
     font-family: Regular;
 }
 
 @font-face {
-    font-family: "PragmataPro Nerd Font"; 
+    font-family: "PragmataPro Nerd Font";
     src: url('_pragmatapro.ttf');
 }
 
@@ -19,12 +19,16 @@ hr.dark {
     margin-top: 4%;
 }
 
-b {
+b, strong {
     color: #56C13F;
  }
 
-i {
+i, em {
      color: #FBDB42;
+}
+
+u {
+    color: #067BC3;
 }
 
 img {
@@ -35,11 +39,11 @@ img {
     margin-right: auto;
 }
 
-.card.nightMode { 
+.card.nightMode {
     background-color: #131313;
 }
 
-.invert-img { 
+.invert-img {
     filter: invert(100%);
 }
 
@@ -64,7 +68,7 @@ img {
     text-align: right;
     margin-bottom: 4%;
     user-select: none;
-    color: #000000;
+    color: #383838;
 }
 
 .tags:hover {
@@ -188,7 +192,7 @@ mark {
     opacity: 1;
 }
 
-.zoom { 
+.zoom {
     background-color: rgba(22, 24, 25, 0.75);
     border: 1px solid #F0F0F0;
     margin: 0 auto;
@@ -203,4 +207,15 @@ mark {
 
 .zoom:hover {
     transform: scale(3);
+}
+
+ul {
+    list-style: none;
+}
+
+li::before {
+    content: "‣ ";
+    color: #383838;
+    display: inline-block; width: 1em;
+    margin-left: -1em;
 }

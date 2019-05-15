@@ -81,7 +81,7 @@ body::scrollbar-thumb {
     font-style: normal;
     font-size: 12px;
     text-align: right;
-    color: #000;
+    color: #383838;
     margin-bottom: 4%;
     user-select: none;
 }

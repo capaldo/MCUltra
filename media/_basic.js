@@ -11,7 +11,7 @@ $(document).ready(function() {
 });
 
 changeText = function(text, newText){
-  var currentText = $('.tags').html();
+    var currentText = $('.tags').html();
     $('.tags').html(currentText.replace(text,newText));
 };
 window.setTimeout(function(){changeText('Basicine', '<div class="symbols">&#xfb37;</div>')}, 0)
@@ -26,29 +26,28 @@ if ( $.trim( $('.tooltiptext').text() ) == "")
 
 $(".tooltip").each(function(i, val) {
     if ($(".tooltip").text().trim() === "") {
-        $(".tooltip").remove();
+	$(".tooltip").remove();
     }
 });
 
 $(".tooltiptext").each(function(i, val) {
     if ($(".tooltiptext").text().trim() === "") {
-        $(".tooltiptext").remove();
+	$(".tooltiptext").remove();
     }
 });
 
 $(".back").each(function(i, val) {
 if ($.trim($(".back").html()).length==0)
-  $(".back").remove();
+    $(".back").remove();
 });
-
 
 var config = {
     startOnLoad:true,
     theme: 'dark',
     flowchart:{
-            useMaxWidth:false,
-            htmlLabels:true
-        }
+	useMaxWidth:false,
+	htmlLabels:true
+    }
 };
 mermaid.initialize(config);
 window.mermaid.init(undefined, document.querySelectorAll('.mermaid'));
