@@ -1930,9 +1930,7 @@
         "b0c7bb46bf3d707c977e67cf9d22dddc6a83cbc7_source_svg.svg",
         "b0c7bb46bf3d707c977e67cf9d22dddc6a83cbc7_tmpmaycyv.png",
         "b2e89774d3494b24facf6c2ffbe3124da49dee60_A 0.svg",
-        "b2e89774d3494b24facf6c2ffbe3124da49dee60_A 1.svg",
         "b2e89774d3494b24facf6c2ffbe3124da49dee60_Q 0.svg",
-        "b2e89774d3494b24facf6c2ffbe3124da49dee60_Q 1.svg",
         "b2e89774d3494b24facf6c2ffbe3124da49dee60_source_svg.svg",
         "b2e89774d3494b24facf6c2ffbe3124da49dee60_tmp5xdbla.png",
         "b2ffceb19d8bf317c14fb972ea401693fce437b9_A 0.svg",
@@ -2504,13 +2502,11 @@
         "f154a4ea4fef031824b684f4efb8e498d8a03559_source_svg.svg",
         "f154a4ea4fef031824b684f4efb8e498d8a03559_tmpLkueNM.png",
         "f19-39a.gif",
-        "f24834ef3795b047eb6569488225144c02da8d3d_A 0.svg",
         "f24834ef3795b047eb6569488225144c02da8d3d_A 1.svg",
         "f24834ef3795b047eb6569488225144c02da8d3d_A 2.svg",
         "f24834ef3795b047eb6569488225144c02da8d3d_A 3.svg",
         "f24834ef3795b047eb6569488225144c02da8d3d_A 4.svg",
         "f24834ef3795b047eb6569488225144c02da8d3d_A 5.svg",
-        "f24834ef3795b047eb6569488225144c02da8d3d_Q 0.svg",
         "f24834ef3795b047eb6569488225144c02da8d3d_Q 1.svg",
         "f24834ef3795b047eb6569488225144c02da8d3d_Q 2.svg",
         "f24834ef3795b047eb6569488225144c02da8d3d_Q 3.svg",
@@ -10426,11 +10422,8 @@
             "guid": "zZPEj-uA+p",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cells",
-                "organelles"
+                "BIO::Cell",
+                "Ortho528"
             ]
         },
         {
@@ -14189,6 +14182,7 @@
             "guid": "f1~P)2D9[4",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::Genetics",
                 "Ortho528"
             ]
         },
@@ -16657,6 +16651,7 @@
             "guid": "rGn]G5F$90",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -30122,33 +30117,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "-25078260488",
-                "",
-                "feedback loops",
-                "<img src=\"b2e89774d3494b24facf6c2ffbe3124da49dee60_tmp5xdbla.png\" />",
-                "<img src=\"b2e89774d3494b24facf6c2ffbe3124da49dee60_Q 1.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"b2e89774d3494b24facf6c2ffbe3124da49dee60_A 1.svg\" />",
-                "<img src=\"b2e89774d3494b24facf6c2ffbe3124da49dee60_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "jIRJVIt%0l",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "-25078260348",
                 "Trophic hormones are released by the {{c1::hypothalamus}}",
                 "",
@@ -33437,7 +33405,7 @@
             "data": "",
             "fields": [
                 "-24404393883",
-                "The dense bodies in smooth muscle resemble the {{c1::z-lines}} in striated muscle",
+                "The <i>dense bodies</i> in smooth muscle resemble the {{c1::z-lines}} in striated muscle",
                 "",
                 "",
                 "",
@@ -33448,11 +33416,10 @@
             "guid": "D0zB7H$xmQ",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "muscles",
-                "physiology"
+                "BIO::GISystem",
+                "BIO::MusculoskeletalSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -35475,9 +35442,8 @@
             "guid": "ie,_]_YX4V",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "stereochemistry"
+                "OC::Stereochemistry",
+                "Ortho528"
             ]
         },
         {
@@ -37611,9 +37577,8 @@
             "guid": "tGe%KBI5Fm",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "nucleics"
+                "OC::Reactions",
+                "Ortho528"
             ]
         },
         {
@@ -48609,11 +48574,9 @@
             "guid": "Pc)Q7kayey",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "respiratory"
+                "BIO::Physiology",
+                "BIO::RespiratorySystem",
+                "Ortho528"
             ]
         },
         {
@@ -50617,34 +50580,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "-20302861203",
-                "",
-                "Filtration rates",
-                "<img src=\"f24834ef3795b047eb6569488225144c02da8d3d_tmpb4b2x5.png\" />",
-                "<img src=\"f24834ef3795b047eb6569488225144c02da8d3d_Q 0.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"f24834ef3795b047eb6569488225144c02da8d3d_A 0.svg\" />",
-                "<img src=\"f24834ef3795b047eb6569488225144c02da8d3d_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "Kf]tZ&@-TS",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "-20302861201",
                 "",
                 "Filtration rates",
@@ -51094,29 +51029,6 @@
             ],
             "flags": 0,
             "guid": "Q<WN{sA/fs",
-            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-20253641951",
-                "Reabsorption of something in the kidneys moves through {{c1::tubular lumen, through apical membrane, into epithelial cells, through basolateral membrane, into interstitial fluid::epithelial layers}}",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "KxE4F;zjv5",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "BIO",
@@ -63067,9 +62979,9 @@
             "guid": "N:`gVl/5!J",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528",
-                "ps",
-                "psych_disorders"
+                "PSY::Disorders"
             ]
         },
         {
@@ -65049,7 +64961,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps"
+                "PSY::Behavior"
             ]
         },
         {
@@ -71778,8 +71690,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "waves"
+                "PHY::Waves"
             ]
         },
         {
@@ -75764,8 +75675,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "memory",
-                "ps"
+                "PSY::Memory"
             ]
         },
         {
@@ -75934,8 +75844,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "vision"
+                "PSY::Cognition::Sight"
             ]
         },
         {
@@ -77998,8 +77907,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "magnetism"
+                "PHY::Magnetism"
             ]
         },
         {
@@ -87848,20 +87756,17 @@
                 "-11249438937",
                 "Pyruvate degradation takes place in the {{c1::mitochondria}}",
                 "",
-                "<img src=\"pdh-tca-pic-1d5d1.png\" />",
                 "",
                 "",
-                ""
+                "",
+                "<img src=\"pdh-tca-pic-1d5d1.png\">"
             ],
             "flags": 0,
             "guid": "Eq&|:6?@TH",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem",
-                "cp"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -96301,7 +96206,7 @@
             "fields": [
                 "52961411288",
                 "hexoses",
-                "6 carbon carbohydrates<div>* ie: <i>fructose, glucose</i></div>",
+                "6 carbon carbohydrates<div>* ie:<i>&nbsp;glucose</i></div>",
                 "",
                 "",
                 "",
@@ -101620,7 +101525,7 @@
             "fields": [
                 "54269860925",
                 "retroviruses",
-                "<div>*&nbsp; ssRNA virus<br></div><div>* can transcribe the RNA to form DNA (via <i>reverse transcriptase</i>)</div><div>* integrates into the host DNA</div>",
+                "<div>* ssRNA virus<br></div><div>* can transcribe the RNA to form DNA (via <i>reverse transcriptase</i>)</div><div>* integrates into the host DNA</div>",
                 "",
                 "",
                 "",
@@ -111698,7 +111603,7 @@
             "fields": [
                 "56466176542",
                 "Nernst equation",
-                "\\(﻿E=E^{\\circ} - \\frac{RT}{nF} ln(Q)\\)<div><br><div><span>* relates the reduction potential of an electrochemical reaction</span><br></div></div>",
+                "\\(﻿E=E^{\\circ} - \\frac{RT}{nF} ln(Q)\\)<div><br><div>* <b>relates the reduction potential </b>of an electrochemical reaction<br></div></div>",
                 "",
                 "",
                 "",
