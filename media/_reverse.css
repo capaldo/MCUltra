@@ -9,7 +9,7 @@ hr.dark {
     margin-top: 4%;
 }
 
-.invert-img { 
+img { 
     filter: invert(100%);
 }
 

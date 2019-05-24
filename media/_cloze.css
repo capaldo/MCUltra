@@ -22,12 +22,20 @@
     display: inline-block;
 }
 
-b {
+img {
+    filter: invert(100%);
+}
+
+b, strong {
     color: #56C13F;
  }
 
-i {
+i, em {
      color: #FBDB42;
+}
+
+u {
+    color: #067BC3;
 }
 
 hr.dark {

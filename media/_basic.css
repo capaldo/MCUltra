@@ -32,19 +32,11 @@ u {
 }
 
 img {
-    text-align: center;
-    max-height: 8em;
-    max-width: auto;
-    margin-left: auto;
-    margin-right: auto;
+    filter: invert(100%);
 }
 
 .card.nightMode {
     background-color: #131313;
-}
-
-.invert-img {
-    filter: invert(100%);
 }
 
 .symbols {

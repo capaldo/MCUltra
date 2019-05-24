@@ -22,7 +22,7 @@ var config = {
     theme: 'dark',
     flowchart:{
             useMaxWidth:false,
-            htmlLabels:false
+            htmlLabels:true
         }
 };
 mermaid.initialize(config);
