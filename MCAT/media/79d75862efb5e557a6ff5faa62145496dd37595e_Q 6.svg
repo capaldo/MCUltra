@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="882" width="880">
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Shapes</title>
+  <rect fill="#00AA7F" height="32" id="svg_2" stroke-width="0" width="58" x="338" y="378" />
+  <rect fill="#00AA7F" height="26" id="svg_3" stroke-width="0" width="54" x="504" y="574" />
+  <rect fill="#00AA7F" height="24" id="svg_4" stroke-width="0" width="80" x="554" y="634" />
+  <rect fill="#00AA7F" height="74" id="svg_5" stroke-width="0" width="96" x="616" y="464" />
+  <rect fill="#00AA7F" height="40" id="svg_6" stroke-width="0" width="132" x="188" y="672" />
+  <rect fill="#00AA7F" height="46" id="svg_7" stroke-width="0" width="158" x="24" y="704" />
+  <rect fill="#FF0000" height="30" id="question-element" stroke-width="0" width="60" x="264" y="718" />
+  <rect fill="#00AA7F" height="44" id="svg_9" stroke-width="0" width="116" x="568" y="806" />
+ </g>
+</svg>
