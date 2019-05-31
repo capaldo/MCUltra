@@ -19,7 +19,7 @@
                 "minInt": 1,
                 "mult": 0.3
             },
-            "maxTaken": 60,
+            "maxTaken": 120,
             "name": "Study Mode",
             "new": {
                 "bury": false,
@@ -213,32 +213,6 @@
         "13afd63c322f72a02c97a86652d65aaacf89faad_Q 2.svg",
         "13afd63c322f72a02c97a86652d65aaacf89faad_source_svg.svg",
         "13afd63c322f72a02c97a86652d65aaacf89faad_tmpO6C1NB.png",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_A 0.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_A 1.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_A 10.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_A 11.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_A 2.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_A 3.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_A 4.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_A 5.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_A 6.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_A 7.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_A 8.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_A 9.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 0.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 1.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 10.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 11.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 2.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 3.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 4.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 5.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 6.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 7.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 8.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 9.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_source_svg.svg",
-        "13b75c6ce6b25a677846cf6d244d567a0c61369a_tmpI__X08.png",
         "15af5d8a403d4bb69184b0bbf8edb350-ao-1-A.svg",
         "15af5d8a403d4bb69184b0bbf8edb350-ao-1-Q.svg",
         "15af5d8a403d4bb69184b0bbf8edb350-ao-2-A.svg",
@@ -799,11 +773,6 @@
         "47b59955eb8b7a6c162ee70e88b7852b93e5d473_Q 1.svg",
         "47b59955eb8b7a6c162ee70e88b7852b93e5d473_source_svg.svg",
         "47b59955eb8b7a6c162ee70e88b7852b93e5d473_tmpz6ce0y.png",
-        "47eb237959d74408853737e46d3b9a0e-ao-1-A.svg",
-        "47eb237959d74408853737e46d3b9a0e-ao-1-Q.svg",
-        "47eb237959d74408853737e46d3b9a0e-ao-2-A.svg",
-        "47eb237959d74408853737e46d3b9a0e-ao-2-Q.svg",
-        "47eb237959d74408853737e46d3b9a0e-ao-O.svg",
         "4a9d0390a39e7b855a4d2d605a128dddfe33092e_A 0.svg",
         "4a9d0390a39e7b855a4d2d605a128dddfe33092e_A 1.svg",
         "4a9d0390a39e7b855a4d2d605a128dddfe33092e_A 2.svg",
@@ -1154,9 +1123,6 @@
         "671c98550af0f8150c54f557e370772113bf3460_Q 2.svg",
         "671c98550af0f8150c54f557e370772113bf3460_source_svg.svg",
         "671c98550af0f8150c54f557e370772113bf3460_tmpvFYBXe.png",
-        "676c17f107ef44e89016424bb4e60c2a-ao-1-A.svg",
-        "676c17f107ef44e89016424bb4e60c2a-ao-1-Q.svg",
-        "676c17f107ef44e89016424bb4e60c2a-ao-O.svg",
         "6abb9a6c29364179b7020094307ae830-oa-1-A.svg",
         "6abb9a6c29364179b7020094307ae830-oa-1-Q.svg",
         "6abb9a6c29364179b7020094307ae830-oa-2-A.svg",
@@ -1279,21 +1245,14 @@
         "758aa47f7fa615111e77bc62564c9edb3794939b_Q 7.svg",
         "758aa47f7fa615111e77bc62564c9edb3794939b_source_svg.svg",
         "758aa47f7fa615111e77bc62564c9edb3794939b_tmpi0ciyr.png",
-        "76af1820e6a64d81a1f5731cd9c14c2b-ao-1-A.svg",
-        "76af1820e6a64d81a1f5731cd9c14c2b-ao-1-Q.svg",
-        "76af1820e6a64d81a1f5731cd9c14c2b-ao-2-A.svg",
-        "76af1820e6a64d81a1f5731cd9c14c2b-ao-2-Q.svg",
-        "76af1820e6a64d81a1f5731cd9c14c2b-ao-O.svg",
         "77f6c924b97595c2c615a1193c2865858febe748_A 0.svg",
         "77f6c924b97595c2c615a1193c2865858febe748_Q 0.svg",
         "77f6c924b97595c2c615a1193c2865858febe748_Screenshot from 2016-04-09 20-03-09.png",
         "77f6c924b97595c2c615a1193c2865858febe748_source_svg.svg",
-        "792897b0a4d1f55a6b18a7a7e5179f76ab9343f6_A 1.svg",
         "792897b0a4d1f55a6b18a7a7e5179f76ab9343f6_A 2.svg",
         "792897b0a4d1f55a6b18a7a7e5179f76ab9343f6_A 4.svg",
         "792897b0a4d1f55a6b18a7a7e5179f76ab9343f6_A 7.svg",
         "792897b0a4d1f55a6b18a7a7e5179f76ab9343f6_A 8.svg",
-        "792897b0a4d1f55a6b18a7a7e5179f76ab9343f6_Q 1.svg",
         "792897b0a4d1f55a6b18a7a7e5179f76ab9343f6_Q 2.svg",
         "792897b0a4d1f55a6b18a7a7e5179f76ab9343f6_Q 4.svg",
         "792897b0a4d1f55a6b18a7a7e5179f76ab9343f6_Q 7.svg",
@@ -2631,19 +2590,21 @@
         "lacoperon.png",
         "latex-b306286ac56b0a90357bd7f9a108ffd1a1a2dc86.png",
         "lipoicacid_figure1_v4.png",
+        "massspec.gif",
         "maxresdefault (1).jpg",
         "maxresdefault (2).jpg",
         "maxresdefault.jpg",
         "mcatperiodic.png",
         "merm.png",
-        "mermaid1 (1).png",
         "nh4cldiag.GIF",
         "nri1089-f2.jpg",
         "oxime.svg",
         "paste-005462c56bf3a7eb63cee6c0992b7a95068322d8.png",
         "paste-01d1b42e3271f07ffe5f62a1bb577fec945010d9.png",
         "paste-0259ffb6d84f0642433be7f75a0974757a2a1012.png",
+        "paste-03e2ea7370360872e647ed493faf1cbe4feafdd2.png",
         "paste-0424cf93d259628066384117227a77f3c8a9f190.png",
+        "paste-0542c4b17b983a0a5dfc637c351a25b7dc7570dd.png",
         "paste-06d603144734ccdfd421560253f179a544e17d73.png",
         "paste-074fc7659e313ef379f13b61c9be2eb8abdf4ab0.png",
         "paste-0b918891126555606cadc8d861a05c69bf504c36.png",
@@ -2728,6 +2689,7 @@
         "paste-29021094019073.jpg",
         "paste-29807073034241.jpg",
         "paste-29987461660673.jpg",
+        "paste-2cf857ae6dc35e05f0bc1fd6b5df3080706fe86f.png",
         "paste-2e45249b61347c89ba9a8151bb68a41fadbf2dc2.png",
         "paste-3006477107201 (1).jpg",
         "paste-3006477107201.jpg",
@@ -2744,7 +2706,6 @@
         "paste-3234110373889.jpg",
         "paste-32538672234497.jpg",
         "paste-328d274aa2d5d0e29daa4bebb72836cefabbfa2d.png",
-        "paste-3302829850625.jpg",
         "paste-33079838113793.jpg",
         "paste-33144262623233.jpg",
         "paste-33316061315073.jpg",
@@ -2757,7 +2718,6 @@
         "paste-351eee39e7675fc09522b4fe752d68e618372c00.png",
         "paste-35364760715265.jpg",
         "paste-35377645617153.jpg",
-        "paste-35506494636033.jpg",
         "paste-35562329210881.jpg",
         "paste-3616362463233.jpg",
         "paste-36846524432385.jpg",
@@ -2807,7 +2767,6 @@
         "paste-531272be0ebb69c33aaebff233645827c9a67031.png",
         "paste-5463198400514.jpg",
         "paste-5484673236993.jpg",
-        "paste-5566277615617.jpg",
         "paste-56ca046ff73234c7eae9cd4c99116df86dcd4c52.png",
         "paste-5755256176641.jpg",
         "paste-5776731013121.jpg",
@@ -2840,6 +2799,7 @@
         "paste-69b93c85568b34207a26a1d422607261244b7857.png",
         "paste-69c94d094ee843d1b455b4d5cb7fe2e0717a1dc7.png",
         "paste-6d48bfa3f4aee288fbb27e380ec1a0dc1d7d7b57.png",
+        "paste-6dfab589d8696a2d6fcec2873c44f89aa6d89d64.png",
         "paste-70252780060673.jpg",
         "paste-70304319668225.jpg",
         "paste-70317204570113.jpg",
@@ -2856,7 +2816,6 @@
         "paste-74eb2b18a30e0f426c2c807c80b0f297bbb5d1b7.png",
         "paste-75d56be0b54a030e83df7bf13c4b7b766da73477.png",
         "paste-76744410c4d3490892bf913bbebfab8b258d8c11.png",
-        "paste-76794015252481.jpg",
         "paste-7846905249793.jpg",
         "paste-78941498900481.jpg",
         "paste-7997229105153.jpg",
@@ -2887,7 +2846,6 @@
         "paste-8959301779457.jpg",
         "paste-8976481648641.jpg",
         "paste-8a1893675bf54403ee021212f7d24c374521e04d.png",
-        "paste-8bc75ff5b13354f18ff56632865f8b01ed699d2f.png",
         "paste-8c40e6429039a11971435be14f59653e575b16a3.png",
         "paste-8fd9b6528b20f3ade78e2d38bdcca1ca410653ce.png",
         "paste-90902982819841.jpg",
@@ -2904,6 +2862,7 @@
         "paste-9955734192129.jpg",
         "paste-9bc0a44e0f4744330145962d5fdcc0c9f6b80553.png",
         "paste-a0700661d1545b11ea1742a4d9e00e197b879a6d.png",
+        "paste-a429ccaf79d6fd6d3875fdfa479aa3c87de4b765.png",
         "paste-a50c08371e0e567e5009da4810c3832cb0c6b885.png",
         "paste-a5411acd49ba4016067d6f1417a3f1c2b9b17e4a.png",
         "paste-a79716da9745cee90be9c96bb963f50971aa42fc copy.png",
@@ -2935,9 +2894,11 @@
         "paste-da5e5620273f53fbec865ea987c17dbaa2d844ed.png",
         "paste-daa377e15eaeb4d7b44e17d7f7cd181cc184ce14.png",
         "paste-de7587011adb34dead4bb0dadd735d01d3c2458c.png",
+        "paste-e2b68c6f2b843722162c31cdebbd3a8c9b79675c.png",
         "paste-e38b61ad5b5eee9f3f8e46ec46368c7567957d96.png",
         "paste-e4f49c2e1cb7750c912a0247e1bf7901cb53c18b.png",
         "paste-e867acf01a71731641ae695a12d335bd93f64dc8.png",
+        "paste-eb0f15b9fd13273c23c16740d811e823fcda7ebc.png",
         "paste-f06937db64f0e6ac18010e3e8397706ee3565b6c.png",
         "paste-f12aa580e2c632ed8026d2f6f3a0f594cf2eef8a.png",
         "paste-f1560d95bf78540805b2d5dbc9a033c0fa10bbbd.png",
@@ -2948,6 +2909,7 @@
         "paste-f57b4c295e26d21e453bfb1b528efa5db4ee9b16.png",
         "paste-f82adad9a8d0b2f1b208a82c7d363fa3c24700b8.png",
         "paste-f840c5bc2dad9800b3044bb9fd4bd50455e526e9 (1).png",
+        "paste-fbf22e53ba8890bb8c4ecba317abe666ecf193b6.png",
         "paste-fc3029d73a7ceb59581923264dac3598badc6ea1.png",
         "pdh-tca-pic-1d5d1.png",
         "periodic-table-elements.png",
@@ -3082,8 +3044,8 @@
             ],
             "sortf": 1,
             "tags": [
-                "BIO::GISystem",
-                "BIO::Physiology"
+                "BIO::EndocrineSystem",
+                "KhanAcademy::OrganSystems::EndocrineSystem"
             ],
             "tmpls": [
                 {
@@ -3182,9 +3144,8 @@
             "name": "Clozine",
             "sortf": 1,
             "tags": [
-                "GC::Electrochemistry",
-                "GC::Equations",
-                "KhanAcademy::PhysicalProcesses::Electrochemistry"
+                "BIO::NervousSystem",
+                "KhanAcademy::OrganSystems::BiologicalBehavior"
             ],
             "tmpls": [
                 {
@@ -3453,139 +3414,6 @@
                     "ord": 1,
                     "qfmt": "<script type=\"text/javascript\" src=\"_reverse.js\"></script>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_reverse.css\">\n\n<!--HTML-->\n\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}{{Deck}} {{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}{{Tags}} {{^Type}}<font color=\"red\">MISSING</font>{{/Type}}{{Type}}\n</div>\n\n\n<div class=\"front\">\n{{Front}}\n</div>\n",
                     "scratchPad": false
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "7e2ac158-7b6f-11e9-8d82-acde48001122",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "ID (hidden)",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Header",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Image",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Question Mask",
-                    "ord": 3,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Footer",
-                    "ord": 4,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Remarks",
-                    "ord": 5,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Sources",
-                    "ord": 6,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 1",
-                    "ord": 7,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 2",
-                    "ord": 8,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Answer Mask",
-                    "ord": 9,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Original Mask",
-                    "ord": 10,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
-            "req": [
-                [
-                    0,
-                    "all",
-                    [
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 1,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "IO Card",
-                    "ord": 0,
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
                 }
             ],
             "type": 0,
@@ -3887,8 +3715,8 @@
             "fields": [
                 "-40529239095",
                 "Coulomb's law",
-                "F = kq<sub>1</sub>q<sub>2</sub>&nbsp;/ r<sup>2</sup>",
                 "",
+                "F=k\\frac{q_{1}q_{2}}{r^{2}}",
                 "",
                 "",
                 "",
@@ -3898,9 +3726,8 @@
             "guid": "tc4@Dt/aK=",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "electricity"
+                "GC::Equations",
+                "Ortho528"
             ]
         },
         {
@@ -5004,7 +4831,7 @@
             "fields": [
                 "-40353996446",
                 "SI prefix Nano",
-                "10<sup>-9</sup>",
+                "\\(﻿10^{-9}\\)",
                 "",
                 "",
                 ""
@@ -5013,9 +4840,8 @@
             "guid": "yody>~[|]]",
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "units"
+                "GC::General",
+                "Ortho528"
             ]
         },
         {
@@ -5252,8 +5078,8 @@
             "fields": [
                 "-40181933582",
                 "The fraction of collions having sufficient energy for reaction in the Arrhenius equation",
-                "e<sup>-Ea/RT</sup>",
                 "",
+                "e^{\\frac{-E_{a}}{RT}}",
                 "",
                 "",
                 "",
@@ -5436,7 +5262,7 @@
             "data": "",
             "fields": [
                 "-40181212591",
-                "O<sub>2</sub>&nbsp;is produced at {{c1::half}} the rate of disappearance of NO<sub>2 </sub>in the&nbsp;following reaction:&nbsp;&nbsp;2N<sub>2</sub>O<sub>5</sub>&nbsp;-&gt; 4NO<sub>2</sub>&nbsp;+ O<sub>2</sub>",
+                "<div>2N<sub>2</sub>O<sub>5</sub>&nbsp;-&gt; 4NO<sub>2</sub>&nbsp;+ O<sub>2</sub><br></div>In the above reaction, O<sub>2</sub>&nbsp;is produced at {{c1::half}} the rate of disappearance of NO<sub>2&nbsp;</sub>",
                 "",
                 "",
                 "",
@@ -5447,10 +5273,8 @@
             "guid": "PIC2qOK+5x",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "kinetics",
-                "reactions"
+                "GC::Reactions",
+                "Ortho528"
             ]
         },
         {
@@ -5583,10 +5407,8 @@
             "guid": "ztn<pL#F.P",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "kinetics",
-                "reactions"
+                "GC::Reactions::Kinetics",
+                "Ortho528"
             ]
         },
         {
@@ -5787,10 +5609,8 @@
             "guid": "$$<72",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "kinetics",
-                "reactions"
+                "GC::Reactions::Kinetics",
+                "Ortho528"
             ]
         },
         {
@@ -6136,8 +5956,8 @@
             "data": "",
             "fields": [
                 "-39750107543",
-                "What type of reaction is&nbsp;<img src=\"paste-25198573125634.jpg\" />",
-                "Alpha decay",
+                "What type of reaction is:<div><img src=\"paste-25198573125634.jpg\"></div>",
+                "alpha decay",
                 "",
                 "",
                 "",
@@ -6149,8 +5969,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "nuclear"
+                "PHY::RADecay"
             ]
         },
         {
@@ -6290,7 +6109,7 @@
             "data": "",
             "fields": [
                 "-39409435759",
-                "{{c1::Phospholipids}} are triaglyerols with a {{c2::phosphate group}} in place of one of the {{c3::fatty acids}}",
+                "{{c1::Phospholipids}} are triacyglycerols with a {{c2::phosphate group}} in place of one of the {{c3::fatty acids}}",
                 "",
                 "",
                 "",
@@ -6301,11 +6120,8 @@
             "guid": "n4w+oh[;Pc",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "biochem",
-                "cp",
-                "molecules"
+                "BC::Fats",
+                "Ortho528"
             ]
         },
         {
@@ -6504,11 +6320,8 @@
             "guid": "K^7_ukL_7,",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "biochem",
-                "cp",
-                "molecules"
+                "BC::Lipids",
+                "Ortho528"
             ]
         },
         {
@@ -6674,7 +6487,7 @@
             "data": "",
             "fields": [
                 "-39408516644",
-                "{{c1::Epithilial cells and the proximal tubule of the kidney}} can absorb glucose against a concentration gradient",
+                "{{c1::epithelial cells}} and {{c1:: the proximal tubule of the kidney}} can absorb glucose against a concentration gradient",
                 "",
                 "",
                 "",
@@ -6685,11 +6498,10 @@
             "guid": "QlqgEa+?cF",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "biochem",
-                "cp",
-                "molecules"
+                "BIO::Cell",
+                "BIO::IntegumentarySystem",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -6945,11 +6757,9 @@
             "guid": "k9%X~05uK",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "biochem",
-                "cp",
-                "molecules"
+                "BC::Proteins",
+                "OC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -7158,11 +6968,7 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "BC::AA",
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cp",
-                "molecules"
+                "Ortho528"
             ]
         },
         {
@@ -7497,7 +7303,6 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "BC::AA",
-                "BIO",
                 "EK::BIO/BC1::Lecture1",
                 "Ortho528"
             ]
@@ -8256,10 +8061,8 @@
             "guid": "q4[Ojys~B3",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "virus"
+                "BIO::Viruses",
+                "Ortho528"
             ]
         },
         {
@@ -8322,10 +8125,8 @@
             "guid": "xKyyXo04$D",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "virus"
+                "BIO::Viruses",
+                "Ortho528"
             ]
         },
         {
@@ -8754,10 +8555,8 @@
             "guid": "s!R8f@?!me",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
                 "BIO::Bacteria",
-                "Ortho528",
-                "bb"
+                "Ortho528"
             ]
         },
         {
@@ -9305,7 +9104,7 @@
                 "-37267182458",
                 "The Michaelis-Menten equation relates {{c1::initial reaction velocity}} to {{c2::substrate concentration}}",
                 "",
-                "",
+                "\\(﻿v_{o}=\\frac{v_{max}[S]}{K_{M}+[S]}\\)",
                 "",
                 "",
                 ""
@@ -9314,10 +9113,8 @@
             "guid": "u)2**a^J-K",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "enzymes",
-                "kinetics"
+                "BC::Enzymes::Kinetics",
+                "Ortho528"
             ]
         },
         {
@@ -9425,7 +9222,7 @@
             "data": "",
             "fields": [
                 "-37266991043",
-                "A low Km reflects a {{c1::high affinity}} of the enzyme for the substrate.",
+                "A low \\(﻿K_{m}\\) reflects a {{c1::high affinity}} of the enzyme for the substrate",
                 "",
                 "",
                 "",
@@ -9436,11 +9233,8 @@
             "guid": "y|Phm3_mk0",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cp",
-                "enzymes"
+                "BC::Enzymes",
+                "Ortho528"
             ]
         },
         {
@@ -9631,10 +9425,8 @@
             "guid": "p2hnl%0W/.",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "enzymes",
-                "kinetics"
+                "BC::Enzymes::Inhibitors",
+                "Ortho528"
             ]
         },
         {
@@ -10314,10 +10106,8 @@
             "guid": "+bw^3VD-+",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cells"
+                "BIO::Cell",
+                "Ortho528"
             ]
         },
         {
@@ -11109,7 +10899,7 @@
             "fields": [
                 "-35255458013",
                 "Force on object parallel to inclined plane",
-                "F = mg sin( theta )",
+                "\\(F=mgsin \\theta\\)",
                 "",
                 "",
                 "",
@@ -11120,7 +10910,8 @@
             "guid": "snj:@ev}o$",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PHY::Motion&Force"
             ]
         },
         {
@@ -11227,7 +11018,7 @@
                 "-35088854019",
                 "{{c1::Social contstuctionism}} says that human actors build reality rather than discovering an inherently valid reality&nbsp;",
                 "",
-                "ps&nbsp;",
+                "",
                 "",
                 "",
                 ""
@@ -11237,8 +11028,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "sociology"
+                "PSY::Social"
             ]
         },
         {
@@ -11636,7 +11426,8 @@
             "guid": "DPt&:Yc4;1",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Society"
             ]
         },
         {
@@ -11714,7 +11505,8 @@
             "guid": "dYrqdfX6&y",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Social"
             ]
         },
         {
@@ -11848,6 +11640,8 @@
             "guid": "k@$LT=jK4",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "OC::MolecularInteraction",
+                "OC::MolecularStructure",
                 "Ortho528"
             ]
         },
@@ -11894,7 +11688,7 @@
             "data": "",
             "fields": [
                 "-34138714937",
-                "{{c2::Electrophilic}} functional groups are considered {{c1::Lewis bases}}",
+                "{{c2::Electrophilic}} functional groups are considered {{c1::Lewis acid}}",
                 "",
                 "",
                 "",
@@ -12040,6 +11834,7 @@
             "guid": "eCbYJD~&H#",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "OC::Stereochemistry",
                 "Ortho528"
             ]
         },
@@ -12330,6 +12125,7 @@
             "guid": "p6G(K15SB/",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -12466,6 +12262,7 @@
             "guid": "mmc>]<9/xD",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -12679,6 +12476,7 @@
             "guid": "EgD/[teHa$",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -12718,6 +12516,7 @@
             "guid": "nF3LIV`C&I",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -13131,6 +12930,7 @@
             "guid": "bd;>0xQ~P]",
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
+                "BC::Nucleotides",
                 "Ortho528"
             ]
         },
@@ -13169,6 +12969,8 @@
             "guid": "kLBEmn^tvE",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
+                "BC::Nucleotides",
                 "Ortho528"
             ]
         },
@@ -13266,6 +13068,7 @@
             "guid": "m?Qz;Yuy:U",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -13274,7 +13077,7 @@
             "data": "",
             "fields": [
                 "-31048024490",
-                "During initiation, a Met carrying tRNA binds in the {{c1::P}} site of the ribosome",
+                "During <i>initiation</i>, a Met carrying tRNA binds in the {{c1::P}} site of the ribosome",
                 "",
                 "",
                 "",
@@ -13285,6 +13088,7 @@
             "guid": "k/|!hI4VrP",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Translation",
                 "Ortho528"
             ]
         },
@@ -13535,6 +13339,7 @@
             "guid": "eXBLv&W2LZ",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -13620,7 +13425,7 @@
             "data": "",
             "fields": [
                 "-30355365668",
-                "After replication, RNAase H {{c1::removes the RNA primers}} and DNA polymerase {{c1::replaces the primers with DNA}}",
+                "After <b>replication</b>, <i>RNAase H</i> {{c1::removes the RNA primers}} and <i>DNA polymerase</i> {{c1::replaces the primers with DNA}}",
                 "",
                 "",
                 "",
@@ -13631,6 +13436,7 @@
             "guid": "dho[{xk1T}",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -13901,7 +13707,7 @@
             "data": "",
             "fields": [
                 "-30354270749",
-                "An exchange of a purine for a purine is known as a {{c1::transition mutation}}",
+                "An exchange of:<div><br></div><div>* purine for a purine&nbsp;</div><div>* pyrimidine for a pyrimidine</div><div><br></div><div>is known as a {{c1::transition mutation}}</div>",
                 "",
                 "",
                 "",
@@ -13932,11 +13738,10 @@
             "guid": "q]:(`>V(4;",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "genetics",
-                "mutations"
+                "BC::Genetics",
+                "BC::Genetics::Mutations",
+                "BC::Nucleotides",
+                "Ortho528"
             ]
         },
         {
@@ -14375,11 +14180,9 @@
             "guid": "I=+!0nkCS$",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "genetics",
-                "meiosis"
+                "BC::Genetics",
+                "BIO::Meiosis",
+                "Ortho528"
             ]
         },
         {
@@ -14465,11 +14268,9 @@
             "guid": "s,5%A7a;0V",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "genetics",
-                "oogenesis"
+                "BIO::EndocrineSystem",
+                "BIO::Reproduction",
+                "Ortho528"
             ]
         },
         {
@@ -14637,6 +14438,7 @@
             "guid": "zYZahTJAvz",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -15014,6 +14816,7 @@
             "guid": "xV[}>zcDqP",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -15033,6 +14836,7 @@
             "guid": "u{}zMByY2?",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::Cell",
                 "Ortho528"
             ]
         },
@@ -15090,7 +14894,9 @@
             "guid": "wKS8PTc7a2",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "BIO::NervousSystem",
+                "Ortho528",
+                "PHY::Electricity"
             ]
         },
         {
@@ -15405,7 +15211,9 @@
             "guid": "cx-rKGr|mO",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PHY::Electricity",
+                "PHY::Equations"
             ]
         },
         {
@@ -15828,6 +15636,8 @@
             "guid": "Bm3jsNEuzs",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
+                "BIO::Physiology",
                 "Ortho528"
             ]
         },
@@ -15990,6 +15800,9 @@
             "guid": "q{&57.U+`v",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::MusculoskeletalSystem",
+                "BIO::NervousSystem",
+                "BIO::Physiology",
                 "Ortho528"
             ]
         },
@@ -16131,6 +15944,8 @@
             "guid": "sY08]UyI]v",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
+                "BIO::MusculoskeletalSystem",
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -16303,7 +16118,7 @@
             "data": "",
             "fields": [
                 "-29147701970",
-                "Sympathetic neurons use the neurotransmitter {{c1::norepinephrine, aka adrenaline}} for their synapses on their effectors",
+                "<b>sympathetic neurons </b>use the neurotransmitter {{c1::<i>norepinephrine</i> (aka adrenaline)}} for their synapses on their {{c2::<u>effectors</u>}}",
                 "",
                 "",
                 "",
@@ -16314,6 +16129,7 @@
             "guid": "k-fj4];)3a",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -16467,6 +16283,7 @@
             "guid": "##<3<ghMX",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -16562,6 +16379,7 @@
             "guid": "V_;gzzh-h",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -16736,6 +16554,7 @@
             "guid": "f6([wew~X>",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -16812,7 +16631,8 @@
             "guid": "eL}5}QyO6P",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PHY::Electricity"
             ]
         },
         {
@@ -16907,7 +16727,8 @@
             "guid": "P`Sr/Sn]mz",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Cognition::Sight"
             ]
         },
         {
@@ -16964,7 +16785,8 @@
             "guid": "u?[1&KuQnC",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Cognition::Sight"
             ]
         },
         {
@@ -17154,7 +16976,7 @@
             "data": "",
             "fields": [
                 "-29139364425",
-                "The optic nerve passes information on to the {{c1::lateral geniculate nucleus}} of the thalamus",
+                "The <b>optic nerve</b> passes information on to the {{c1::<i>lateral geniculate nucleus</i>}} <i>of the thalamus</i>",
                 "",
                 "",
                 "",
@@ -17165,10 +16987,9 @@
             "guid": "ESu?A%]+#s",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
+                "BIO::NervousSystem",
                 "Ortho528",
-                "bb",
-                "vision"
+                "PSY::Cognition::Sight"
             ]
         },
         {
@@ -17438,7 +17259,9 @@
             "guid": "E$73B3#Zx^",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528"
+                "BIO::NervousSystem",
+                "Ortho528",
+                "PSY::Cognition::Hearing"
             ]
         },
         {
@@ -17567,10 +17390,9 @@
             "guid": "lst%clk&LZ",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
+                "BIO::NervousSystem",
                 "Ortho528",
-                "bb",
-                "smelling"
+                "PSY::Cognition::Smell"
             ]
         },
         {
@@ -17633,10 +17455,9 @@
             "guid": "q]y`G^a)ZW",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
+                "BIO::NervousSystem",
                 "Ortho528",
-                "bb",
-                "smelling"
+                "PSY::Cognition::Smell"
             ]
         },
         {
@@ -17864,10 +17685,9 @@
             "guid": "wQk-e!#-X,",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cells"
+                "BIO::Cell",
+                "BIO::Mitosis",
+                "Ortho528"
             ]
         },
         {
@@ -18599,9 +18419,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "conditioning",
-                "ps",
-                "psychology"
+                "PSY::Behavior"
             ]
         },
         {
@@ -18849,7 +18667,9 @@
             "guid": "m4r:Smbi:g",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "BIO::NervousSystem",
+                "Ortho528",
+                "PSY::Learning"
             ]
         },
         {
@@ -19215,7 +19035,8 @@
             "guid": "sM<3;Th2FB",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Social"
             ]
         },
         {
@@ -20055,7 +19876,7 @@
             "data": "",
             "fields": [
                 "-27844995652",
-                "The primary substrate for glycogenesis is {{c1::glucose 6-phosphate from glycolysis}}",
+                "The primary substrate for <b>glycogenesis</b> is {{c1::glucose 6-phosphate from glycolysis}}",
                 "",
                 "",
                 "",
@@ -20839,7 +20660,7 @@
             "data": "",
             "fields": [
                 "-27840129945",
-                "Glucagon promotes:<div>- {{c1::glycogenolysis}} in the liver and muscles</div><div>- {{c2::gluconeogenesis}} in the liver</div><div>- {{c3::fatty acid release}} in adipocytes</div><div>- {{c4::beta-oxidation}} in almost all tissues</div>",
+                "<b>Glucagon promotes:</b><div>* {{c1::glycogenolysis}} in the liver and muscles</div><div>* {{c2::gluconeogenesis}} in the liver</div><div>* {{c3::fatty acid release}} in adipocytes</div><div>* {{c4::beta-oxidation}} in almost all tissues</div>",
                 "",
                 "",
                 "",
@@ -20850,10 +20671,8 @@
             "guid": "k:*qDXcr=R",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -20872,10 +20691,8 @@
             "guid": "hd=1RQ]c.|",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -21269,8 +21086,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "-27420834398",
-                "The steps of glycolysis are:<div><b>1.</b> {{c1::Glucose}} → {{c2::G6P}}, with {{c2::Hexokinase}}, a {{c2::transferase}}, and {{c2::ATP → ADP}}<br></div><div><div><b>2.</b> {{c2::G6P}}&nbsp;→ {{c3::F6P}}, with an {{c3::isomerase}}</div><div><b>3.</b> {{c3::F6P}}&nbsp; →&nbsp;{{c4::F1,6BP}}, with {{c4::Phosphofructokinase-1}}, a {{c4::transferase}}, and {{c4::ATP → ADP}}&nbsp;</div><div><b>4.</b> {{c4::F1,6BP}}&nbsp;→ {{c5::GADP}} + {{c6::DHAP}}, with a {{c5::lyase}}</div><div><b>5.</b> {{c6::DHAP}}&nbsp;→ {{c7::GADP}}, with an {{c7::isomerase}}</div><div><b>6.</b> {{c7::GADP}}&nbsp;→ {{c8::1,3BPG}}, with an {{c8::oxioreductase}}, and {{c8::NAD<sup>+&nbsp;</sup><span>→&nbsp;</span><span>NADH}}</span></div><div><b>7.</b> {{c8::1,3BPG}}&nbsp;→ {{c9::3PG}}, with a {{c9::transferase}}, and {{c9::ADP → ATP}}</div><div><b>8.</b> {{c9::3PG}}&nbsp;→ {{c10::2PG}}, with a {{c10::mutase}}</div><div><b>9.</b> {{c10::2PG}}&nbsp;→ {{c11::PEP}}, with a {{c11::lyase}}</div><div><b>10.</b> {{c11::PEP}}&nbsp;→ {{c12::pyruvate}}, with a {{c12::transferase}}, and {{c12::ADP-&gt;ATP}}</div></div>",
+                "-27420834398&nbsp;",
+                "The steps of glycolysis are:<div><b>1.</b> {{c1::Glucose}} → {{c2::G6P}}, with {{c2::Hexokinase}}, a {{c2::transferase}}, and {{c2::ATP → ADP}}<br></div><div><div><b>2.</b> {{c2::G6P}}&nbsp;→ {{c3::F6P}}, with an {{c3::isomerase}}</div><div><b>3.</b> {{c3::F6P}}&nbsp; →&nbsp;{{c4::F1,6BP}}, with {{c4::Phosphofructokinase-1}}, a {{c4::transferase}}, and {{c4::ATP → ADP}}&nbsp;</div><div><b>4.</b> {{c4::F1,6BP}}&nbsp;→ {{c5::GADP}} + {{c6::DHAP}}, with a {{c5::lyase}}</div><div><b>5.</b> {{c6::DHAP}}&nbsp;→ {{c7::GADP}}, with an {{c7::isomerase}}</div><div><b>6.</b> {{c7::GADP}}&nbsp;→ {{c8::1,3BPG}}, with an {{c8::oxioreductase}}, and {{c8::NAD<sup>+&nbsp;</sup><span>→&nbsp;</span><span>NADH}}</span></div><div><b>7.</b> {{c8::1,3BPG}}&nbsp;→ {{c9::3PG}}, with a {{c9::transferase}}, and {{c9::ADP → ATP}}</div><div><b>8.</b> {{c9::3PG}}&nbsp;→ {{c10::2PG}}, with a {{c10::mutase}}</div><div><b>9.</b> {{c10::2PG}}&nbsp;→ {{c11::PEP}}, with a {{c11::lyase}}</div><div><b>10.</b> {{c11::PEP}}&nbsp;→ {{c12::pyruvate}}, with a {{c12::transferase}}, and {{c12::ADP → ATP}}</div></div>",
                 "",
                 "Goodness Gracious, Father Franklin Didn't Go Buy Perfect Pumpkins to Prepare Pies",
                 "",
@@ -21377,7 +21194,7 @@
             "data": "",
             "fields": [
                 "-27410888170",
-                "For each acetyl-CoA molecule that enters the citric acid cycle, {{c1::3}} NADH, {{c1::1}} ATP, and {{c1::1}} FADH2 molecules are produced&nbsp;",
+                "For <u>each acetyl-CoA molecule</u> that enters the <b>citric acid cycle</b>, {{c1::3}} \\(﻿NADH\\), {{c1::1}} \\(﻿ATP\\), and {{c1::1}}&nbsp;\\(﻿FADH_{2}\\) molecules are produced&nbsp;",
                 "",
                 "",
                 "",
@@ -21388,6 +21205,7 @@
             "guid": "PHDDR$(YS2",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Metabolism",
                 "Ortho528"
             ]
         },
@@ -21438,7 +21256,7 @@
             "data": "",
             "fields": [
                 "-27410626453",
-                "The electron transport chain takes electrons from {{c1::NADH}} and ultimately uses them to reduce {{c1::O2}} into {{c1::H20}}",
+                "The electron transport chain takes electrons from {{c1::\\(﻿NADH\\)}} and ultimately uses them to reduce {{c1::\\(﻿O_{2}\\)}} into {{c1::\\(﻿H_{2}O\\)}}",
                 "",
                 "",
                 "",
@@ -21449,6 +21267,7 @@
             "guid": "Jv>E((sh6)",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Metabolism",
                 "Ortho528"
             ]
         },
@@ -21997,8 +21816,7 @@
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
                 "BC::AA",
-                "Ortho528",
-                "cp"
+                "Ortho528"
             ]
         },
         {
@@ -22307,9 +22125,9 @@
             "fields": [
                 "-26738757585",
                 "asparagine structure",
-                "<div><img src=\"paste-5566277615617.jpg\"><br></div><div>&nbsp; ‍&nbsp;&nbsp;<br></div>",
                 "",
                 "",
+                "<img src=\"paste-2cf857ae6dc35e05f0bc1fd6b5df3080706fe86f.png\">",
                 ""
             ],
             "flags": 0,
@@ -22939,10 +22757,9 @@
             "guid": "C/1?Ic;MB1",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BC::Steroids",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -23135,284 +22952,6 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "GC::AcidsBases",
-                "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-26632704497",
-                "Common Polyatomic Ions",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_tmpI__X08.png\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 0.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_A 0.svg\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "pao*Vi_P+D",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "GC::General",
-                "GC::MolecularStructure",
-                "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-26632704496",
-                "Common Polyatomic Ions",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_tmpI__X08.png\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 1.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_A 1.svg\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "d*@pYl3*qZ",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-26632704494",
-                "Common Polyatomic Ions",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_tmpI__X08.png\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 2.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_A 2.svg\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "fFE[zw:,j;",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-26632704493",
-                "Common Polyatomic Ions",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_tmpI__X08.png\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 3.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_A 3.svg\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "Pye|Z@<Q3@",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-26632704491",
-                "Common Polyatomic Ions",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_tmpI__X08.png\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 4.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_A 4.svg\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "B]qda#+~+a",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-26632704490",
-                "Common Polyatomic Ions",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_tmpI__X08.png\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 5.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_A 5.svg\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "dY*x)>b1#0",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-26632704489",
-                "Common Polyatomic Ions",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_tmpI__X08.png\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 6.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_A 6.svg\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "o,Uf)_kTrL",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-26632704487",
-                "Common Polyatomic Ions",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_tmpI__X08.png\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 7.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_A 7.svg\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "x68Sd>wP[t",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-26632704486",
-                "Common Polyatomic Ions",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_tmpI__X08.png\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 8.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_A 8.svg\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "r]fz{&XS/u",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-26632704485",
-                "Common Polyatomic Ions",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_tmpI__X08.png\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 9.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_A 9.svg\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "b1qN`FShkI",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-26632704483",
-                "Common Polyatomic Ions",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_tmpI__X08.png\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 10.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_A 10.svg\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "o+zPPx)W_v",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-26632704482",
-                "Common Polyatomic Ions",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_tmpI__X08.png\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_Q 11.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_A 11.svg\" />",
-                "<img src=\"13b75c6ce6b25a677846cf6d244d567a0c61369a_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "Kq?OxE_hgB",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
                 "Ortho528"
             ]
         },
@@ -23690,11 +23229,8 @@
             "guid": "SunT6R/:{",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
                 "BIO::NervousSystem",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "Ortho528"
             ]
         },
         {
@@ -24730,7 +24266,7 @@
             "data": "",
             "fields": [
                 "-25261022249",
-                "The amine hormones are made {{c1::in advance}}",
+                "The amine hormones are made {{c1::in advance::when?}}",
                 "",
                 "",
                 "",
@@ -24741,10 +24277,9 @@
             "guid": "zU0hEu[[m8",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::EndocrineSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -25518,33 +25053,6 @@
                 "BIO::NervousSystem",
                 "BIO::Physiology",
                 "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-25257129576",
-                "",
-                "<img src=\"792897b0a4d1f55a6b18a7a7e5179f76ab9343f6_tmpb8fplc.png\" />",
-                "<img src=\"792897b0a4d1f55a6b18a7a7e5179f76ab9343f6_Q 1.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"792897b0a4d1f55a6b18a7a7e5179f76ab9343f6_A 1.svg\" />",
-                "<img src=\"792897b0a4d1f55a6b18a7a7e5179f76ab9343f6_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "yu~qWewleg",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "BIO::NervousSystem",
-                "Ortho528",
-                "bb",
-                "physiology"
             ]
         },
         {
@@ -26729,11 +26237,8 @@
             "guid": "LLV8A<`iHh",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "nervous_system_organization",
-                "physiology"
+                "BIO::NervousSystem",
+                "Ortho528"
             ]
         },
         {
@@ -26823,11 +26328,8 @@
             "guid": "Iyx7x;sY}f",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "nervous_system_organization",
-                "physiology"
+                "BIO::NervousSystem",
+                "Ortho528"
             ]
         },
         {
@@ -27410,7 +26912,7 @@
             "data": "",
             "fields": [
                 "-25233896722",
-                "The <b>hypothalamus</b> activates {{c1::the <b>sympathetic</b> nervous system}} by controlling {{c2::<b>catecholamine release</b> from the <b>adrenal medulla</b>}} and {{c2::maintaining <b>blood glucose</b> concentrations through effects on the pancreas}}",
+                "The <u>hypothalamus</u> activates {{c1::the <b>sympathetic</b> nervous system}} by controlling {{c2::<i>catecholamine release</i> from the <u>adrenal medulla</u>}} and {{c2::maintaining <i>blood glucose</i> concentrations through effects on the <u>pancreas</u>}}",
                 "",
                 "",
                 "",
@@ -27421,11 +26923,10 @@
             "guid": "jyIP3I_bXw",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "nervous_system_organization",
-                "physiology"
+                "BIO::EndocrineSystem",
+                "BIO::NervousSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -27841,11 +27342,10 @@
             "guid": "ir~W>zHt$-",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "nervous_system_organization",
-                "physiology"
+                "BIO::EndocrineSystem",
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -28494,10 +27994,9 @@
             "guid": "LrZC^tZX)V",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::NervousSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -28923,7 +28422,7 @@
             "data": "",
             "fields": [
                 "-25171700344",
-                "{{c1::Nicotinic cholinergic receptors}} are {{c2::ligand gated Na+ channels}}",
+                "{{c1::Nicotinic cholinergic receptors}} are {{c2::ligand gated&nbsp;\\(﻿Na^{+}\\) channels}}",
                 "",
                 "",
                 "",
@@ -28934,10 +28433,9 @@
             "guid": "G.#oT+hN>>",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::Cell",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -29125,8 +28623,8 @@
             "data": "",
             "fields": [
                 "-25168432487",
-                "A physiostigmine, which blocks the breakdown of acetylcholine, would",
-                "increase all SNS activity because it would stimulate NE and Epi release",
+                "A <i>physiostigmine</i>, which blocks the breakdown of acetylcholine, would",
+                "<b>increase all SNS activity</b> <u>because it would stimulate norepinepherine and epinephrine release</u>",
                 "",
                 "",
                 "",
@@ -29137,10 +28635,9 @@
             "guid": "dH#{MusKSP",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::NervousSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -29550,7 +29047,7 @@
             "data": "",
             "fields": [
                 "-25079676367",
-                "{{c1::Short loop feedback}} is when an {{c2::intermediate molecule}} of a pathway acts as an inhibitor at an earlier step in the pathway",
+                "{{c1::<i>short loop feedback</i>}} is when an {{c2::intermediate molecule}} of a pathway acts as an inhibitor at an earlier step in the pathway",
                 "",
                 "",
                 "",
@@ -29561,6 +29058,7 @@
             "guid": "uRTqmQ.,IT",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Metabolism",
                 "BIO::Physiology",
                 "Ortho528"
             ]
@@ -30233,7 +29731,7 @@
             "data": "",
             "fields": [
                 "-25077576897",
-                "The 4 general cell types are {{c1::epithelial, connective, neural, and muslce}}",
+                "The 4 general cell types are {{c1::epithelial, connective, neural, and muscle}}",
                 "",
                 "",
                 "",
@@ -30244,10 +29742,9 @@
             "guid": "vhqxt(iau9",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::Cell",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -30288,10 +29785,8 @@
             "guid": "wfpSK,fxsy",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "GC::Phases",
+                "Ortho528"
             ]
         },
         {
@@ -31140,10 +30635,8 @@
             "guid": "MKGDl&FJ/C",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::MusculoskeletalSystem",
+                "Ortho528"
             ]
         },
         {
@@ -31588,7 +31081,7 @@
                 "ATP binding with {{c1::myosin}} causes it to {{c2::dissociate}} from {{c3::actin}}",
                 "",
                 "",
-                "",
+                "<img src=\"paste-eb0f15b9fd13273c23c16740d811e823fcda7ebc.png\">",
                 "",
                 ""
             ],
@@ -31824,7 +31317,7 @@
             "data": "",
             "fields": [
                 "-24662190290",
-                "Muscle fiber does not have a {{c1::hyperpolarization period}} because its {{c3::membrane potential}} already near {{c2::K+'s equilibrium potential}}",
+                "<b>Muscle fiber</b> <u>does not</u> have a {{c1::hyperpolarization period}} because its {{c3::membrane potential}} already near {{c2::\\(﻿K^{+}\\) equilibrium potential}}",
                 "",
                 "",
                 "",
@@ -31835,10 +31328,10 @@
             "guid": "A5d-YfAz.;",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::Cell",
+                "BIO::MusculoskeletalSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -34191,11 +33684,8 @@
             "guid": "sE!M.7zBf-",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "blood",
-                "physiology"
+                "BIO::Blood",
+                "Ortho528"
             ]
         },
         {
@@ -34880,9 +34370,8 @@
             "guid": "s#Hcc5DF[z",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "stereochemistry"
+                "OC::Stereochemistry",
+                "Ortho528"
             ]
         },
         {
@@ -36261,11 +35750,9 @@
             "guid": "H/lAnta=%~",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -36899,9 +36386,8 @@
             "guid": "tNpNI{s@3+",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "chromatography",
-                "cp"
+                "GC::LabTechniques::Chromatography",
+                "Ortho528"
             ]
         },
         {
@@ -37054,7 +36540,7 @@
             "data": "",
             "fields": [
                 "-23622285352",
-                "pK<sub>a</sub> of amino acid amine group",
+                "\\(﻿pK_{a}\\)&nbsp;of amino acid amine group",
                 "~10",
                 "",
                 "",
@@ -37281,8 +36767,9 @@
             "guid": "la6e,X:Tm[",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp"
+                "ACRONYM",
+                "OC::Reactions::Redox",
+                "Ortho528"
             ]
         },
         {
@@ -37917,10 +37404,9 @@
             "guid": "Qo)tHQA}n#",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "aldehydes",
-                "cp",
-                "ketones"
+                "OC::Ketones&Aldehydes",
+                "OC::Reactions",
+                "Ortho528"
             ]
         },
         {
@@ -38605,12 +38091,9 @@
             "guid": "FNi0WG,Xk]",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "heart",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -40090,11 +39573,9 @@
             "guid": "L%k-AAIol/",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -40182,11 +39663,9 @@
             "guid": "jV<`$`vM?Q",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::NervousSystem",
+                "Ortho528"
             ]
         },
         {
@@ -40433,11 +39912,9 @@
             "guid": "Aa!f1Sx;M7",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -40477,11 +39954,9 @@
             "guid": "bH*HnEF6sh",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -40696,7 +40171,7 @@
             "data": "",
             "fields": [
                 "-22753954117",
-                "The factors that influence arterial pressure are {{c1::Flow * resistance}}",
+                "The factors that influence arterial pressure are {{c1::\\(﻿flow*resistance\\)}}",
                 "",
                 "",
                 "",
@@ -40707,11 +40182,9 @@
             "guid": "BB@7<Rp({q",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -41170,7 +40643,7 @@
             "data": "",
             "fields": [
                 "-22752355426",
-                "The major agent causing beta-receptor mediated dilation is {{c1::epinephrine}} released by the {{c1::adrenal medulla}}&nbsp;",
+                "The major agent causing <i>\\(﻿\\beta\\)-receptor mediated dilation</i> is {{c1::epinephrine}} released by the {{c1::adrenal medulla}}&nbsp;",
                 "",
                 "",
                 "",
@@ -41181,11 +40654,10 @@
             "guid": "y]G8X7mOW;",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::NervousSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -41763,11 +41235,9 @@
             "guid": "c{luYV-1E%",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::LymphaticSystem",
+                "Ortho528"
             ]
         },
         {
@@ -41786,11 +41256,9 @@
             "guid": "qY/zBI}+n,",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::LymphaticSystem",
+                "Ortho528"
             ]
         },
         {
@@ -43207,10 +42675,10 @@
             "fields": [
                 "-21984929516",
                 "Glycolysis molecules",
-                "Glucose -&gt; G6P -&gt; F6P -&gt; F1,6BP -&gt; GADP + DHAP -&gt; 1,3BPG -&gt; 3PG -&gt; 2PG -&gt; PEP -&gt; Pyruvate",
                 "",
                 "",
                 "",
+                "graph LR; A[glucose]--&gt;B[G6P]; B--&gt;C[F6P]; C--&gt;D[F1,6BP]; D--&gt;E[GADP and DHAP]; E--&gt;F[1,3BPG]; F--&gt;G[3PG]; G--&gt;H[2PG]; H--&gt;I[PEP]; I--&gt;J[Pyruvate]",
                 "",
                 ""
             ],
@@ -43218,11 +42686,9 @@
             "guid": "x7,F1VwBML",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "biochem",
-                "cp",
-                "glycolysis"
+                "BC::Metabolism",
+                "OC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -43365,21 +42831,19 @@
             "fields": [
                 "-21793878230",
                 "hydrazine structure",
-                "<img src=\"paste-3302829850625.jpg\" />",
                 "",
                 "",
                 "",
                 "",
+                "<img src=\"paste-e4f49c2e1cb7750c912a0247e1bf7901cb53c18b.png\">",
                 ""
             ],
             "flags": 0,
             "guid": "L$9uuWeFiU",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "functional_groups",
-                "ochem"
+                "OC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -43750,9 +43214,9 @@
             "guid": "OCVw0w|vHQ",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "ochem"
+                "OC::MolecularStructure",
+                "OC::Reactions",
+                "Ortho528"
             ]
         },
         {
@@ -43935,10 +43399,10 @@
             "data": "",
             "fields": [
                 "-21433792033",
-                "{{c1::Cyclic amides}} formed in intramolecular reactions are known as {{c2::lactams}}",
+                "{{c1::Cyclic amides}} formed in intramolecular reactions are known as {{c2::<i>lactams</i>}}",
                 "",
                 "",
-                "",
+                "<img src=\"paste-0542c4b17b983a0a5dfc637c351a25b7dc7570dd.png\">",
                 "",
                 ""
             ],
@@ -43946,10 +43410,8 @@
             "guid": "pquudKY|0w",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "carboxylic_acids",
-                "cp",
-                "ochem"
+                "OC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -44278,8 +43740,8 @@
                 "-20772914884",
                 "Sucrose has a {{c1::1,1 glycosidic linkage}} between {{c2::glucose and fructose}} that is {{c3::alpha}} for {{c2::glucose}}",
                 "",
-                "<img src=\"1280px-Sucrose-inkscape.svg.png\" />",
                 "",
+                "<img src=\"1280px-Sucrose-inkscape.svg.png\">",
                 "",
                 ""
             ],
@@ -44287,12 +43749,9 @@
             "guid": "l2ckR}*x;*",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "biochem",
-                "cp",
-                "ochem",
-                "sugars"
+                "BC::Carbohydrates::Structures",
+                "OC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -44537,8 +43996,8 @@
             "guid": "onfeWHevB6",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp"
+                "GC::Phases",
+                "Ortho528"
             ]
         },
         {
@@ -44895,9 +44354,8 @@
             "guid": "vJ38v0seWY",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "thermodynamics"
+                "GC::Thermodynamics",
+                "Ortho528"
             ]
         },
         {
@@ -45719,11 +45177,8 @@
             "guid": "NB!9CCjGOX",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "respiratory"
+                "BIO::RespiratorySystem",
+                "Ortho528"
             ]
         },
         {
@@ -46365,7 +45820,7 @@
             "data": "",
             "fields": [
                 "-20337301104",
-                "The {{c1::functional residual capcity}} is the about 2500mL left in the lungs after normal expiration",
+                "The {{c1::functional residual capacity}} is the about 2500mL left in the lungs after normal expiration",
                 "",
                 "",
                 "",
@@ -46604,11 +46059,8 @@
             "guid": "ckn_O7Xxbc",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "respiratory"
+                "BIO::RespiratorySystem",
+                "Ortho528"
             ]
         },
         {
@@ -46616,7 +46068,7 @@
             "data": "",
             "fields": [
                 "-20316290914",
-                "In blood there is a {{c1::lower}} concentration of O2 that in the atmosphere, but a {{c1::higher}} concentration of CO2, so that these gases {{c1::can diffuse down their concentration gradients}}",
+                "In blood there is a {{c1::lower}} concentration of&nbsp;\\(﻿O_{2}\\) that in the atmosphere, but a {{c1::higher}} concentration of \\(﻿CO_{2}\\), so that these gases {{c1::can diffuse down their concentration gradients}}",
                 "",
                 "",
                 "",
@@ -49462,11 +48914,9 @@
             "guid": "vaFN(ezb.i",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -50264,10 +49714,10 @@
             "data": "",
             "fields": [
                 "-20253033106",
-                "ADH increases the number of {{c1::aquaporin molecules at the collecting duct}}",
+                "<b>ADH</b> increases the number of {{c1::<i>aquaporin molecules</i> at the <u>collecting duct</u>}}",
                 "",
-                "<img src=\"ADH2.gif\" />",
                 "",
+                "<img src=\"ADH2.gif\">",
                 "",
                 ""
             ],
@@ -50275,11 +49725,9 @@
             "guid": "m~t-bUT}aq",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -50344,11 +49792,9 @@
             "guid": "Ohw+e)/hix",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -50515,7 +49961,7 @@
             "data": "",
             "fields": [
                 "-20243139737",
-                "As plasma vasopressin levels increase, urine volumen {{c1::decreases}} and urine osmolarity {{c1::increases}}",
+                "As plasma <i>vasopressin</i> levels <u>increase</u>, urine volume {{c1::decreases}} and urine osmolarity {{c1::increases}}",
                 "",
                 "",
                 "",
@@ -50526,11 +49972,9 @@
             "guid": "c|vj4ge.5J",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -50766,11 +50210,9 @@
             "guid": "urE$XX80Ql",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -51086,11 +50528,9 @@
             "guid": "IlT5nu_9Ik",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -51211,7 +50651,7 @@
             "data": "",
             "fields": [
                 "-20234235664",
-                "In alkalosis, type {{c1::B}} intercalated cells in the {{c1::collecting duct}} excrete {{c1:: \\(﻿HCO_{3}^{-}\\) and \\(﻿K^{+}\\) }} while reabsorbing {{c1:: \\(﻿H^{+}\\) }}",
+                "In <i>alkalosis</i>, type {{c1::B}} intercalated cells in the {{c1::collecting duct}} excrete {{c1:: \\(﻿HCO_{3}^{-}\\) and \\(﻿K^{+}\\) }} while reabsorbing {{c1:: \\(﻿H^{+}\\) }}",
                 "",
                 "",
                 "",
@@ -51222,6 +50662,7 @@
             "guid": "OPX;&JBgQy",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::Diseases",
                 "BIO::Renal",
                 "Ortho528"
             ]
@@ -51231,7 +50672,7 @@
             "data": "",
             "fields": [
                 "-20234119772",
-                "In acidosis, type {{c1::A}} intercalated cells in the collecting duct secrete {{c1::H+}} while reabsorbing {{c1::HCO3- and K+}}",
+                "In <b>acidosis</b>, type {{c1::A}} <i>intercalated cells</i> in the <u>collecting duct</u> secrete {{c1::\\(﻿H^{+}\\)}} while reabsorbing {{c1::\\(﻿HCO_{3}^{-}\\) and \\(﻿K^{+}\\)}}",
                 "",
                 "",
                 "",
@@ -52065,9 +51506,8 @@
             "guid": "G|2&l*]Ep@",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "solutions"
+                "GC::Fluids",
+                "Ortho528"
             ]
         },
         {
@@ -52149,9 +51589,8 @@
             "guid": "k,m{8JG0<3",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "solutions"
+                "GC::Phases",
+                "Ortho528"
             ]
         },
         {
@@ -52781,7 +52220,7 @@
                 "",
                 "",
                 "",
-                "",
+                "<img src=\"paste-6dfab589d8696a2d6fcec2873c44f89aa6d89d64.png\">",
                 ""
             ],
             "flags": 0,
@@ -52949,7 +52388,7 @@
             "fields": [
                 "-18677314566",
                 "What is an Arrhenius Acid?",
-                "any substance that produces H+ in aqueous solution",
+                "any substance that produces&nbsp;\\(﻿H^{+}\\) in aqueous solution",
                 "",
                 "",
                 "",
@@ -53663,7 +53102,7 @@
             "data": "",
             "fields": [
                 "-18675984392",
-                "\\(﻿K_{a}*K_{b} = {{c1:: 10^{14} }}\\)",
+                "\\(﻿K_{a}*K_{b} = {{c1:: 1.0*10^{-14} }}\\)=\\(﻿K_{w}\\)",
                 "",
                 "",
                 "",
@@ -54215,11 +53654,9 @@
             "guid": "Q#Yq2{MM$N",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::GISystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -54282,11 +53719,8 @@
             "guid": "p,0M[z(gYs",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::GISystem",
+                "Ortho528"
             ]
         },
         {
@@ -54397,11 +53831,9 @@
             "guid": "vM89uk8[<x",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::GISystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -58230,11 +57662,9 @@
             "guid": "i4g1rQ4O<|",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "hormones",
-                "physiology"
+                "BIO::EndocrineSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -58471,7 +57901,7 @@
             "data": "",
             "fields": [
                 "-18255455826",
-                "D cells in the stomach secrete {{c1::somatostatin}}, which inhibits the release of {{c1::histamine}} from {{c1::ECL}} cells",
+                "<i>D cells</i> in the stomach secrete {{c1::somatostatin}}, which inhibits the release of {{c1::histamine}} from {{c1::ECL}} cells",
                 "",
                 "<img src=\"paste-27565100105729.jpg\" />",
                 "",
@@ -58482,11 +57912,9 @@
             "guid": "jRfRy5<CUA",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "hormones",
-                "physiology"
+                "BIO::GISystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -58812,8 +58240,8 @@
             "fields": [
                 "-17564592116",
                 "Pressure at the point pointed to here:&nbsp;<div><img src=\"paste-21869973471233.jpg\" /></div>",
-                "P = pgy",
                 "",
+                "P = \\rho gy",
                 "",
                 "",
                 "",
@@ -58824,8 +58252,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "fluids"
+                "PHY::Fluids"
             ]
         },
         {
@@ -58845,8 +58272,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "fluids"
+                "PHY::Fluids"
             ]
         },
         {
@@ -59035,8 +58461,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "fluids"
+                "PHY::Fluids"
             ]
         },
         {
@@ -59192,8 +58617,8 @@
             "fields": [
                 "-17486183008",
                 "What is v2 equal to?<div><img src=\"paste-35377645617153.jpg\" /></div>",
-                "<img src=\"paste-35506494636033.jpg\" />",
-                "",
+                "<div></div>",
+                "v_{2}=\\sqrt{2gh_{1}}",
                 "",
                 "",
                 "",
@@ -59204,8 +58629,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "fluids"
+                "PHY::Fluids"
             ]
         },
         {
@@ -59329,8 +58753,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "personality",
-                "ps"
+                "PSY::Personality"
             ]
         },
         {
@@ -61591,7 +61014,7 @@
             "data": "",
             "fields": [
                 "-16524487431",
-                "In attribution theory, {{c1::situational attribution}} decides that {{c2::environmental forces}} were in control",
+                "In <b>attribution theory</b>, {{c1::situational attribution}} decides that {{c2::environmental forces}} were in control",
                 "",
                 "",
                 "",
@@ -61603,8 +61026,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "development",
-                "ps"
+                "PSY::Behavior",
+                "PSY::Development"
             ]
         },
         {
@@ -61729,8 +61152,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "attribution",
-                "ps"
+                "PSY::Behavior",
+                "PSY::Cognition"
             ]
         },
         {
@@ -62520,11 +61943,9 @@
             "guid": "bG7pB:#N@M",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "bone",
-                "physiology"
+                "BIO::MusculoskeletalSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -62579,7 +62000,7 @@
             "data": "",
             "fields": [
                 "-16434452286",
-                "Bone is formed from {{c1::calcium and phosphate and hydroxide}} and is therefore key in regulating body levels of these minerals",
+                "Bone is formed from {{c1::calcium, phosphate, and hydroxide}} and is therefore key in regulating body levels of these minerals",
                 "",
                 "",
                 "",
@@ -62590,11 +62011,9 @@
             "guid": "FHCbT[(_2c",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "bone",
-                "physiology"
+                "BIO::MusculoskeletalSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -62905,10 +62324,9 @@
             "guid": "s|!L#AbKB-",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "skin"
+                "BIO::ImmuneSystem",
+                "BIO::IntegumentarySystem",
+                "Ortho528"
             ]
         },
         {
@@ -63221,6 +62639,9 @@
             "guid": "p>w!8H-R>a",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::Embryology",
+                "BIO::ImmuneSystem",
+                "BIO::MusculoskeletalSystem",
                 "Ortho528"
             ]
         },
@@ -64245,10 +63666,8 @@
             "guid": "c[tAY8XZ}t",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "lab_methods"
+                "BC::LabTechniques",
+                "Ortho528"
             ]
         },
         {
@@ -64439,10 +63858,8 @@
             "guid": "d;@Mquu;ab",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "lab_methods"
+                "BC::LabTechniques",
+                "Ortho528"
             ]
         },
         {
@@ -64487,10 +63904,8 @@
             "guid": "M8ch{UG#t3",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "lab_methods"
+                "GC::LabTechniques",
+                "Ortho528"
             ]
         },
         {
@@ -64730,7 +64145,7 @@
             "fields": [
                 "-15837108162",
                 "Different types of spectroscopy",
-                "<img src=\"dc5182a882708f7d723615f4277006fae0d3caea_tmps4xqkx.png\" />",
+                "<img src=\"dc5182a882708f7d723615f4277006fae0d3caea_tmps4xqkx.png\">",
                 "<img src=\"dc5182a882708f7d723615f4277006fae0d3caea_Q 0.svg\" />",
                 "",
                 "",
@@ -64744,11 +64159,8 @@
             "guid": "o6ra*io$~%",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "lab_methods",
-                "spectroscopy"
+                "GC::LabTechniques",
+                "Ortho528"
             ]
         },
         {
@@ -65323,11 +64735,8 @@
             "guid": "Owb[nQ{(T;",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "lab_methods",
-                "spectroscopy"
+                "GC::LabTechniques::Spectroscopy",
+                "Ortho528"
             ]
         },
         {
@@ -66111,8 +65520,7 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "Math",
-                "Ortho528",
-                "cp"
+                "Ortho528"
             ]
         },
         {
@@ -66220,7 +65628,7 @@
             "data": "",
             "fields": [
                 "-15660789704",
-                "Histidine is {{c1::neutrally}} charged at physiological pH",
+                "<i>Histidine</i> is {{c1::neutrally}} charged at physiological pH",
                 "",
                 "",
                 "",
@@ -66232,9 +65640,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "BC::AA",
-                "BIO",
-                "Ortho528",
-                "bb"
+                "Ortho528"
             ]
         },
         {
@@ -66286,7 +65692,7 @@
                 "-15485542960",
                 "If the enthalpy of a reaction is negative, heat can be thought of as a {{c1::product}}",
                 "",
-                "",
+                "\\(﻿A + B \\rightarrow C+D+ \\ \\)<i>\\(﻿heat\\)</i>",
                 "",
                 "",
                 ""
@@ -66295,9 +65701,8 @@
             "guid": "E6C)Zv-7!3",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "thermodynamics"
+                "GC::Thermodynamics",
+                "Ortho528"
             ]
         },
         {
@@ -67085,8 +66490,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "electricity"
+                "PHY::Electricity"
             ]
         },
         {
@@ -67679,8 +67083,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cognition",
-                "ps"
+                "PSY::Cognition",
+                "PSY::Theories"
             ]
         },
         {
@@ -67868,8 +67272,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "language",
-                "ps"
+                "PSY::Language"
             ]
         },
         {
@@ -68680,8 +68083,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "motivation",
-                "ps"
+                "PSY::Motivation"
             ]
         },
         {
@@ -68866,8 +68268,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "motivation",
-                "ps"
+                "PSY::Motivation"
             ]
         },
         {
@@ -68875,7 +68276,7 @@
             "data": "",
             "fields": [
                 "-15142232439",
-                "According to the {{c1::cognitive theories of motivation}}, people behave in a way that they predict will yield the {{c2::most favorable outcome}}",
+                "According to the {{c1::<b>cognitive theories of motivation</b>}}, people behave in a way that they predict will yield the {{c2::most favorable outcome}}",
                 "",
                 "",
                 "",
@@ -68887,8 +68288,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "motivation",
-                "ps"
+                "PSY::Motivation",
+                "PSY::Theories"
             ]
         },
         {
@@ -69966,8 +69367,8 @@
             "fields": [
                 "-14882995326",
                 "Equation for period:",
-                "<div><span>\\(﻿T=\\frac{1}{f}\\)</span><br></div><div><span><br></span></div><div>\\(﻿f=\\frac{\\lambda}{s}\\)<br></div><div><br></div><div>\\(﻿period = \\frac{s}{\\lambda}\\)</div>",
                 "",
+                "<div>﻿T=\\frac{1}{f}<br></div><div>\\\\</div><div>﻿period = \\frac{s}{\\lambda}</div>",
                 "",
                 "",
                 "",
@@ -70110,8 +69511,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "waves"
+                "PHY::Waves"
             ]
         },
         {
@@ -70279,7 +69679,7 @@
             "data": "",
             "fields": [
                 "-",
-                "Wavelength change from Doppler Effect:",
+                "wavelength change from <i>Doppler Effect</i>:",
                 "",
                 "\\frac{\\Delta \\lambda}{\\lambda_{s}}=\\frac{v}{c}",
                 "",
@@ -70292,6 +69692,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
+                "PHY::Equations",
                 "PHY::Waves"
             ]
         },
@@ -70947,8 +70348,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "waves"
+                "PHY::Waves"
             ]
         },
         {
@@ -72405,8 +71805,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "optics"
+                "PHY::Lenses"
             ]
         },
         {
@@ -72509,8 +71908,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "optics"
+                "PHY::Lenses"
             ]
         },
         {
@@ -72985,7 +72383,7 @@
             "data": "",
             "fields": [
                 "-14453729438",
-                "The&nbsp;three simple circuit power equations are {{c1::P = IV, P = I<sup>2</sup>R, or P = V<sup>2</sup>/R}}",
+                "The&nbsp;three simple circuit power equations are&nbsp;<div>{{c1::\\(﻿P = IV \\)}}<br></div><div>{{c1::\\(﻿P = I^{2}R &nbsp;\\)}}<br></div><div>{{c1::\\(﻿P = \\frac{V^2}{R} \\)}}<br></div>",
                 "",
                 "",
                 "",
@@ -73395,8 +72793,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "experimental_design",
-                "ps"
+                "PSY::Behavior",
+                "PSY::Research"
             ]
         },
         {
@@ -73521,8 +72919,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "phenomenon",
-                "ps"
+                "PSY::Phenomenon",
+                "PSY::Social"
             ]
         },
         {
@@ -74399,7 +73797,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps"
+                "PSY::Social",
+                "PSY::Society"
             ]
         },
         {
@@ -74816,8 +74215,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "disorders",
-                "ps"
+                "PSY::Emotion",
+                "PSY::Theories"
             ]
         },
         {
@@ -74936,8 +74335,8 @@
                 "-13925524698",
                 "Glycolysis releases energy through {{c1::2 substrate level phosphorlyations}} and {{c1::1 oxidation reaction to make NADH}}",
                 "",
-                "<img src=\"image198.jpg\" />",
                 "",
+                "<img src=\"image198.jpg\">",
                 "",
                 ""
             ],
@@ -74945,10 +74344,8 @@
             "guid": "dFR*(+@W4^",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -75020,7 +74417,7 @@
             "data": "",
             "fields": [
                 "-13925228319",
-                "PFK2 transforms {{c1::F6P into F2,6BP}} and is induced by {{c1::insulin}} and inhibited by {{c1::glucagon}}.",
+                "<i>PFK2</i> transforms {{c1::F6P&nbsp;→ F2,6BP}} and is <u>induced</u> by {{c1::<b>insulin</b>}} and <u>inhibited</u> by {{c1::<b>glucagon</b>}}.",
                 "",
                 "",
                 "",
@@ -75031,10 +74428,8 @@
             "guid": "hX:8^%a|%f",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -75119,10 +74514,8 @@
             "guid": "dzII?K:,L<",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -75857,7 +75250,7 @@
             "data": "",
             "fields": [
                 "-13778769469",
-                "Alcohols disrupt {{c1::seconary, tertiary, and quaternary}} enzyme structure",
+                "Alcohols disrupt {{c1::secondary, tertiary, and quaternary}} enzyme structure",
                 "",
                 "",
                 "",
@@ -75868,10 +75261,9 @@
             "guid": "IkA8i,xmD,",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "enzymes",
-                "ochem"
+                "BC::Enzymes",
+                "OC::Reactions",
+                "Ortho528"
             ]
         },
         {
@@ -76114,8 +75506,8 @@
                 "-13757619200",
                 "{{c1::Ependymal cells}} move cerebrospinal fluid throughout the ventricles of the brain and spinal canal using cilia",
                 "",
-                "<img src=\"5f7ca814e64f950b405518c98156efcd.jpg\" />",
                 "",
+                "<img src=\"5f7ca814e64f950b405518c98156efcd.jpg\">",
                 "",
                 ""
             ],
@@ -76123,11 +75515,8 @@
             "guid": "i/,rt+b@27",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "nervous_system_organization",
-                "physiology"
+                "BIO::NervousSystem",
+                "Ortho528"
             ]
         },
         {
@@ -76473,8 +75862,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "status"
+                "PSY::Society"
             ]
         },
         {
@@ -77201,7 +76589,7 @@
             "data": "",
             "fields": [
                 "-13595804215",
-                "Upon stimulate by {{c1::LH}}, theca cells secrete {{c1::androgen}}, which is converted to {{c1::estradiol}} by the granulosa cells in the presence of {{c1::FSH}} and secreted into the blood",
+                "Upon stimulation by {{c1::LH}}, theca cells secrete {{c1::androgen}}, which is converted to {{c1::estradiol}} by the granulosa cells in the presence of {{c1::FSH}} and secreted into the blood",
                 "",
                 "",
                 "",
@@ -78247,10 +77635,10 @@
             "data": "",
             "fields": [
                 "-13593641603",
-                "Ectoderm cells near the neural tube form the {{c1::neural crest}} which form the accessory cells of the nervous system like {{c1::Schwann cells}}, and also the secondary neruons of the {{c1::ANS}}, and endocrine cells like the {{c1::adrenal medulla}} and {{c1::thyroid}} C cells",
+                "<b>Ectoderm cells</b> <u>near the neural tube</u> form the {{c1::neural crest}} which form the accessory cells of the nervous system like {{c1::Schwann cells}}, and also the secondary neruons of the {{c1::ANS}}, and <u>endocrine cells </u>like the {{c1::adrenal medulla}} and {{c1::thyroid}} C cells",
                 "",
-                "<img src=\"1024px-2912_Neurulation-02.jpg\" />",
                 "",
+                "<img src=\"1024px-2912_Neurulation-02.jpg\">",
                 "",
                 ""
             ],
@@ -78258,10 +77646,9 @@
             "guid": "AmrcLu/>hJ",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "embryology"
+                "BIO::Embryology",
+                "BIO::NervousSystem",
+                "Ortho528"
             ]
         },
         {
@@ -78338,7 +77725,7 @@
             "data": "",
             "fields": [
                 "-13593463846",
-                "The main enzyme of fermentation is {{c1::lactate dehydrogenase}} which reduces {{c1::pyruvate}} into {{c1::lactate}} and oxidizes {{c1::NADH -&gt; NAD+}}",
+                "The main enzyme of <b>fermentation</b> is {{c1::<i>lactate dehydrogenase</i>}} which reduces {{c1::pyruvate}} into {{c1::lactate}} and oxidizes {{c1::NADH&nbsp;→ \\(﻿NAD^{+}\\)}}",
                 "",
                 "<img src=\"paste-9483287789569.jpg\" />",
                 "",
@@ -78349,11 +77736,8 @@
             "guid": "lUd:ee/`WT",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "development",
-                "ps"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -78725,8 +78109,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "consciousness",
-                "ps"
+                "PSY::Consciousness",
+                "PSY::Sleep"
             ]
         },
         {
@@ -79277,7 +78661,7 @@
             "data": "",
             "fields": [
                 "-13480452747",
-                "According to {{c2::humanistic theory}}, when the {{c3::ideal self}} and {{c3::real self}} are similar the result is a postive {{c1::self-concept}}",
+                "According to {{c2::<b>humanistic theory</b>}}, when the {{c3::<u>ideal self</u>}} and {{c3::<u>real self</u>}} are similar the result is a postive {{c1::<i>self-concept</i>}}",
                 "",
                 "Carl Rogers' humanistic theory",
                 "",
@@ -79289,9 +78673,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "psychology",
-                "self-concept"
+                "PSY::Identity",
+                "PSY::Theories::CarlRogers"
             ]
         },
         {
@@ -79417,8 +78800,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cognition",
-                "ps"
+                "PSY::Cognition"
             ]
         },
         {
@@ -79769,10 +79151,10 @@
             "data": "",
             "fields": [
                 "-13398284258",
-                "{{c1::Normative organizations}} are formed when members come together through shared goals, ex. religious groups or MADD. Positive sense of unity and purpose",
+                "{{c1::Normative organizations}} are formed when members come together through shared goals, ex. religious groups or MADD<div>* Positive sense of unity and purpose</div>",
                 "",
-                "<img src=\"slide_51.jpg\" />",
                 "",
+                "<img src=\"slide_51.jpg\">",
                 "",
                 ""
             ],
@@ -79781,9 +79163,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "interactions",
-                "ps",
-                "sociology"
+                "PSY::Social",
+                "PSY::Society"
             ]
         },
         {
@@ -80596,8 +79977,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "memory",
-                "ps"
+                "PSY::Memory"
             ]
         },
         {
@@ -81742,7 +81122,7 @@
             "data": "",
             "fields": [
                 "-12802287544",
-                "What molecule is this?&nbsp;<img src=\"1024px-Glycogen_structure.svg.png\" />",
+                "What molecule is this?<div>&nbsp;<img src=\"1024px-Glycogen_structure.svg.png\"></div>",
                 "Glycogen",
                 "",
                 "",
@@ -81754,10 +81134,8 @@
             "guid": "BzEb+f(Yzl",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -82054,8 +81432,8 @@
                 "-12801703629",
                 "{{c1::Pyruvate carboxylase}} is the first enzyme of gluconeogesis and converts {{c1::pyruvate}} into {{c1::oxaloacetate}} which can leave the {{c1::mitochondria}}",
                 "",
-                "<img src=\"paste-59493886984193.jpg\" />",
                 "",
+                "<img src=\"paste-59493886984193.jpg\">",
                 "",
                 ""
             ],
@@ -82063,10 +81441,8 @@
             "guid": "vt16nwBu+I",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -82287,10 +81663,8 @@
             "guid": "A$:_6[`tw5",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -82809,10 +82183,10 @@
             "data": "",
             "fields": [
                 "-12374524715",
-                "The slope of the lineweaver burke line is {{c1::Km / Vmax}}",
+                "The slope of the lineweaver burke line is&nbsp;{{c1::<span>\\(\\frac{K_m}{v_max}\\)</span><span>}}</span>",
                 "",
-                "<img src=\"350px-Lineweaver-Burke_plot.svg.png\" />",
                 "",
+                "<img src=\"350px-Lineweaver-Burke_plot.svg.png\">",
                 "",
                 ""
             ],
@@ -82820,12 +82194,8 @@
             "guid": "PQuPxx}-6M",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem",
-                "cp",
-                "enzymes"
+                "BC::Enzymes::Kinetics",
+                "Ortho528"
             ]
         },
         {
@@ -82952,12 +82322,8 @@
             "guid": "btYx=Dj]rK",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem",
-                "cp",
-                "enzymes"
+                "BC::Enzymes::Inhibitors",
+                "Ortho528"
             ]
         },
         {
@@ -83332,10 +82698,8 @@
             "guid": "t=[Z3{^XQ:",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "genetics"
+                "BC::Genetics",
+                "Ortho528"
             ]
         },
         {
@@ -83580,10 +82944,10 @@
             "data": "",
             "fields": [
                 "-11954811397",
-                "The cell cycle goes {{c1::G1}} -&gt; {{c1::S or G0}} -&gt; {{c1::G2}} -&gt; {{c1::Mitosis}}",
+                "The cell cycle goes {{c1::\\(﻿G_{1}\\)}}&nbsp;→ {{c1::\\(S\\) or \\(﻿G_{0}\\)}}&nbsp;→ {{c1::\\(﻿G_{2}\\)}}&nbsp;→ {{c1::Mitosis}}",
                 "",
-                "<img src=\"22-Cell-cycle.gif\" />",
                 "",
+                "<img src=\"22-Cell-cycle.gif\">",
                 "",
                 ""
             ],
@@ -83591,10 +82955,8 @@
             "guid": "lXN`Q2d~2L",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "genetics"
+                "BIO::Mitosis",
+                "Ortho528"
             ]
         },
         {
@@ -85381,8 +84743,8 @@
                 "-11530314529",
                 "D-glucose looks like it's giving you the {{c1::middle finger}}",
                 "",
-                "<img src=\"paste-76794015252481.jpg\" />",
                 "",
+                "<img src=\"paste-a429ccaf79d6fd6d3875fdfa479aa3c87de4b765.png\">",
                 "",
                 ""
             ],
@@ -85390,11 +84752,9 @@
             "guid": "h6Mus6cpi3",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "biochem",
-                "cp",
-                "sugars"
+                "BC::Carbohydrates::Structures",
+                "OC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -85973,12 +85333,9 @@
             "guid": "sG&NvF+7e^",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem",
-                "cp",
-                "metabolism"
+                "BC::Metabolism",
+                "OC::Reactions",
+                "Ortho528"
             ]
         },
         {
@@ -86238,10 +85595,9 @@
             "guid": "b@QZq0o%[[",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "molecules"
+                "BIO::Cell",
+                "BIO::NervousSystem",
+                "Ortho528"
             ]
         },
         {
@@ -86350,8 +85706,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "conditioning",
-                "ps"
+                "PSY::Behavior"
             ]
         },
         {
@@ -86494,8 +85849,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "perception",
-                "ps"
+                "PSY::Perception",
+                "PSY::Theories"
             ]
         },
         {
@@ -87218,7 +86573,7 @@
             "data": "",
             "fields": [
                 "-10749512968",
-                "{{c2::<b>secondary</b> <b>protein structure</b>}} emerges from {{c1::hydrogen bonds between backbone amide protons and carbonyl oxygens}}",
+                "{{c2::<b>secondary</b> <b>protein structure</b>}} emerges from {{c1::<i>hydrogen bonds </i>between backbone amide protons and carbonyl oxygens}}",
                 "",
                 "H-bonds occur between \\(﻿n+4\\) amino acids",
                 "",
@@ -87654,7 +87009,7 @@
             "data": "",
             "fields": [
                 "-10737484977",
-                "Erikson's Trust vs mistrust stage occurs when someone is {{c1::an infant}}&nbsp;",
+                "Erikson's <b>trust vs mistrust</b> stage occurs when someone is {{c1::an infant}}&nbsp;",
                 "",
                 "",
                 "",
@@ -87666,8 +87021,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "sociology"
+                "PSY::Social",
+                "PSY::Theories"
             ]
         },
         {
@@ -89013,10 +88368,8 @@
             "guid": "MWlx0W`LA&",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "embryology"
+                "BIO::Embryology",
+                "Ortho528"
             ]
         },
         {
@@ -90661,7 +90014,7 @@
             "fields": [
                 "50891429609",
                 "cocktail party phenomenon",
-                "hearing your name at a part from across the room<div>* example of using selective attention</div>",
+                "hearing your name at a part from across the room<div>* example of using <i>selective attention</i></div>",
                 "",
                 "",
                 "",
@@ -91068,7 +90421,7 @@
             "data": "",
             "fields": [
                 "51663323270",
-                "Night terrors occur during {{c1::Stage 3/Stage 4 (SWS sleep)}}",
+                "<i>Night terrors</i> occur during {{c1::Stage 3/Stage 4 (SWS sleep)}}",
                 "",
                 "",
                 "",
@@ -91368,7 +90721,9 @@
             "flags": 0,
             "guid": "fd=&t]C2}^",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": []
+            "tags": [
+                "PSY::Cognition::Hearing"
+            ]
         },
         {
             "__type__": "Note",
@@ -93177,7 +92532,7 @@
             "fields": [
                 "52956637282",
                 "In the absence of insulin, what cells are capable of absorbing glucose? How?",
-                "*&nbsp; hepatic + neural cells<div>* via facilitated transport system</div>",
+                "* hepatic + neural cells<div>* via facilitated transport system</div>",
                 "",
                 "",
                 "",
@@ -98025,8 +97380,8 @@
             "data": "",
             "fields": [
                 "53822651440",
-                "diamagnetic elements",
-                "* all electrons are paired off<div>* subshells are completely filled, are magnetically repulsive</div>",
+                "<b>diamagnetic</b> elements",
+                "* all electrons are paired off (<span>subshells are completely filled)</span><div>* are <u>magnetically repulsive</u></div>",
                 "",
                 "",
                 "",
@@ -101878,8 +101233,8 @@
             "data": "",
             "fields": [
                 "54542240985",
-                "gap junctions are typically found in",
-                "cardiac muscle",
+                "<i>gap junctions</i> are typically found in",
+                "<b>cardiac muscle</b>",
                 "",
                 "",
                 "",
@@ -102006,7 +101361,7 @@
             "fields": [
                 "54543204034",
                 "SI unit for temperature",
-                "kelvin (K)",
+                "kelvin (\\(﻿K\\))",
                 "",
                 "",
                 "",
@@ -102495,11 +101850,11 @@
             "fields": [
                 "54545383604",
                 "amine",
-                "NH<sub>x</sub>-R",
+                "NH<sub>x</sub>-R<div>\\(﻿1^{\\circ} \\ amine \\ shown \\ below\\)<br></div>",
                 "",
                 "",
                 "",
-                "",
+                "<img src=\"paste-03e2ea7370360872e647ed493faf1cbe4feafdd2.png\">",
                 ""
             ],
             "flags": 0,
@@ -102807,7 +102162,7 @@
                 "nitro",
                 "\\(NO_{2}\\)",
                 "",
-                "<img src=\"paste-8bc75ff5b13354f18ff56632865f8b01ed699d2f.png\">",
+                "<img src=\"paste-e2b68c6f2b843722162c31cdebbd3a8c9b79675c.png\">",
                 ""
             ],
             "flags": 0,
@@ -105222,7 +104577,7 @@
             "data": "",
             "fields": [
                 "55216841429",
-                "what does the&nbsp;<b>slope at any point</b> in the velocity vs time graph tell us?<div><img src=\"paste-adef7a6af6689f151b9c15110a086ae7b1e24c27.png\"><br></div>",
+                "what does the&nbsp;<b>slope at any point</b> in the<i> velocity vs time </i>graph tell us?<div><img src=\"paste-adef7a6af6689f151b9c15110a086ae7b1e24c27.png\"><br></div>",
                 "instantaneous acceleration",
                 "",
                 "",
@@ -105579,7 +104934,7 @@
             "data": "",
             "fields": [
                 "55278488389",
-                "value of *G* in universal gravitational force equation",
+                "value of G in universal gravitational force equation",
                 "",
                 "6.67*10^{-11} m^{3}kg^{-1}s^{-2}",
                 "",
@@ -105927,7 +105282,7 @@
             "fields": [
                 "55463698899",
                 "termination",
-                "* third/last step of transcription<div>** termination sequence (of nucleotides) is reached; stopping transcription</div>",
+                "* third/last step of transcription<div>* termination sequence (of nucleotides) is reached; stopping transcription</div>",
                 "",
                 "",
                 "",
@@ -107656,7 +107011,7 @@
             "fields": [
                 "56002464624",
                 "Newton's law of cooling",
-                "a body's rate of cooling is proportional to the difference between the bodys temperature and the environments temperature",
+                "a body's <i>rate of cooling</i> is <b>proportional to the difference</b> between the bodys temperature and the environments temperature",
                 "",
                 "",
                 "",
@@ -107928,7 +107283,7 @@
             "fields": [
                 "56065614959",
                 "endergonic",
-                "* non-spontaneous",
+                "<i>non-spontaneous</i>",
                 "+ \\Delta G",
                 "",
                 "",
@@ -109082,7 +108437,7 @@
             "fields": [
                 "56398875701",
                 "what happens if nondisjunction occurs during anaphase I?",
-                "* one of the cells will have two extra chromatids (**one whole chromosome**)<div>* the *other will be missing one*<div>* typically behaves normally after lining up during meiosis II</div></div>",
+                "* one of the cells will have two extra chromatids (<b>one whole chromosome</b>)<div>* the <i>other will be missing one</i><div>* typically <u>behaves normally after lining up during meiosis II</u></div></div>",
                 "",
                 "",
                 "",
@@ -110227,6 +109582,7 @@
             "guid": "vKT|9Wnx|i",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
+                "ACRONYM",
                 "BIO::NervousSystem",
                 "EK::BIO/BC2::Lecture2"
             ]
@@ -114970,11 +114326,11 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "58377780490",
+                "58377780490r",
                 "the {{c2::largest peak of the mass spectroscopy}} is called the {{c1::base peak}}",
                 "",
                 "",
-                "",
+                "<img src=\"massspec.gif\">",
                 "",
                 ""
             ],
@@ -116100,131 +115456,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "676c17f107ef44e89016424bb4e60c2a-ao-1",
-                "Hypothalamus → Anterior Pituitary",
-                "<img src=\"mermaid1 (1).png\" />",
-                "<img src=\"676c17f107ef44e89016424bb4e60c2a-ao-1-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"676c17f107ef44e89016424bb4e60c2a-ao-1-A.svg\" />",
-                "<img src=\"676c17f107ef44e89016424bb4e60c2a-ao-O.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "qt{[A~><Q6",
-            "note_model_uuid": "7e2ac158-7b6f-11e9-8d82-acde48001122",
-            "tags": [
-                "BIO::EndocrineSystem",
-                "BIO::NervousSystem",
-                "BIO::Physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "47eb237959d74408853737e46d3b9a0e-ao-1",
-                "Hypothalamus → Anterior Pituitary",
-                "<img src=\"mermaid1 (1).png\" />",
-                "<img src=\"47eb237959d74408853737e46d3b9a0e-ao-1-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"47eb237959d74408853737e46d3b9a0e-ao-1-A.svg\" />",
-                "<img src=\"47eb237959d74408853737e46d3b9a0e-ao-O.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "Cm)s6^@tkC",
-            "note_model_uuid": "7e2ac158-7b6f-11e9-8d82-acde48001122",
-            "tags": [
-                "BIO::EndocrineSystem",
-                "BIO::NervousSystem",
-                "BIO::Physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "47eb237959d74408853737e46d3b9a0e-ao-2",
-                "Hypothalamus → Anterior Pituitary",
-                "<img src=\"mermaid1 (1).png\" />",
-                "<img src=\"47eb237959d74408853737e46d3b9a0e-ao-2-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"47eb237959d74408853737e46d3b9a0e-ao-2-A.svg\" />",
-                "<img src=\"47eb237959d74408853737e46d3b9a0e-ao-O.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "PFu54kUY?.",
-            "note_model_uuid": "7e2ac158-7b6f-11e9-8d82-acde48001122",
-            "tags": [
-                "BIO::EndocrineSystem",
-                "BIO::NervousSystem",
-                "BIO::Physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "76af1820e6a64d81a1f5731cd9c14c2b-ao-1",
-                "Hypothalamus → Anterior Pituitary",
-                "<img src=\"mermaid1 (1).png\" />",
-                "<img src=\"76af1820e6a64d81a1f5731cd9c14c2b-ao-1-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"76af1820e6a64d81a1f5731cd9c14c2b-ao-1-A.svg\" />",
-                "<img src=\"76af1820e6a64d81a1f5731cd9c14c2b-ao-O.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "gamEgQQEPU",
-            "note_model_uuid": "7e2ac158-7b6f-11e9-8d82-acde48001122",
-            "tags": [
-                "BIO::EndocrineSystem",
-                "BIO::NervousSystem",
-                "BIO::Physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "76af1820e6a64d81a1f5731cd9c14c2b-ao-2",
-                "Hypothalamus → Anterior Pituitary",
-                "<img src=\"mermaid1 (1).png\" />",
-                "<img src=\"76af1820e6a64d81a1f5731cd9c14c2b-ao-2-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"76af1820e6a64d81a1f5731cd9c14c2b-ao-2-A.svg\" />",
-                "<img src=\"76af1820e6a64d81a1f5731cd9c14c2b-ao-O.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "A5.L7=w7*`",
-            "note_model_uuid": "7e2ac158-7b6f-11e9-8d82-acde48001122",
-            "tags": [
-                "BIO::EndocrineSystem",
-                "BIO::NervousSystem",
-                "BIO::Physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "58562697097",
                 "null hypothesis",
                 "* default assumption that there is <b>no difference between the observed result and those expected</b><div>* <u>independent variable has no effect</u></div>",
@@ -116426,6 +115657,458 @@
             "tags": [
                 "BIO::GISystem",
                 "BIO::Physiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58736453234",
+                "nitrite",
+                "",
+                "NO_{2}^{-}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uP(@etlbG;",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::General",
+                "GC::MolecularStructure",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58736500245",
+                "nitrate",
+                "",
+                "NO_{3}^{-}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t~-Si5$W(P",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::General",
+                "GC::MolecularStructure",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58736512091",
+                "sulfite",
+                "",
+                "SO_{3}^{2-}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LJ^J.Rj@n*",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::General",
+                "GC::MolecularStructure",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58736523296",
+                "sulfate",
+                "",
+                "SO_{4}^{2-}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B<{+l]~o^#",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::General",
+                "GC::MolecularStructure",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58736533299",
+                "hypochlorite",
+                "",
+                "ClO^{-}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D&P3pIExHh",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::General",
+                "GC::MolecularStructure",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58736547273",
+                "chlorite",
+                "",
+                "ClO_{2}^{-}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Qq}aueP%pI",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::General",
+                "GC::MolecularStructure",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58736561810",
+                "chlorate",
+                "",
+                "ClO_{3}^{-}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g8q7lva{ae",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::General",
+                "GC::MolecularStructure",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58736572030",
+                "perchlorate",
+                "",
+                "ClO_{4}^{-}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GxWWA|S9Aw",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::General",
+                "GC::MolecularStructure",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58736589326",
+                "carbonate",
+                "",
+                "CO_{3}^{2-}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g0eBd0?DU/",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::General",
+                "GC::MolecularStructure",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58736598398",
+                "bicarbonate",
+                "",
+                "HCO_{3}^{-}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HXj*MHUgqD",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::General",
+                "GC::MolecularStructure",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58736610101",
+                "phosphate",
+                "",
+                "PO_{4}^{3-}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IxzBLUg#`:",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::General",
+                "GC::MolecularStructure",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58736623110",
+                "ammonium",
+                "",
+                "NH_{4}^{+}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l>nsJLGvsb",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::General",
+                "GC::MolecularStructure",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58824782901",
+                "Henderson-Hasselbach Equation",
+                "",
+                "pH=pK_{a}+log\\frac{[A^{-}}{[HA]}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f|j=k_f.&U",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::AcidsBases",
+                "GC::Equations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58824872521",
+                "bromothymol blue",
+                "an indicator from <b>pH range 6 to 8</b>",
+                "",
+                "NO INDICATOR AFFECTS THE pH OF THE SOLUTION",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u+VoX%$e92",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::AcidsBases",
+                "GC::Titrations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58825336816",
+                "when a <i>polyprotic acid</i> is titrated with a {{c2::strong base}}, the titration curve will show {{c1::<strong>one equivalence point</strong>&nbsp;for&nbsp;<strong>each acidic proton</strong>}}",
+                "",
+                "",
+                "<img src=\"paste-fbf22e53ba8890bb8c4ecba317abe666ecf193b6.png\">",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z3@D>:0%<9",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "GC::AcidsBases",
+                "GC::Titrations"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58907497116",
+                "<div><div><div><div>The {{c1::rhombencephalon}} is also known as the {{c2::hindbrain}}</div></div></div></div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t<8htv.H97",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "BIO::Embryology",
+                "BIO::NervousSystem",
+                "KhanAcademy::OrganSystems::BiologicalBehavior"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58907526076",
+                "A {{c1::sympathetic}} nerve originates in the {{c2::middle of the spinal cord}}",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BU=485(6[l",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "BIO::NervousSystem",
+                "KhanAcademy::OrganSystems::BiologicalBehavior"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58916698602",
+                "<b>upper esophageal sphincter</b> is composed of",
+                "skeletal muscle",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u,e{ZF6x`9",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::GISystem",
+                "KhanAcademy::OrganSystems::GastrointestinalSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58918413035",
+                "lower esophageal sphincter",
+                "* composed of smooth muscle",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EM2.zinVWC",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::GISystem",
+                "KhanAcademy::OrganSystems::GastrointestinalSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59242542173",
+                "coefficient of static friction =",
+                "",
+                "F_{s}=\\mu_{s}*F_{N}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DS2YY|{p%)",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PHY::Equations",
+                "PHY::Motion&Force",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59265993562",
+                "<div><div>The role of <i>adenylate cyclase</i> is</div></div>",
+                "To cyclize ATP in order to generate second messengers",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dgJex:c%pI",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::EndocrineSystem",
+                "KhanAcademy::OrganSystems::EndocrineSystem"
             ]
         }
     ]

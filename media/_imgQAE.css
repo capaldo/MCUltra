@@ -13,8 +13,8 @@
     src: url('_pragmatapro.ttf');
 }
 
-.mac img {
-    max-height: 600px;
+img {
+    max-height: 500px;
     width: auto;
     height: auto;
 }

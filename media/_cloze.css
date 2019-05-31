@@ -168,10 +168,10 @@ mark {
     margin: 0 auto;
     border-radius: 3px;
     transition: all .2s ease-in-out;
-    padding-top: 12px;
+    padding-top: 20px;
  }
 
 .zoom:hover {
-    transform: scale(7);
+    transform: scale(5);
     max-width: 2.5em;
 }
