@@ -34,10 +34,14 @@ u {
 img {
     filter: invert(100%);
     max-height: 500px;
+    max-height: 500px;
     width: auto;
     height: auto;
 }
 
+svg {
+    filter: invert(100%);
+}
 .card.nightMode {
     background-color: #131313;
 }

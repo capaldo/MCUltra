@@ -456,18 +456,10 @@
         "2d444d29c7b9e3e64b38eb47d96d415bc1d6644f_source_svg.svg",
         "2d444d29c7b9e3e64b38eb47d96d415bc1d6644f_tmpn9zuid.png",
         "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_A 0 (1).svg",
-        "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_A 0.svg",
         "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_A 1 (1).svg",
-        "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_A 1.svg",
-        "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_A 2.svg",
         "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_Q 0 (1).svg",
-        "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_Q 0.svg",
         "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_Q 1 (1).svg",
-        "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_Q 1.svg",
-        "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_Q 2.svg",
         "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_source_svg (1).svg",
-        "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_source_svg.svg",
-        "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_tmpg0r28z.png",
         "2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_tmppqkprt.png",
         "2ef478995a38db4680e94ac49effb9b61bcc5527_A 0.svg",
         "2ef478995a38db4680e94ac49effb9b61bcc5527_Q 0.svg",
@@ -2624,7 +2616,6 @@
         "paste-108482283962369.jpg",
         "paste-10904921964545.jpg",
         "paste-10926396801025.jpg",
-        "paste-11042360918017.jpg",
         "paste-11046655885313.jpg",
         "paste-110500918591489.jpg",
         "paste-111033494536193.jpg",
@@ -2637,7 +2628,6 @@
         "paste-11712375816193.jpg",
         "paste-12090332938241.jpg",
         "paste-12214886989825.jpg",
-        "paste-12d8689f301c5c07968ecef584b12c3fde704a81.png",
         "paste-132723079380993.jpg",
         "paste-132937827745793.jpg",
         "paste-135dd40d79dccbeff2bb0f2fb5cf33b7f6ef88eb.png",
@@ -2654,6 +2644,7 @@
         "paste-19464791785473.jpg",
         "paste-19619410608129.jpg",
         "paste-19795504267265.jpg",
+        "paste-1a31c0da514c4befeee6780511c03b50913f02b7.png",
         "paste-20233590931457.jpg",
         "paste-20383914786817.jpg",
         "paste-20448339296257.jpg",
@@ -2680,6 +2671,7 @@
         "paste-250b36bfb3b515bd3d65138dfdd6b46aaad0be66.png",
         "paste-25198573125634.jpg",
         "paste-25443386261505.jpg",
+        "paste-263749ebbfa41ed0db6c26d8b68022e1735852d3.png",
         "paste-26431228739585.jpg",
         "paste-26461293510657.jpg",
         "paste-26495653249025.jpg",
@@ -3044,8 +3036,8 @@
             ],
             "sortf": 1,
             "tags": [
-                "BIO::EndocrineSystem",
-                "KhanAcademy::OrganSystems::EndocrineSystem"
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
             ],
             "tmpls": [
                 {
@@ -3144,8 +3136,8 @@
             "name": "Clozine",
             "sortf": 1,
             "tags": [
-                "BIO::NervousSystem",
-                "KhanAcademy::OrganSystems::BiologicalBehavior"
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
             ],
             "tmpls": [
                 {
@@ -4811,7 +4803,7 @@
             "fields": [
                 "-40354047484",
                 "SI Unit for force",
-                "Newton, kg m s<sup>-2</sup>, = mass * accel.",
+                "* Newton<div>* \\(﻿kg*m*s^{-2}\\)<div>* \\(﻿mass*accel\\)<br></div></div>",
                 "",
                 "",
                 ""
@@ -4820,9 +4812,9 @@
             "guid": "hRZ68h@}HA",
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
+                "Math::Units",
                 "Ortho528",
-                "cp",
-                "units"
+                "PHY::Motion&Force"
             ]
         },
         {
@@ -5089,10 +5081,9 @@
             "guid": "w7n4G21Y3N",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "equations",
-                "thermodynamics"
+                "GC::Equations",
+                "GC::Thermodynamics",
+                "Ortho528"
             ]
         },
         {
@@ -5112,10 +5103,9 @@
             "guid": "bmhgY4T!|t",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "equations",
-                "thermodynamics"
+                "GC::Equations",
+                "GC::Thermodynamics",
+                "Ortho528"
             ]
         },
         {
@@ -5282,7 +5272,7 @@
             "data": "",
             "fields": [
                 "-40181129958",
-                "Elementary reaction rate equation serves as a good approximation of reaction rate in a multistep reaction if the concentration of {{c1::intermediate}} is {{c1::low}}",
+                "<b>Elementary reaction rate equation</b> serves as a good approximation of reaction rate in a multistep reaction if the concentration of {{c1::intermediate}} is {{c1::low}}",
                 "",
                 "",
                 "",
@@ -5293,10 +5283,8 @@
             "guid": "Kl%,/Ib#,o",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "kinetics",
-                "reactions"
+                "GC::Reactions::Kinetics",
+                "Ortho528"
             ]
         },
         {
@@ -5305,8 +5293,8 @@
             "fields": [
                 "-40181064751",
                 "What is the equation used to calculate the forward rate of a reaction?",
-                "rate<sub>forward</sub>&nbsp;= k<sub>f</sub>[A]<sup>α</sup>[B]<sup>β</sup>",
-                "",
+                "<div><sup><br></sup></div>",
+                "rate_{forward}=k_{f}[A]^{\\alpha}[B]^{\\beta}",
                 "",
                 "",
                 "",
@@ -5316,10 +5304,8 @@
             "guid": "N9uD*aKsh)",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "kinetics",
-                "reactions"
+                "GC::Reactions::Kinetics",
+                "Ortho528"
             ]
         },
         {
@@ -6352,7 +6338,7 @@
             "data": "",
             "fields": [
                 "-39408884041",
-                "The formula for any carbohydrate is {{c1::Cn(H2O)n}}, hence their name.",
+                "The formula for any carbohydrate is {{c1::\\(﻿C_n(H_2O)_n\\)}}, hence their name",
                 "",
                 "",
                 "",
@@ -6363,11 +6349,9 @@
             "guid": "Ix3xl@c]}S",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "biochem",
-                "cp",
-                "molecules"
+                "BC::Carbohydrates::Structures",
+                "OC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -7149,7 +7133,6 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "BC::AA",
-                "BIO",
                 "EK::BIO/BC1::Lecture1",
                 "Ortho528"
             ]
@@ -8511,10 +8494,8 @@
             "guid": "w15o:o2A)G",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
                 "BIO::Bacteria",
-                "Ortho528",
-                "bb"
+                "Ortho528"
             ]
         },
         {
@@ -8533,10 +8514,8 @@
             "guid": "AFj4p)Hm0",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
                 "BIO::Bacteria",
-                "Ortho528",
-                "bb"
+                "Ortho528"
             ]
         },
         {
@@ -16418,6 +16397,7 @@
             "guid": "pc^Y~?];HO",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -16965,10 +16945,8 @@
             "guid": "G%<Lc<RJgS",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
                 "Ortho528",
-                "bb",
-                "vision"
+                "PSY::Cognition::Sight"
             ]
         },
         {
@@ -20649,10 +20627,8 @@
             "guid": "tiN2;T5-OL",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -20973,10 +20949,8 @@
             "guid": "Cpq0R;rj=Y",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -24079,8 +24053,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "BIO::EndocrineSystem",
+                "BIO::Hepatic",
                 "BIO::Physiology",
-                "BIO::Renal",
                 "Ortho528"
             ]
         },
@@ -27395,11 +27369,10 @@
             "guid": "Bh^A&QMS-o",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "nervous_system_organization",
-                "physiology"
+                "BIO::EndocrineSystem",
+                "BIO::NervousSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -27983,7 +27956,7 @@
             "data": "",
             "fields": [
                 "-25173583612",
-                "In the ANS, the preganglionic neurons are located in {{c1::the CNS}}, while the postganglionic neurons are in the {{c1::periphery}}",
+                "In the <b>ANS</b>, the <i>preganglionic</i> neurons are located in {{c1::the CNS}}, while the <i>postganglionic</i> neurons are in the {{c1::periphery}}",
                 "",
                 "",
                 "",
@@ -30401,10 +30374,8 @@
             "guid": "GJ[3y`<sk~",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::MusculoskeletalSystem",
+                "Ortho528"
             ]
         },
         {
@@ -31202,10 +31173,9 @@
             "guid": "kVI>KfpE)",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::MusculoskeletalSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -31228,10 +31198,9 @@
             "guid": "y/%};xa&5x",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::MusculoskeletalSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -31254,10 +31223,9 @@
             "guid": "KJ)eQQ2W2L",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::MusculoskeletalSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -31280,10 +31248,9 @@
             "guid": "xE*vih(@UF",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::MusculoskeletalSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -31306,10 +31273,9 @@
             "guid": "l5r%~vI(c{",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::MusculoskeletalSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -37044,9 +37010,8 @@
             "guid": "B85p2yf~L8",
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "ochem"
+                "OC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -37562,7 +37527,7 @@
             "data": "",
             "fields": [
                 "-23195394574",
-                "If you want to oxidize a {{c2::primary alcohol}} into an {{c3::aldehyde}}, you use {{c1::PCC}}",
+                "If you want to <b>oxidize</b> a {{c2::primary alcohol}} into an {{c3::aldehyde}}, you use {{c1::<i>PCC</i>}}",
                 "",
                 "",
                 "",
@@ -37573,9 +37538,8 @@
             "guid": "B+uHYBQap?",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "alcohols",
-                "cp"
+                "OC::Reactions",
+                "Ortho528"
             ]
         },
         {
@@ -37841,11 +37805,9 @@
             "guid": "e9QC)S[@tY",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -41035,11 +40997,9 @@
             "guid": "M&Kg~SPkNR",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -41245,7 +41205,7 @@
             "data": "",
             "fields": [
                 "-22742220884",
-                "Important roles of the lymphatic system include {{c1::returning fluid to CV system}}, {{c2::clearing proteins}} from interstitial fluid,&nbsp;absorbing&nbsp;{{c3::fat in the intestines}}, and a role in the {{c4::immune system}}",
+                "Important <u>roles of the lymphatic system</u> include {{c1::returning fluid to CV system}}, {{c2::clearing proteins}} from interstitial fluid,&nbsp;absorbing&nbsp;{{c3::fat in the intestines}}, and a role in the {{c4::immune system}}",
                 "",
                 "",
                 "",
@@ -44289,9 +44249,8 @@
             "guid": "jKRB3]%m~2",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "thermodynamics"
+                "GC::Thermodynamics",
+                "Ortho528"
             ]
         },
         {
@@ -44775,9 +44734,8 @@
             "guid": "h}8PognM%c",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "thermodynamics"
+                "GC::Thermodynamics",
+                "Ortho528"
             ]
         },
         {
@@ -46762,11 +46720,9 @@
             "guid": "sPJ#ytO=II",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "respiratory"
+                "BIO::Physiology",
+                "BIO::RespiratorySystem",
+                "Ortho528"
             ]
         },
         {
@@ -47816,11 +47772,9 @@
             "guid": "Q1Is9D-8wO",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -48344,11 +48298,8 @@
             "guid": "b3%Q7aeR%4",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -48394,11 +48345,8 @@
             "guid": "Gst}=CsY-l",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -49190,11 +49138,9 @@
             "guid": "DD7io,pD(a",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -49975,87 +49921,6 @@
                 "BIO::Physiology",
                 "BIO::Renal",
                 "Ortho528"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-20243018066",
-                "ADH secretion stimuli",
-                "<img src=\"2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_tmpg0r28z.png\" />",
-                "<img src=\"2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_Q 0.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_A 0.svg\" />",
-                "<img src=\"2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "C(IZ+-j*cC",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-20243018064",
-                "ADH secretion stimuli",
-                "<img src=\"2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_tmpg0r28z.png\" />",
-                "<img src=\"2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_Q 1.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_A 1.svg\" />",
-                "<img src=\"2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "f,::>J+j}3",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-20243018063",
-                "ADH secretion stimuli",
-                "<img src=\"2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_tmpg0r28z.png\" />",
-                "<img src=\"2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_Q 2.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_A 2.svg\" />",
-                "<img src=\"2e73e68ddb886729c0f282e1d33d7b6f20d8dca0_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "LAVdF4#m_;",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
             ]
         },
         {
@@ -51495,7 +51360,7 @@
             "data": "",
             "fields": [
                 "-18847183572",
-                "The ppm of a solution is {{c1::mass of solute / total mass of solution}}",
+                "The ppm of a solution is {{c1:: \\(﻿ \\frac{mass \\ of \\ solute}{total \\ mass \\ of \\ solution}\\) }}",
                 "",
                 "",
                 "",
@@ -53500,11 +53365,8 @@
             "guid": "oSC4^qDLTE",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::GISystem",
+                "Ortho528"
             ]
         },
         {
@@ -55654,7 +55516,7 @@
             "fields": [
                 "-18506778411",
                 "Big digestion overview",
-                "<img src=\"5443c3f4be4f16ece39bfe32e4d366cf2bc4815a_tmp9cp7xs.png\" />",
+                "<img src=\"5443c3f4be4f16ece39bfe32e4d366cf2bc4815a_tmp9cp7xs.png\">",
                 "<img src=\"5443c3f4be4f16ece39bfe32e4d366cf2bc4815a_Q 2.svg\" />",
                 "",
                 "",
@@ -56291,7 +56153,7 @@
             "data": "",
             "fields": [
                 "-18503890121",
-                "Insulin is the primary hormone of the {{c1::absorptive}} state and promotes:<div>{{c1::glucose}} uptake,</div><div>{{c1::glucose}} storage,</div><div>and {{c1::amino acid}} uptake and {{c1::protein synthesis}}</div>",
+                "Insulin is the primary hormone of the {{c1::absorptive}} state and promotes:<div>* {{c1::glucose}} uptake</div><div>* {{c1::glucose}} storage</div><div>* {{c1::amino acid}} uptake&nbsp;</div><div>* {{c1::protein synthesis}}</div>",
                 "",
                 "",
                 "",
@@ -56302,11 +56164,10 @@
             "guid": "JQEDq#&i+>",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::Digestion",
+                "BIO::EndocrineSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -58022,10 +57883,10 @@
             "guid": "b#DNb_fZ?k",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::EndocrineSystem",
+                "BIO::Pancreas",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -63389,8 +63250,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "vision"
+                "PSY::Society",
+                "PSY::Theories"
             ]
         },
         {
@@ -64334,11 +64195,8 @@
             "guid": "x&r?5u^-&1",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "lab_methods",
-                "spectroscopy"
+                "GC::LabTechniques",
+                "Ortho528"
             ]
         },
         {
@@ -65885,11 +65743,11 @@
             "fields": [
                 "-15483043952",
                 "Equation for voltage of a field:",
-                "V = Ed<div><br /></div><div><img src=\"ewor4.gif\" /></div>",
+                "",
+                "V = Ed",
                 "",
                 "",
-                "",
-                "",
+                "<img src=\"ewor4.gif\">",
                 ""
             ],
             "flags": 0,
@@ -65897,9 +65755,8 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "charge",
-                "cp",
-                "electricity"
+                "PHY::Capacitors",
+                "PHY::Electricity"
             ]
         },
         {
@@ -67487,8 +67344,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "intelligence",
-                "ps"
+                "PSY::Intelligence"
             ]
         },
         {
@@ -74395,7 +74251,7 @@
             "data": "",
             "fields": [
                 "-13925336802",
-                "PFK1 is inihibited by {{c1::ATP and citrate}} which signal {{c1::high energy availability in the cell}}, and induced by {{c1::AMP}} which {{c1::signals low energy availability}}.<div>This enzyme is the {{c1::rate limiting}} enzyme of glycolysis</div>",
+                "<i>PFK1</i> is inihibited by {{c1::ATP and citrate}} which signal {{c1::high energy availability in the cell}}, and induced by {{c1::AMP}} which {{c1::signals low energy availability}}.<div>This enzyme is the {{c1::<b>rate limiting</b>}} <b>enzyme</b> <u>of glycolysis</u></div>",
                 "",
                 "",
                 "<img src=\"paste-a9f17613e02a31e40a0b5f9852174abff9444c47.png\">",
@@ -74406,10 +74262,8 @@
             "guid": "OAuUO5j;]R",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -76600,10 +76454,9 @@
             "guid": "JcXzdvf}mV",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "reproduction"
+                "BIO::EndocrineSystem",
+                "BIO::Reproduction",
+                "Ortho528"
             ]
         },
         {
@@ -77550,10 +77403,8 @@
             "guid": "rhj+ZlwqK2",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "embryology"
+                "BIO::Embryology",
+                "Ortho528"
             ]
         },
         {
@@ -78130,8 +77981,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "consciousness",
-                "ps"
+                "PSY::Consciousness",
+                "PSY::Sleep"
             ]
         },
         {
@@ -78610,8 +78461,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "psychology"
+                "PSY::Behavior"
             ]
         },
         {
@@ -78850,7 +78700,7 @@
             "data": "",
             "fields": [
                 "-13415725922",
-                "{{c1::Motion parallax}} explains that things farther away move slower and closer things move faster. It is a {{c1::monocular}} cue",
+                "{{c1::Motion parallax}} explains that things farther away move slower and closer things move faster. It is a {{c1::monocular}} cue.",
                 "",
                 "",
                 "",
@@ -78862,8 +78712,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "vision"
+                "PSY::Cognition::Sight"
             ]
         },
         {
@@ -80882,10 +80731,8 @@
             "guid": "y$Of460JQ5",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "immunology"
+                "BIO::ImmuneSystem",
+                "Ortho528"
             ]
         },
         {
@@ -83491,10 +83338,10 @@
             "data": "",
             "fields": [
                 "-11771744774",
-                "{{c1::Demographic transition theory}} addresses changes in the birth rate and the death rate that are associated with economic development",
+                "{{c1::Demographic transition theory}} addresses <u>changes in</u> the <i>birth rate </i>and the <i>death rate</i> that are <b>associated with economic development</b>",
                 "",
-                "Death rate initially falls due to development, then birth rate falls leading to population stabilization<div><img src=\"paste-35364760715265.jpg\" /></div>",
-                "",
+                "Death rate initially falls due to development, then birth rate falls leading to population stabilization",
+                "<img src=\"paste-35364760715265.jpg\">",
                 "",
                 ""
             ],
@@ -83503,8 +83350,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "sociology"
+                "PSY::Society"
             ]
         },
         {
@@ -84486,9 +84332,8 @@
             "guid": "grmnp+aR=N",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "chromatography",
-                "cp"
+                "GC::LabTechniques::Chromatography",
+                "Ortho528"
             ]
         },
         {
@@ -84933,7 +84778,7 @@
             "data": "",
             "fields": [
                 "-11517971194",
-                "<img src=\"paste-11042360918017.jpg\" />",
+                "<svg height=\"39.972\" id=\"Layer_1\" inkscape:output_extension=\"org.inkscape.output.svg.inkscape\" inkscape:version=\"0.45.1\" sodipodi:docbase=\"E:\\Eigene Dateien\" sodipodi:docname=\"Succinat.svg\" sodipodi:version=\"0.32\" style=\"overflow:visible;enable-background:new 0 0 211.3 39.972;\" version=\"1.1\" viewBox=\"0 0 211.3 39.972\" width=\"211.3\" xml:space=\"preserve\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:cc=\"http://web.resource.org/cc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\" xmlns:svg=\"http://www.w3.org/2000/svg\"><metadata id=\"metadata30\"><rdf:rdf><cc:work rdf:about=\"\"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type></cc:work></rdf:rdf></metadata><defs id=\"defs28\"></defs><sodipodi:namedview bordercolor=\"#666666\" borderopacity=\"1.0\" gridtolerance=\"10.0\" guidetolerance=\"10.0\" id=\"base\" inkscape:current-layer=\"Layer_1\" inkscape:cx=\"105.65\" inkscape:cy=\"19.986\" inkscape:pageopacity=\"0.0\" inkscape:pageshadow=\"2\" inkscape:window-height=\"579\" inkscape:window-width=\"801\" inkscape:window-x=\"88\" inkscape:window-y=\"88\" inkscape:zoom=\"3.3932796\" objecttolerance=\"10.0\" pagecolor=\"#ffffff\"></sodipodi:namedview>\n<g id=\"g3\" transform=\"matrix(0.95,0,0,0.95,5.2825,0.999325)\">\n<path d=\"M 162.443,33.647 L 164.724,34.221 C 164.248,36.091 163.391,37.517 162.155,38.498 C 160.918,39.48 159.405,39.971 157.618,39.971 C 155.768,39.971 154.264,39.594 153.105,38.839 C 151.946,38.084 151.064,36.992 150.459,35.561 C 149.854,34.13 149.552,32.594 149.552,30.952 C 149.552,29.161 149.893,27.599 150.576,26.266 C 151.258,24.932 152.229,23.92 153.49,23.228 C 154.75,22.536 156.136,22.19 157.65,22.19 C 159.367,22.19 160.81,22.628 161.98,23.504 C 163.151,24.381 163.966,25.613 164.426,27.201 L 162.192,27.728 C 161.795,26.478 161.216,25.568 160.461,24.998 C 159.704,24.428 158.752,24.143 157.606,24.143 C 156.288,24.143 155.186,24.459 154.3,25.092 C 153.414,25.725 152.793,26.574 152.434,27.641 C 152.075,28.708 151.896,29.807 151.896,30.94 C 151.896,32.401 152.108,33.676 152.534,34.766 C 152.958,35.856 153.619,36.67 154.515,37.209 C 155.411,37.748 156.382,38.018 157.426,38.018 C 158.697,38.018 159.773,37.651 160.654,36.916 C 161.535,36.181 162.132,35.093 162.443,33.647 z \" id=\"path5\"></path>\n<path d=\"M 166.838,31.31 C 166.838,28.458 167.604,26.225 169.136,24.611 C 170.668,22.998 172.646,22.191 175.069,22.191 C 176.656,22.191 178.086,22.57 179.36,23.328 C 180.634,24.086 181.605,25.143 182.273,26.499 C 182.942,27.855 183.276,29.393 183.276,31.111 C 183.276,32.853 182.924,34.413 182.22,35.788 C 181.517,37.164 180.521,38.205 179.231,38.912 C 177.941,39.619 176.55,39.973 175.057,39.973 C 173.439,39.973 171.993,39.582 170.719,38.801 C 169.445,38.02 168.48,36.953 167.823,35.601 C 167.166,34.248 166.838,32.817 166.838,31.31 z M 169.182,31.339 C 169.182,33.409 169.739,35.04 170.853,36.232 C 171.967,37.424 173.365,38.019 175.045,38.019 C 176.757,38.019 178.166,37.417 179.273,36.214 C 180.378,35.011 180.932,33.304 180.932,31.093 C 180.932,29.695 180.696,28.474 180.222,27.431 C 179.749,26.388 179.058,25.579 178.147,25.005 C 177.236,24.431 176.214,24.144 175.081,24.144 C 173.471,24.144 172.085,24.697 170.924,25.802 C 169.763,26.907 169.182,28.753 169.182,31.339 z \" id=\"path7\"></path>\n<path d=\"M 185.506,31.31 C 185.506,28.458 186.272,26.225 187.804,24.611 C 189.336,22.998 191.314,22.191 193.737,22.191 C 195.324,22.191 196.754,22.57 198.028,23.328 C 199.302,24.086 200.273,25.143 200.941,26.499 C 201.61,27.855 201.944,29.393 201.944,31.111 C 201.944,32.853 201.592,34.413 200.888,35.788 C 200.185,37.164 199.189,38.205 197.899,38.912 C 196.609,39.619 195.218,39.973 193.725,39.973 C 192.107,39.973 190.661,39.582 189.387,38.801 C 188.113,38.02 187.148,36.953 186.491,35.601 C 185.834,34.248 185.506,32.817 185.506,31.31 z M 187.85,31.339 C 187.85,33.409 188.407,35.04 189.521,36.232 C 190.635,37.424 192.033,38.019 193.713,38.019 C 195.425,38.019 196.834,37.417 197.941,36.214 C 199.046,35.011 199.6,33.304 199.6,31.093 C 199.6,29.695 199.364,28.474 198.89,27.431 C 198.417,26.388 197.726,25.579 196.815,25.005 C 195.904,24.431 194.882,24.144 193.749,24.144 C 192.139,24.144 190.753,24.697 189.592,25.802 C 188.431,26.907 187.85,28.753 187.85,31.339 z \" id=\"path9\"></path>\n</g>\n<path d=\"M 146.73655,24.345575 L 145.93,25.770575 L 121.7525,11.805575 L 121.7525,9.953075 L 146.73655,24.345575 z \" id=\"polygon11\"></path>\n<path d=\"M 121.7525,9.953075 L 121.7525,11.805575 L 89.12,30.663075 L 89.12,28.809625 L 121.7525,9.953075 z \" id=\"polygon13\"></path>\n<g id=\"g15\" transform=\"matrix(0.95,0,0,0.95,5.2825,0.999325)\">\n<path d=\"M 9.056,11.46 C 9.056,8.608 9.822,6.375 11.354,4.761 C 12.886,3.148 14.864,2.341 17.287,2.341 C 18.874,2.341 20.304,2.72 21.578,3.478 C 22.852,4.236 23.823,5.293 24.492,6.649 C 25.16,8.005 25.494,9.543 25.494,11.261 C 25.494,13.003 25.142,14.563 24.439,15.938 C 23.735,17.314 22.739,18.355 21.449,19.062 C 20.159,19.769 18.768,20.123 17.275,20.123 C 15.657,20.123 14.211,19.732 12.937,18.951 C 11.663,18.17 10.698,17.103 10.041,15.751 C 9.384,14.398 9.056,12.968 9.056,11.46 z M 11.399,11.489 C 11.399,13.559 11.956,15.19 13.07,16.382 C 14.184,17.574 15.582,18.169 17.262,18.169 C 18.974,18.169 20.383,17.567 21.49,16.364 C 22.596,15.161 23.149,13.454 23.149,11.243 C 23.149,9.845 22.913,8.624 22.44,7.581 C 21.967,6.538 21.275,5.729 20.364,5.155 C 19.453,4.581 18.431,4.294 17.298,4.294 C 15.688,4.294 14.302,4.847 13.141,5.952 C 11.98,7.057 11.399,8.903 11.399,11.489 z \" id=\"path17\"></path>\n<path d=\"M 27.724,11.46 C 27.724,8.608 28.49,6.375 30.022,4.761 C 31.554,3.148 33.532,2.341 35.955,2.341 C 37.542,2.341 38.972,2.72 40.246,3.478 C 41.52,4.236 42.491,5.293 43.16,6.649 C 43.828,8.005 44.162,9.543 44.162,11.261 C 44.162,13.003 43.81,14.563 43.107,15.938 C 42.403,17.314 41.407,18.355 40.117,19.062 C 38.827,19.769 37.436,20.123 35.943,20.123 C 34.325,20.123 32.879,19.732 31.605,18.951 C 30.331,18.17 29.366,17.103 28.709,15.751 C 28.052,14.398 27.724,12.968 27.724,11.46 z M 30.067,11.489 C 30.067,13.559 30.624,15.19 31.738,16.382 C 32.852,17.574 34.25,18.169 35.93,18.169 C 37.642,18.169 39.051,17.567 40.158,16.364 C 41.264,15.161 41.817,13.454 41.817,11.243 C 41.817,9.845 41.581,8.624 41.108,7.581 C 40.635,6.538 39.943,5.729 39.032,5.155 C 38.121,4.581 37.1,4.294 35.966,4.294 C 34.356,4.294 32.97,4.847 31.809,5.952 C 30.648,7.057 30.067,8.903 30.067,11.489 z \" id=\"path19\"></path>\n<path d=\"M 59.329,13.798 L 61.61,14.372 C 61.134,16.242 60.277,17.668 59.041,18.649 C 57.804,19.631 56.291,20.122 54.504,20.122 C 52.654,20.122 51.15,19.745 49.991,18.99 C 48.832,18.235 47.95,17.143 47.345,15.712 C 46.74,14.281 46.438,12.745 46.438,11.103 C 46.438,9.312 46.779,7.75 47.462,6.417 C 48.145,5.083 49.116,4.071 50.377,3.379 C 51.637,2.687 53.023,2.341 54.537,2.341 C 56.254,2.341 57.697,2.779 58.867,3.655 C 60.038,4.532 60.853,5.764 61.313,7.352 L 59.079,7.88 C 58.681,6.63 58.104,5.72 57.348,5.15 C 56.591,4.58 55.639,4.295 54.493,4.295 C 53.175,4.295 52.073,4.611 51.187,5.244 C 50.302,5.877 49.68,6.726 49.321,7.793 C 48.962,8.86 48.783,9.959 48.783,11.092 C 48.783,12.553 48.995,13.828 49.42,14.918 C 49.845,16.008 50.505,16.822 51.402,17.361 C 52.299,17.9 53.269,18.17 54.314,18.17 C 55.585,18.17 56.66,17.803 57.541,17.068 C 58.422,16.333 59.017,15.243 59.329,13.798 z \" id=\"path21\"></path>\n</g>\n<path d=\"M 89.12,28.809625 L 89.12,30.663075 L 65.37,16.934625 L 66.1775,15.558075 L 89.12,28.809625 z \" id=\"polygon23\"></path>\n<path d=\"M 5.2825,1.640575 L 12.8825,1.640575 M 198.4175,20.308075 L 206.0175,20.308075\" id=\"path25\" style=\"fill:none;stroke:#000000;stroke-width:1.28250003\"></path>\n</svg>",
                 "Succinate",
                 "",
                 "",
@@ -84945,13 +84790,9 @@
             "guid": "ln{Y8l[aiy",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem",
-                "cp",
-                "metabolism",
-                "structures"
+                "BC::Metabolism",
+                "OC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -87710,10 +87551,8 @@
             "guid": "QEjY}A2t4e",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "immunology"
+                "BIO::ImmuneSystem",
+                "Ortho528"
             ]
         },
         {
@@ -88937,8 +88776,7 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "Ortho528",
-                "development",
-                "ps"
+                "PSY::Development"
             ]
         },
         {
@@ -101932,9 +101770,9 @@
             "fields": [
                 "54545497117",
                 "vicinal dihalide",
-                "<img src=\"paste-12d8689f301c5c07968ecef584b12c3fde704a81.png\"><div>&nbsp; &nbsp;‍&nbsp; &nbsp;<br></div>",
                 "",
                 "",
+                "<img src=\"paste-263749ebbfa41ed0db6c26d8b68022e1735852d3.png\">",
                 ""
             ],
             "flags": 0,
@@ -104241,7 +104079,7 @@
             "data": "",
             "fields": [
                 "55209017927",
-                "Grignard reagents are also referred to as",
+                "<i>Grignard reagents</i> are also referred to as",
                 "organometallic reagents",
                 "",
                 "",
@@ -107130,7 +106968,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
-                "GC::Thermodynamicsa"
+                "GC::Thermodynamics"
             ]
         },
         {
@@ -107151,7 +106989,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
-                "GC::Thermodynamicsa"
+                "GC::Thermodynamics"
             ]
         },
         {
@@ -107170,7 +107008,7 @@
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
-                "GC::Thermodynamicsa"
+                "GC::Thermodynamics"
             ]
         },
         {
@@ -107189,7 +107027,7 @@
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
-                "GC::Thermodynamicsa"
+                "GC::Thermodynamics"
             ]
         },
         {
@@ -107210,7 +107048,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
-                "GC::Thermodynamicsa"
+                "GC::Thermodynamics"
             ]
         },
         {
@@ -107231,7 +107069,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "EK::GC/OC::Lecture4",
-                "GC::Thermodynamicsa"
+                "GC::Thermodynamics"
             ]
         },
         {
@@ -108184,7 +108022,7 @@
             "data": "",
             "fields": [
                 "56395963599",
-                "another name for what occurs during meiosis I",
+                "another name for what occurs during <b>meiosis I</b>",
                 "<i>reductional division</i>",
                 "",
                 "",
@@ -116109,6 +115947,912 @@
             "tags": [
                 "BIO::EndocrineSystem",
                 "KhanAcademy::OrganSystems::EndocrineSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355463410",
+                "parietal cells secrete",
+                "HCl",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o^-V$JaQH4",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::EndocrineSystem",
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355500894",
+                "<b>chief cells</b>&nbsp;secrete",
+                "* <i>pepsinogen</i><div>* <i>gastric lipase</i></div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g5O(Y5*RP8",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::EndocrineSystem",
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355523737",
+                "surface mucous cells&nbsp;secrete",
+                "* mucus<div>* bicarbonate</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qXw%lG!9sO",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::EndocrineSystem",
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355543499",
+                "G cells&nbsp;secrete",
+                "gastrin",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M(_@v*Do_}",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::EndocrineSystem",
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355551584",
+                "ECL cells&nbsp;secrete",
+                "histamine",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "N5os.]4!/V",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::EndocrineSystem",
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355560571",
+                "parietal cells are found in",
+                "the stomach",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t`_gd|IiZ~",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355609196",
+                "chief cells are found in",
+                "the stomach",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OAUTv@$%gx",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355623969",
+                "surface mucous cells are found in",
+                "the stomach",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q3K2gPDK~b",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355638364",
+                "G cells are found in",
+                "the stomach",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G~Y{txwn~G",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355646015",
+                "ECL cells are found in",
+                "the stomach",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wCKYsw~es",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355653070",
+                "chief cells are found in",
+                "the stomach",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nM+$EC~3mV",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355662813",
+                "goblet cells secrete",
+                "mucus",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p7={F4<ANW",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355679928",
+                "enterocytes secrete",
+                "enzymes",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fp%78%]-c=",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355686310",
+                "exocrine pancreas cells secrete",
+                "enzmes and bicarbonate",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lbSE(07Nn;",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355708585",
+                "enterocytes are found in",
+                "the small intestine",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D$R7Ur(]zb",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59355730942",
+                "goblet cells are found in",
+                "the small and large intestine",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L(B1,KMriG",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::GISystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59356827615",
+                "convex lenses",
+                "* both sides of the lens are symmetric<div>*&nbsp;\"opens outward\"</div><div>* light hitting at the bottom diffract upward, light hitting at the top diffract downward</div><div><br></div><div>* light converges at a single boing (<b>focus</b>)</div><div>* distance from the center of the lens to the focus is the <i>focal length</i></div>",
+                "",
+                "",
+                "",
+                "<img src=\"paste-1a31c0da514c4befeee6780511c03b50913f02b7.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B?QfBymA]%",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59357398357",
+                "focal length",
+                "distance from the lens to the point where the light focuses",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cj8Db]yKb,",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59357524225",
+                "<div>Images that have a length {{c1::greater}} than that of the the {{c2::focal length}} made by a {{c3::convex}} mirror are {{c4::inverted}} and {{c4::real}}.</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fe~:3E*KYy",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59373665095",
+                "<div>Images that have a length {{c3::greater}} than that of the the {{c4::focal length}} made by a {{c1::convex/converging}} mirror are {{c2::inverted}} and {{c2::real}}</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nw(Bdgw]I$",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59374096229",
+                "concave/diverging lenses image",
+                "<div>image that is <u>smaller than the object</u>, <b>virtual</b> and <i>upright</i></div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OTsd*>=@8g",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59374204788",
+                "thin lens equation",
+                "",
+                "\\frac{1}{f}=\\frac{1}{d_{o}}+\\frac{1}{d_{i}}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "N/g.OY[vw4",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Equations",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59374584420",
+                "object image height and distance",
+                "",
+                "\\frac{d_{o}}{d_{i}}=\\frac{h_{o}}{h_{i}}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E{eEOea^CY",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59376378056",
+                "<div>For converging or convex lenses, the focal length is</div>",
+                "always a positive value",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ET34FicW94",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59376416858",
+                "<div>For a concave or diverging lens, the focal length&nbsp;</div>",
+                "is always a negative value",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kbbh*}s5%~",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59376454084",
+                "<div>\\(﻿d_{o}\\) is the</div>",
+                "distance from the center of the lens to the object",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zKfprMUdT,",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59376528399",
+                "<div>\\(﻿d_{o}\\)&nbsp;is always {{c1::positive}} for a {{c2::single}} lens</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AN791i,kQ-",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59376556275",
+                "{{c2::\\(﻿d_{i}\\)}}&nbsp;is the {{c1::distance from the center of the lens to the image measured parallel from the principal axis}}",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z=`W{Ezb;O",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59376626423",
+                "<div>\\(﻿d_{i}\\) is {{c1::positive}} if {{c2::the image is on the opposite side of the object}}</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CT%/.4K;(/",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59376659068",
+                "\\(﻿d_{i}\\)&nbsp;will be {{c1::negative}} if {{c2::the image is on the same side of the object}}",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "irR!}+{>32",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59376671940",
+                "magnification =",
+                "",
+                "M=-\\frac{d_{i}}{d_{o}}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w3l51xXj,3",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59376711366",
+                "the sign of magnification indicates",
+                "if the image will be upright (+) or inverted (-)",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r(M}kE#Oe{",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59377076192",
+                "handling multiple lens systems",
+                "* find the values for the lens closer to the object&nbsp;<div>* then use those values to plug into the second lens (treat it like if it was an object)</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F*Gx]AGk>[",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59377269718",
+                "relationship between focal length and power of the lens",
+                "the shorter the length, the more powerful the lens",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w[>Y5TWOH%",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59377773713",
+                "lens power =",
+                "",
+                "power=\\frac{1}{f_{m}}=\\frac{1}{m}=Diopter \\ (D)<div>\\\\</div><div><span>m = focal \\ length \\ in \\ meters</span></div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n7Gu/>_KkJ",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59377838013",
+                "<div><b>spherical</b> aberration</div>",
+                "l<span>ight that gets sent from the top of a lens gets bent more than the light from the center of the lens</span>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J{s,SV.:V<",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59377974235",
+                "<div><b>chromatic</b> aberration</div>",
+                "different colors of light get bent differently depending on frequency<div>* the <u>higher</u>&nbsp;the <i>frequency </i>the <u>more&nbsp;it gets bent</u></div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t<R<u,0Xa[",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59378163820",
+                "<div>{{c1::Nearsighted}} people need a {{c2::diverging}} corrective lens</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cG!<rzTjXn",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59378192889",
+                "<div>{{c2::Farsighted}} people need a {{c1::converging}} corrective lens</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G6D6z4TJHz",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59378206537",
+                "farsighted people can see what object distance fine?",
+                "can see far images fine, cannot see closer images",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yrsW:eN@37",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59378241391",
+                "nearsighted people can see what object distance fine?",
+                "can see close objects fine, have trouble seeing farther images",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d}*xjmz@hu",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59378271063",
+                "when you're nearsighted, the lens produces an image",
+                "in front of the retina",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eWUS><U,Hk",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59378344965",
+                "when you're <i>farsighted</i>, the lens produces an image",
+                "image is projected behind the retina",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "of%s)GNAE]",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59378375666",
+                "in nearsighted people, the ciliary muscles",
+                "do not stretch enough (and subsequently do not pull the lens enough)",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y`yCu^:Rzk",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "KhanAcademy::PhysicalProcesses::ThinLenses",
+                "PHY::Lenses"
             ]
         }
     ]
