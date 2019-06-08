@@ -29,6 +29,10 @@ hr.dark {
     margin-top: 4%;
 }
 
+.card.nightMode {
+    background-color: #131313;
+}
+
 .symbols {
     font-size: 15px;
     align-text: left;

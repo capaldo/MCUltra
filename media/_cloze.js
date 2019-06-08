@@ -19,7 +19,7 @@ window.setTimeout(function(){changeText('Clozine', '<div class="symbols">&#xf576
 
 var config = {
     startOnLoad:true,
-    theme: 'dark',
+    theme: 'neutral',
     flowchart:{
             useMaxWidth:false,
             htmlLabels:true

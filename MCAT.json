@@ -34,7 +34,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 250,
+                "perDay": 100,
                 "separate": true
             },
             "replayq": true,
@@ -175,18 +175,6 @@
         "0e6cccbf300a48ad9ade21fb6663cf4e-ao-2-A.svg",
         "0e6cccbf300a48ad9ade21fb6663cf4e-ao-2-Q.svg",
         "0e6cccbf300a48ad9ade21fb6663cf4e-ao-O.svg",
-        "0f85cdb0459de2951117817e5593eae6e76fccfe_A 0.svg",
-        "0f85cdb0459de2951117817e5593eae6e76fccfe_A 1.svg",
-        "0f85cdb0459de2951117817e5593eae6e76fccfe_A 2.svg",
-        "0f85cdb0459de2951117817e5593eae6e76fccfe_A 3.svg",
-        "0f85cdb0459de2951117817e5593eae6e76fccfe_A 4.svg",
-        "0f85cdb0459de2951117817e5593eae6e76fccfe_Q 0.svg",
-        "0f85cdb0459de2951117817e5593eae6e76fccfe_Q 1.svg",
-        "0f85cdb0459de2951117817e5593eae6e76fccfe_Q 2.svg",
-        "0f85cdb0459de2951117817e5593eae6e76fccfe_Q 3.svg",
-        "0f85cdb0459de2951117817e5593eae6e76fccfe_Q 4.svg",
-        "0f85cdb0459de2951117817e5593eae6e76fccfe_source_svg.svg",
-        "0f85cdb0459de2951117817e5593eae6e76fccfe_tmpvpugrf.png",
         "1.gif",
         "100px-Pyruvic-acid-2D-skeletal.png",
         "1024px-2912_Neurulation-02.jpg",
@@ -694,35 +682,23 @@
         "3eff529f378a948eb8b09532d29db8f18b723df6_source_svg.svg",
         "3eff529f378a948eb8b09532d29db8f18b723df6_tmpolzYts.png",
         "3f8b905f44058f226ccb3de056479411e9b342f9_A 0 (1).svg",
-        "3f8b905f44058f226ccb3de056479411e9b342f9_A 0.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_A 1 (1).svg",
-        "3f8b905f44058f226ccb3de056479411e9b342f9_A 1.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_A 2 (1).svg",
-        "3f8b905f44058f226ccb3de056479411e9b342f9_A 2.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_A 3 (1).svg",
-        "3f8b905f44058f226ccb3de056479411e9b342f9_A 3.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_A 4 (1).svg",
-        "3f8b905f44058f226ccb3de056479411e9b342f9_A 4.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_A 5.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_A 6.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_A 7.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_Q 0 (1).svg",
-        "3f8b905f44058f226ccb3de056479411e9b342f9_Q 0.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_Q 1 (1).svg",
-        "3f8b905f44058f226ccb3de056479411e9b342f9_Q 1.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_Q 2 (1).svg",
-        "3f8b905f44058f226ccb3de056479411e9b342f9_Q 2.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_Q 3 (1).svg",
-        "3f8b905f44058f226ccb3de056479411e9b342f9_Q 3.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_Q 4 (1).svg",
-        "3f8b905f44058f226ccb3de056479411e9b342f9_Q 4.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_Q 5.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_Q 6.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_Q 7.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_source_svg (1).svg",
-        "3f8b905f44058f226ccb3de056479411e9b342f9_source_svg.svg",
         "3f8b905f44058f226ccb3de056479411e9b342f9_tmphjdy41.png",
-        "3f8b905f44058f226ccb3de056479411e9b342f9_tmpmlbiyc.png",
         "3fe61bd6f390b0c9aa0bc923f02e6dbf8f64d0b1_A 0.svg",
         "3fe61bd6f390b0c9aa0bc923f02e6dbf8f64d0b1_A 1.svg",
         "3fe61bd6f390b0c9aa0bc923f02e6dbf8f64d0b1_A 2.svg",
@@ -970,22 +946,6 @@
         "57e4abe3576cda149f5a65fb554d1ddc6f5ba4bc_source_svg.svg",
         "57e4abe3576cda149f5a65fb554d1ddc6f5ba4bc_tmpceWLHT.png",
         "588px-Working-memory-en.png",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_A 0.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_A 1.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_A 2.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_A 3.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_A 5.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_A 6.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_A 7.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_Q 0.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_Q 1.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_Q 2.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_Q 3.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_Q 5.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_Q 6.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_Q 7.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_source_svg.svg",
-        "58d89a014ec1556442889bde7cf31e7071fa2567_tmpRh68dN.png",
         "5ae5b1df075ea1be122622e4b2e80d6c0f48e255_A 0.svg",
         "5ae5b1df075ea1be122622e4b2e80d6c0f48e255_A 1.svg",
         "5ae5b1df075ea1be122622e4b2e80d6c0f48e255_A 2.svg",
@@ -3929,9 +3889,9 @@
             "guid": "IHHprymA]f",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::Atoms",
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -3954,9 +3914,9 @@
             "guid": "fZG#OK,`r$",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::Atoms",
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -3979,9 +3939,9 @@
             "guid": "EK~i1#>3)d",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::Atoms",
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -4004,9 +3964,9 @@
             "guid": "xbzW(`?g`U",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::Atoms",
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -4054,9 +4014,9 @@
             "guid": "wdnBzq,C%Q",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::Atoms",
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -4079,9 +4039,9 @@
             "guid": "s723xz83)6",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::Atoms",
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -4104,9 +4064,9 @@
             "guid": "iUMhALSEv*",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::Atoms",
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -4129,9 +4089,9 @@
             "guid": "tG^CndKpV@",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::Atoms",
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -4154,9 +4114,9 @@
             "guid": "s*{@3wvtn?",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::Atoms",
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -4179,9 +4139,9 @@
             "guid": "t[6q=}w+%E",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::Atoms",
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -4204,9 +4164,9 @@
             "guid": "vbfxXv^t^Z",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::Atoms",
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -4438,9 +4398,10 @@
             "guid": "bRp1dUpZh~",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::Atoms",
+                "GC::MolecularStructure",
+                "GC::PeriodicTable",
+                "Ortho528"
             ]
         },
         {
@@ -4542,9 +4503,9 @@
             "guid": "H.ZckM`1f+",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::MolecularInteraction",
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -4868,7 +4829,7 @@
             "guid": "yody>~[|]]",
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
-                "GC::General",
+                "Math::Units",
                 "Ortho528"
             ]
         },
@@ -5105,7 +5066,7 @@
             "data": "",
             "fields": [
                 "-40181933582",
-                "The fraction of collions having sufficient energy for reaction in the Arrhenius equation",
+                "The fraction of collisions having sufficient energy for reaction in the Arrhenius equation",
                 "",
                 "e^{\\frac{-E_{a}}{RT}}",
                 "",
@@ -5278,9 +5239,8 @@
             "guid": "JNvzI=EI8Q",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "reactions"
+                "GC::Reactions",
+                "Ortho528"
             ]
         },
         {
@@ -6162,11 +6122,9 @@
             "guid": "OH)5ZSOs(]",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "biochem",
-                "cp",
-                "molecules"
+                "BC::Membranes",
+                "BIO::Cell",
+                "Ortho528"
             ]
         },
         {
@@ -6319,11 +6277,8 @@
             "guid": "wC^Vd-+t]^",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "biochem",
-                "cp",
-                "molecules"
+                "BC::Lipids",
+                "Ortho528"
             ]
         },
         {
@@ -6679,13 +6634,9 @@
             "guid": "r+z&e?U$N4",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem",
-                "cp",
-                "genetics",
-                "molecules"
+                "BC::Nucleotides",
+                "OC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -7636,7 +7587,7 @@
             "data": "",
             "fields": [
                 "-39318459533",
-                "Michaelis constant Km is a measure of {{c1::concentration of substrate}}",
+                "Michaelis constant (\\(﻿K_{m}\\)) is a measure of {{c1::concentration of substrate}}",
                 "",
                 "",
                 "",
@@ -7647,10 +7598,8 @@
             "guid": "r#$@K&`:*$",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "enzymes",
-                "kinetics"
+                "BC::Enzymes::Kinetics",
+                "Ortho528"
             ]
         },
         {
@@ -7912,10 +7861,8 @@
             "guid": "f2VEEX6`pC",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "evolution"
+                "BIO::Evolution",
+                "Ortho528"
             ]
         },
         {
@@ -8699,10 +8646,8 @@
             "guid": "b<RQ|JdhT]",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
                 "BIO::Bacteria",
-                "Ortho528",
-                "bb"
+                "Ortho528"
             ]
         },
         {
@@ -8851,10 +8796,9 @@
             "guid": "K}By@ef.n9",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
+                "BC::Genetics",
                 "BIO::Bacteria",
-                "Ortho528",
-                "bb"
+                "Ortho528"
             ]
         },
         {
@@ -9087,9 +9031,8 @@
             "guid": "hu!<#TL^K3",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "enzymes"
+                "BC::Enzymes::Inhibitors",
+                "Ortho528"
             ]
         },
         {
@@ -9800,9 +9743,8 @@
             "guid": "q=9d3{(s;",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "enzymes"
+                "BC::Enzymes",
+                "Ortho528"
             ]
         },
         {
@@ -10407,6 +10349,7 @@
             "guid": "KMV9eM%xc}",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::Bacteria",
                 "BIO::Cell",
                 "Ortho528"
             ]
@@ -10514,10 +10457,8 @@
             "guid": "enbOHdOVS/",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cells"
+                "BIO::Cell",
+                "Ortho528"
             ]
         },
         {
@@ -12965,6 +12906,8 @@
             "guid": "j2b?._JMdG",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
+                "BC::Nucleotides",
                 "Ortho528"
             ]
         },
@@ -13065,6 +13008,7 @@
             "guid": "u+*3OiA/DY",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::Cell",
                 "Ortho528"
             ]
         },
@@ -13200,6 +13144,8 @@
             "guid": "B2XWhXcXra",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Proteins",
+                "BIO::Cell",
                 "Ortho528"
             ]
         },
@@ -13297,6 +13243,7 @@
             "guid": "sIP+UqQ0<a",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -14375,11 +14322,9 @@
             "guid": "c^S^]^*[-r",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "genetics",
-                "oogenesis"
+                "BIO::Cell",
+                "BIO::Reproduction",
+                "Ortho528"
             ]
         },
         {
@@ -15022,11 +14967,8 @@
             "guid": "wa#8:B?9o6",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "neuron",
-                "physiology"
+                "BIO::Cell",
+                "Ortho528"
             ]
         },
         {
@@ -15203,11 +15145,10 @@
             "guid": "KaNz)9#)y<",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO",
+                "BIO::NervousSystem",
+                "BIO::Physiology",
                 "Ortho528",
-                "bb",
-                "neuron",
-                "physiology"
+                "PHY::Electricity"
             ]
         },
         {
@@ -15631,6 +15572,7 @@
             "guid": "N43#StmY.W",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -15912,6 +15854,7 @@
             "guid": "PPR.7f]?pR",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -16086,6 +16029,7 @@
             "guid": "tlwk.BUX@7",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -16105,6 +16049,7 @@
             "guid": "wjWrXeNwtB",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -17686,7 +17631,7 @@
             "data": "",
             "fields": [
                 "-29062246715",
-                "At the end of the {{c2::G2 phase}}, the {{c2::G2}} checkpoint ensures that there is enough {{c1::mitosis promoting factor}} to continue to mitosis",
+                "At the end of the {{c2::\\(﻿G_{2}\\) phase}}, the {{c2::\\(﻿G_{2}\\)}} checkpoint ensures that there is enough {{c1::mitosis promoting factor}} to continue to mitosis",
                 "",
                 "<img src=\"22-Cell-cycle.gif\" />",
                 "",
@@ -17788,7 +17733,7 @@
             "fields": [
                 "-28704631812",
                 "Kinetic energy equation",
-                "K = 1/2 mv<sup>2</sup>",
+                "\\(﻿K=\\frac{1}{2}mv^{2}\\)",
                 "",
                 "",
                 ""
@@ -17797,7 +17742,9 @@
             "guid": "oD)@=)G}Dy",
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PHY::Equations",
+                "PHY::Motion&Force"
             ]
         },
         {
@@ -18243,7 +18190,7 @@
             "data": "",
             "fields": [
                 "-28623446688",
-                "The disappearance of a conditioned response is known as {{c1::extinction}}",
+                "The <u>disappearance</u> of a <b>conditioned response</b> is known as {{c1::<i>extinction</i>}}",
                 "",
                 "",
                 "",
@@ -18254,7 +18201,8 @@
             "guid": "L[+`?e<$nq",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Behavior"
             ]
         },
         {
@@ -19642,10 +19590,8 @@
             "guid": "swrDqmYPJT",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -19664,10 +19610,8 @@
             "guid": "F9~.dRJXz`",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -20336,10 +20280,8 @@
             "guid": "r5Hs,)rtWP",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -20553,10 +20495,10 @@
             "guid": "Iu2c(;#:j|",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BIO::GISystem",
+                "BIO::Hepatic",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -21319,10 +21261,8 @@
             "guid": "oz4(/P#FWb",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -21767,8 +21707,7 @@
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
                 "BC::AA",
-                "Ortho528",
-                "cp"
+                "Ortho528"
             ]
         },
         {
@@ -22357,10 +22296,10 @@
             "guid": "Pir1u#syLk",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::Cell",
+                "BIO::EndocrineSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -24863,11 +24802,10 @@
             "guid": "oNytV:k;[s",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
+                "BIO::Cell",
                 "BIO::NervousSystem",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -28526,7 +28464,7 @@
             "data": "",
             "fields": [
                 "-25169704079",
-                "An alpha-adrenergic receptor agonist would",
+                "An <i>alpha-adrenergic receptor</i> <b>agonist</b> would",
                 "increase SNS activity at alpha receptors",
                 "",
                 "",
@@ -30099,11 +30037,8 @@
             "guid": "Fe:oF3[GBG",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "nervous_system_organization",
-                "physiology"
+                "BIO::NervousSystem",
+                "Ortho528"
             ]
         },
         {
@@ -31315,10 +31250,9 @@
             "guid": "uBc=Ooc#C>",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::MusculoskeletalSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -32972,195 +32906,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "-24395454949",
-                "skeletal and smooth muscle differences",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_tmpRh68dN.png\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_Q 0.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_A 0.svg\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "zbW{o;iZHv",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "muscles",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-24395454948",
-                "skeletal and smooth muscle differences",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_tmpRh68dN.png\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_Q 1.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_A 1.svg\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "H6HEXl@slK",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "muscles",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-24395454947",
-                "skeletal and smooth muscle differences",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_tmpRh68dN.png\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_Q 2.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_A 2.svg\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "F4/<p*88O7",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "muscles",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-24395454946",
-                "skeletal and smooth muscle differences",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_tmpRh68dN.png\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_Q 3.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_A 3.svg\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "E=7[6DQ6OA",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "muscles",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-24395454944",
-                "skeletal and smooth muscle differences",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_tmpRh68dN.png\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_Q 5.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_A 5.svg\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "b^.gDv3wg~",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "muscles",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-24395454943",
-                "skeletal and smooth muscle differences",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_tmpRh68dN.png\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_Q 6.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_A 6.svg\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "IIGuR|Tmx`",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "muscles",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-24395454942",
-                "skeletal and smooth muscle differences",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_tmpRh68dN.png\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_Q 7.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_A 7.svg\" />",
-                "<img src=\"58d89a014ec1556442889bde7cf31e7071fa2567_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "PqPoNh5%iT",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "muscles",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "-24395281066",
                 "<div>{{c2::Smooth muscle}} can maintain contraction with minimal expenditure of energy via {{c1::the “latch mechanism”}}</div>",
                 "",
@@ -34241,9 +33986,8 @@
             "guid": "r<+|Qn7e-0",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "stereochemistry"
+                "OC::Stereochemistry",
+                "Ortho528"
             ]
         },
         {
@@ -34396,7 +34140,7 @@
             "data": "",
             "fields": [
                 "-24323963806",
-                "Meso compounds are optically {{c1::inactive}}",
+                "<i>meso compounds</i> are optically {{c1::inactive}}",
                 "",
                 "",
                 "",
@@ -34631,141 +34375,6 @@
                 "Ortho528",
                 "cp",
                 "stereochemistry"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-23884802056",
-                "Initiation of contraction",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_tmpmlbiyc.png\" />",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_Q 0.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_A 0.svg\" />",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "QLEp]~{@I5",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "muscles",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-23884802054",
-                "Initiation of contraction",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_tmpmlbiyc.png\" />",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_Q 1.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_A 1.svg\" />",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "~(kpd|y7J",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "muscles",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-23884802053",
-                "Initiation of contraction",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_tmpmlbiyc.png\" />",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_Q 2.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_A 2.svg\" />",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "owh;Nbk*#7",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "muscles",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-23884802052",
-                "Initiation of contraction",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_tmpmlbiyc.png\" />",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_Q 3.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_A 3.svg\" />",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "koMoN^j5*W",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "muscles",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-23884802050",
-                "Initiation of contraction",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_tmpmlbiyc.png\" />",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_Q 4.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_A 4.svg\" />",
-                "<img src=\"3f8b905f44058f226ccb3de056479411e9b342f9_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "j/!@@j|Jo9",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "muscles",
-                "physiology"
             ]
         },
         {
@@ -41206,7 +40815,7 @@
             "data": "",
             "fields": [
                 "-22741700320",
-                "Things that result in {{c2::more favorable fluid movement into the interstitial fluid}} may cause in {{c1::edema}}",
+                "Things that result in {{c2::more favorable fluid movement into the interstitial fluid}} may cause {{c1::edema}}",
                 "",
                 "",
                 "",
@@ -41217,11 +40826,10 @@
             "guid": "PA7+GrTj2`",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::LymphaticSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -42378,8 +41986,8 @@
             "fields": [
                 "-22051814133",
                 "Steric number formula",
-                "# sigma bonds + # lone pairs",
                 "",
+                "number \\ of \\ sigma \\ bonds + number \\ of \\ lone \\ pairs",
                 "",
                 "",
                 "",
@@ -42389,9 +41997,8 @@
             "guid": "BVdw)5@<eV",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "vsepr"
+                "GC::VSEPR",
+                "Ortho528"
             ]
         },
         {
@@ -43649,7 +43256,7 @@
             "data": "",
             "fields": [
                 "-20772914884",
-                "Sucrose has a {{c1::1,1 glycosidic linkage}} between {{c2::glucose and fructose}} that is {{c3::alpha}} for {{c2::glucose}}",
+                "<b>sucrose</b> has a {{c1::1,1-glycosidic linkage}} between {{c2::glucose and fructose}} that is {{c3::\\(﻿\\alpha\\)}} for {{c2::glucose}}",
                 "",
                 "",
                 "<img src=\"1280px-Sucrose-inkscape.svg.png\">",
@@ -44276,9 +43883,8 @@
             "guid": "nWVF$JWWqw",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "thermodynamics"
+                "GC::Thermodynamics",
+                "Ortho528"
             ]
         },
         {
@@ -44382,9 +43988,10 @@
             "guid": "l]-|t[#0+@",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "thermodynamics"
+                "BC::Metabolism",
+                "BIO::Cell",
+                "OC::Reactions",
+                "Ortho528"
             ]
         },
         {
@@ -45514,11 +45121,9 @@
             "guid": "jlsxeW,k9G",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "respiratory"
+                "BIO::Physiology",
+                "BIO::RespiratorySystem",
+                "Ortho528"
             ]
         },
         {
@@ -46466,11 +46071,9 @@
             "guid": "G/b,6oH_JA",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "respiratory"
+                "BIO::Physiology",
+                "BIO::RespiratorySystem",
+                "Ortho528"
             ]
         },
         {
@@ -49277,11 +48880,9 @@
             "guid": "I,OXdQ6B),",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -53527,11 +53128,10 @@
             "guid": "gTKV0hy!VT",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::Digestion",
+                "BIO::GISystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -54602,11 +54202,9 @@
             "guid": "c6c~a%,6~8",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::EndocrineSystem",
+                "BIO::GISystem",
+                "Ortho528"
             ]
         },
         {
@@ -57566,7 +57164,7 @@
             "data": "",
             "fields": [
                 "-18253862507",
-                "{{c1::Gastric lipase}} helps digest fats in the stomach",
+                "{{c1::gastric lipase}} helps digest fats in the stomach",
                 "",
                 "",
                 "",
@@ -58538,8 +58136,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "personality",
-                "ps"
+                "PSY::Personality",
+                "PSY::Theories"
             ]
         },
         {
@@ -58689,8 +58287,7 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "Ortho528",
-                "personality",
-                "ps"
+                "PSY::Personality"
             ]
         },
         {
@@ -58714,8 +58311,7 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "Ortho528",
-                "personality",
-                "ps"
+                "PSY::Personality"
             ]
         },
         {
@@ -58739,8 +58335,7 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "Ortho528",
-                "personality",
-                "ps"
+                "PSY::Personality"
             ]
         },
         {
@@ -58764,8 +58359,7 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "Ortho528",
-                "personality",
-                "ps"
+                "PSY::Personality"
             ]
         },
         {
@@ -58789,8 +58383,7 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "Ortho528",
-                "personality",
-                "ps"
+                "PSY::Personality"
             ]
         },
         {
@@ -58814,8 +58407,7 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "Ortho528",
-                "personality",
-                "ps"
+                "PSY::Personality"
             ]
         },
         {
@@ -60330,8 +59922,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "development",
-                "ps"
+                "PSY::Development",
+                "PSY::Theories"
             ]
         },
         {
@@ -60383,8 +59975,8 @@
                 "-16525360781",
                 "In {{c1::Lev Vygotsky's}} theory children at their current development level are helped by adults to accomplish and internalize tasks in the zone of proximal development, to one day reach areas beyond their current potential",
                 "",
-                "<img src=\"paste-5901285064705.jpg\" />",
                 "",
+                "<img src=\"paste-5901285064705.jpg\">",
                 "",
                 ""
             ],
@@ -60393,8 +59985,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "development",
-                "ps"
+                "PSY::Development",
+                "PSY::Theories"
             ]
         },
         {
@@ -60800,7 +60392,7 @@
             "data": "",
             "fields": [
                 "-16456188292",
-                "{{c1::Mood disorders}} are defined by two extremes along the spectrum of emotional experience: depression and mania",
+                "{{c1::mood disorders}} are defined by two extremes along the spectrum of emotional experience: depression and mania",
                 "",
                 "",
                 "",
@@ -60812,8 +60404,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "psych_disorders"
+                "PSY::Disorders"
             ]
         },
         {
@@ -61329,7 +60920,7 @@
             "data": "",
             "fields": [
                 "-16442574457",
-                "Cis and trans are a type of {{c1::diastereomer}}",
+                "<i>cis</i> and <i>trans</i> are a type of {{c1::diastereomer}}",
                 "",
                 "",
                 "",
@@ -61340,10 +60931,9 @@
             "guid": "j*2wl?vNMT",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "ochem",
-                "stereochemistry"
+                "OC::MolecularStructure",
+                "OC::Stereochemistry",
+                "Ortho528"
             ]
         },
         {
@@ -62075,10 +61665,8 @@
             "guid": "FDG,Fh7$r<",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "skin"
+                "BIO::IntegumentarySystem",
+                "Ortho528"
             ]
         },
         {
@@ -62799,7 +62387,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps"
+                "PSY::Theories"
             ]
         },
         {
@@ -63607,10 +63195,8 @@
             "guid": "N2,,E!3)B%",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "lab_methods"
+                "BC::LabTechniques",
+                "Ortho528"
             ]
         },
         {
@@ -64306,7 +63892,7 @@
             "data": "",
             "fields": [
                 "-15834721993",
-                "{{c2::Ultraviolet spectroscopy}} is used to detect {{c1::conjugated&nbsp;π-bond systems}}",
+                "{{c2::<i>ultraviolet spectroscopy</i>}} is used to detect {{c1::conjugated \\(﻿\\pi\\)-bond systems}}",
                 "",
                 "",
                 "",
@@ -64317,11 +63903,8 @@
             "guid": "d|wLr:LIi+",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "lab_methods",
-                "spectroscopy"
+                "GC::LabTechniques::Spectroscopy",
+                "Ortho528"
             ]
         },
         {
@@ -65006,9 +64589,9 @@
             "guid": "iU}|m9B%pa",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "thermodynamics"
+                "GC::Phases",
+                "GC::Thermodynamics",
+                "Ortho528"
             ]
         },
         {
@@ -65236,9 +64819,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "charge",
-                "cp",
-                "electricity"
+                "PHY::Electricity"
             ]
         },
         {
@@ -65580,8 +65161,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "electricity"
+                "PHY::Circuits",
+                "PHY::Electricity"
             ]
         },
         {
@@ -65665,8 +65246,8 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "electricity"
+                "PHY::Circuits",
+                "PHY::Electricity"
             ]
         },
         {
@@ -66127,8 +65708,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "magnetism"
+                "PHY::Magnetism"
             ]
         },
         {
@@ -66552,9 +66132,9 @@
             "guid": "gFUvy?LScc",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528",
-                "cognition",
-                "ps"
+                "PSY::Cognition"
             ]
         },
         {
@@ -66573,9 +66153,9 @@
             "guid": "Q>GUnf?`)%",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528",
-                "cognition",
-                "ps"
+                "PSY::Cognition"
             ]
         },
         {
@@ -67186,8 +66766,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "intelligence",
-                "ps"
+                "PSY::Intelligence"
             ]
         },
         {
@@ -69773,8 +69352,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "waves"
+                "PHY::Waves"
             ]
         },
         {
@@ -69938,8 +69516,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "waves"
+                "PHY::EMSpectrum",
+                "PHY::Waves"
             ]
         },
         {
@@ -71624,9 +71202,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "eye",
-                "optics"
+                "PHY::Lenses"
             ]
         },
         {
@@ -71754,9 +71330,8 @@
             "guid": "tcN^%V#V2R",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "nuclear"
+                "GC::RADecay",
+                "Ortho528"
             ]
         },
         {
@@ -71805,10 +71380,10 @@
             "data": "",
             "fields": [
                 "-14454997663",
-                "Electron capture is the {{c1::capture of an electron}} and {{c1::destruction of a proton}} to {{c1::create a neutron}} along with emission of a {{c1::gamma ray}}",
+                "<b>electron capture</b> is the {{c1::capture of an electron}} and {{c1::destruction of a proton}} to {{c1::create a neutron}} along with emission of a {{c1::gamma ray}}",
                 "",
-                "<img src=\"paste-8976481648641.jpg\" />",
                 "",
+                "<img src=\"paste-8976481648641.jpg\">",
                 "",
                 ""
             ],
@@ -71817,8 +71392,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "nuclear"
+                "PHY::RADecay"
             ]
         },
         {
@@ -71837,10 +71411,8 @@
             "guid": "Q]ycfk|]dx",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bonds",
-                "cp"
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -72475,7 +72047,7 @@
             "data": "",
             "fields": [
                 "-14265826520",
-                "{{c1::Identification}} refers to a situation where the medical student would conform to a behavior because they like or respect the person who exhibits it.",
+                "{{c1::Identification}} refers to a situation where the medical student would conform to a behavior because they like or respect the person who exhibits it",
                 "",
                 "",
                 "",
@@ -72516,7 +72088,7 @@
             "data": "",
             "fields": [
                 "-14265767118",
-                "There are three core components of {{c1::emotion}} – physiological arousal (how your body reacts), expressive displays (how you express these), and subjective experiences (how you feel and interpret your them, which is extremely personal and subjective)",
+                "There are three core components of {{c1::emotion}}:<div>1. physiological arousal (how your body reacts)</div><div>2. expressive displays (how you express these)</div><div>3. subjective experiences (how you feel and interpret your them, is personal and subjective)</div>",
                 "",
                 "",
                 "",
@@ -72528,8 +72100,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "emotion",
-                "ps"
+                "PSY::Emotion"
             ]
         },
         {
@@ -72630,9 +72201,8 @@
             "guid": "OW$Dba0OC|",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "experimental_design",
-                "ps"
+                "General::Research",
+                "Ortho528"
             ]
         },
         {
@@ -73262,7 +72832,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps"
+                "PSY::Social"
             ]
         },
         {
@@ -73760,8 +73330,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "stress"
+                "PSY::Stress"
             ]
         },
         {
@@ -74416,7 +73985,7 @@
             "data": "",
             "fields": [
                 "-13924501215",
-                "Oxidative phosphorylation takes place in the {{c1::electron transport chain}}, which produces ATP by reducing {{c1::O2 to H2O}}",
+                "Oxidative phosphorylation takes place in the {{c1::electron transport chain}}, which produces ATP by reducing {{c1::\\(﻿O_{2}\\) to \\(﻿H_{2}O\\)}}",
                 "",
                 "",
                 "",
@@ -74427,10 +73996,8 @@
             "guid": "Fc?tVMq~P1",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -75186,10 +74753,8 @@
             "guid": "GYf7g,3=nf",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "embryology"
+                "BIO::Embryology",
+                "Ortho528"
             ]
         },
         {
@@ -75230,10 +74795,8 @@
             "guid": "wqyTK<n,|u",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "lymph"
+                "BIO::LymphaticSystem",
+                "Ortho528"
             ]
         },
         {
@@ -79373,9 +78936,8 @@
             "guid": "OGm)q(0.tM",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "ps",
-                "sleep"
+                "BIO::MusculoskeletalSystem",
+                "Ortho528"
             ]
         },
         {
@@ -79385,8 +78947,8 @@
                 "-12975332651",
                 "On a hypnogram, REM sleep is the level {{c1::below wakefulness}}",
                 "",
-                "<img src=\"paste-62397284876289.jpg\" />",
                 "",
+                "<img src=\"paste-62397284876289.jpg\">",
                 "",
                 ""
             ],
@@ -79395,8 +78957,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "sleep"
+                "PSY::Sleep"
             ]
         },
         {
@@ -79651,11 +79212,9 @@
             "guid": ">iXZ)<?Uh",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "immunology",
-                "physiology"
+                "BIO::ImmuneSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -79801,7 +79360,7 @@
             "data": "",
             "fields": [
                 "-12898260137",
-                "{{c1::Opsonins}} mark pathogens for destruction by phagocytic cells",
+                "{{c1::opsonins}} {{c2::mark pathogens for destruction by phagocytic cells}}",
                 "",
                 "",
                 "",
@@ -80520,7 +80079,7 @@
             "data": "",
             "fields": [
                 "-12802486974",
-                "{{c1::Lactose}} is a dimer of {{c2::galactose and glucose}}",
+                "{{c1::<b>lactose</b>}} is a dimer of {{c2::<u>galactose</u> and <u>glucose</u>}}",
                 "",
                 "",
                 "<img src=\"paste-74eb2b18a30e0f426c2c807c80b0f297bbb5d1b7.png\"><div><img src=\"paste-daa377e15eaeb4d7b44e17d7f7cd181cc184ce14.png\"><br></div>",
@@ -81570,9 +81129,9 @@
             "data": "",
             "fields": [
                 "-12377563675",
-                "In order to identify a mutant allele with southern blotting, the mutation must take place at {{c1::a restriction site, eliminating the cut and resulting in different DNA fragments that can be identified}}",
+                "In order to identify a mutant allele with <i>Southern blotting</i>, the mutation must take place at {{c1::a <b>restriction sites</b>}}",
                 "",
-                "",
+                "eliminating the cut and resulting in different DNA fragments that can be identified",
                 "",
                 "",
                 ""
@@ -81581,11 +81140,9 @@
             "guid": "mQ(rP(r!X^",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem",
-                "ochem"
+                "BC::Genetics",
+                "BC::LabTechniques",
+                "Ortho528"
             ]
         },
         {
@@ -81604,10 +81161,8 @@
             "guid": "x@Wm6BcBaI",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "genetics"
+                "BC::Genetics",
+                "Ortho528"
             ]
         },
         {
@@ -81700,10 +81255,10 @@
             "data": "",
             "fields": [
                 "-12373145149",
-                "Uncompetitive inhibitors {{c1::do not change the slope of the line}} of a lineweaver burke plot",
+                "<b>uncompetitive inhibitors</b> {{c1::do not change the slope of the line}} of a lineweaver burke plot",
                 "",
-                "<img src=\"Enzyme_Inhibition_lineweaver-burk_plots.gif\" />",
                 "",
+                "<img src=\"Enzyme_Inhibition_lineweaver-burk_plots.gif\">",
                 "",
                 ""
             ],
@@ -81711,12 +81266,8 @@
             "guid": "K2F@VbLvhE",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem",
-                "cp",
-                "enzymes"
+                "BC::Enzymes::Inhibitors",
+                "Ortho528"
             ]
         },
         {
@@ -82107,10 +81658,8 @@
             "guid": "w]jY(36sc)",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -83318,8 +82867,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "memory",
-                "ps"
+                "PSY::Memory"
             ]
         },
         {
@@ -85619,9 +85167,8 @@
             "guid": "Fq03<mY{8$",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb"
+                "BIO::Cell",
+                "Ortho528"
             ]
         },
         {
@@ -86667,8 +86214,7 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "Ortho528",
-                "ps",
-                "psychology"
+                "PSY::Theories"
             ]
         },
         {
@@ -87404,10 +86950,10 @@
             "data": "",
             "fields": [
                 "-10058761664",
-                "Complex IV in the ETC is also known as {{c1::cytochrome c oxidase}} and it reduces {{c1::O2 to water}} and oxidizes {{c1::cytochrome c}}, moving {{c1::2}} hydrogens into the intermembrane space",
+                "Complex IV in the ETC is also known as {{c1::cytochrome c oxidase}} and it reduces {{c1::\\(﻿O_{2}\\) to water}} and oxidizes {{c1::cytochrome c}}, moving {{c1::2}} hydrogens into the intermembrane space",
                 "",
-                "<img src=\"12-16a.jpg\" />",
                 "",
+                "<img src=\"12-16a.jpg\">",
                 "",
                 ""
             ],
@@ -87415,11 +86961,8 @@
             "guid": "s_6-f[wc@g",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -87592,136 +87135,6 @@
             "flags": 0,
             "guid": "j,MalS]H+f",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-10053605142",
-                "Apoptosis",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_tmpvpugrf.png\" />",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_Q 0.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_A 0.svg\" />",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "BwX6P*=0uZ",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-10053605140",
-                "Apoptosis",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_tmpvpugrf.png\" />",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_Q 1.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_A 1.svg\" />",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "to!UpwHPv@",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-10053605139",
-                "Apoptosis",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_tmpvpugrf.png\" />",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_Q 2.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_A 2.svg\" />",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "J~|v#Fq%DJ",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-10053605138",
-                "Apoptosis",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_tmpvpugrf.png\" />",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_Q 3.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_A 3.svg\" />",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "uvDcz0PKTG",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-10053605137",
-                "Apoptosis",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_tmpvpugrf.png\" />",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_Q 4.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_A 4.svg\" />",
-                "<img src=\"0f85cdb0459de2951117817e5593eae6e76fccfe_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "J5.1;?<Tf|",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "BIO",
                 "Ortho528",
@@ -91809,7 +91222,7 @@
             "fields": [
                 "52528158414",
                 "types of stressors",
-                "* daily hassles<div>* catastrophes</div><div>*&nbsp; significant life changes</div>",
+                "* daily hassles<div>* catastrophes</div><div>* significant life changes</div>",
                 "",
                 "",
                 "",
@@ -95292,7 +94705,7 @@
             "fields": [
                 "53396310348",
                 "mixed inhibitors",
-                "bind to either the ES complex or enzyme&nbsp;→ which dictates the effects on \\(﻿K_{m}\\)<div><br></div><div>*&nbsp;\\(﻿v_{max}\\) is always decreased</div>",
+                "bind to either the ES complex or enzyme&nbsp;→ which dictates the effects on \\(﻿K_{m}\\)<div><br></div><div>* \\(﻿v_{max}\\) is always decreased</div>",
                 "",
                 "",
                 "",
@@ -97710,7 +97123,7 @@
             "fields": [
                 "54174564990",
                 "inbreeding",
-                "* the mating of relatives<div><div>* **increases** the number of **homozygous individuals** in a population without changing the allele frequency</div></div>",
+                "* the mating of relatives<div><div>* <b>increases</b> the number of<b> homozygous individuals</b> in a population without changing the allele frequency</div></div>",
                 "",
                 "",
                 "",
@@ -105405,7 +104818,7 @@
             "fields": [
                 "55684707000",
                 "ribosome (function + structure)",
-                "* where translation takes place<div>* composed of a large/small subunit made of rRNA and proteins</div>",
+                "* where <i>translation</i> takes place<div>* composed of a large/small subunit <u>made of rRNA and proteins</u></div>",
                 "",
                 "",
                 "",
@@ -107501,7 +106914,7 @@
             "fields": [
                 "56387144186",
                 "transposons",
-                "segments of eukaryotic or projaryotic DNA that can excise themselves and reinsert themselves",
+                "segments of eukaryotic or prokaryotic DNA that can excise themselves and reinsert themselves",
                 "",
                 "",
                 "",
@@ -109843,7 +109256,11 @@
             "flags": 0,
             "guid": "Lp^@PMjfnQ",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
-            "tags": []
+            "tags": [
+                "BC::Carbohydrates::Structures",
+                "OC::MolecularStructure",
+                "Ortho528"
+            ]
         },
         {
             "__type__": "Note",
@@ -110146,7 +109563,7 @@
                 "(takes place in the nucleus)",
                 "",
                 "",
-                "graph LR; A[brings ends of introns together forming a loop aka lariat]--&gt;B[introns are excised]; B--&gt;C[exon ends are joined together];",
+                "graph LR; A[brings ends of introns together forming a loop aka <i>lariat</i>]--&gt;B[introns are excised]; B--&gt;C[exon ends are joined together];",
                 "",
                 ""
             ],
