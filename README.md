@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/mcultra.jpg"></img>
+<img src="/logo/mcultra.jpg"></img>
 <img src="https://img.shields.io/github/last-commit/capaldo/mcultra.svg?color=red&label=Last%20Updated&style=for-the-badge"></img>
 <img src="https://img.shields.io/badge/card%20count-5900%2B-yellow.svg?&style=for-the-badge"></img>
 </p>
