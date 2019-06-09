@@ -16,3 +16,9 @@ A collaborative MCAT deck containing premed95's (reformatted), Ortho528 (reforma
 
 ### TODO
 - [ ] add navigation links
+- [ ] finish the wiki
+  - [ ] add walkthrough on how to import
+- [ ] add more resources
+    - [ ] include khan notes
+    - [ ] aamc content outline
+
