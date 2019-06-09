@@ -1,16 +1,6 @@
 @font-face {
-    font-family: "Literation";
+    font-family: literation; 
     src: url('_literationmono.ttf');
-}
-@font-face {
-    font-family: "Avenir Next";
-    src: url('_avenirnext.ttc');
-    font-family: Regular;
-}
-
-@font-face {
-    font-family: "PragmataPro Nerd Font";
-    src: url('_pragmatapro.ttf');
 }
 
 hr.dark {

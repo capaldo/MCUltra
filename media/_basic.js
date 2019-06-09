@@ -43,7 +43,7 @@ if ($.trim($(".back").html()).length==0)
 
 var config = {
     startOnLoad:true,
-    theme: 'neutral',
+    theme: 'dark',
     flowchart:{
 	useMaxWidth:false,
 	htmlLabels:true

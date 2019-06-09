@@ -2,6 +2,8 @@
 if($.trim($(".content-inner").html()).length==0)
   $(".lbl-toggle").remove();
 
+
+
 $('.tooltip:empty').remove();
 $('.tooltiptext:empty').hide();
 
