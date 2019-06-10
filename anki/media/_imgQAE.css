@@ -13,6 +13,10 @@
     src: url('_pragmatapro.ttf');
 }
 
+.card.nightMode {
+    background-color: #131313;
+}
+
 img {
     max-height: 500px;
     width: auto;
@@ -33,6 +37,11 @@ hr.dark {
     font-size: 15px;
     align-text: left;
     display: inline-block;
+}
+
+@font-face {
+    font-family: literation; 
+    src: url('_literationmono.ttf');
 }
 
 b {
