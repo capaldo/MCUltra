@@ -720,10 +720,8 @@
         "400px-Cytosine_becomes_thymine.png",
         "400px-Galvanic_cell_with_no_cation_flow.png",
         "407306ba.2.jpg",
-        "431d15192d9d086e47e22a9367d251d4f3260aef_A 1.svg",
         "431d15192d9d086e47e22a9367d251d4f3260aef_A 2.svg",
         "431d15192d9d086e47e22a9367d251d4f3260aef_A 3.svg",
-        "431d15192d9d086e47e22a9367d251d4f3260aef_Q 1.svg",
         "431d15192d9d086e47e22a9367d251d4f3260aef_Q 2.svg",
         "431d15192d9d086e47e22a9367d251d4f3260aef_Q 3.svg",
         "431d15192d9d086e47e22a9367d251d4f3260aef_source_svg.svg",
@@ -1542,6 +1540,7 @@
         "_cloze.js",
         "_imgQAE.css",
         "_imgQAE.js",
+        "_mermaid.js",
         "_reverse.css",
         "_reverse.js",
         "a004eeff27132c0cb20103e976713c83fb80183e_A 0.svg",
@@ -1600,16 +1599,6 @@
         "a607e25674cb595f641b46e40fdc881126369f15_Q 2.svg",
         "a607e25674cb595f641b46e40fdc881126369f15_source_svg.svg",
         "a607e25674cb595f641b46e40fdc881126369f15_tmpreewwo.png",
-        "a61dfe96f7d1f8659debb7ec51b973957bad501f_A 0.svg",
-        "a61dfe96f7d1f8659debb7ec51b973957bad501f_A 1.svg",
-        "a61dfe96f7d1f8659debb7ec51b973957bad501f_A 2.svg",
-        "a61dfe96f7d1f8659debb7ec51b973957bad501f_A 3.svg",
-        "a61dfe96f7d1f8659debb7ec51b973957bad501f_Q 0.svg",
-        "a61dfe96f7d1f8659debb7ec51b973957bad501f_Q 1.svg",
-        "a61dfe96f7d1f8659debb7ec51b973957bad501f_Q 2.svg",
-        "a61dfe96f7d1f8659debb7ec51b973957bad501f_Q 3.svg",
-        "a61dfe96f7d1f8659debb7ec51b973957bad501f_source_svg.svg",
-        "a61dfe96f7d1f8659debb7ec51b973957bad501f_tmppv5rra.png",
         "a634c4501082487fb5e381f0d9e7deb2efb60beb_A 0.svg",
         "a634c4501082487fb5e381f0d9e7deb2efb60beb_A 1.svg",
         "a634c4501082487fb5e381f0d9e7deb2efb60beb_A 10.svg",
@@ -2707,7 +2696,6 @@
         "paste-3702261809153.jpg",
         "paste-37a5d5c1069d451eefd15380322099d85384c9e1.png",
         "paste-38169374359553.jpg",
-        "paste-3874060500993.jpg",
         "paste-3917010173953.jpg",
         "paste-3d829b3c5a67cfee4fa15a889bd7cf619b7b251b.png",
         "paste-3ed91c4f36422816437b4b6ecf9db29561dfd946.png",
@@ -2720,7 +2708,6 @@
         "paste-43611097923585.jpg",
         "paste-4419521347585.jpg",
         "paste-4466765987841.jpg",
-        "paste-4488240824321.jpg",
         "paste-44e9bea1addc31b6f8ad246b00aa4a7682f085de.png",
         "paste-45354854645761.jpg",
         "paste-45359149613057.jpg",
@@ -2776,7 +2763,6 @@
         "paste-6382321401858.jpg",
         "paste-64aafe18b0a9b21fc6332b594e087a049da040ae.png",
         "paste-66cd23bfb9ac6a3d5922a51b02f1d809b2c7606e.png",
-        "paste-69144678498305.jpg",
         "paste-6923487281154.jpg",
         "paste-6953552052225.jpg",
         "paste-69634304770049.jpg",
@@ -2797,6 +2783,7 @@
         "paste-7364a7b67c5dad52e1e939e41de1b1d504ac1a66.png",
         "paste-7370163879937.jpg",
         "paste-7460358193153.jpg",
+        "paste-747accef4d97b04e8b2fbdd875ca3a9c705ac3ab.png",
         "paste-74eb2b18a30e0f426c2c807c80b0f297bbb5d1b7.png",
         "paste-75d56be0b54a030e83df7bf13c4b7b766da73477.png",
         "paste-76744410c4d3490892bf913bbebfab8b258d8c11.png",
@@ -2828,6 +2815,7 @@
         "paste-87bda73542a68aed974f6237bc90261507882583.png",
         "paste-87dcb348df57abb205133a3101b8244f94c1521b.png",
         "paste-88618060218369.jpg",
+        "paste-88e222c8b2d839a7e2710a63471d2eb0b558b922.png",
         "paste-8959301779457.jpg",
         "paste-8976481648641.jpg",
         "paste-8a1893675bf54403ee021212f7d24c374521e04d.png",
@@ -2931,7 +2919,7 @@
         "wpsi7igk.gif",
         "xawake-vs-rem-sleep-brain-activity.jpg.pagespeed.ic.edNjGZ8Jgb.jpg"
     ],
-    "mid": "1557086564191",
+    "mid": "1517281257743",
     "name": "MCAT",
     "note_models": [
         {
@@ -3035,18 +3023,18 @@
             ],
             "sortf": 1,
             "tags": [
-                "KhanAcademy::Behavior::Attitudes&Behavior",
-                "PSY::Attitude"
+                "GC::LabTechniques",
+                "UWORLD"
             ],
             "tmpls": [
                 {
-                    "afmt": "<!--CSS-->\n\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n<div class=\"front\">\n{{FrontSide}}\n</div>\n\n{{#Back}}\n<hr class=\"dark\">\n<div class=\"tooltip\">\n<span class=\"tooltiptext\">{{simple-popup}}</span>\n<div class=\"back\" id=\"back\">\n{{Back}}\n\n<script>\nvar str = document.getElementById(\"back\").innerHTML; \nvar res = str.replace(/\\* /g, '‣ ')\ndocument.getElementById(\"back\").innerHTML = res;\n</script>\n\n</div>\n</div>\n{{/Back}}\n\n{{#math}}\n<hr class=\"dark\">\n<div class=\"back\">\n\\[{{text:math}}\\]\n</div>\n{{/math}}\n\n<!--- image -->\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">\n    {{image}}\n</div>\n{{/image}}\n\n<!--- mermaid graphs -->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"mermaid\"> \n   {{text:mermaid}}\n</div>\n{{/mermaid}}\n\n{{#webpage}}\n<div class=\"footer\">\n    <a href=\"{{text:webpage}}\"><button class=\"btn default\">webpage</button></a>\n</div>\n{{/webpage}}\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n",
+                    "afmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n<div class=\"front\">\n{{FrontSide}}\n</div>\n\n{{#Back}}\n<hr class=\"dark\">\n<div class=\"tooltip\">\n<span class=\"tooltiptext\">{{simple-popup}}</span>\n<div class=\"back\" id=\"back\">\n{{Back}}\n\n<script>\nvar str = document.getElementById(\"back\").innerHTML; \nvar res = str.replace(/\\* /g, '‣ ')\ndocument.getElementById(\"back\").innerHTML = res;\n</script>\n\n</div>\n</div>\n{{/Back}}\n\n{{#math}}\n<hr class=\"dark\">\n<div class=\"back\">\n\\[{{text:math}}\\]\n</div>\n{{/math}}\n\n<!--- image -->\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">\n    {{image}}\n</div>\n{{/image}}\n\n<!--- mermaid graphs -->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"mermaid\"> \n   {{text:mermaid}}\n</div>\n{{/mermaid}}\n\n{{#webpage}}\n<div class=\"footer\">\n    <a href=\"{{text:webpage}}\"><button class=\"btn default\">webpage</button></a>\n</div>\n{{/webpage}}\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"_mermaid.js\"></script>\n",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n\n<!--tags-->\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}\n{{Deck}} \n{{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}\n{{Tags}} \n{{^Type}}<font color=\"red\">MISSING</font>{{/Type}}\n{{Type}}\n</div>\n\n<!--front of the card-->\n<div class=\"front\" id=\"front\">\n{{Front}}\n<script>\nvar str = document.getElementById(\"front\").innerHTML; \nvar res = str.replace(/\\* /g, '‣ ')\ndocument.getElementById(\"front\").innerHTML = res;\n</script>\n</div>\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script type=\"text/javascript\" src=\"_basic.js\"></script>",
+                    "qfmt": "<!--CSS-->\n<script type=\"text/javascript\" src=\"_mermaid.js\"></script>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_basic.css\">\n\n<!--HTML-->\n\n<!--tags-->\n<div class=\"tags\">\n{{^Deck}}<font color=\"red\">MISSING</font>{{/Deck}}\n{{Deck}} \n{{^Tags}}<font color=\"red\">MISSING</font>{{/Tags}}\n{{Tags}} \n{{^Type}}<font color=\"red\">MISSING</font>{{/Type}}\n{{Type}}\n</div>\n\n<!--front of the card-->\n<div class=\"front\" id=\"front\">\n{{Front}}\n<script>\nvar str = document.getElementById(\"front\").innerHTML; \nvar res = str.replace(/\\* /g, '‣ ')\ndocument.getElementById(\"front\").innerHTML = res;\n</script>\n</div>\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script type=\"text/javascript\" src=\"_basic.js\"></script>",
                     "scratchPad": false
                 }
             ],
@@ -3125,8 +3113,8 @@
             "name": "Clozine",
             "sortf": 1,
             "tags": [
-                "KhanAcademy::Behavior::Attitudes&Behavior",
-                "PSY::Attitude"
+                "GC::LabTechniques",
+                "UWORLD"
             ],
             "tmpls": [
                 {
@@ -3136,7 +3124,7 @@
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_cloze.css\">\n\n<!--HTML-->\n<div class=\"tags\">{{Deck}} {{Tags}} {{Type}}</div>\n\n<div class=\"text\" id=\"text\">\n    {{cloze:Text}}\n</div>\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"_cloze.js\"></script>\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n\n<script type=\"text/javascript\">\n$(document).ready(function() {\n    $(\".text\").html(function(index, currentHtml) {\n   return currentHtml.replace(/\\* /g, \"‣ \");\n    });\n});\n    </script>\n<script>\n$(document).ready(function() {\n    $(\".tags\").html(function(index, currentHtml) {\n   return currentHtml.replace(/ /gi, \" | \");\n    });\n});\n</script>",
+                    "qfmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_cloze.css\">\n\n<!--HTML-->\n<div class=\"tags\">{{Deck}} {{Tags}} {{Type}}</div>\n\n<div class=\"text\" id=\"text\">\n    {{cloze:Text}}\n</div>\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"_cloze.js\"></script>\n\n<script type=\"text/javascript\">\n$(document).ready(function() {\n    $(\".text\").html(function(index, currentHtml) {\n   return currentHtml.replace(/\\* /g, \"‣ \");\n    });\n});\n    </script>\n<script>\n$(document).ready(function() {\n    $(\".tags\").html(function(index, currentHtml) {\n   return currentHtml.replace(/ /gi, \" | \");\n    });\n});\n</script>",
                     "scratchPad": false
                 }
             ],
@@ -9029,7 +9017,7 @@
             "fields": [
                 "-37266955188",
                 "On the Linweaver-Burke plot an enzyme with a higher affinity has a {{c1::smaller}} slope.",
-                "",
+                "\\(﻿\\frac{K_{m}}{v_{max}}\\)",
                 "",
                 "",
                 ""
@@ -9038,10 +9026,8 @@
             "guid": "H|)`~R10AD",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "enzymes",
-                "kinetics"
+                "BC::Enzymes::Kinetics",
+                "Ortho528"
             ]
         },
         {
@@ -9332,10 +9318,8 @@
             "guid": "d/VNW`V)eP",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "enzymes",
-                "kinetics"
+                "BC::Enzymes::Inhibitors",
+                "Ortho528"
             ]
         },
         {
@@ -11028,8 +11012,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "sociology"
+                "PSY::Society"
             ]
         },
         {
@@ -12037,7 +12020,7 @@
             "data": "",
             "fields": [
                 "-31052792580",
-                "RNA polymerase transcribes mRNA based on the {{c1::template, or antisense - strand}}",
+                "<i>RNA polymerase</i> transcribes mRNA based on the {{c1::<b>template</b>/<b>antisense</b>&nbsp;strand}}",
                 "",
                 "",
                 "",
@@ -12047,6 +12030,7 @@
             "guid": "tl*3MYbY]r",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -12263,7 +12247,7 @@
             "data": "",
             "fields": [
                 "-31051217046",
-                "cAMP levels are raised in E. Coli when {{c1::glucose is scarce}}",
+                "<b>cAMP</b> levels are <u>raised</u> in <i>E. Coli</i> when {{c1::glucose is scarce}}",
                 "",
                 "",
                 "",
@@ -12273,6 +12257,8 @@
             "guid": "f6ZUs}m%$(",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Metabolism",
+                "BIO::Bacteria",
                 "Ortho528"
             ]
         },
@@ -12654,6 +12640,7 @@
             "guid": "mxVZ?O`f!L",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::Cell",
                 "Ortho528"
             ]
         },
@@ -13195,11 +13182,8 @@
             "guid": "Dov1@R!2$S",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "genetics",
-                "mitosis"
+                "BIO::Mitosis",
+                "Ortho528"
             ]
         },
         {
@@ -13963,6 +13947,7 @@
             "guid": "q.fi6PG@vh",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -17280,7 +17265,7 @@
             "data": "",
             "fields": [
                 "-28704281124",
-                "Equation for total change in energy",
+                "total change in energy =",
                 "<div>\\(﻿\\Delta E_{total}=W+q\\)</div>",
                 "",
                 "",
@@ -17291,7 +17276,8 @@
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "PHY::Electricity"
+                "PHY::Electricity",
+                "PHY::Equations"
             ]
         },
         {
@@ -17418,7 +17404,7 @@
             "data": "",
             "fields": [
                 "-28703820112",
-                "The total work done by a conservative force like Hooke's law or gravitation is {{c1::zero}}",
+                "The total work done by a <b>conservative force</b> like Hooke's law or gravitation is {{c1::zero}}",
                 "",
                 "",
                 "",
@@ -18379,8 +18365,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "sociology"
+                "PSY::Cognition"
             ]
         },
         {
@@ -18853,10 +18838,8 @@
             "guid": "O.(Tb})?Qz",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -18958,10 +18941,9 @@
             "guid": "j#1l)#Tge5",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "OC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -19382,10 +19364,8 @@
             "guid": "jZO8|;:<q9",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -19532,7 +19512,7 @@
             "data": "",
             "fields": [
                 "-27844143557",
-                "At the start of beta-oxidation, fatty acids are converted into {{c1::acyl-CoA}} at the expense of {{c1::1 ATP}} in the {{c1::outer membrane of the mitochondria}}",
+                "At the start of&nbsp; \\(﻿\\beta\\)-oxidation, fatty acids are converted into {{c1::acyl-CoA}} at the expense of {{c1::1 ATP}} in the {{c1::outer membrane of the mitochondria}}",
                 "",
                 "",
                 "",
@@ -19542,10 +19522,8 @@
             "guid": "xkv3l:s#o",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -20032,10 +20010,10 @@
             "guid": "Rb;1FvwhHv",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "BIO::EndocrineSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -20288,7 +20266,7 @@
             "data": "",
             "fields": [
                 "-27838550989",
-                "{{c1::Even-chained fatty acids}} are not used in gluconeogenesis because they are only metabolized to acetyl-CoA",
+                "{{c1::Even-chained fatty acids}} are not used in gluconeogenesis because they are <u>only metabolized to</u> acetyl-CoA",
                 "",
                 "",
                 "",
@@ -21878,10 +21856,8 @@
             "guid": "oi2RY!*<WB",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::EndocrineSystem",
+                "Ortho528"
             ]
         },
         {
@@ -22970,32 +22946,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "-26207823375",
-                "Posterior pituitary hormone release",
-                "<img src=\"431d15192d9d086e47e22a9367d251d4f3260aef_tmp0FcWE8.png\" />",
-                "<img src=\"431d15192d9d086e47e22a9367d251d4f3260aef_Q 1.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"431d15192d9d086e47e22a9367d251d4f3260aef_A 1.svg\" />",
-                "<img src=\"431d15192d9d086e47e22a9367d251d4f3260aef_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "pQCucV()Ep",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "-26207823374",
                 "Posterior pituitary hormone release",
                 "<img src=\"431d15192d9d086e47e22a9367d251d4f3260aef_tmp0FcWE8.png\" />",
@@ -23153,7 +23103,7 @@
             "data": "",
             "fields": [
                 "-25270549546",
-                "The posterior pituitary releases {{c1::oxytocin and vasopressin}}",
+                "The <b>posterior pituitary</b> releases {{c1::<i>oxytocin</i> and <i>vasopressin</i>}}",
                 "",
                 "",
                 "",
@@ -23163,10 +23113,10 @@
             "guid": "o[4b=oR@r:",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::EndocrineSystem",
+                "BIO::NervousSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -23560,7 +23510,7 @@
             "data": "",
             "fields": [
                 "-25260824879",
-                "Aldosterone is the main hormone for {{c1::Na+ and K+ homeostasis}}",
+                "<i>aldosterone</i> is the main hormone for {{c1::\\(﻿Na^{+}\\) and&nbsp;\\(﻿K^{+}\\) homeostasis}}",
                 "",
                 "",
                 "",
@@ -23570,10 +23520,9 @@
             "guid": "k)MsXB5I?V",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::EndocrineSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -27520,7 +27469,7 @@
             "data": "",
             "fields": [
                 "-25171700344",
-                "{{c1::Nicotinic cholinergic receptors}} are {{c2::ligand gated&nbsp;\\(﻿Na^{+}\\) channels}}",
+                "{{c1::<i>nicotinic cholinergic receptors</i>}} are {{c2::ligand gated&nbsp;\\(﻿Na^{+}\\) channels}}",
                 "",
                 "",
                 "",
@@ -27809,8 +27758,8 @@
             "data": "",
             "fields": [
                 "-25168181627",
-                "Sensitivity of Beta-3 to NE or Epi",
-                "NE = Epi",
+                "sensitivity of&nbsp;\\(﻿\\beta_{3}\\) to <i>norepinephrine</i> or <i>epinephrine</i>",
+                "norepinephrine = epinephrine",
                 "",
                 "",
                 "",
@@ -27821,10 +27770,8 @@
             "guid": "v8gCwR[U)1",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -35302,8 +35249,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "BC::AA",
-                "Ortho528",
-                "cp"
+                "Ortho528"
             ]
         },
         {
@@ -38364,11 +38310,9 @@
             "guid": "iNYoj`vy!|",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -38951,11 +38895,9 @@
             "guid": "J%u]I&H13t",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -39156,7 +39098,7 @@
             "data": "",
             "fields": [
                 "-22752355426",
-                "The major agent causing <i>\\(﻿\\beta\\)-receptor mediated dilation</i> is {{c1::epinephrine}} released by the {{c1::adrenal medulla}}&nbsp;",
+                "The major agent causing <i>\\(﻿\\beta\\)-receptor mediated </i><u style=\"\">dilation</u> is {{c1::epinephrine}} released by the {{c1::adrenal medulla}}&nbsp;",
                 "",
                 "",
                 "",
@@ -41865,7 +41807,7 @@
             "fields": [
                 "-21433697471",
                 "Beta lactam structure",
-                "<img src=\"paste-4488240824321.jpg\" />",
+                "<img src=\"paste-747accef4d97b04e8b2fbdd875ca3a9c705ac3ab.png\">",
                 "",
                 "",
                 "",
@@ -42743,7 +42685,7 @@
             "data": "",
             "fields": [
                 "-20667283339",
-                "The standard state of a molecule is its reference form at {{c1::\\(﻿1 \\text{ atm}\\) and \\(﻿25^{\\circ}C\\)}}",
+                "The <u>standard state</u> of a molecule is its reference form at {{c1::\\(﻿1 \\text{ atm}\\) and \\(﻿25^{\\circ}C\\)}}",
                 "",
                 "",
                 "",
@@ -43474,7 +43416,7 @@
             "data": "",
             "fields": [
                 "-20339634234",
-                "Cilia are located on the {{c1::epithelial cells of the trachea and bronchi}}",
+                "Cilia are located on the {{c1::epithelial cells of the trachea and bronchi::in the body}}",
                 "",
                 "",
                 "",
@@ -43484,11 +43426,8 @@
             "guid": "uh2UXa9uol",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "respiratory"
+                "BIO::RespiratorySystem",
+                "Ortho528"
             ]
         },
         {
@@ -44058,11 +43997,9 @@
             "guid": "wKT4r[kqn/",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "respiratory"
+                "BIO::Physiology",
+                "BIO::RespiratorySystem",
+                "Ortho528"
             ]
         },
         {
@@ -46746,114 +46683,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "-20303409751",
-                "Different levels of filtration and excretion",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_tmppv5rra.png\" />",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_Q 0.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_A 0.svg\" />",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "h:m~1Gh;FC",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-20303409750",
-                "Different levels of filtration and excretion",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_tmppv5rra.png\" />",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_Q 1.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_A 1.svg\" />",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "vZH{H5YjRt",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-20303409749",
-                "Different levels of filtration and excretion",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_tmppv5rra.png\" />",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_Q 2.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_A 2.svg\" />",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "NJ^x3GtAW&",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-20303409748",
-                "Different levels of filtration and excretion",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_tmppv5rra.png\" />",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_Q 3.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_A 3.svg\" />",
-                "<img src=\"a61dfe96f7d1f8659debb7ec51b973957bad501f_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "BtjP1u8aJ&",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "-20303268211",
                 "Filtration pressures",
                 "<img src=\"668cf51877bc733e1bf2ac9d73385bf2a95f3525_tmpugpxa0.png\" />",
@@ -47459,7 +47288,7 @@
             "data": "",
             "fields": [
                 "-20302562095",
-                "The macula densa influences the nearby arterioles via {{c1::paracrine molecules}}",
+                "The <i>macula densa</i> influences the nearby arterioles via {{c1::<u>paracrine</u> molecules}}",
                 "",
                 "",
                 "",
@@ -47469,11 +47298,9 @@
             "guid": "GXbS0rAxJ+",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -47511,28 +47338,6 @@
             ],
             "flags": 0,
             "guid": "k.JiK85l@;",
-            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-20253886291",
-                "Filtration fraction = {{c1::GFR / renal plasma flow}}",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "D&h$S11tOy",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "BIO",
@@ -49105,8 +48910,8 @@
             "fields": [
                 "-20210981534",
                 "Vasopressin adds additional pores to the {{c1::apical membrane}} of the collecting duct",
-                "<img src=\"Waterosmosis.jpg\" />",
                 "",
+                "<img src=\"Waterosmosis.jpg\">",
                 "",
                 ""
             ],
@@ -55399,7 +55204,7 @@
             "data": "",
             "fields": [
                 "-18259255503",
-                "ADH is secreted in response to {{c1:: high}} body osmolarity",
+                "<b>ADH</b> is secreted in response to {{c1:: <u>high</u>}} body osmolarity",
                 "",
                 "",
                 "",
@@ -55409,12 +55214,9 @@
             "guid": "I!ft<%*m(R",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "hormones",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -55851,7 +55653,7 @@
             "fields": [
                 "-17900716890",
                 "what is social loafing?",
-                "when you put in less effort when individual beahvior isn't evaluated",
+                "occurs when an individual <u>puts in less effort</u> when working as part of a group than when working alone",
                 "",
                 "",
                 "",
@@ -56378,7 +56180,7 @@
             "data": "",
             "fields": [
                 "-17486183008",
-                "What is v2 equal to?<div><img src=\"paste-35377645617153.jpg\" /></div>",
+                "What is&nbsp;\\(﻿v_{2}\\) equal to?<div><img src=\"paste-35377645617153.jpg\"></div>",
                 "<div></div>",
                 "v_{2}=\\sqrt{2gh_{1}}",
                 "",
@@ -56419,7 +56221,7 @@
             "data": "",
             "fields": [
                 "-17486052263",
-                "The {{c2::decrease in pressure}} that occurs when a fluid flows into a constricted region of a pipe is know as the {{c1::venturi effect}}",
+                "The {{c2::decrease in pressure}} that occurs when a fluid flows into a constricted region of a pipe is know as the {{c1::<i>Venturi effect</i>}}",
                 "",
                 "<img src=\"paste-9384503541761.jpg\">",
                 "",
@@ -56991,8 +56793,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "identity",
-                "ps"
+                "PSY::Identity"
             ]
         },
         {
@@ -59990,10 +59791,8 @@
             "guid": "CH-4]ceY9p",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "skin"
+                "BIO::IntegumentarySystem",
+                "Ortho528"
             ]
         },
         {
@@ -63583,8 +63382,8 @@
             "fields": [
                 "-15406419173",
                 "Ohm's law:",
-                "<img src=\"paste-69144678498305.jpg\" />",
                 "",
+                "V=IR",
                 "",
                 "",
                 "",
@@ -64651,8 +64450,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cognition",
-                "ps"
+                "PSY::Cognition",
+                "PSY::Language"
             ]
         },
         {
@@ -64799,8 +64598,8 @@
             "fields": [
                 "-15313688987",
                 "{{c1::Broca's area}} is responsible for {{c2::speech production}}<div>{{c1::Wernicke's area}} is responsible for {{c2::understanding language}}</div>",
-                "<img src=\"22221318194788367.png\" />",
                 "",
+                "<img src=\"22221318194788367.png\">",
                 "",
                 ""
             ],
@@ -64808,9 +64607,9 @@
             "guid": "J:-UpnnRuG",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528",
-                "language",
-                "ps"
+                "PSY::Language"
             ]
         },
         {
@@ -65413,7 +65212,7 @@
             "data": "",
             "fields": [
                 "-15219594585",
-                "the {{c1::Cannon-Bard theory of emotion}} states that emotional \"feelings\" and physiological reactions to stimuli are experienced {{c2::simultaneously}}",
+                "the {{c1::<b>Cannon-Bard theory of emotion</b>}} states that emotional \"feelings\" and physiological reactions to stimuli are experienced {{c2::simultaneously}}",
                 "",
                 "",
                 "",
@@ -68218,7 +68017,7 @@
             "data": "",
             "fields": [
                 "-14705622263",
-                "sin(90*) = {{c1::1}}",
+                "<div>\\(﻿sin(90)=\\)<span>{{c1::</span><span>\\(\\ ﻿1\\)</span><span>}}</span></div>",
                 "",
                 "",
                 "",
@@ -68228,9 +68027,8 @@
             "guid": "Hn!QI0^-x7",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "waves"
+                "Math",
+                "Ortho528"
             ]
         },
         {
@@ -69155,9 +68953,9 @@
             "data": "",
             "fields": [
                 "-14618882875",
-                "{{c1::Chromatic aberrations}} occur because {{c2::light of higher frequencies focuses closer than that of lower frequencies}}",
-                "<img src=\"paste-12090332938241.jpg\" />",
+                "{{c1::<b>chromatic aberrations</b>}} occur because {{c2::light of higher frequencies focuses closer than that of lower frequencies}}",
                 "",
+                "<img src=\"paste-12090332938241.jpg\">",
                 "",
                 ""
             ],
@@ -69166,8 +68964,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "optics"
+                "PHY::Lenses"
             ]
         },
         {
@@ -69763,10 +69560,8 @@
             "guid": "ik}=2]k<!.",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "genetics"
+                "BC::Genetics",
+                "Ortho528"
             ]
         },
         {
@@ -70063,8 +69858,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "stress"
+                "PSY::Stress"
             ]
         },
         {
@@ -70751,8 +70545,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "perception",
-                "ps"
+                "PSY::Perception"
             ]
         },
         {
@@ -70860,9 +70653,8 @@
             "guid": "o3={p_;;A!",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb"
+                "BIO::NervousSystem",
+                "Ortho528"
             ]
         },
         {
@@ -72869,8 +72661,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "emotion",
-                "ps"
+                "PSY::Emotion"
             ]
         },
         {
@@ -77094,11 +76885,8 @@
             "guid": "fP}>0B1vZu",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "immunology",
-                "physiology"
+                "BIO::ImmuneSystem",
+                "Ortho528"
             ]
         },
         {
@@ -77361,9 +77149,9 @@
             "data": "",
             "fields": [
                 "-12897171554",
-                "T cells can recognize antigen only when {{c1::its presented on MHC}}",
-                "<img src=\"paste-86925843103745.jpg\" />",
+                "<b>T cells</b> can recognize antigen only when {{c1::its presented on MHC}}",
                 "",
+                "<img src=\"paste-86925843103745.jpg\">",
                 "",
                 ""
             ],
@@ -77371,11 +77159,8 @@
             "guid": "w,}T[x[=>l",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "immunology",
-                "physiology"
+                "BIO::ImmuneSystem",
+                "Ortho528"
             ]
         },
         {
@@ -78856,9 +78641,9 @@
             "guid": "g0C8Bi,A(4",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb"
+                "BC::Proteins",
+                "BIO::Cell",
+                "Ortho528"
             ]
         },
         {
@@ -78909,7 +78694,7 @@
             "fields": [
                 "-12377340947",
                 "Restriction enzyme sites are DNA sequence {{c1::palindromes}}",
-                "",
+                "A&nbsp;<b>palindrome</b>&nbsp;is a word, number, phrase, or other sequence of characters which reads the same backward as forward",
                 "",
                 "",
                 ""
@@ -79814,7 +79599,7 @@
             "data": "",
             "fields": [
                 "-11857775569",
-                "Stimulants act like hormones in the brain and increase {{c1::glucose}} metabolism",
+                "<b>stimulants</b> act like hormones in the brain and increase {{c1::glucose}} metabolism",
                 "",
                 "",
                 "",
@@ -79824,8 +79609,9 @@
             "guid": "MM@lr-{Zxp",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "ps"
+                "BC::Drugs",
+                "BIO::NervousSystem",
+                "Ortho528"
             ]
         },
         {
@@ -79893,7 +79679,7 @@
             "data": "",
             "fields": [
                 "-11779597270",
-                "{{c1::response expectancy theory}} is based on the idea that what people experience depends partly on {{c2::what they expect to experience}}",
+                "{{c1::<b>response expectancy theory</b>}} is based on the idea that what people experience depends partly on {{c2::what they expect to experience}}",
                 "",
                 "",
                 "",
@@ -80075,7 +79861,7 @@
             "data": "",
             "fields": [
                 "-11775295367",
-                "A {{c1::false memory}} is a memory report that is inaccurate, but expressed with extrememe confidence",
+                "A {{c1::false memory}} is a memory report that is inaccurate, but expressed with extreme confidence",
                 "",
                 "",
                 "",
@@ -80086,8 +79872,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "memory",
-                "ps"
+                "PSY::Memory"
             ]
         },
         {
@@ -82614,7 +82399,7 @@
             "data": "",
             "fields": [
                 "-10928536759",
-                "Priming is a type of {{c1::implicit}} memory",
+                "<i>priming</i> is a type of {{c1::implicit}} memory",
                 "",
                 "",
                 "",
@@ -82625,8 +82410,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "memory",
-                "ps"
+                "PSY::Memory"
             ]
         },
         {
@@ -84012,9 +83796,9 @@
             "data": "",
             "fields": [
                 "-10142059914",
-                "Zeff generally {{c2::increases}} with atomic number except when {{c1::electrons are added to new shells}}",
-                "1s -&gt; 2s increases less than expected, same with 2s -&gt; 3s<div><img src=\"paste-11476152614913.jpg\" /></div>",
-                "",
+                "\\(﻿Z_{eff}\\)&nbsp;generally {{c2::increases}} with atomic number except when {{c1::electrons are added to new shells}}",
+                "1s → 2s increases less than expected, same with 2s&nbsp;→ 3s",
+                "<img src=\"paste-11476152614913.jpg\">",
                 "",
                 ""
             ],
@@ -84022,9 +83806,8 @@
             "guid": "RiC?_0m)rF",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "atoms",
-                "cp"
+                "GC::Atoms",
+                "Ortho528"
             ]
         },
         {
@@ -84433,9 +84216,9 @@
             "data": "",
             "fields": [
                 "-10059201307",
-                "Complex II in the ETC includes {{c2::succinate dehydrogenase}} and its reaction is {{c1::succinate}} -&gt; {{c1::FADH2 + Fumarate}} -&gt; {{c1::CoQH2}}",
-                "<img src=\"paste-3874060500993.jpg\" /><div><img src=\"12-16a.jpg\" /></div>",
+                "<b>Complex II</b> in the ETC includes {{c2::<i>succinate dehydrogenase</i>}} and its reaction is:<div>{{c1::succinate}}&nbsp;→ {{c1::\\(﻿FADH_{2}\\) + Fumarate}} → {{c1::\\(﻿CoQH_{2}\\)}}</div>",
                 "",
+                "<img src=\"12-16a.jpg\">",
                 "",
                 ""
             ],
@@ -84443,11 +84226,8 @@
             "guid": "h@zv(6CZo*",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "biochem",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -84455,7 +84235,7 @@
             "data": "",
             "fields": [
                 "-10058976271",
-                "{{c2::Complex III}} is also known as {{c1::cytochrome c reductase}} it reduces the {{c1::iron in cytochrome c from Fe<sup>3+</sup> to Fe<sup>2+</sup>}} with {{c1::CoQH<sub>2</sub>}} through the {{c1::Q-cycle}} while also moving {{c1::4}} hydrogens into the intermembrane space",
+                "{{c2::Complex III}} is also known as {{c1::<i>cytochrome c reductase</i>}} it <u>reduces</u> the {{c1::iron in cytochrome c from Fe<sup>3+</sup> to Fe<sup>2+</sup>}} with {{c1::CoQH<sub>2</sub>}} through the {{c1::Q-cycle}} while also moving {{c1::4}} hydrogens into the intermembrane space",
                 "",
                 "<img src=\"12-16a.jpg\">",
                 "",
@@ -102425,7 +102205,7 @@
                 "* second one comes into A then P site tRNA moves to E",
                 "",
                 "",
-                "<svg id=\"mermaid-1556172911337\" style=\"max-width: 794.65625px;\" viewBox=\"0 0 794.65625 90\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><style>#mermaid-1556172911337 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1556172911337 .node circle,#mermaid-1556172911337 .node ellipse,#mermaid-1556172911337 .node polygon,#mermaid-1556172911337 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1556172911337 .node.clickable{cursor:pointer}#mermaid-1556172911337 .arrowheadPath{fill:#333}#mermaid-1556172911337 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1556172911337 .edgeLabel{background-color:#e8e8e8}#mermaid-1556172911337 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1556172911337 .cluster text{fill:#333}#mermaid-1556172911337 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1556172911337 .actor{stroke:#ccf;fill:#ececff}#mermaid-1556172911337 text.actor{fill:#000;stroke:none}#mermaid-1556172911337 .actor-line{stroke:grey}#mermaid-1556172911337 .messageLine0{marker-end:\"url(#arrowhead)\"}#mermaid-1556172911337 .messageLine0,#mermaid-1556172911337 .messageLine1{stroke-width:1.5;stroke-dasharray:\"2 2\";stroke:#333}#mermaid-1556172911337 #arrowhead{fill:#333}#mermaid-1556172911337 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1556172911337 .messageText{fill:#333;stroke:none}#mermaid-1556172911337 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1556172911337 .labelText,#mermaid-1556172911337 .loopText{fill:#000;stroke:none}#mermaid-1556172911337 .loopLine{stroke-width:2;stroke-dasharray:\"2 2\";marker-end:\"url(#arrowhead)\";stroke:#ccf}#mermaid-1556172911337 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1556172911337 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1556172911337 .section{stroke:none;opacity:.2}#mermaid-1556172911337 .section0{fill:rgba(102,102,255,.49)}#mermaid-1556172911337 .section2{fill:#fff400}#mermaid-1556172911337 .section1,#mermaid-1556172911337 .section3{fill:#fff;opacity:.2}#mermaid-1556172911337 .sectionTitle0,#mermaid-1556172911337 .sectionTitle1,#mermaid-1556172911337 .sectionTitle2,#mermaid-1556172911337 .sectionTitle3{fill:#333}#mermaid-1556172911337 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1556172911337 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1556172911337 .grid path{stroke-width:0}#mermaid-1556172911337 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1556172911337 .task{stroke-width:2}#mermaid-1556172911337 .taskText{text-anchor:middle;font-size:11px}#mermaid-1556172911337 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1556172911337 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1556172911337 .taskText0,#mermaid-1556172911337 .taskText1,#mermaid-1556172911337 .taskText2,#mermaid-1556172911337 .taskText3{fill:#fff}#mermaid-1556172911337 .task0,#mermaid-1556172911337 .task1,#mermaid-1556172911337 .task2,#mermaid-1556172911337 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1556172911337 .taskTextOutside0,#mermaid-1556172911337 .taskTextOutside1,#mermaid-1556172911337 .taskTextOutside2,#mermaid-1556172911337 .taskTextOutside3{fill:#000}#mermaid-1556172911337 .active0,#mermaid-1556172911337 .active1,#mermaid-1556172911337 .active2,#mermaid-1556172911337 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1556172911337 .activeText0,#mermaid-1556172911337 .activeText1,#mermaid-1556172911337 .activeText2,#mermaid-1556172911337 .activeText3{fill:#000!important}#mermaid-1556172911337 .done0,#mermaid-1556172911337 .done1,#mermaid-1556172911337 .done2,#mermaid-1556172911337 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1556172911337 .doneText0,#mermaid-1556172911337 .doneText1,#mermaid-1556172911337 .doneText2,#mermaid-1556172911337 .doneText3{fill:#000!important}#mermaid-1556172911337 .crit0,#mermaid-1556172911337 .crit1,#mermaid-1556172911337 .crit2,#mermaid-1556172911337 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1556172911337 .activeCrit0,#mermaid-1556172911337 .activeCrit1,#mermaid-1556172911337 .activeCrit2,#mermaid-1556172911337 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1556172911337 .doneCrit0,#mermaid-1556172911337 .doneCrit1,#mermaid-1556172911337 .doneCrit2,#mermaid-1556172911337 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1556172911337 .activeCritText0,#mermaid-1556172911337 .activeCritText1,#mermaid-1556172911337 .activeCritText2,#mermaid-1556172911337 .activeCritText3,#mermaid-1556172911337 .doneCritText0,#mermaid-1556172911337 .doneCritText1,#mermaid-1556172911337 .doneCritText2,#mermaid-1556172911337 .doneCritText3{fill:#000!important}#mermaid-1556172911337 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1556172911337 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1556172911337 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1556172911337 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1556172911337 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1556172911337 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1556172911337 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1556172911337 #compositionEnd,#mermaid-1556172911337 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1556172911337 #aggregationEnd,#mermaid-1556172911337 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1556172911337 #dependencyEnd,#mermaid-1556172911337 #dependencyStart,#mermaid-1556172911337 #extensionEnd,#mermaid-1556172911337 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1556172911337 .branch-label,#mermaid-1556172911337 .commit-id,#mermaid-1556172911337 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1556172911337 {\n    color: rgb(0, 0, 0);\n    font: normal normal 400 normal 16px / normal \"Times New Roman\";\n  }</style><g transform=\"translate(-12, -12)\"><g class=\"output\"><g class=\"clusters\"></g><g class=\"edgePaths\"><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M79.859375,51.9022187455554L104.859375,39.5L129.859375,39.5\" marker-end=\"url(#arrowhead20)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead20\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path d=\"M 0 0 L 0 0 L 0 0 z\" style=\"fill: #333\"></path></marker></defs></g><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M346.078125,39.5L371.078125,39.5L404.53999426605503,47.25\" marker-end=\"url(#arrowhead21)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead21\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path d=\"M 0 0 L 0 0 L 0 0 z\" style=\"fill: #333\"></path></marker></defs></g><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M79.859375,81.5977812544446L104.859375,94L237.96875,94L371.078125,94L404.53999426605503,86.25\" marker-end=\"url(#arrowhead22)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead22\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M581.390625,66.75L606.390625,66.75L631.390625,66.75\" marker-end=\"url(#arrowhead23)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead23\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g></g><g class=\"edgeLabels\"><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g></g><g class=\"nodes\"><g class=\"node\" id=\"A\" style=\"opacity: 1;\" transform=\"translate(49.9296875,66.75)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"59.859375\" x=\"-29.9296875\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-19.9296875,-9.5)\"><foreignObject height=\"19\" width=\"39.859375\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">P site</div></foreignObject></g></g></g><g class=\"node\" id=\"B\" style=\"opacity: 1;\" transform=\"translate(237.96875,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"216.21875\" x=\"-108.109375\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-98.109375,-9.5)\"><foreignObject height=\"19\" width=\"196.21875\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">Second one comes to A site</div></foreignObject></g></g></g><g class=\"node\" id=\"C\" style=\"opacity: 1;\" transform=\"translate(488.734375,66.75)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"185.3125\" x=\"-92.65625\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-82.65625,-9.5)\"><foreignObject height=\"19\" width=\"165.3125\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">P site binds amino acid</div></foreignObject></g></g></g><g class=\"node\" id=\"D\" style=\"opacity: 1;\" transform=\"translate(715.0234375,66.75)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"167.265625\" x=\"-83.6328125\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-73.6328125,-9.5)\"><foreignObject height=\"19\" width=\"147.265625\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">P site shifts to E site</div></foreignObject></g></g></g></g></g></g></svg>",
+                "graph TD; A[P Site]--&gt;B[Second tRNA move into A site]; A--&gt;C; B--&gt;C[P site @ the c-term binds amino acid on A @ the n-term site]; C--&gt;D[P site tRNA shifts to E site];",
                 "",
                 ""
             ],
@@ -104578,7 +104358,7 @@
             "fields": [
                 "56397726664",
                 "metaphase I",
-                "homologous chromosomes remain attached and move to the metaphase plate",
+                "<u>homologous chromosomes</u> remain attached and move to the metaphase plate",
                 "",
                 "",
                 "",
@@ -114070,7 +113850,7 @@
             "data": "",
             "fields": [
                 "59604474464",
-                "<i>resistance stage</i>&nbsp;of&nbsp;<u>general adaptation syndrome</u><div><b>when/duration | function</b></div>",
+                "<i>resistance stage</i>&nbsp;of&nbsp;<u>general adaptation syndrome</u><div><b>when/duration </b>|<b> function</b></div>",
                 "* last for hours (eg, exercise), days (eg, final exams), or months (eg, preparing for the MCAT)<div>* occurs after alarm stage</div><div>* the body attempts to resist the stressor and establish a new equilibrium</div>",
                 "",
                 "",
@@ -114465,6 +114245,373 @@
             "tags": [
                 "KhanAcademy::Behavior::Attitudes&Behavior",
                 "PSY::Attitude"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60241245728",
+                "function and alternative name of <i>vasopressin</i>",
+                "<div>* <b>ADH</b> (anti-diuretic hormone)</div>* when plasma osmalarity rises, increases water reabsorption <u>when plasma osmalarity is high</u>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i]w@uSjv;.",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::EndocrineSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60241929489",
+                "<b>Eadie-Hofstree graph</b><div>* slope</div><div>* x/y-axis'</div><div>* x-intercept</div><div>* y-intercept</div>",
+                "",
+                "slope=\\frac{-1}{K_{m}}<div>\\\\<br><div>\\text{x-axis:} \\ v_{0}<br></div><div>\\\\</div><div><span>\\text{y-axis:}</span>&nbsp;\\ \\frac{v_{0}}{[S]}</div><div>\\\\</div><div>\\text{x-intercept}=\\frac{v_{max}}{K_{m}<span>}</span></div></div><div><span>\\\\</span></div><div>\\text{y-intercept}=v_{max}</div>",
+                "",
+                "",
+                "<img src=\"paste-88e222c8b2d839a7e2710a63471d2eb0b558b922.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C,.c3v]TK%",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Enzymes::Kinetics"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60282355505",
+                "filtration fraction =&nbsp;",
+                "",
+                "﻿\\frac{GFR}{\\(﻿renal plasma flow\\)}&nbsp;",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ei>6@6;*Tj",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60288636663",
+                "<b>The McDonaldization of society</b> describes when social structures (eg, health care, education)",
+                "* increase efficiency, quantity, standardization, and automation&nbsp;<div>* <u>at the expense of</u> individuality, quality, and a skilled workforce</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B-Dm(5J=jV",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Society",
+                "PSY::Theories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60288676171",
+                "The Malthusian theory of population",
+                "human populations increase exponentially&nbsp; but we don't have the resources to sustain them (ie food)",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Em%QUQsGQ)",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Society",
+                "PSY::Theories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60288791444",
+                "<strong>intersectionality</strong>",
+                "describes the&nbsp;<u>multiple</u>, interconnected&nbsp;<i>social identities&nbsp; </i>that impact peoples lives (wages, etc)",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gI46PL?xo^",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Society",
+                "PSY::Theories"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60298204048",
+                "\\(﻿cos0^{\\circ} =\\)",
+                "\\(﻿1\\)",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l6L#a}<5n@",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "Math"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60298241148",
+                "\\(﻿cos90^{\\circ} =\\)",
+                "0",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t$H6&^a:ib",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "Math"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60298267440",
+                "\\(﻿cos120^{\\circ} =\\)",
+                "\\(﻿-0.5\\)",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L1qIVJ75ar",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "Math"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60298297593",
+                "\\(﻿cos180^{\\circ} =\\)",
+                "\\(﻿-1\\)",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D@Bjr&g6K_",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "Math"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60298412947",
+                "\\(﻿sin60^{\\circ} =\\)",
+                "",
+                "\\frac{\\sqrt(3)}{2}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "myA+/5=OB/",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "Math"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60299360860",
+                "\\(﻿sin90^{\\circ} =\\)",
+                "",
+                "1",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L?;qJu3@91",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "Math"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60299413625",
+                "\\(﻿sin120^{\\circ} =\\)",
+                "",
+                "\\frac{\\sqrt3}{2}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t8&as~xG)r",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "Math"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60299458289",
+                "\\(﻿sin180^{\\circ} =\\)",
+                "",
+                "0",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Aq?evF{]xw",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "Math"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60300712647",
+                "specific activity=",
+                "",
+                "\\frac{u}{mg}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GE[C+nVNG_",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Equations",
+                "GC::LabTechniques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60300778321",
+                "specific activity",
+                "ratio of activity of the <i>target protein </i>and the total protein obtained during purification",
+                "",
+                "target protein&nbsp;→ protein we're purifying for",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m4b9b-C$yk",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::LabTechniques",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60300873195",
+                "total activity=",
+                "",
+                "total \\ protein \\ (mg)=total \\ protein \\ (mg)*specific \\ activity",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uQa5aF>V3:",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::LabTechniques",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60301523712",
+                "specific activity increases with {{c1::increasing purity}}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n*%RwAs/>r",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "GC::LabTechniques",
+                "UWORLD"
             ]
         }
     ]
