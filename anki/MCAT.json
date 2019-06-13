@@ -34,7 +34,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 100,
+                "perDay": 500,
                 "separate": true
             },
             "replayq": true,
@@ -2659,6 +2659,7 @@
         "paste-27565100105729.jpg",
         "paste-2830383448066.jpg",
         "paste-29021094019073.jpg",
+        "paste-295f563f1cf39bba9c3b05514fb06ce5663280b4.png",
         "paste-29807073034241.jpg",
         "paste-29987461660673.jpg",
         "paste-2cf857ae6dc35e05f0bc1fd6b5df3080706fe86f.png",
@@ -4472,7 +4473,7 @@
             "fields": [
                 "-40359453220",
                 "Planck's quantum equation",
-                "ΔE = hf",
+                "<div>\\(﻿\\Delta E= hf\\)</div>",
                 "",
                 "",
                 ""
@@ -4482,8 +4483,8 @@
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "equations"
+                "PHY::Equations",
+                "PHY::Waves"
             ]
         },
         {
@@ -5859,8 +5860,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "nuclear"
+                "PHY::RADecay"
             ]
         },
         {
@@ -6523,7 +6523,7 @@
             "data": "",
             "fields": [
                 "-39407233534",
-                "Cytosine and thymine are {{c1::pyrimidines}}",
+                "cytosine and thymine are {{c1::pyrimidines}}",
                 "",
                 "",
                 "",
@@ -11146,7 +11146,8 @@
             "guid": "g]CR{|N+lG",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Society"
             ]
         },
         {
@@ -11459,6 +11460,7 @@
             "guid": "wrB9D%+3.z",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "OC::Stereochemistry",
                 "Ortho528"
             ]
         },
@@ -11818,7 +11820,7 @@
             "data": "",
             "fields": [
                 "-31120404296",
-                "{{c1::non-coding RNA}} is genetic material that contributes to the regulation of the chemical changes that affect chromatin structure",
+                "{{c1::non-coding RNA}} is genetic material that contributes to the regulation of the chemical changes that <u>affect chromatin structure</u>",
                 "",
                 "",
                 "",
@@ -11828,6 +11830,7 @@
             "guid": "JTS:!M[Z(_",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -12189,7 +12192,7 @@
             "data": "",
             "fields": [
                 "-31051721997",
-                "In the {{c1::Jacob-Monod model}} of prokaryotic genetic regulation, the genetic unit consisting of the operator, promotor, and the genes that contribute to a signle prokaryotic mRNA is called the {{c1::operon}}",
+                "In the {{c1::Jacob-Monod model}} of prokaryotic genetic regulation, the genetic unit consisting of the operator, promotor, and the genes that contribute to a single prokaryotic mRNA is called the {{c1::operon}}",
                 "",
                 "",
                 "",
@@ -12199,6 +12202,7 @@
             "guid": "iX(z6Sxs#r",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics::Prokaryotes",
                 "Ortho528"
             ]
         },
@@ -14311,9 +14315,9 @@
             "data": "",
             "fields": [
                 "-29661403634",
-                "Dendrites are the structure that allow neurons to {{c1::receive signals}}",
+                "<b>dendrites</b> are the structure that allow neurons to {{c1::receive signals}}",
                 "",
-                "",
+                "<img src=\"paste-295f563f1cf39bba9c3b05514fb06ce5663280b4.png\">",
                 "",
                 ""
             ],
@@ -14321,6 +14325,7 @@
             "guid": "t+CQzCOSVL",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -15741,6 +15746,8 @@
             "guid": "m{u>%.(>B",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::Embryology",
+                "BIO::NervousSystem",
                 "Ortho528"
             ]
         },
@@ -16331,7 +16338,8 @@
             "guid": "Kxrz^*N.`A",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Cognition::Sight"
             ]
         },
         {
@@ -16368,7 +16376,9 @@
             "guid": "sWtyI,6@}l",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "BIO::NervousSystem",
+                "Ortho528",
+                "PSY::Cognition::Sight"
             ]
         },
         {
@@ -17774,7 +17784,8 @@
             "guid": "y6E9eDNQzG",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Behavior"
             ]
         },
         {
@@ -18035,7 +18046,8 @@
             "guid": "hk(RblKoos",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Behavior"
             ]
         },
         {
@@ -18439,7 +18451,8 @@
             "guid": "l/%LX]b*Na",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Behavior"
             ]
         },
         {
@@ -19531,7 +19544,7 @@
             "data": "",
             "fields": [
                 "-27844078809",
-                "For each pair of carbons cleaved off of {{c2::acyl-CoA}}, one molecule of {{c1::FADH2}} and {{c1::NADH}} are produced",
+                "For each pair of carbons cleaved off of {{c2::acyl-CoA}}, one molecule of {{c1::\\(﻿FADH_{2}\\)}} and {{c1::\\(﻿NADH\\)}} are produced",
                 "",
                 "",
                 "",
@@ -19541,10 +19554,8 @@
             "guid": "wNAGNsOIIW",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -20365,11 +20376,11 @@
             "data": "",
             "fields": [
                 "-27419325018",
-                "Can I Keep Selling Sex For Money Officer",
-                "Citrate -&gt; Isocitrate -&gt; alpha-ketogluterate -&gt; Succinyl-CoA -&gt; Succinate -&gt; Fumarate -&gt; Malate -&gt; Oxaloacetate",
+                "<b>Can I Keep Selling Sex For Money Officer</b>",
                 "",
                 "",
                 "",
+                "graph LR; A[citrate]--&gt;B[isocitrate]; B--&gt;C[alpha-ketogluterate&nbsp;]; C--&gt;D[succinyl-CoA]; D--&gt;E[succinate]; E--&gt;F[fumarate]; F--&gt;G[malate]; G--&gt;H[oxaloacetate]",
                 "",
                 ""
             ],
@@ -20377,10 +20388,10 @@
             "guid": "OguQehU*4`",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "ACRONYM",
+                "BC::Metabolism",
+                "OC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -23436,10 +23447,9 @@
             "guid": "yIuoeyJ7d/",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BC::AA",
+                "BIO::EndocrineSystem",
+                "Ortho528"
             ]
         },
         {
@@ -36128,9 +36138,8 @@
             "guid": "jVRrlG6NL6",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "alcohols",
-                "cp"
+                "GC::Reactions",
+                "Ortho528"
             ]
         },
         {
@@ -38447,7 +38456,7 @@
             "data": "",
             "fields": [
                 "-22754367325",
-                "The arterioles are surrounded by {{c1::smooth muscle}}",
+                "The <i>arterioles</i> are surrounded by {{c1::smooth muscle}}",
                 "",
                 "",
                 "",
@@ -38457,11 +38466,8 @@
             "guid": "i@oB4Aj{]i",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cardiovascular",
-                "physiology"
+                "BIO::CirculatorySystem",
+                "Ortho528"
             ]
         },
         {
@@ -48953,7 +48959,7 @@
             "data": "",
             "fields": [
                 "-20210787618",
-                "A decrease in sodium delivered to the macula densa {{c1::increases}} renin secretion, which increases {{c1::angiotensin}} creation, which increases {{c1::aldosterone}} secretion, which increases {{c1::Na+}} reabsorption",
+                "A <u>decrease in sodium</u> delivered to the <i>macula densa</i> {{c1::<b>increases</b>}} <i>renin</i> secretion, which <b>increases</b> {{c1::<i>angiotensin</i>}} creation, which <b>increases</b> {{c1::<i>aldosterone</i>}} secretion, which <b>increases</b> {{c1::\\(﻿Na^{+}\\)}} reabsorption",
                 "",
                 "",
                 "",
@@ -58077,7 +58083,7 @@
             "data": "",
             "fields": [
                 "-16539358696",
-                "Identity is developed in children through {{c1::role taking}} and {{c1::imitation}}",
+                "identity is developed in children through {{c1::role taking}} and {{c1::imitation}}",
                 "",
                 "",
                 "",
@@ -58088,8 +58094,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "identity",
-                "ps"
+                "PSY::Identity"
             ]
         },
         {
@@ -58317,7 +58322,7 @@
             "data": "",
             "fields": [
                 "-16525360781",
-                "In {{c1::Lev Vygotsky's}} theory children at their current development level are helped by adults to accomplish and internalize tasks in the zone of proximal development, to one day reach areas beyond their current potential",
+                "In {{c1::Lev Vygotsky's}} theory children at their current development level are helped by adults to accomplish and internalize tasks in the <i>zone of proximal development</i>, to one day reach areas beyond their current potential",
                 "",
                 "<img src=\"paste-5901285064705.jpg\">",
                 "",
@@ -60591,8 +60596,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "senses"
+                "PSY::Cognition"
             ]
         },
         {
@@ -62851,8 +62855,7 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "Math",
-                "Ortho528",
-                "cp"
+                "Ortho528"
             ]
         },
         {
@@ -64568,8 +64571,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "language",
-                "ps"
+                "PSY::Language"
             ]
         },
         {
@@ -65212,7 +65214,7 @@
             "data": "",
             "fields": [
                 "-15219594585",
-                "the {{c1::<b>Cannon-Bard theory of emotion</b>}} states that emotional \"feelings\" and physiological reactions to stimuli are experienced {{c2::simultaneously}}",
+                "the {{c1::<b>Cannon-Bard theory of emotion</b>}} states that emotional \"feelings\" and physiological reactions to stimuli are experienced {{c2::<u>simultaneously</u>}}",
                 "",
                 "",
                 "",
@@ -66738,8 +66740,7 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "Ortho528",
-                "cp",
-                "waves"
+                "PHY::Waves"
             ]
         },
         {
@@ -67562,7 +67563,7 @@
             "data": "",
             "fields": [
                 "-14707195449",
-                "The speed of light in vacuo is -&gt;&nbsp;{{c1::c = 3 x 10<sup>8</sup>&nbsp;m/s}}",
+                "The speed of light in a vacuum {{c1::\\(﻿c=3*10^{8} \\frac{m}{s}\\)<span>}}</span>",
                 "",
                 "",
                 "",
@@ -67573,8 +67574,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "waves"
+                "PHY::Waves"
             ]
         },
         {
@@ -70759,7 +70759,7 @@
             "data": "",
             "fields": [
                 "-14100925276",
-                "A confounding variable is a variable that is correlated with the {{c1::independent variable}} and has a {{c1::causal}} effect on the {{c1::dependent}} variable",
+                "A <b>confounding variable</b> is a variable that is correlated with the {{c1::independent variable}} and has a {{c1::causal}} effect on the {{c1::dependent}} variable",
                 "",
                 "",
                 "",
@@ -71176,7 +71176,7 @@
             "data": "",
             "fields": [
                 "-13930366337",
-                "The GLUT 2 transporter is:<div>Located in the {{c1::liver and pancreas}}</div><div>has a Km of {{c1::15mM}}, compared to normal glucose concentration of 5mM</div><div>Main function is to take {{c1::glucose from hepatic portal vein}} for {{c1::energy storage&nbsp;}}</div>",
+                "<b>The GLUT 2 transporter is:</b><div>* located in the {{c1::liver and pancreas}}</div><div>* has a \\(﻿K_{m}\\) of {{c1::\\(﻿15mM\\)}}, compared to normal glucose concentration of&nbsp;\\(﻿5mM\\)</div><div>* main function is to take {{c1::glucose from hepatic portal vein}} for {{c1::energy storage&nbsp;}}</div>",
                 "<img src=\"wpsi7igk.gif\" />",
                 "",
                 "",
@@ -71186,10 +71186,8 @@
             "guid": "ooW}5gliwg",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -77077,11 +77075,9 @@
             "guid": "F}<S]G_a3W",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "immunology",
-                "physiology"
+                "BIO::ImmuneSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -77617,9 +77613,9 @@
             "data": "",
             "fields": [
                 "-12802695033",
-                "Red blood cells produce 2,3-BPG from {{c1::1,3-BPG}} and this molecule {{c1::moves the Hb curve right}}",
-                "<img src=\"Oxyhaemoglobin_dissociation_curve.png\" />",
+                "Red blood cells produce <i>2,3-BPG</i> from {{c1::<i>1,3-BPG</i>}} and this molecule {{c1::moves the Hb curve right}}",
                 "",
+                "<img src=\"Oxyhaemoglobin_dissociation_curve.png\">",
                 "",
                 ""
             ],
@@ -77627,10 +77623,8 @@
             "guid": "x}ML(@nz~-",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "glycolysis"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -79650,8 +79644,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "conditioning",
-                "ps"
+                "PSY::Behavior"
             ]
         },
         {
@@ -80262,7 +80255,7 @@
             "data": "",
             "fields": [
                 "-11767667665",
-                "{{c1::Explicit memory}} is a type of long term memory that focuses on recalling previous experiences and information",
+                "{{c1::explicit memory}} is a type of long term memory that focuses on recalling previous experiences and information",
                 "",
                 "",
                 "",
@@ -80273,8 +80266,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "memory",
-                "ps"
+                "PSY::Memory"
             ]
         },
         {
@@ -81844,7 +81836,7 @@
             "data": "",
             "fields": [
                 "-11181029296",
-                "The residual volume of the lungs is the volume left after {{c1::interpleural pressure has reached its maximum}}",
+                "The <b>residual volume</b> of the lungs is the volume left after {{c1::interpleural pressure has reached its maximum}}",
                 "",
                 "",
                 "",
@@ -81854,11 +81846,9 @@
             "guid": "C`t8pKx=!j",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "respiratory"
+                "BIO::Physiology",
+                "BIO::RespiratorySystem",
+                "Ortho528"
             ]
         },
         {
@@ -82698,8 +82688,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "disorders",
-                "ps"
+                "PSY::Disorders"
             ]
         },
         {
@@ -105618,7 +105607,7 @@
             "fields": [
                 "56524011556",
                 "Schwann Cells",
-                "* located in the PNS<br>* can direct axonal regeneration&nbsp;<br>* provides myelin to only one axon segment of a single neuron<br><div><br></div><div><b>COPS</b></div>",
+                "* located in the PNS<br>* can direct axonal regeneration&nbsp;<br>* provides myelin to <u>only one</u> axon segment of a single neuron<br><div><br></div><div><b>COPS</b></div>",
                 "",
                 "explains why humans can recover from PNS nerve damage but CNS nerve damage typically results in paralysis",
                 "",
@@ -110603,7 +110592,7 @@
                 "58389004615",
                 "volume flow rate equations",
                 "",
-                "I=\\rho Q=\\rho A v<div>\\<span>\\</span></div><div><span>I=\\</span><span>text{mass flow rate}</span></div>",
+                "I=\\rho Q=\\rho A v<div>\\<span>\\</span></div><div><span>I=\\</span><span>text{mass flow rate}</span></div><div><span>\\\\</span></div><div><span>Q=\\</span><span>text{volume flow rate}</span></div>",
                 "",
                 "",
                 "",
