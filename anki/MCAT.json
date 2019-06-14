@@ -34,7 +34,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 500,
+                "perDay": 300,
                 "separate": true
             },
             "replayq": true,
@@ -113,12 +113,10 @@
         "0966c9fc8a36aec576c9d35909883133cb165a89_A 0.svg",
         "0966c9fc8a36aec576c9d35909883133cb165a89_A 1.svg",
         "0966c9fc8a36aec576c9d35909883133cb165a89_A 2.svg",
-        "0966c9fc8a36aec576c9d35909883133cb165a89_A 3.svg",
         "0966c9fc8a36aec576c9d35909883133cb165a89_A 4.svg",
         "0966c9fc8a36aec576c9d35909883133cb165a89_Q 0.svg",
         "0966c9fc8a36aec576c9d35909883133cb165a89_Q 1.svg",
         "0966c9fc8a36aec576c9d35909883133cb165a89_Q 2.svg",
-        "0966c9fc8a36aec576c9d35909883133cb165a89_Q 3.svg",
         "0966c9fc8a36aec576c9d35909883133cb165a89_Q 4.svg",
         "0966c9fc8a36aec576c9d35909883133cb165a89_source_svg.svg",
         "0966c9fc8a36aec576c9d35909883133cb165a89_tmpoaqsyl.png",
@@ -836,7 +834,6 @@
         "4e1316536251c5d6ef79316df5724890383afc28_source_svg.svg",
         "4e1316536251c5d6ef79316df5724890383afc28_tmpstejgz.png",
         "504rea.gif",
-        "512px-Haworth_projection_of_sucrose.svg.png",
         "51f0f4d40a8362f8d77d3c49562389073700d1cc_A 0.svg",
         "51f0f4d40a8362f8d77d3c49562389073700d1cc_A 1.svg",
         "51f0f4d40a8362f8d77d3c49562389073700d1cc_A 10.svg",
@@ -2772,8 +2769,6 @@
         "paste-6d48bfa3f4aee288fbb27e380ec1a0dc1d7d7b57.png",
         "paste-6dfab589d8696a2d6fcec2873c44f89aa6d89d64.png",
         "paste-70252780060673.jpg",
-        "paste-70304319668225.jpg",
-        "paste-70317204570113.jpg",
         "paste-70403103916033.jpg",
         "paste-7099580940289.jpg",
         "paste-71004399337473.jpg",
@@ -2827,6 +2822,7 @@
         "paste-9272834392065.jpg",
         "paste-9277129359361.jpg",
         "paste-92e885308b181001888db442fd1ab4e7ac8a7412.png",
+        "paste-93306da73cb410e5b9e364be329ad8a1639800a4.png",
         "paste-9375913607169.jpg",
         "paste-9384503541761.jpg",
         "paste-938a799394da062d214f9b15cbf495794f7329d3.png",
@@ -2849,20 +2845,24 @@
         "paste-aef80a2177de77442f4fcc5025c94c7b94630134 (2).png",
         "paste-af79fa68f97baaba9e773e423dd6e171e3680060.png",
         "paste-b356d9b910684827f5faa7cca662e45d6dfafe01.png",
+        "paste-b49edf31a5f4ab0b876a5d1b1356caa536c319a4.png",
         "paste-b92ccf8c43c189e7728f0bdba563a1e12039685b.png",
         "paste-c0d75a07918a05403178dc25ac35818590a35d1e.png",
         "paste-c19e514d97a7555447aa367916a0ee20a503b784.png",
         "paste-c21349efbf902985d0696dc809ce6fa53b8c54b9.png",
+        "paste-c26c2dd51e7b8f5af7d2a314906bf6fe8a832d07.png",
         "paste-c2dea23d38eca1693c55a6e8cd41329ef1d3b1a3.png",
         "paste-c4a49a13af73ac476dfe1133f796316aa717aa27.png",
         "paste-c5004906ea0f8446e547ec33e70591b639d66748.png",
         "paste-c840e1f269542c0a27c11963725efa1f1a6e404b.png",
         "paste-cab99a8f1221bda4d75743a319d14d6524876df6.png",
         "paste-cb61ad2f0821dc985e35ab5d1496b91200948fed.png",
+        "paste-cc4cf50e252b723eaace253962bba800c0c0d80a.png",
         "paste-d2ab4ba96b6624f0cf33df3a959d494b82341762.png",
         "paste-d3d7472e0f66b2fc690483de42f1fc7ee7684f44.png",
         "paste-d774b1793dc2a8f9559c3f932da182c54163aa3b.png",
         "paste-d852f738ff955c987f3495ac8c6c3717ed26f4b3.png",
+        "paste-d8c8a0cf2116a45a1d62ba9de6bb90211d2ac4de.png",
         "paste-d950000454c681bde72969e92bf9c7d994935a88.png",
         "paste-da5e5620273f53fbec865ea987c17dbaa2d844ed.png",
         "paste-daa377e15eaeb4d7b44e17d7f7cd181cc184ce14.png",
@@ -2915,12 +2915,11 @@
         "tmpw0xuznv9.png",
         "tmpx24difcp.png",
         "u14l5db7.gif",
-        "untitled211316472995722-300x243.png",
         "vispath.gif",
         "wpsi7igk.gif",
         "xawake-vs-rem-sleep-brain-activity.jpg.pagespeed.ic.edNjGZ8Jgb.jpg"
     ],
-    "mid": "1517281257743",
+    "mid": 1428963858757,
     "name": "MCAT",
     "note_models": [
         {
@@ -3024,8 +3023,9 @@
             ],
             "sortf": 1,
             "tags": [
-                "GC::LabTechniques",
-                "UWORLD"
+                "GC::Equations",
+                "GC::Fluids",
+                "GC::General"
             ],
             "tmpls": [
                 {
@@ -3114,18 +3114,18 @@
             "name": "Clozine",
             "sortf": 1,
             "tags": [
-                "GC::LabTechniques",
+                "BIO::ImmuneSystem",
                 "UWORLD"
             ],
             "tmpls": [
                 {
-                    "afmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_cloze.css\">\n\n<!--HTML-->\n\n<!--tags-->\n<div class=\"tags\">{{Deck}} {{Tags}} {{Type}}</div> \n\n<!--- body --->\n<div class=\"text\" id=\"text\">\n{{cloze:Text}} \n</div>\n\n<!--extra-->\n{{#Extra}}\n<div class=\"extra\"> \n<hr class=\"dark\">\n{{Extra}}\n</div>\n{{/Extra}}\n\n<!--mermaid graphs-->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"mermaid\"> \n   {{text:mermaid}}\n</div>\n{{/mermaid}}\n\n<!--image-->\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">\n{{image}}\n</div>\n{{/image}}\n\n{{#webpage}}\n<div class=\"footer\">\n    <a href=\"{{text:webpage}}\"><button class=\"btn default\">webpage</button></a>\n</div>\n{{/webpage}}\n\n<!--JS-->\n\n<script type=\"text/javascript\" src=\"_cloze.js\"></script>\n<script type=\"text/javascript\" src=\"https://unpkg.com/mermaid@8.0.0/dist/mermaid.js\"></script>\n<script>\n$(document).ready(function() {\n    $(\".tags\").html(function(index, currentHtml) {\n   return currentHtml.replace(/ /gi, \" | \");\n    });\n});\n</script>\n<script type=\"text/javascript\">\n$(document).ready(function() {\n    $(\".text\").html(function(index, currentHtml) {\n   return currentHtml.replace(/\\* /g, \"‣ \");\n    });\n});\n    </script>\n<script type=\"text/javascript\">\n$(document).ready(function() {\n    $(\".extra\").html(function(index, currentHtml) {\n   return currentHtml.replace(/\\* /g, \"‣ \");\n    });\n});\n    </script>",
+                    "afmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_cloze.css\">\n\n<!--HTML-->\n\n<!--tags-->\n<div class=\"tags\">{{Deck}} {{Tags}} {{Type}}</div> \n\n<!-- body -->\n<div class=\"text\" id=\"text\">\n{{cloze:Text}} \n</div>\n\n<!--extra-->\n{{#Extra}}\n<div class=\"extra\"> \n<hr class=\"dark\">\n{{Extra}}\n</div>\n{{/Extra}}\n\n<!--mermaid graphs-->\n{{#mermaid}}\n<hr class=\"dark\">\n<div class=\"mermaid\"> \n   {{text:mermaid}}\n</div>\n{{/mermaid}}\n\n<!--image-->\n{{#image}}\n<hr class=\"dark\">\n<div class=\"zoom\">\n{{image}}\n</div>\n{{/image}}\n\n{{#webpage}}\n<div class=\"footer\">\n    <a href=\"{{text:webpage}}\"><button class=\"btn default\">webpage</button></a>\n</div>\n{{/webpage}}\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"_cloze.js\"></script>\n",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_cloze.css\">\n\n<!--HTML-->\n<div class=\"tags\">{{Deck}} {{Tags}} {{Type}}</div>\n\n<div class=\"text\" id=\"text\">\n    {{cloze:Text}}\n</div>\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"_cloze.js\"></script>\n\n<script type=\"text/javascript\">\n$(document).ready(function() {\n    $(\".text\").html(function(index, currentHtml) {\n   return currentHtml.replace(/\\* /g, \"‣ \");\n    });\n});\n    </script>\n<script>\n$(document).ready(function() {\n    $(\".tags\").html(function(index, currentHtml) {\n   return currentHtml.replace(/ /gi, \" | \");\n    });\n});\n</script>",
+                    "qfmt": "<!--CSS-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_cloze.css\">\n\n<!--HTML-->\n<div class=\"tags\">{{Deck}} {{Tags}} {{Type}}</div>\n\n<div class=\"text\">\n    {{cloze:Text}}\n</div>\n\n<!--JS-->\n<script type=\"text/javascript\" src=\"_mermaid.js\"></script>\n<script type=\"text/javascript\" src=\"_cloze.js\"></script>\n",
                     "scratchPad": false
                 }
             ],
@@ -4622,9 +4622,8 @@
             "guid": "xGG3HIm%rP",
             "note_model_uuid": "77d0b526-6c93-11e9-8b9f-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "molecules"
+                "GC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -7794,10 +7793,8 @@
             "guid": "rc9b;1gQ@0",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "virus"
+                "BIO::Viruses",
+                "Ortho528"
             ]
         },
         {
@@ -9389,7 +9386,7 @@
             "data": "",
             "fields": [
                 "-37161616716",
-                "Mixed inhibitors that favor the enzyme before the substrate have bound {{c1::increase}} Km",
+                "Mixed inhibitors that favor the enzyme before the substrate has bound {{c1::increase}} \\(﻿K_{m}\\)",
                 "",
                 "",
                 "",
@@ -9399,9 +9396,8 @@
             "guid": "yoQg=_)eZq",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "enzymes"
+                "BC::Enzymes::Inhibitors",
+                "Ortho528"
             ]
         },
         {
@@ -9802,10 +9798,8 @@
             "guid": "c>em/F:b`4",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cells"
+                "BIO::Cell",
+                "Ortho528"
             ]
         },
         {
@@ -10276,10 +10270,8 @@
             "guid": "q{e&NV[f2X",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cells"
+                "BIO::Cell",
+                "Ortho528"
             ]
         },
         {
@@ -10563,8 +10555,8 @@
             "fields": [
                 "-35255656410",
                 "Formula for peak height of a projectile",
-                "v = sqrt( 2gh )",
                 "",
+                "v=\\sqrt{2gh}",
                 "",
                 "",
                 "",
@@ -10646,8 +10638,8 @@
             "fields": [
                 "-35255412121",
                 "Force applied against deforming force",
-                "F = -k delta x",
                 "",
+                "F=-k\\Delta x",
                 "",
                 "",
                 "",
@@ -10657,7 +10649,8 @@
             "guid": "H(UYF`<<zc",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PHY::Forces"
             ]
         },
         {
@@ -11424,6 +11417,7 @@
             "guid": "xC8+X5xq:j",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "OC::MolecularStructure",
                 "Ortho528"
             ]
         },
@@ -11611,6 +11605,7 @@
             "guid": "jHJ|dLW$(g",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -11738,6 +11733,7 @@
             "guid": "ynD=n63fKp",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -11802,7 +11798,7 @@
             "data": "",
             "fields": [
                 "-31120479266",
-                "Homologous chromosomes are pairs tha code for the same {{c1::traits}} but can contain different {{c1::alleles}}",
+                "<b>Homologous chromosomes</b> are pairs that code for the same {{c1::traits}} but can contain different {{c1::alleles}}",
                 "",
                 "",
                 "",
@@ -11812,6 +11808,7 @@
             "guid": "Cc7}72C38|",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -12360,6 +12357,7 @@
             "guid": "HN3xQfVTFx",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -12490,6 +12488,7 @@
             "guid": "wcfBG26Sge",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -12830,6 +12829,7 @@
             "guid": "yYBbIQ_WDa",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BC::Genetics",
                 "Ortho528"
             ]
         },
@@ -16651,7 +16651,9 @@
             "guid": "b:ZB>$9{i&",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "BIO::NervousSystem",
+                "Ortho528",
+                "PSY::Cognition::Hearing"
             ]
         },
         {
@@ -17414,7 +17416,7 @@
             "data": "",
             "fields": [
                 "-28703820112",
-                "The total work done by a <b>conservative force</b> like Hooke's law or gravitation is {{c1::zero}}",
+                "The <u>total work</u> done by a <b>conservative force</b> like Hooke's law or gravitation is {{c1::zero}}",
                 "",
                 "",
                 "",
@@ -17434,8 +17436,8 @@
             "fields": [
                 "-28703649929",
                 "Equation for force required to push something up a ramp",
-                "F = mg h/d",
                 "",
+                "F=\\frac{mgh}{d}",
                 "",
                 "",
                 "",
@@ -17445,7 +17447,8 @@
             "guid": "i2[,<sIKrH",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PHY::Motion&Force"
             ]
         },
         {
@@ -17688,7 +17691,8 @@
             "guid": "Qc,+(ufuvO",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Behavior"
             ]
         },
         {
@@ -18340,7 +18344,9 @@
             "guid": "QI4Iq#(f|c",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Learning",
+                "PSY::Social"
             ]
         },
         {
@@ -18470,7 +18476,8 @@
             "guid": "cznf/:^X:M",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528"
+                "Ortho528",
+                "PSY::Behavior"
             ]
         },
         {
@@ -20336,7 +20343,7 @@
             "data": "",
             "fields": [
                 "-27420959711",
-                "The rate limiting step of glycolysis turns {{c1::F6P}} into {{c1::F1,6BP}} with the enzyme {{c1::phosphofructokinase-1}} with cosubstrate {{c1::ATP -&gt; ADP}}",
+                "The rate limiting step of glycolysis turns {{c1::F6P}} into {{c1::F1,6BP}} with the enzyme {{c1::phosphofructokinase-1}} with cosubstrate {{c1::ATP&nbsp;→ ADP}}",
                 "",
                 "",
                 "",
@@ -20346,10 +20353,8 @@
             "guid": "<@ELrLFqc",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -20399,7 +20404,7 @@
             "data": "",
             "fields": [
                 "-27419228750",
-                "Starting at isocitrate -&gt; alpha-ketoglutarate step, how are NADH/FADH2/ATP produced in krebs cycle?",
+                "Starting at isocitrate&nbsp;→ \\(﻿\\alpha\\)-ketoglutarate step, how are NADH/FADH2/ATP produced in krebs cycle?",
                 "NADH, NADH, GTP (ATP equiv.), FADH, water, NADH<div><br /></div><div><img src=\"1335px-Citric_acid_cycle_with_aconitate_2.svg.png\" /></div>",
                 "",
                 "",
@@ -23666,8 +23671,8 @@
             "data": "",
             "fields": [
                 "-25259683794",
-                "Why are there two hormones that control GH release and what are they?&nbsp;",
-                "- There are two because it allows more precise control of GH levels.<div>- They are somatostatin, which inhibits its release, and GHRH, which stimulates its release</div>",
+                "why is their two hormones that control GH release and which are they?&nbsp;",
+                "* allows <u>more precise control</u> of GH levels<div>* <i>somatostatin</i>&nbsp;which inhibits its release</div><div>* <i>GHRH</i> which stimulates its release</div>",
                 "",
                 "",
                 "",
@@ -23678,10 +23683,9 @@
             "guid": "d+N||MEjAK",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
+                "BIO::EndocrineSystem",
+                "BIO::Physiology",
+                "Ortho528"
             ]
         },
         {
@@ -27746,7 +27750,7 @@
             "data": "",
             "fields": [
                 "-25168329294",
-                "Sensitivity of Beta-2 to NE or Epi",
+                "sensitivity of&nbsp;\\(﻿\\beta_{2}\\) to NE or Epi",
                 "Epi &gt;&gt; NE",
                 "",
                 "",
@@ -29649,32 +29653,6 @@
             ],
             "flags": 0,
             "guid": "y>hG3W*c1i",
-            "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-24827851464",
-                "Muscle fiber",
-                "<img src=\"0966c9fc8a36aec576c9d35909883133cb165a89_tmpoaqsyl.png\" />",
-                "<img src=\"0966c9fc8a36aec576c9d35909883133cb165a89_Q 3.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"0966c9fc8a36aec576c9d35909883133cb165a89_A 3.svg\" />",
-                "<img src=\"0966c9fc8a36aec576c9d35909883133cb165a89_source_svg.svg\" />"
-            ],
-            "flags": 0,
-            "guid": "tD2MP?iY5O",
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "BIO",
@@ -35575,9 +35553,9 @@
             "data": "",
             "fields": [
                 "-23619697772",
-                "Sucrose only exists as a {{c1::disaccahride}} because {{c2::it has full acetal on both sugars so it cannot be elongated}}",
-                "<img src=\"512px-Haworth_projection_of_sucrose.svg.png\" />",
+                "<b>sucrose</b> only exists as a {{c1::disaccahride}} because {{c2::it has full acetal on both sugars so it cannot be elongated}}",
                 "",
+                "<img src=\"paste-c26c2dd51e7b8f5af7d2a314906bf6fe8a832d07.png\">",
                 "",
                 ""
             ],
@@ -35585,10 +35563,8 @@
             "guid": "q,q6B+L|iY",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "biochem",
-                "cp"
+                "BC::Carbohydrates::Structures",
+                "Ortho528"
             ]
         },
         {
@@ -35845,8 +35821,8 @@
             "fields": [
                 "-23445930472",
                 "To revert any imine reaction, add an excess of {{c1::water}} to {{c1::hydrolyze}} the imine",
-                "<img src=\"2-imines.png\" />",
                 "",
+                "<img src=\"2-imines.png\">",
                 "",
                 ""
             ],
@@ -42427,26 +42403,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "-20668557008",
-                "Under constant pressure, change in enthalpy = {{c1::change in internal energy + pressure * change in volume}}",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "G>CBy~a^,H",
-            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
-            "tags": [
-                "Ortho528",
-                "cp",
-                "thermodynamics"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "-20668494695",
                 "The zeroth law of thermodynamics states that {{c1::two systems in thermal equilibrium with a third system are in thermal equilibrium with each other}}",
                 "",
@@ -47238,11 +47194,9 @@
             "guid": "QIY-p+s+tX",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -48418,11 +48372,9 @@
             "guid": "QP}QT(i7F{",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "physiology",
-                "renal"
+                "BIO::Physiology",
+                "BIO::Renal",
+                "Ortho528"
             ]
         },
         {
@@ -49241,26 +49193,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "-18847145142",
-                "The molality of a solution is the {{c1::moles of solute / kg of solvent}}",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "eeZ`;{$O}q",
-            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
-            "tags": [
-                "Ortho528",
-                "cp",
-                "solutions"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "-18847125475",
                 "The heat of solution is the sum of the enthalpies of {{c1::breaking solute-solute bonds, breaking solvent-solvent bonds, and forming solute-solvent bonds}}",
                 "",
@@ -49643,9 +49575,8 @@
             "guid": "Q;#:WKAxV&",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "cp",
-                "electrochem"
+                "OC::Reactions::Redox",
+                "Ortho528"
             ]
         },
         {
@@ -49865,7 +49796,7 @@
             "data": "",
             "fields": [
                 "-18846088915",
-                "An electrolytic cell flips the {{c1::anode and cathode charge}} compared to a galvanic cell",
+                "An <b>electrolytic cell</b> flips the {{c1::anode and cathode charge}} compared to a galvanic cell",
                 "",
                 "",
                 "",
@@ -49876,8 +49807,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "electrochem"
+                "PHY::Electricity"
             ]
         },
         {
@@ -52748,7 +52678,7 @@
             "data": "",
             "fields": [
                 "-18507507227",
-                "Secretin inhibits {{c1::acid secretion}} and {{c1::gastric motility}} as well as stimulating the pancrease to secrete {{c1::bicarb}} to {{c1::neutralize the acid}}",
+                "<i>secretin</i> inhibits {{c1::acid secretion}} and {{c1::gastric motility}} as well as stimulating the pancreas to secrete {{c1::bicarb}} to {{c1::neutralize the acid}}",
                 "",
                 "",
                 "",
@@ -53885,11 +53815,8 @@
             "guid": "exhSD$*+Y>",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "digestion",
-                "physiology"
+                "BIO::EndocrineSystem",
+                "aOrtho528"
             ]
         },
         {
@@ -55597,7 +55524,7 @@
             "data": "",
             "fields": [
                 "-18252160831",
-                "{{c1::Vagal}} innervation of the Beta cells promotes insulin secretion",
+                "{{c1::vagal::not PSNS}} innervation of the \\(﻿\\beta\\)-cells <u>promotes</u> insulin secretion",
                 "",
                 "",
                 "",
@@ -56124,7 +56051,7 @@
             "data": "",
             "fields": [
                 "-17486435549",
-                "Flow rate (Q) = {{c1::Area * velocity}} and it {{c1::remains constant}}",
+                "Flow rate (Q) = {{c1::Area*velocity}} and it {{c1::remains constant}}",
                 "",
                 "",
                 "",
@@ -56135,8 +56062,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "fluids"
+                "PHY::Fluids"
             ]
         },
         {
@@ -58113,8 +58039,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "identity",
-                "ps"
+                "PSY::Identity"
             ]
         },
         {
@@ -58422,7 +58347,7 @@
             "data": "",
             "fields": [
                 "-16525014998",
-                "The {{c1::postconventional}} level of moral reasoning advances beyond personal and interpersonal considerations, rising to the level of universal princeiples and fully-developed ideas about right and wrong",
+                "The {{c1::postconventional}} level of moral reasoning advances beyond personal and interpersonal considerations, rising to the level of universal principles and fully-developed ideas about right and wrong",
                 "",
                 "",
                 "",
@@ -58433,8 +58358,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "development",
-                "ps"
+                "PSY::Development",
+                "PSY::Theories"
             ]
         },
         {
@@ -58712,8 +58637,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "psych_disorders"
+                "PSY::Disorders"
             ]
         },
         {
@@ -60137,10 +60061,9 @@
             "guid": "Ck#EMI2hA^",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "nucleics"
+                "BC::Genetics",
+                "OC::MolecularStructure",
+                "Ortho528"
             ]
         },
         {
@@ -63610,8 +63533,8 @@
             "fields": [
                 "-15405997472",
                 "Equation for potential energy stored in a capacitor:",
-                "<img src=\"paste-70304319668225.jpg\" /><img src=\"paste-70317204570113.jpg\" />",
                 "",
+                "U=\\frac{1}{2}QV<div>\\\\</div><div>U=\\frac{1}{2}CV^{2}</div><div>\\\\</div><div>U=\\frac{1}{2}\\frac{Q^{2}}{C}</div>",
                 "",
                 "",
                 "",
@@ -63622,8 +63545,7 @@
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "electricity"
+                "PHY::Electricity"
             ]
         },
         {
@@ -64232,9 +64154,9 @@
             "guid": "vN|OM>%^|K",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "BIO::NervousSystem",
                 "Ortho528",
-                "cognition",
-                "ps"
+                "PSY::Cognition"
             ]
         },
         {
@@ -66163,8 +66085,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "ps",
-                "stress"
+                "PSY::Stress"
             ]
         },
         {
@@ -67142,8 +67063,7 @@
             "note_model_uuid": "e564961e-6f72-11e9-8235-acde48001122",
             "tags": [
                 "Math",
-                "Ortho528",
-                "cp"
+                "Ortho528"
             ]
         },
         {
@@ -69103,9 +69023,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "eye",
-                "optics"
+                "PHY::Lenses",
+                "PSY::Cognition::Sight"
             ]
         },
         {
@@ -69255,7 +69174,7 @@
             "data": "",
             "fields": [
                 "-14455640719",
-                "{{c1::Positron emission}} is a type of {{c1::beta decay}} where a {{c2::positron}} is emitted when a {{c2::proton becomes a neutron}}",
+                "{{c1::<i>positron emission</i>}} is a type of {{c1::<u>beta decay</u>}} where a {{c2::positron}} is emitted when a {{c2::<b>proton</b> <b>becomes a neutron</b>}}",
                 "",
                 "",
                 "",
@@ -69266,8 +69185,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "nuclear"
+                "PHY::RADecay"
             ]
         },
         {
@@ -69660,8 +69578,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "experimental_design",
-                "ps"
+                "PSY::Research"
             ]
         },
         {
@@ -69719,8 +69636,8 @@
             "guid": "mc)fD)xXrX",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "Ortho528",
-                "ps"
+                "BIO::General",
+                "Ortho528"
             ]
         },
         {
@@ -69987,13 +69904,14 @@
                 "The {{c2::Schachter-Singer}} theory states that emotion processing has three distinct steps: {{c1::physiological arousal, cognitive interpretation of the situation, and the experience of the emotion}}, in that order.",
                 "",
                 "",
-                "<svg id=\"mermaid-1554257984999\" style=\"max-width: 779.3125px;\" viewBox=\"0 0 779.3125 55\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><style>#mermaid-1554257984999 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1554257984999 .node circle,#mermaid-1554257984999 .node ellipse,#mermaid-1554257984999 .node polygon,#mermaid-1554257984999 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1554257984999 .node.clickable{cursor:pointer}#mermaid-1554257984999 .arrowheadPath{fill:#333}#mermaid-1554257984999 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1554257984999 .edgeLabel{background-color:#e8e8e8}#mermaid-1554257984999 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1554257984999 .cluster text{fill:#333}#mermaid-1554257984999 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1554257984999 .actor{stroke:#ccf;fill:#ececff}#mermaid-1554257984999 text.actor{fill:#000;stroke:none}#mermaid-1554257984999 .actor-line{stroke:grey}#mermaid-1554257984999 .messageLine0{marker-end:\"url(#arrowhead)\"}#mermaid-1554257984999 .messageLine0,#mermaid-1554257984999 .messageLine1{stroke-width:1.5;stroke-dasharray:\"2 2\";stroke:#333}#mermaid-1554257984999 #arrowhead{fill:#333}#mermaid-1554257984999 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1554257984999 .messageText{fill:#333;stroke:none}#mermaid-1554257984999 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1554257984999 .labelText,#mermaid-1554257984999 .loopText{fill:#000;stroke:none}#mermaid-1554257984999 .loopLine{stroke-width:2;stroke-dasharray:\"2 2\";marker-end:\"url(#arrowhead)\";stroke:#ccf}#mermaid-1554257984999 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1554257984999 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1554257984999 .section{stroke:none;opacity:.2}#mermaid-1554257984999 .section0{fill:rgba(102,102,255,.49)}#mermaid-1554257984999 .section2{fill:#fff400}#mermaid-1554257984999 .section1,#mermaid-1554257984999 .section3{fill:#fff;opacity:.2}#mermaid-1554257984999 .sectionTitle0,#mermaid-1554257984999 .sectionTitle1,#mermaid-1554257984999 .sectionTitle2,#mermaid-1554257984999 .sectionTitle3{fill:#333}#mermaid-1554257984999 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1554257984999 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1554257984999 .grid path{stroke-width:0}#mermaid-1554257984999 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1554257984999 .task{stroke-width:2}#mermaid-1554257984999 .taskText{text-anchor:middle;font-size:11px}#mermaid-1554257984999 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1554257984999 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1554257984999 .taskText0,#mermaid-1554257984999 .taskText1,#mermaid-1554257984999 .taskText2,#mermaid-1554257984999 .taskText3{fill:#fff}#mermaid-1554257984999 .task0,#mermaid-1554257984999 .task1,#mermaid-1554257984999 .task2,#mermaid-1554257984999 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1554257984999 .taskTextOutside0,#mermaid-1554257984999 .taskTextOutside1,#mermaid-1554257984999 .taskTextOutside2,#mermaid-1554257984999 .taskTextOutside3{fill:#000}#mermaid-1554257984999 .active0,#mermaid-1554257984999 .active1,#mermaid-1554257984999 .active2,#mermaid-1554257984999 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1554257984999 .activeText0,#mermaid-1554257984999 .activeText1,#mermaid-1554257984999 .activeText2,#mermaid-1554257984999 .activeText3{fill:#000!important}#mermaid-1554257984999 .done0,#mermaid-1554257984999 .done1,#mermaid-1554257984999 .done2,#mermaid-1554257984999 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1554257984999 .doneText0,#mermaid-1554257984999 .doneText1,#mermaid-1554257984999 .doneText2,#mermaid-1554257984999 .doneText3{fill:#000!important}#mermaid-1554257984999 .crit0,#mermaid-1554257984999 .crit1,#mermaid-1554257984999 .crit2,#mermaid-1554257984999 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1554257984999 .activeCrit0,#mermaid-1554257984999 .activeCrit1,#mermaid-1554257984999 .activeCrit2,#mermaid-1554257984999 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1554257984999 .doneCrit0,#mermaid-1554257984999 .doneCrit1,#mermaid-1554257984999 .doneCrit2,#mermaid-1554257984999 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1554257984999 .activeCritText0,#mermaid-1554257984999 .activeCritText1,#mermaid-1554257984999 .activeCritText2,#mermaid-1554257984999 .activeCritText3,#mermaid-1554257984999 .doneCritText0,#mermaid-1554257984999 .doneCritText1,#mermaid-1554257984999 .doneCritText2,#mermaid-1554257984999 .doneCritText3{fill:#000!important}#mermaid-1554257984999 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1554257984999 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1554257984999 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1554257984999 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1554257984999 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1554257984999 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1554257984999 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1554257984999 #compositionEnd,#mermaid-1554257984999 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1554257984999 #aggregationEnd,#mermaid-1554257984999 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1554257984999 #dependencyEnd,#mermaid-1554257984999 #dependencyStart,#mermaid-1554257984999 #extensionEnd,#mermaid-1554257984999 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1554257984999 .branch-label,#mermaid-1554257984999 .commit-id,#mermaid-1554257984999 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1554257984999 {\n    color: rgb(0, 0, 0);\n    font: normal normal 400 normal 16px / normal \"Times New Roman\";\n  }</style><g transform=\"translate(-12, -12)\"><g class=\"output\"><g class=\"clusters\"></g><g class=\"edgePaths\"><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M188.5,39.5L213.5,39.5L238.5,39.5\" marker-end=\"url(#arrowhead12)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead12\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g><g class=\"edgePath\" style=\"opacity: 1;\"><path class=\"path\" d=\"M545.609375,39.5L570.609375,39.5L595.609375,39.5\" marker-end=\"url(#arrowhead13)\" style=\"fill:none\"></path><defs><marker id=\"arrowhead13\" markerHeight=\"6\" markerUnits=\"strokeWidth\" markerWidth=\"8\" orient=\"auto\" refX=\"9\" refY=\"5\" viewBox=\"0 0 10 10\"><path class=\"arrowheadPath\" d=\"M 0 0 L 10 5 L 0 10 z\" style=\"stroke-width: 1; stroke-dasharray: 1, 0;\"></path></marker></defs></g></g><g class=\"edgeLabels\"><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g><g class=\"edgeLabel\" style=\"opacity: 1;\" transform=\"\"><g class=\"label\" transform=\"translate(0,0)\"><foreignObject height=\"0\" width=\"0\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\"><span class=\"edgeLabel\"></span></div></foreignObject></g></g></g><g class=\"nodes\"><g class=\"node\" id=\"A\" style=\"opacity: 1;\" transform=\"translate(104.25,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"168.5\" x=\"-84.25\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-74.25,-9.5)\"><foreignObject height=\"19\" width=\"148.5\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">physiological arousal</div></foreignObject></g></g></g><g class=\"node\" id=\"B\" style=\"opacity: 1;\" transform=\"translate(392.0546875,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"307.109375\" x=\"-153.5546875\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-143.5546875,-9.5)\"><foreignObject height=\"19\" width=\"287.109375\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">cognitive interpretation of the situation</div></foreignObject></g></g></g><g class=\"node\" id=\"C\" style=\"opacity: 1;\" transform=\"translate(689.4609375,39.5)\"><rect height=\"39\" rx=\"0\" ry=\"0\" width=\"187.703125\" x=\"-93.8515625\" y=\"-19.5\"></rect><g class=\"label\" transform=\"translate(0,0)\"><g transform=\"translate(-83.8515625,-9.5)\"><foreignObject height=\"19\" width=\"167.703125\"><div style=\"display: inline-block; white-space: nowrap;\" xmlns=\"http://www.w3.org/1999/xhtml\">emotion is experienced</div></foreignObject></g></g></g></g></g></g></svg>",
+                "graph LR; A[physiological arousal]--&gt;B[cognitive interpretation of the situation]; B--&gt;C[emotion is experienced];",
                 ""
             ],
             "flags": 0,
             "guid": "rm%hWj,6NN",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
+                "PSY::Emotion",
                 "PSY::Theories"
             ]
         },
@@ -70033,8 +69951,8 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "phenomenon",
-                "ps"
+                "PSY::Phenomenon",
+                "PSY::Theories"
             ]
         },
         {
@@ -70525,8 +70443,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "perception",
-                "ps"
+                "PSY::Perception"
             ]
         },
         {
@@ -70849,8 +70766,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "conformity",
-                "ps"
+                "PSY::Behavior"
             ]
         },
         {
@@ -72335,28 +72251,6 @@
                 "Ortho528",
                 "bb",
                 "genetics"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "-13757624984",
-                "Astrocytes help support neurons and {{c1::maintain ion balance}}",
-                "<img src=\"untitled211316472995722-300x243.png\" />",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Gu;$w[0LH<",
-            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "nervous_system_organization",
-                "physiology"
             ]
         },
         {
@@ -74027,8 +73921,8 @@
             "fields": [
                 "-13594581880",
                 "Upon the formation of the gastrula, the first {{c1::cell movements}} occur, when cells enter the {{c1::primative streak}}",
-                "<img src=\"paste-132937827745793.jpg\" />",
                 "",
+                "<img src=\"paste-132937827745793.jpg\">",
                 "",
                 ""
             ],
@@ -77205,7 +77099,7 @@
             "data": "",
             "fields": [
                 "-12896967280",
-                "{{c2::<i>T-cytotoxic cells</i>}} recognize {{c1::MHC-1}} and {{c3::destroy the presenting cell}}<div><br></div><div>{{c2::<i>T-helper cells</i>}} recognize {{c1::MHC-2}} and release {{c3::cytokines}}</div>",
+                "{{c2::<i>T-cytotoxic cells</i>}} recognize {{c1::<u>MHC-1</u>}} and {{c3::destroy the presenting cell}}<div><br></div><div>{{c2::<i>T-helper cells</i>}} recognize {{c1::<u>MHC-2</u>}} and release {{c3::cytokines}}</div>",
                 "",
                 "",
                 "",
@@ -78052,8 +77946,8 @@
             "fields": [
                 "-12801190460",
                 "Acetyl-CoA from {{c1::beta oxidation}} builds up, signaling that the cell is energenically satisfied. This inhibits {{c1::pyruvate dehydrogenase}} and activates {{c1::pyruvate carboxylase}} to begin {{c1::gluconeogenesis}} to produce glucose for other cells",
-                "<img src=\"paste-59489592016897.jpg\" />",
                 "",
+                "<img src=\"paste-59489592016897.jpg\">",
                 "",
                 ""
             ],
@@ -78061,10 +77955,8 @@
             "guid": "v<S31zgC7H",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -79060,28 +78952,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "-12372102128",
-                "The efficiency of an enzyme is measured by {{c1::kcat / Km}}",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Kjk83;AT>c",
-            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
-            "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cp",
-                "enzymes"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "-12372051913",
                 "In cDNA cloning, DNA ligase is used to {{c1::join the desired gene with the plasmid DNA}}",
                 "<img src=\"imgf0004.png\" />",
@@ -79228,8 +79098,8 @@
             "fields": [
                 "-12304487891",
                 "The coding strand of DNA generates RNA with the {{c1::same sequence, with Uracil substituted}}",
-                "<img src=\"paste-17639430684673.jpg\" />",
                 "",
+                "<img src=\"paste-17639430684673.jpg\">",
                 "",
                 ""
             ],
@@ -79237,10 +79107,8 @@
             "guid": "rP#7[|d~]N",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "genetics"
+                "BC::Genetics",
+                "Ortho528"
             ]
         },
         {
@@ -81481,11 +81349,8 @@
             "guid": "H<T02W<LMO",
             "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cp",
-                "metabolism"
+                "BC::Metabolism",
+                "Ortho528"
             ]
         },
         {
@@ -81962,8 +81827,8 @@
             "fields": [
                 "-11172983063",
                 "In meiosis II, {{c1::sister chromatids}} are separated",
-                "<img src=\"paste-78941498900481.jpg\" />",
                 "",
+                "<img src=\"paste-78941498900481.jpg\">",
                 "",
                 ""
             ],
@@ -81971,10 +81836,8 @@
             "guid": "bLlFdDQW>U",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "genetics"
+                "BIO::Meiosis",
+                "Ortho528"
             ]
         },
         {
@@ -83074,8 +82937,8 @@
             "fields": [
                 "-10741400758",
                 "Ubiquitination targets a protein for {{c1::degredation by a proteasome}}",
-                "<img src=\"targeting-deubiquitination.jpg\" />",
                 "",
+                "<img src=\"targeting-deubiquitination.jpg\">",
                 "",
                 ""
             ],
@@ -83083,11 +82946,8 @@
             "guid": "hAghFDD1HP",
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
-                "BIO",
-                "Ortho528",
-                "bb",
-                "cells",
-                "proteins"
+                "BIO::Cell",
+                "Ortho528"
             ]
         },
         {
@@ -85258,7 +85118,7 @@
             "data": "",
             "fields": [
                 "-9200827401",
-                "Power at constant speed is {{c1::P = F * velocity}}",
+                "Power at constant speed is {{c1::\\(﻿P=F*v\\)}}",
                 "",
                 "",
                 "",
@@ -85269,8 +85129,7 @@
             "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
             "tags": [
                 "Ortho528",
-                "cp",
-                "mechanics"
+                "PHY::Mechanics"
             ]
         },
         {
@@ -105586,9 +105445,9 @@
             "fields": [
                 "56523979105",
                 "astrocytes",
-                "microglia that provide physical support/nutrient support to the interstitial space",
+                "microglia that provide physical support/nutrient support, maintain ion balance",
                 "",
-                "",
+                "nervous system support cell",
                 "",
                 "",
                 ""
@@ -108419,7 +108278,7 @@
                 "57784140486",
                 "Doppler Effect equations",
                 "",
-                "\\frac{\\Delta f}{f_{s}}=\\frac{v}{c}<div>\\\\<br><div>\\frac{\\Delta \\lambda}{\\lambda_{s}}=\\frac{v}{s}</div><div>\\\\</div><div>\\text{v = relative velocity between the source and observer}</div></div>",
+                "\\frac{\\Delta f}{f_{s}}=\\frac{v}{c}<div>\\\\<br><div>\\frac{\\Delta \\lambda}{\\lambda_{s}}=\\frac{v}{s}</div><div>\\\\</div><div>v = relative \\ velocity&nbsp;</div><div>\\\\</div><div><span>between \\ the \\ source \\ and \\ observer</span></div></div>",
                 "",
                 "",
                 "",
@@ -109027,7 +108886,7 @@
             "data": "",
             "fields": [
                 "58039425171",
-                "onsider a positively-charged particle that is experiencing a force due to an external electric field. Which forces are conserved for the particle?",
+                "consider a positively-charged particle that is experiencing a force due to an external electric field. Which forces are conserved for the particle?",
                 "total energy",
                 "\\text{total energy} = KE+PE",
                 "",
@@ -110089,7 +109948,7 @@
                 "58299749487",
                 "IR ranges for amide",
                 "",
-                "3300 cm^{-1} \\text{ for N&nbsp;<span>&nbsp;cm^{-1} \\text{ for N portion}</span><div>\\\\</div><div>1710 cm^{-1} \\text{ for carbonyl portion}<br></div><div>\\\\</div><div>2800-300 cm^{-1} \\text{ for CH portion}<br></div>",
+                "3300 cm^{-1}&nbsp; \\text{ for N portion}<div>\\\\</div><div>1710 cm^{-1} \\text{ for carbonyl portion}<br></div><div>\\\\</div><div>2800-3000 cm^{-1} \\text{ for CH portion}<br></div>",
                 "",
                 "",
                 "",
@@ -110278,7 +110137,7 @@
                 "",
                 "",
                 "",
-                "graph TD; A[light is shone through a sample cell (solvent + compound)]--&gt;B[light is shone through reference cell (solvent only)]; B--&gt;C[differences between the two is the UV spectrum of the compound];",
+                "graph TD; A[light is shone through a sample cell - solvent + compound]--&gt;B[light is shone through reference cell - solvent only]; B--&gt;C[differences between the two is the UV spectrum of the compound];",
                 "",
                 ""
             ],
@@ -110297,7 +110156,7 @@
                 "58376511948",
                 "absorbance =",
                 "molar absorptivity changes from substance to substance and is a&nbsp;measure of the probability of the electronic transition",
-                "A=\\epsilon c l<div>\\\\</div><div>c = \\text{concentration of solution}</div><div>\\\\</div><div>l = \\text{length of the tube}</div><div>\\\\</div><div><span>molar \\ absorptivity = constant</span></div>",
+                "A=\\epsilon c l<div>\\\\</div><div>c = \\text{concentration of solution}</div><div>\\\\</div><div>l = \\text{length of the tube}</div><div>\\\\</div><div><span>\\epsilon = molar \\ absorptivity = constant</span></div>",
                 "",
                 "",
                 "",
@@ -111505,8 +111364,8 @@
                 "58562866429",
                 "chi-square test",
                 "* can <b>only be use when all variables are categorical</b><div>* shows whether two distributions of categorical data are different from one another</div>",
-                "categorical variables are variables grouped based on a qualitative value",
                 "",
+                "categorical variables are variables grouped based on a qualitative value",
                 "",
                 "",
                 ""
@@ -111956,7 +111815,7 @@
                 "58824782901",
                 "Henderson-Hasselbach Equation",
                 "",
-                "pH=pK_{a}+log\\frac{[A^{-}}{[HA]}",
+                "pH=pK_{a}+log\\frac{[A]^{-}}{[HA]}",
                 "",
                 "",
                 "",
@@ -113397,7 +113256,7 @@
             "fields": [
                 "59602542236",
                 "controlateral control",
-                "each hemisphere controls the controlateral area of the body in regards to touch and movement",
+                "each hemisphere controls the opposite area of the body in regards to touch and movement",
                 "",
                 "",
                 "",
@@ -114601,6 +114460,1559 @@
             "tags": [
                 "GC::LabTechniques",
                 "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60401770824",
+                "\\(﻿k_{cat}=\\)",
+                "",
+                "﻿k_{cat}=v_{max}*[E]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kBsHvvrA+z",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Enzymes",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60401885245",
+                "Gel electrophoresis&nbsp;separates molecules by",
+                "molecular weight",
+                "",
+                "larger molecules move move down slower than smaller molecules",
+                "",
+                "<img src=\"paste-cc4cf50e252b723eaace253962bba800c0c0d80a.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M<`1-8+r8&",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Enzymes",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60402272782",
+                "social network analysis",
+                "map connections between people to study the spread of disease",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GWEn6PUfO>",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Research",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60402596028",
+                "<i>prejudice</i>&nbsp;refers to&nbsp;",
+                "preconceived&nbsp;<strong>ideas</strong>&nbsp;and&nbsp;<strong>beliefs</strong>&nbsp;",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w|@lvM.1z`",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Behavior",
+                "PSY::Society",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60403061229",
+                "<i>discrimination</i>&nbsp;is the",
+                "<strong>unequal treatment</strong>&nbsp;of individuals or groups on the basis of <u>group membership</u>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sVn;,M9#!:",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Behavior",
+                "PSY::Society",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "&nbsp;60403126394",
+                "<i>stereotype boost/sterortype lift</i>",
+                "<em>positive</em>&nbsp;stereotypes about social groups <u>cause improved performance</u>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "@ZE_%mKes",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Behavior",
+                "PSY::Society",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60403183692",
+                "<strong>master status</strong>",
+                "&nbsp;is the status that&nbsp;<strong>dominates</strong>&nbsp;in social situations",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GB-(R?jJ_g",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Behavior",
+                "PSY::Society",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60403317517",
+                "<strong>labeling theory</strong>&nbsp;",
+                "&nbsp;when someone is labeled as&nbsp;<i>deviant</i>, the act of&nbsp;being labeled&nbsp;<u style=\"\">produces&nbsp;further deviance</u>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q`n}XW*d71",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Behavior",
+                "PSY::Theories",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60403493710",
+                "<strong>humanistic therapy (person-centered therapy)</strong><div>* what does it do?</div><div>* how is it done?</div>",
+                "* empower individual to move toward self-actualization<div>* unconditional positive regard &amp; empathy used to encourage full potential</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cDB$A^#}:a",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Therapy",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60403816700",
+                "<strong>psychoanalytic therapy (\"talk therapy\")</strong><br>* what does it do?<br>* how is it done?",
+                "* finds how <i>unconscious</i> conflicts in childhood shape behaviors<div>* various techniques (eg, free association, dream analysis) used to analyze unconscious</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rY]iuDPzN;",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Therapy",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60403883323",
+                "<strong>cognitive-behavioral therapy</strong><div>* what does it do?<br>* how is it done?<strong><br></strong></div>",
+                "* trys to change negative thoughts/beliefs (cognitions) &amp; maladaptive behaviors<div>* various techniques to replace destructive thoughts/behaviors with healthy ones</div>",
+                "",
+                "<b>techniques:</b> desensitization, self-talk",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i$^WQT|m9f",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Therapy",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60403946068",
+                "<strong>cognitive dissonance theory</strong>",
+                "* mental conflict&nbsp;and <i>state of discomfort&nbsp;</i>resulting from beliefs/attitudes/behaviors that are contradictory/incompatible<div>* results motivation to reduce the conflict by&nbsp;aligning thoughts&nbsp;and/or&nbsp;behaviors</div>",
+                "",
+                "woman who wants a baby but does not believe in medical intervention to → experiences cognitive dissonance if her doctor says she cant be without intervention → new information directly contradicts her belief → alter her attitudes, beliefs, or behaviors to reduce the resulting discomfort",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m?|++?Z}2t",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Behavior",
+                "PSY::Theories",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60404130587",
+                "Theory of Social Self was created by",
+                "George Herbert Mead",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JZ34OAoY.~",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Social",
+                "PSY::Theories",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60404161095",
+                "<b>George Herbert&nbsp;Mead</b>, is most associated with",
+                "sociological <i>theory of symbolic interactionism</i>, argued that&nbsp;<i>social</i>&nbsp;<i>factors&nbsp;</i>(rather than biological)&nbsp;<u>influence identity formation</u>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p/781Fi&.5",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Behavior",
+                "PSY::Theories",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60404247632",
+                "<b>preparatory</b> stage of&nbsp;\"I\" and&nbsp;\"me\"",
+                "*&nbsp;\"imitation stage\"<div>* babies/toddlers imitate others; use language and symbols without comprehension</div><div>* <i>no sense of self</i></div>",
+                "",
+                "",
+                "",
+                "<img src=\"paste-d8c8a0cf2116a45a1d62ba9de6bb90211d2ac4de.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xf5_4(Z4L_",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Behavior",
+                "PSY::Theories",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60405892017",
+                "<b>play</b> stage of \"I\" and \"me\"",
+                "preschool-age children begin&nbsp;<strong>role-taking</strong>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E0z((+li:R",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Development",
+                "PSY::Theories",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60406050195",
+                "<b>game</b> stage of \"I\" and \"me\"",
+                "* school-age children become aware of their position/role in relation to others<div>* see themselves in the perspective of the <i>generalized other</i></div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D,{lfkT,]o",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Development",
+                "PSY::Theories",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60406178526",
+                "<b>structural functionalism</b>",
+                "proposes that <u>social institutions work together</u> in the interest of <i>dynamic equilibrium</i>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L9Ypk0f|~g",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Society",
+                "PSY::Theories",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60406241493",
+                "<b>manifest functions </b>of social institutions",
+                "expected functions",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g,7(Y:vxNz",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Society",
+                "PSY::Theories",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60406304288",
+                "<b>latent</b> functions of social institutions",
+                "unintended functions",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BX`CF8+R0b",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Society",
+                "PSY::Theories",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60406320938",
+                "<strong>division of labor</strong>",
+                "refers to the&nbsp;<i>specialization</i>&nbsp;of tasks in society that are&nbsp;<u>interdependent</u>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m<R6~nHz<:",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Society",
+                "PSY::Theories",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60406488380",
+                "taboos",
+                "deviant behaviors considered&nbsp;morally reprehensible&nbsp;by society",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k|rMC.#,vU",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Society",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60406516565",
+                "&nbsp;committing a taboo often results in",
+                "a&nbsp;<u>formal sanction;</u>&nbsp;the application of an&nbsp;institutional response, ie: arrest/incarceration",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jrtf%MV~x3",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Society",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60406561997",
+                "folkways",
+                "<u>less formal</u> social norms that, when violated (eg, wearing clothes backward),&nbsp; result in informal sanctions (eg, raised eyebrows)",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ujudCpq9w@",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Society",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60444568420",
+                "<strong>increasing the surface area</strong>&nbsp;of a catalyst&nbsp;{{c1::increases the rate&nbsp;of the reaction}}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nl@?,*qu21",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "BC::Enzymes",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60444716825",
+                "electron geometry of&nbsp;\\(﻿sp\\) hybridization",
+                "linear",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hGypu!zZZ7",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60445898265",
+                "electron geometry of&nbsp;\\(﻿sp^{2}\\) hybridization",
+                "trigonal planal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nG912SB]@@",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60445921966",
+                "electron geometry of \\(﻿sp^{3}\\) hybridization",
+                "tetrahedral",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FC|y:*O8mv",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60445936162",
+                "electron geometry of \\(﻿dsp^{3}\\) hybridization",
+                "trigonal bipyramidal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LzkB$bH`D$",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60446332062",
+                "electron geometry of \\(﻿d^{2}sp^{3}\\) hybridization",
+                "octahedral",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L1[phTh1`r",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60446352644",
+                "molecular geometry of \\(﻿sp\\) hybridization with 0 lone pairs",
+                "linear",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i^Y.`nszN5",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60446427232",
+                "molecular geometry of \\(﻿sp^{2}\\) hybridization with 0 lone pairs",
+                "trigonal planar",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B2Nz;IID:m",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60446510546",
+                "molecular geometry of \\(﻿sp^{2}\\) hybridization with 1 lone pairs",
+                "bent",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qHdrL6~~7C",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60446565714",
+                "molecular geometry of \\(﻿sp^{3}\\) hybridization with 0 lone pairs",
+                "tetrahedral",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GghPo)0@gG",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60446581709",
+                "molecular geometry of \\(﻿sp^{3}\\) hybridization with 1 lone pairs",
+                "trigonal pyramidal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sWHQusVnRd",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60446604879",
+                "molecular geometry of \\(﻿sp^{3}\\) hybridization with 2 lone pairs",
+                "bent",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b&3ikaB{dR",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60446615033",
+                "molecular geometry of \\(﻿dsp^{3}\\) hybridization with 0 lone pairs",
+                "trigonal bipyramidal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EB1&{BB,O,",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60446633339",
+                "molecular geometry of \\(﻿dsp^{3}\\) hybridization with 1 lone pairs",
+                "see-saw",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u4|KG<7:x=",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60446703919",
+                "molecular geometry of \\(﻿dsp^{3}\\) hybridization with 2 lone pairs",
+                "T-shaped",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j.^`G5mxe@",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60446731209",
+                "molecular geometry of \\(﻿d^{2}sp^{3}\\) hybridization with 0 lone pairs",
+                "octahedral",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LiO:pX%$]h",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60446747059",
+                "molecular geometry of \\(﻿d^{2}sp^{3}\\) hybridization with 1 lone pairs",
+                "square pyramidal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J`rAcm#[x9",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60446757719",
+                "molecular geometry of \\(﻿d^{2}sp^{3}\\) hybridization with 2 lone pairs",
+                "square planar",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wp(<<r(#7&",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60447921011",
+                "catecholamines are a subgroup of",
+                "monoamines",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C$IR-:9Taz",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::NervousSystem",
+                "KhanAcademy::OrganSystems::NeuronalSynapses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60448282085",
+                "GABA is most commonly acting as an",
+                "<u>inhibitory</u> neurotransmitter in the <b>CNS</b> via <i>hyperpolarization</i>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ax}ItP5pF1",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::NervousSystem",
+                "KhanAcademy::OrganSystems::NeuronalSynapses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60448388363",
+                "glycine is most commonly acting as an",
+                "<u>inhibitory</u> neurotransmitter in the <b>PNS</b>&nbsp;via <i>hyperpolarization</i>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "epUvy[xvw)",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::NervousSystem",
+                "KhanAcademy::OrganSystems::NeuronalSynapses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60448417239",
+                "endorphins are classified as what kind of neurotransmitter?",
+                "peptide neurotransmitter",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ov(cdFjS00",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::NervousSystem",
+                "KhanAcademy::OrganSystems::NeuronalSynapses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60448520496",
+                "catecholamines include...",
+                "dopamine, epinephrine, norepinephrine",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xK#VE%)`&K",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::NervousSystem",
+                "KhanAcademy::OrganSystems::NeuronalSynapses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60448586455",
+                "<i>ionotropic</i> neurotransmitter receptor",
+                "ligand gated ion channels that excite the postganglionic neuron",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j#dwuFl7_I",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::NervousSystem",
+                "KhanAcademy::OrganSystems::NeuronalSynapses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60448802096",
+                "metabotropic neurotransmitter receptors",
+                "cause secondary messenger cells which results in large/widespead changes that are slow<div>* can either excite the cell or cause other permanent changes</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "VhRuwc]gN",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::NervousSystem",
+                "KhanAcademy::OrganSystems::NeuronalSynapses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60448893703",
+                "<i>muscarinic receptor antagonist </i>blocks what?",
+                "blocks acetylcholine receptors&nbsp;→ reduces PSNS effects",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d/_,ai,tEi",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::NervousSystem",
+                "KhanAcademy::OrganSystems::NeuronalSynapses"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60449473165",
+                "sick role theory",
+                "role, rights, obligations one takes when they're sick",
+                "",
+                "* exempt from normal social roles<div>* exempt from normal social roles<br></div><div>* sick person should try to get well<br></div><div>* sick person should seek technically competent help and cooperate with the medical professional<br></div>",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ghz[$v3O[l",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PSY::Society",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60450175770",
+                "internal validity",
+                "extent to which differences between control and intervention groups can be attributed to the independent variable and not an alternative explanation",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ip_U{Bjw8o",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "General::Research",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60455760488",
+                "bacteria vs archaea",
+                "everything is the same EXCEPT archaea DOESNT have a peptidoglycan cell wall",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o~h|=*$(Vr",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::Bacteria",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60455807690",
+                "cells that make up the {{c5::innate immune system}}<div>* {{c4::macrophages}}<div>* {{c3::dendritic cells}}</div><div>* {{c2::natural killer cells}}</div><div>* {{c1::basophils}}</div></div>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "be@QuBH*n`",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "BIO::ImmuneSystem",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60455931292",
+                "function of <i>macrophages</i>",
+                "degrade pathogens via <b>phagocytocis</b>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g_3dNt>]GX",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::ImmuneSystem",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60455997178",
+                "<strong>function/classification of basophils</strong>",
+                "* granulocyte<div>* release histamine resulting in&nbsp;→ vasodilation, permeability of vessels</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jd/G3V{ip9",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::ImmuneSystem",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60456094246",
+                "function of B cells",
+                "* identifying foreign pathogens<div>* antigen presenting</div><div>* producting antibodies</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D24qp5I+yC",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::ImmuneSystem",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60456220514",
+                "function of T cells",
+                "* mediating immune responses against viruses, bacteria, parasites",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AuvobwUK>w",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::ImmuneSystem",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60456251165",
+                "function of dendritic cells",
+                "* identify foreign pathogens<div>* antigen presenting</div><div>* activating other immune cells</div>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zo240PcJ%,",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::ImmuneSystem",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60456405639",
+                "<table class=\"table-default-style\" ng-click=\"showContextMenu( $event, constants.flashCardType.table )\"><tbody><tr><td colspan=\"2\"><p align=\"center\"><strong>Cells of the immune system</strong></p></td></tr><tr><td><p align=\"center\"><strong>Cell type</strong></p></td><td><p align=\"center\"><strong>Primary function</strong></p></td></tr><tr><td><p align=\"center\">{{c3::B cells}}<br></p></td><td><p>{{c15::Identifying foreign pathogens, antigen presenting &amp; producing antibodies}}</p></td></tr><tr><td><p align=\"center\">{{c4::T cells}}<br></p></td><td><p>{{c14::Mediating a number of immune responses, including those against viruses, bacteria &amp; parasites}}</p></td></tr><tr><td><p align=\"center\">{{c5::Dendritic cells}}<br></p></td><td><p>{{c13::Identifying foreign pathogens, antigen presenting &amp; activating other immune cells}}</p></td></tr><tr><td><p align=\"center\">{{c6::Macrophages}}<br></p></td><td><p>{{c12::Degrading pathogens &amp; dead body cells via phagocytosis}}</p></td></tr><tr><td><p align=\"center\">{{c7::Basophils}}<br></p></td><td><p>{{c11::Releasing chemical mediators, such as histamine, that enhance an immune response}}</p></td></tr><tr><td><p align=\"center\">{{c8::Mast cells}}<br></p></td><td><p>{{c10::Releasing chemical mediators, such as histamine, that modulate allergic reactions}}</p></td></tr><tr><td><p align=\"center\">{{c1::Neutrophils}}<br></p></td><td><p>{{c9::Killing &amp; phagocytosing bacterial cells}}</p></td></tr><tr><td><p align=\"center\">{{c2::<b>Eosinophils</b>}}<br></p></td><td><p>Defending against parasitic infections &amp; modulating immune responses during allergic reactions</p></td></tr><tr><td><p align=\"center\"><strong>NK cells</strong></p></td><td><p>Releasing toxins to destroy virus-infected body cells</p></td></tr></tbody></table>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B+_-AgeT`O",
+            "note_model_uuid": "77ab707a-6c93-11e9-b84b-bc6a2f5667ec",
+            "tags": [
+                "BIO::ImmuneSystem",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60456501668",
+                "how do desmomes function",
+                "anchor cytoskeletons of two cells together",
+                "",
+                "specifically, they anchor intermediate filaments together",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u(<^4})R[6",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BIO::ImmuneSystem",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60465366278",
+                "\\(﻿\\beta^{-}\\)-decay results in what occuring?",
+                "* neutron&nbsp;→ proton<div>* atomic number increases by 1, mass number stays the same</div>",
+                "",
+                "",
+                "",
+                "<img src=\"paste-b49edf31a5f4ab0b876a5d1b1356caa536c319a4.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t@1L)N)m,.",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PHY::RADecay",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><span>60465426357</span><br></div>",
+                "\\(﻿\\beta^{+}\\)-decay results in what occuring?",
+                "* proton&nbsp;→ neutron<div>* atomic number decreases by 1, mass number stays the same</div>",
+                "",
+                "",
+                "",
+                "<img src=\"paste-b49edf31a5f4ab0b876a5d1b1356caa536c319a4.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ndRKjU9C!v",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PHY::RADecay",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60465515314",
+                "electron cature results in what occuring?",
+                "* proton&nbsp;→ neutron<div>* additional electron is captured</div><div>* atomic number decreases by 1, mass number stays the same</div>",
+                "",
+                "",
+                "",
+                "<img src=\"paste-b49edf31a5f4ab0b876a5d1b1356caa536c319a4.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k#hwtrb7`7",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PHY::RADecay",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60465566585",
+                "fraction&nbsp;of&nbsp;radioactive&nbsp;substance&nbsp;remaining =",
+                "",
+                "\\text{fraction of radioactive substance remaining}=\\frac{1}{2^{n}}<br>",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t{!xramYML",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PHY::RADecay",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60465869773",
+                "compare the properties between <i>isotopes</i> of the same element:",
+                "* <b>same</b> <u>chemical</u> properties<div>* <b>different</b> <u>physical</u> properties</div>",
+                "",
+                "",
+                "",
+                "<img src=\"paste-93306da73cb410e5b9e364be329ad8a1639800a4.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gD[8;T+ZxL",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::MolecularStructure",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60520013686",
+                "\\(﻿enzyme \\ efficiency = \\)",
+                "",
+                "\\frac{k_{cat}}{K_{m}}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dW*NmBky%1",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "BC::Enzymes::Kinetics",
+                "Ortho528"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60528509104",
+                "<b>x-ray diffraction</b> allows for the determination of...",
+                "3D molecular structure",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HOcTADejOP",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PHY::General",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60528601230",
+                "relationship between heat (Q), molar heat capacity (C)",
+                "",
+                "Q=nC \\Delta T",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kbCB:=y><d",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Calorimetry",
+                "GC::Equations",
+                "PHY::Calorimetry",
+                "PHY::Equations",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60529109418",
+                "At&nbsp;<strong>constant volume (<em>V</em>)</strong>, the change in internal energy (Δ<em>U</em>) of the gas is equal to the heat energy:",
+                "",
+                "\\Dela U_{v}=Q=nC_{v} Delta T",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M0D()bp#lc",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Calorimetry",
+                "GC::Equations",
+                "PHY::Calorimetry",
+                "PHY::Equations",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60529155098",
+                "&nbsp;at&nbsp;<strong>constant pressure (<em>P</em>)</strong>, Δ<em>U</em>&nbsp;depends on both heat and work (<em>W</em>) =",
+                "",
+                "\\Delta U_{P}=nC_{P} \\Delta T-P \\Delta V",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p4rmm/5<0Y",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Calorimetry",
+                "GC::Equations",
+                "PHY::Calorimetry",
+                "PHY::Equations",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60529779642",
+                "area of a cylinder =",
+                "",
+                "A=\\pi r^{2}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CypR)GcNZJ",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "PHY::Equations",
+                "PHY::General",
+                "UWORLD"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60544125332",
+                "molality =",
+                "",
+                "\\frac{moles of solute}{kg of solvent}",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MbW^o_[`wE",
+            "note_model_uuid": "77ab6690-6c93-11e9-b2c1-bc6a2f5667ec",
+            "tags": [
+                "GC::Equations",
+                "GC::Fluids",
+                "GC::General"
             ]
         }
     ]

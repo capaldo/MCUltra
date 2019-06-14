@@ -17,9 +17,15 @@ changeText = function(text, newText){
 };
 window.setTimeout(function(){changeText('Clozine', '<div class="symbols">&#xf576;</div>')}, 0)
 
+$(document).ready(function() {
+    $(".tags").html(function(index, currentHtml) {
+   return currentHtml.replace(/ /gi, " | ");
+    });
+});
+
 var config = {
     startOnLoad:true,
-    theme: 'dark',
+    theme: 'neutral',
     flowchart:{
             useMaxWidth:false,
             htmlLabels:true
